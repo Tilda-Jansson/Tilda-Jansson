@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Erin Hannon</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
