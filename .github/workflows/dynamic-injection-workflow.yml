@@ -35,11 +35,3 @@ jobs:
 
   update-readme-with-blog:
     needs: get-office-quotes
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          # Replace this URL with your rss feed URL/s
-          feed_list: "https://braydoncoyer.dev/rss/feed.xml"
