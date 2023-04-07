@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Tilda, a computer engineering student, creative coder, skilled in programming languages like Python, Java, SQL, and C/C++. I'm passionate about using technology to help people, and I'm excited to work with you to develop efficient solutions.
+I'm Tilda, a computer engineering student and creative coder proficient in languages like Python, Java, SQL, and C/C++. As a problem-solver and eager learner, I'm committed to creating efficient solutions and constantly expanding my skills.
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
