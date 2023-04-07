@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Tilda, a computer engineering student, creative coder, skilled in programming languages like Python, Java, SQL, and C/C++. I'm passionate about using technology to help people, and I'm excited to work with you to develop efficient solutions.
+I'm Tilda, a computer engineering student and creative coder proficient in languages like Python, Java, SQL, and C/C++. As a problem-solver and eager learner, I'm committed to creating efficient solutions and constantly expanding my skills.
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
