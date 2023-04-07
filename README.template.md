@@ -30,6 +30,6 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 >
 > <p>{office_character}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)
+Quote requested from [The Office API](https://www.officeapi.dev/)
 
 <br>

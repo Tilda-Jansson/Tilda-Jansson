@@ -26,10 +26,10 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> Bears, Beets, Battlestar Galactica.
+> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)
+Quote requested from [The Office API](https://www.officeapi.dev/)
 
 <br>
