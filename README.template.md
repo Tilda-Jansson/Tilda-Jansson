@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> {office_quote}
 >
-> <p>- Michael Scott</p>
+> <p>{office_character}</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
