@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> Did I stutter?
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
