@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Andy Bernard</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
