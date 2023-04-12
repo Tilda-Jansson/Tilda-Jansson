@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> Dwight, you ignorant slut!
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
