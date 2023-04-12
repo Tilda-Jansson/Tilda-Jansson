@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 Office quote
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
