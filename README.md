@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://tildajansson.com/)
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tilda-jansson/)
 
@@ -6,7 +6,7 @@ Hey there 👋
 
 I'm Tilda, a computer engineering student and creative coder proficient in languages like Python, Java, SQL, and C/C++. As a problem-solver and eager learner, I'm committed to creating efficient solutions and constantly expanding my skills.
 
-Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
+Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
