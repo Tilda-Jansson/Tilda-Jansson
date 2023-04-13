@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
