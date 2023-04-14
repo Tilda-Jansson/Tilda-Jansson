@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Did I stutter?
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
