@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm Tilda, a computer engineering student and creative coder proficient in languages like Python, Java, SQL, and C/C++. As a problem-solver and eager learner, I'm committed to creating efficient solutions and constantly expanding my skills.
+I'm Tilda, a computer engineering student and creative coder proficient in languages like Python, Java, SQL, and C/C++.
 
 Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
@@ -25,6 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 <br>
 
 ## 📣 Office quote
+# Updates every hour
 
 > {office_quote}
 >
