@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> No. I think they were stolen. I think they were stolen and they’re gone forever. So… oh, that was the last good item. So, good job, everybody.
+> All right, I am connecting and … you are not there. Did you install it right? How about this:  Go to applications–
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
