@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Do some… do some work. [whispering to Holly] People expect a lot from these meetings.  Laughter, sudden twists.  Surprise endings.  You need to be Robin Williams and M. Night Shyamalan.  You need to be Robin Shyamalan.
+> No, of course not.  But now I want everybody. Jim!  Jim?  Buddy, Hey!  Buddy, Jimbo?  Did you have time to think about my offer?
 >
 > <p>- Michael</p>
 
