@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I don’t know I think we’ve done absolutely everything you can do to prepare for the day. I’ve updated our contacts, I have gotten quotes from suppliers. I have sent out an E-vite for our big grand opening pancake luncheon. Six yeses, one maybe, only eleven noes. Um, and 788 not yet replieds. But of that group, 782 have viewed it.
+> Are you calling me an idiot?
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
