@@ -14,11 +14,11 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 <br>
 
 <a href="https://github.com/Tilda-Jansson">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tilda-Jansson&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilda-Jansson&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Tilda-Jansson">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tilda-Jansson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tilda's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Tilda-Jansson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tilda's GitHub Stats" />
 </a>
 
 <br>
@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> How’s that gonna help you?
 >
-> <p>- Pam Beesly</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
