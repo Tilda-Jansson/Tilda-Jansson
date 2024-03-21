@@ -31,5 +31,6 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 > <p>{office_character}</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
+
 *Updates every hour*
 <br>
