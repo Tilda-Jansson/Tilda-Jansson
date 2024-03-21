@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> All right, I am connecting and … you are not there. Did you install it right? How about this:  Go to applications–
+> Do some… do some work. [whispering to Holly] People expect a lot from these meetings.  Laughter, sudden twists.  Surprise endings.  You need to be Robin Williams and M. Night Shyamalan.  You need to be Robin Shyamalan.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
