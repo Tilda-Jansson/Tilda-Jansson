@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> It’s not! It’s not offensive during a roast! Anything goes! I want you guys to really get crackin on this. I want you to take me down. Don’t hold back. I want you to really make fun of anything about me. It could be my race, could be the fact that I’m so fit, or I’m a womanizer… fair game. Whatever. I don’t want to write your stuff for you, but I just want it to be good.
+> I don’t know I think we’ve done absolutely everything you can do to prepare for the day. I’ve updated our contacts, I have gotten quotes from suppliers. I have sent out an E-vite for our big grand opening pancake luncheon. Six yeses, one maybe, only eleven noes. Um, and 788 not yet replieds. But of that group, 782 have viewed it.
 >
 > <p>- Michael</p>
 
