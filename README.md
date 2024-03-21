@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Stop it stop it! Bickering! Stop it!
+> It’s not! It’s not offensive during a roast! Anything goes! I want you guys to really get crackin on this. I want you to take me down. Don’t hold back. I want you to really make fun of anything about me. It could be my race, could be the fact that I’m so fit, or I’m a womanizer… fair game. Whatever. I don’t want to write your stuff for you, but I just want it to be good.
 >
 > <p>- Michael</p>
 
