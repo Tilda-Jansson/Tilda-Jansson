@@ -24,8 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 <br>
 <br>
 
-## 📣 Office quote
-# Updates every hour
+## 📣 Office quote ###(*Updates every hour*)
 
 > Uh, yes, I did.
 >
