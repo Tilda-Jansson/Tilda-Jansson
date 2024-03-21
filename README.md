@@ -30,6 +30,6 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 >
 > <p>- Pam Beesly</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+_Quote requested from [The Office API](https://the-office.fly.dev/)_
 
 <br>
