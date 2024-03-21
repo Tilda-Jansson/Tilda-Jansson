@@ -24,12 +24,12 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 <br>
 <br>
 
-## 📣 Office quote ###(*Updates every hour*)
+## 📣 Office quote
 
 > {office_quote}
 >
 > <p>{office_character}</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
-
+*Updates every hour*
 <br>
