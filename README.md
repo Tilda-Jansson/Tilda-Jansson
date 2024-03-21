@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Right.
+> Okay, look. David, this is why we have training.  We start with the dummy, and we learn from our mistakes. And now Dwight knows not to cut the face off of a real person.
 >
 > <p>- Michael</p>
 
