@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> No, of course not.  But now I want everybody. Jim!  Jim?  Buddy, Hey!  Buddy, Jimbo?  Did you have time to think about my offer?
+> I know, it’s…
 >
 > <p>- Michael</p>
 
