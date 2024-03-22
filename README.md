@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> It looks like we’re going to be here for awhile, so why don’t you make a little plate of hummus for everyone.  Little triangles of pita, toasted on both sides, fanned so you can easily can grab them.
+> Regional manager.
 >
-> <p>- Phyllis</p>
+> <p>- Isaac</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
