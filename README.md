@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Okay, look. David, this is why we have training.  We start with the dummy, and we learn from our mistakes. And now Dwight knows not to cut the face off of a real person.
+> I don’t play the politics game anymore, Jim. Can I tell you something? I played it full on in New York. I played it high stakes. For keeps. Made it to the top. But look what it cost. [takes sip of coffee] Can I tell you what else I learned?
 >
-> <p>- Michael</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
