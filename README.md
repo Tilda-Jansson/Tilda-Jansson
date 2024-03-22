@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> [to camera] What? I’m not in love with her.
+> I’m not frustrated. Even if I were in Scranton, Jim and I would have days like this. We’re just… a little out of sync.  You know, that’s all.  Oh, great.  I washed my lipstick.
 >
 > <p>- Pam</p>
 
