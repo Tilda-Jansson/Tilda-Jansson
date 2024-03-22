@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Charles is going to tell you.
+> This is so, so stupid. And, God… [looks at his watch] that’s my phone.
 >
 > <p>- Michael</p>
 
