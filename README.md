@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> OK, OK, so you gotta hear this.  So, Jan’s shower is going on right now, and she’s singing “Son of a Preacher Man” and everyone’s just staring at her.
+> Shut up!
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
