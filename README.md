@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> No, now listen. You can’t let what you see here, sully your image of them. They are good, decent cats. [all laugh] I gotta go. I’ll be back in an hour. Oh, stop that! Oh!
+> Yes, Michael. My husband impregnated me.
 >
-> <p>- Angela</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
