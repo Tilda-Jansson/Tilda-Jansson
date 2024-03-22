@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Golden Girls. That’s a golden ticket idea, right, I mean how great was that show? Golden Grahams. Another, is it — I don’t get this…
+> OK, OK, so you gotta hear this.  So, Jan’s shower is going on right now, and she’s singing “Son of a Preacher Man” and everyone’s just staring at her.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
