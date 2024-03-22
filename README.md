@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> [after accidentally seeing Michael and Holly kiss] No, I did not know that Michael was dating Holly.
+> Yo, Tommy Tuna, did you get your scores yet?
 >
-> <p>- David Wallace</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
