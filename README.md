@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I don’t play the politics game anymore, Jim. Can I tell you something? I played it full on in New York. I played it high stakes. For keeps. Made it to the top. But look what it cost. [takes sip of coffee] Can I tell you what else I learned?
+> Its simple, David would use that information to destroy them.
 >
-> <p>- Ryan</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
