@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> This is so, so stupid. And, God… [looks at his watch] that’s my phone.
+> Golden Girls. That’s a golden ticket idea, right, I mean how great was that show? Golden Grahams. Another, is it — I don’t get this…
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
