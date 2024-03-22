@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> [to Jim] Who’s there?
+> Charles is going to tell you.
 >
 > <p>- Michael</p>
 
