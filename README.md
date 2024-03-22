@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I’m not frustrated. Even if I were in Scranton, Jim and I would have days like this. We’re just… a little out of sync.  You know, that’s all.  Oh, great.  I washed my lipstick.
+> I need to talk to you in private.
 >
-> <p>- Pam</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
