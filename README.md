@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Oh, no. I just–
+> [listening in New York] I miss him.
 >
 > <p>- Pam</p>
 
