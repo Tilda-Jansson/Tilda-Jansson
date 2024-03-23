@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> 140.
+> Listen, why don't we just leave that position vacant? Truth be told, I think I thrive under a lack of accountability.
 >
-> <p>- Guy in audience</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
