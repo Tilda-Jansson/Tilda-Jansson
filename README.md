@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Yo, Tommy Tuna, did you get your scores yet?
+> That wasn’t us, right? I mean… you remembered to lock the doors?
 >
-> <p>- Andy</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
