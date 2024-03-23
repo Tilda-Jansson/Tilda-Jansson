@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I’m pretty fit.  But in the gay community, there’s a lot of pressure to be ripped.  I got straight abs.  I want gay abs.
+> [enters the office and walks to Angela] I need to talk to you.
 >
-> <p>- Oscar</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
