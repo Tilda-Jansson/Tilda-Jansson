@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> That’s all he wrote.
+> None of your business then. [Dwight and Andy high five] Good. So what weapon?
 >
-> <p>- Kelly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
