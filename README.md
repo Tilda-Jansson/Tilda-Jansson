@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Hi, I’m Kevin. And I’ll do your taxes.
+> That guy did a lot of things I’m not proud of.
 >
-> <p>- Kevin</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
