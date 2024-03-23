@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> None of your business then. [Dwight and Andy high five] Good. So what weapon?
+> I’m pretty fit.  But in the gay community, there’s a lot of pressure to be ripped.  I got straight abs.  I want gay abs.
 >
-> <p>- Dwight</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
