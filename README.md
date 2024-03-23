@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I am planning a bomb scare that should really get the blood pumping.
+> It’s very unusual for Michael not to show up to work. My guess? He’s either deeply depressed, or an icicle has snapped off his roof and impaled his brain. He has this terrible habit of standing directly underneath them and staring up at them. And I always say Michael, take two steps back, and stare at the icicle from the side. And he’s like no, I like the way they look from standing directly underneath them.
 >
 > <p>- Dwight</p>
 
