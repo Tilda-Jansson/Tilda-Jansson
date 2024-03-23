@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Ah, Ah, Ah, Ah…
+> You know what we should do? We should have a party and not invite them.
 >
 > <p>- Michael</p>
 
