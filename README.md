@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> That guy did a lot of things I’m not proud of.
+> I am planning a bomb scare that should really get the blood pumping.
 >
-> <p>- Ryan</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
