@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Well, if you guys insist on having your own private little love fest–
+> 100 dollars, great.
 >
 > <p>- Michael</p>
 
