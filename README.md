@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> 100 dollars, great.
+> 140.
 >
-> <p>- Michael</p>
+> <p>- Guy in audience</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
