@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> You know what we should do? We should have a party and not invite them.
+> Hi, I’m Kevin. And I’ll do your taxes.
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
