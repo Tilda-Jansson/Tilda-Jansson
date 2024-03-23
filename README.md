@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> It’s very unusual for Michael not to show up to work. My guess? He’s either deeply depressed, or an icicle has snapped off his roof and impaled his brain. He has this terrible habit of standing directly underneath them and staring up at them. And I always say Michael, take two steps back, and stare at the icicle from the side. And he’s like no, I like the way they look from standing directly underneath them.
+> What I don’t understand is… why the steak coupons?  I mean, if you were already getting the discounted paper?
 >
-> <p>- Dwight</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
