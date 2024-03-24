@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> That was good… It’s just, at the end you weren’t saying something that could also apply to the form.
+> May I have your attention please? Sign in, sign in on the sign in sheet, the clipboard. This meeting is mandatory, if you do not sign in your name will not be counted. Thank you.
 >
-> <p>- Oscar</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
