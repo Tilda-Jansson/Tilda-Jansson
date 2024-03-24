@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> [kisses his temple] Thank you.
+> That was good… It’s just, at the end you weren’t saying something that could also apply to the form.
 >
-> <p>- Holly</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
