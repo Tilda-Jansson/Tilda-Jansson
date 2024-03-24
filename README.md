@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> What I don’t understand is… why the steak coupons?  I mean, if you were already getting the discounted paper?
+> What?
 >
-> <p>- Holly</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
