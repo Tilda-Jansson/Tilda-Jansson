@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Have you collected the money from everyone?
+> Alright. First thing in the morning then.
 >
 > <p>- Dwight</p>
 
