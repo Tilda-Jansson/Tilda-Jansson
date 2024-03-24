@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Ah, still early.
+> Yes it is!
 >
 > <p>- Michael</p>
 
