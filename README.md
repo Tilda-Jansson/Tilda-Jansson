@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Really? ‘Cause I haven’t eaten anything since noon on Friday.
+> Yes, all right. Who else? [to Angela] Can I put you down for 10 pounds?
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
