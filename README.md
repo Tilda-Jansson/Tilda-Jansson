@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Oh no, no, no. You don't have to do that. I've got this covered. This was just a meet-and-greet.
+> Hi. I need a rundown of your clients, can you get that to me.
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
