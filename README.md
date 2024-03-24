@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> What?
+> Oh no, no, no. You don't have to do that. I've got this covered. This was just a meet-and-greet.
 >
 > <p>- Michael</p>
 
