@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> [visibly shocked] What? Why?
+> Uh, what the hell is happening?
 >
 > <p>- Michael</p>
 
