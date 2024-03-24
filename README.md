@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> May I have your attention please? Sign in, sign in on the sign in sheet, the clipboard. This meeting is mandatory, if you do not sign in your name will not be counted. Thank you.
+> Ah, still early.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
