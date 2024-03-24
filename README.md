@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Take heed of.
+> Oh, it’s on uh Linden Ave?  By the quarry?
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
