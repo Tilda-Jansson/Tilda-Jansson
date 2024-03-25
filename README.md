@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Those are real cops, real guns.  I wonder what’s going on. [follows them]
+> All right! Cool!
 >
 > <p>- Michael</p>
 
