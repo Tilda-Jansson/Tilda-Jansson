@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Want some pie?
+> I can already feel people’s stress starting to melt. I think they’re very excited about paying their respects this way. I have got to make sure that YouTube comes down to tape this.
 >
 > <p>- Michael</p>
 
