@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I can already feel people’s stress starting to melt. I think they’re very excited about paying their respects this way. I have got to make sure that YouTube comes down to tape this.
+> So, what do you say we get started?
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
