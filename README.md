@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> All right! Cool!
+> Oh, uh, Pam? Hey everyone, lunch is on me today.
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
