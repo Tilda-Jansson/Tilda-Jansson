@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive [Andy joins in] Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive.
+> Well, I’m not done yet.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
