@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I’m sorry, I thought today at the baby shower would be a good time for the two of you to meet.
+> Want some pie?
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
