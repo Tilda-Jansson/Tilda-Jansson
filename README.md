@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> No.  It’s even– it’s even better than the one I wanted.
+> Those are real cops, real guns.  I wonder what’s going on. [follows them]
 >
-> <p>- Toby</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
