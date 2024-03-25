@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> I want you to know.  Kelly, look at me!   I want you to know that you are beautiful.  You are truly, truly beautiful.  Give me a hug.  [Michael hugs Kelly, his head in her chest] Mmmmmm.
+> Four Splenda. Are you crazy?
 >
-> <p>- Michael</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
