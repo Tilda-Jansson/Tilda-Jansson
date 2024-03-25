@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> [sighs]…okay.
+> I want you to know.  Kelly, look at me!   I want you to know that you are beautiful.  You are truly, truly beautiful.  Give me a hug.  [Michael hugs Kelly, his head in her chest] Mmmmmm.
 >
 > <p>- Michael</p>
 
