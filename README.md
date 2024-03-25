@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> What have you been doing?
+> Because the thing you’re saying I’m good at, is pushing a big green button a bunch of times.
 >
-> <p>- Oscar</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
