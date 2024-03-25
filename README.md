@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Wait a second. [removes condom from wallet, throws it to Jim] I don’t want you to end up with a surprise pregnancy like me.
+> The rest stop where that soda exploded on me.  Exit 17, I think.  1 o’clock.
 >
-> <p>- Michael</p>
+> <p>- JIM9334</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
