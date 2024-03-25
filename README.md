@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> The rest stop where that soda exploded on me.  Exit 17, I think.  1 o’clock.
+> I’m sorry, I thought today at the baby shower would be a good time for the two of you to meet.
 >
-> <p>- JIM9334</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
