@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> That’s the original.
+> Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive [Andy joins in] Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
