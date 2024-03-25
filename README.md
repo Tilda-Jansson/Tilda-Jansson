@@ -26,9 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Ah! My hand!  That’s hot!
+> Wait a second. [removes condom from wallet, throws it to Jim] I don’t want you to end up with a surprise pregnancy like me.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
