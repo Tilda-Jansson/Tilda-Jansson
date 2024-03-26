@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Not one of them called to congratulate me on our engagement.
+> It’s Alex.
 >
 > <p>- Pam</p>
 
