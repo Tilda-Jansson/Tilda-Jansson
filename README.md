@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> “Applicant is wasting everyone’s time with stupid and inane accusations.”
+> Oh I already bought this…
 >
-> <p>- Andy</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
