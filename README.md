@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on Bluetooth] Ooh, cute shoes online.
+> You got a second?
 >
 > <p>- Pam</p>
 
