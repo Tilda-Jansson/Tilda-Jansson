@@ -1,12 +1,10 @@
-[![Tilda's GitHub Banner](./assets/GitHubHeader.png)](https://tildajansson.com/)
+![Tilda's GitHub Banner](./assets/GitHubHeader.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tilda-jansson/)
 
 Hey there 👋
 
 I'm Tilda, a computer engineering student and creative coder proficient in languages like Python, Java, SQL, and C/C++.
-
-Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 
 ## &#x1f4c8; GitHub Stats
