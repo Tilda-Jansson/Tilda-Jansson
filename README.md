@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, let’s go.
+> Michael, we are only allowed to talk about Meredith’s work performance. We can not ask her to stop drinking.
 >
-> <p>- Dwight</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
