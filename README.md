@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Does that make you feel better? Huh?
+> I will walk away.
 >
 > <p>- Charles</p>
 
