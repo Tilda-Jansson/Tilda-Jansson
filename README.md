@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> Oh I am. In my own words.
+> You know, I would love to put a pin in that.
 >
 > <p>- Dwight</p>
 
