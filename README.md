@@ -1,12 +1,10 @@
-[![Tilda's GitHub Banner](./assets/GitHubHeader.png)](https://tildajansson.com/)
+![Tilda's GitHub Banner](./assets/GitHubHeader.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tilda-jansson/)
 
 Hey there 👋
 
 I'm Tilda, a computer engineering student and creative coder proficient in languages like Python, Java, SQL, and C/C++.
-
-Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -26,9 +24,9 @@ Want to know more about me? [Check out my portfolio.](https://tildajansson.com/)
 
 ## 📣 Office quote
 
-> It was very nice meeting you, Charles Miner.
+> It’s not fair to you.  And it’s really not fair to me.
 >
-> <p>- Angela</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
