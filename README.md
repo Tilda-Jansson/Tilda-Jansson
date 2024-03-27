@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I’m sure they’re pretty much the same as the English instructions.
+> [sighs] Jim, this has to get out, so we can all deal with it.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
