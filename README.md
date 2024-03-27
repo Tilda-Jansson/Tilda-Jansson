@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What?
+> No, no. I have a fiance I very much like!
 >
 > <p>- Angela</p>
 
