@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We are getting there folks. Slow and steady. [David Wallace walks in] Well, well, have we been blessed today. Ladies and gentlemen, Mr. David Wallace! Whoo!
+> Yeah, when I get nervous I sort of clam up.
 >
-> <p>- Michael</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
