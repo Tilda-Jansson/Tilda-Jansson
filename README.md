@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Si senor.
+> Listen, dummy! It’s not that hard. All you have to do is take the numbers from the sales report and type them into a master spreadsheet. A G.D. monkey could do it. I do not understand why you can’t do it.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
