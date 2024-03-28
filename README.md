@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have a nice comforter and several cozy pillows. I usually read a chapter of a book, and it’s lights out by 8:30. That’s how I sleep at night!
+> [sighs] I’ll call you back. [goes to a filling cabinet takes out a file and looks around]
 >
-> <p>- Angela</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
