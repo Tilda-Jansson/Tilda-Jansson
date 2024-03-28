@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Cupcake. It's cupcakes and strippers all the way down.
+> I- I- believe you.
 >
-> <p>- Pam</p>
+> <p>- Blonde</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
