@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Maybe it’s because you spent the whole year flirting with the receptionist.
+> Cupcake. It's cupcakes and strippers all the way down.
 >
 > <p>- Pam</p>
 
