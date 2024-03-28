@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, it’s crazy.  But, I guess the thing is at some point, notes or no notes, someone’s gonna have to just get there and clean it up.
+> Shh shh shh… don’t look down, look straight up. Come on please!
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
