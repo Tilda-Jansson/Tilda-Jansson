@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am just saying that I don’t think that you understand what I am saying.
+> I have a nice comforter and several cozy pillows. I usually read a chapter of a book, and it’s lights out by 8:30. That’s how I sleep at night!
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
