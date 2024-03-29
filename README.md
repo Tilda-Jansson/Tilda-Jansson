@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We were tipped off about a possible narcotics situation.
+> The whole office feels darker, you know?  It’s just a sad dark day.
 >
-> <p>- Police Officer 1</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
