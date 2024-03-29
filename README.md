@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You look really pretty.
+> We were tipped off about a possible narcotics situation.
 >
-> <p>- Jim</p>
+> <p>- Police Officer 1</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
