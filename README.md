@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, so.  I get up to the building, I get to the revolving door… broken!  So I have to take the normal door.
+> Speak.
 >
 > <p>- Michael</p>
 
