@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I thought it was clear with you, Holly.  Your task was to get signatures from the employees showing that they completed the training.
+> Mose doesn’t know how to use a phone. So joke’s on you.
 >
-> <p>- Kendall</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
