@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey!  This is not half-way!  I did the math.  I had to drive way longer than you.  Montclair would have been closer, so you have to buy lunch.
+> The rest stop where that soda exploded on me.  Exit 17, I think.  1 o’clock.
 >
-> <p>- Pam</p>
+> <p>- JIM9334</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
