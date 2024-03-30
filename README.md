@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The rest stop where that soda exploded on me.  Exit 17, I think.  1 o’clock.
+> I mean I like all the crazy monsters and stuff.  You know, like klingons and wookies and all that but… [Dwight begins to turn around again, Jim holds up the watch] Sorry, was there something you wanted to add, Dwight?
 >
-> <p>- JIM9334</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
