@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam comes back from New York next week and everyone here has just been so excited for me. And involved. And intrusive. And weird.
+> [shivers] [meowing noises] Has this been on the entire time?
 >
-> <p>- Jim</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
