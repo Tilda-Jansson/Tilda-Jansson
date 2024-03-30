@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So basically, the greater volume you decide to buy in, the greater discount we can give you.
+> Look I just want you and I to hang out so, you know. Just, [They Hi-5 badly] Boom.
 >
 > <p>- Dwight</p>
 
