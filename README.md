@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [as Dwight tries to take paper out from under him] Hey, can you not?
+> I am simply punishing those parents that would wait till the last minute to get their child a gift.  And such a genetically improbable one.  Look at that.  How does that happen?  King has sex with a unicorn?  Man with a horn has sex with a royal horse?
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
