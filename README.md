@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, that’s sweet. Wish me luck.
+> That does sound cool.
 >
-> <p>- Holly</p>
+> <p>- Lynn</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
