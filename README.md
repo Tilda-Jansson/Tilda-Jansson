@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m serious. Um, I’m really glad I came.
+> That— I, um… cool.  Well maybe I’ll see you around.
 >
-> <p>- Pam</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
