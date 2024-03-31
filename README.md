@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Stop it, Mr. Ash! Bad cat! That is very bad! You stop it right now! I swear, he is fixed.
+> I don’t think that…
 >
 > <p>- Angela</p>
 
