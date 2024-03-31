@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Has to be done. We’ll press send together. [phone beeps]
+> [as Dwight tries to take paper out from under him] Hey, can you not?
 >
-> <p>- Ryan</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
