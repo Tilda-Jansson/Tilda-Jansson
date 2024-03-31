@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Twelve hundred dollars is what I spent on my whole bomb shelter.  For that kind of money, this stroller should be indestructible. [straps the watermelon into the stroller on the elevator]
+> Amen.  Just keep the ribs coming.
 >
-> <p>- Dwight</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
