@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oscar, enough with the girl talk please.
+> Really?
 >
 > <p>- Michael</p>
 
