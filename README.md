@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, I'm going to stay for the day.
+> Stop it, Mr. Ash! Bad cat! That is very bad! You stop it right now! I swear, he is fixed.
 >
-> <p>- Charles</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
