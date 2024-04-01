@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [yelling at Michael in Spanish]
+> Okay, look. David, this is why we have training.  We start with the dummy, and we learn from our mistakes. And now Dwight knows not to cut the face off of a real person.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
