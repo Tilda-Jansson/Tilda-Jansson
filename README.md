@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Guess what, everybody? Christmas has come early this year. Oscar, very smartly, has discovered an extra $4300 in the budget. Thank you, Oscar. And I have decided with that money I am going to buy a new, drum roll please… [imitates drum roll] Can anybody guess?
+> You’re back.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
