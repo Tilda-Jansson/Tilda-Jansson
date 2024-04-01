@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just faxing. My Dad. A rundown.
+> You realize you’re not actually talking to me, right?
 >
 > <p>- Jim</p>
 
