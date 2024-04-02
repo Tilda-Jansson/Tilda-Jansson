@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on phone] Damn it, Stephanie, put me through to him. Is that him in the background? David? David! David, pick up the phone!
+> Defending duo! He sets him up! [Jim moves the piece of trash with his hands] He sets him up. Yeah. Oh-ho!
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
