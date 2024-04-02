@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Defending duo! He sets him up! [Jim moves the piece of trash with his hands] He sets him up. Yeah. Oh-ho!
+> I say we have a parade.
 >
-> <p>- Charles</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
