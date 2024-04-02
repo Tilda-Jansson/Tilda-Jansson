@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s really good. [offers mimosa to Oscar]
+> Oh Okay, all right. That makes sense. How does your boyfriend, deal with your phenomenal success? Is he just, like, totally threatened by you, or?
 >
 > <p>- Andy</p>
 
