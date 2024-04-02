@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight! Are your legs broken?
+> West Virginia, Blue Ridge mountain, Shenandoah River [Andy vocalizes]
 >
-> <p>- Jim</p>
+> <p>- Dwight and Erin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
