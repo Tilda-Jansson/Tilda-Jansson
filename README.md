@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why do we have to pay money to get a gift for his ex-girlfriend’s unborn sperm bank baby?
+> I know, Kevin.
 >
-> <p>- Oscar</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
