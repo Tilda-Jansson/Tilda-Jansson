@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not my problem. [dials phone]
+> I can’t do this. I had a real job. I sat ten feet away from my fiance. I had health benefits. I was just feeling impulsive. I should have gotten a tiny tattoo on my ankle.
 >
-> <p>- Angela</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
