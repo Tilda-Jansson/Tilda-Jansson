@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whisper] Hey… guys, check it out.  My own personal DVD player and 20 movies.
+> I am offering you the opportunity of a lifetime, Oscar. To come work for me.
 >
 > <p>- Michael</p>
 
