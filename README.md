@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, so um, what’s his name? All the way in the back there.
+> [same time as Michael and Dwight] Guys, guys. OK, enough. Please, enough. What, is this true, Dwight? I mean, is this true?
 >
-> <p>- Darryl</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
