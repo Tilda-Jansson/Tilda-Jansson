@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [same time as Michael and Dwight] Guys, guys. OK, enough. Please, enough. What, is this true, Dwight? I mean, is this true?
+> [whisper] Hey… guys, check it out.  My own personal DVD player and 20 movies.
 >
-> <p>- David</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
