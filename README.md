@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t do this. I had a real job. I sat ten feet away from my fiance. I had health benefits. I was just feeling impulsive. I should have gotten a tiny tattoo on my ankle.
+> Yes, he bowled 5 frames with this pink sparkly thing until a little girl had to ask for her ball back.
 >
 > <p>- Pam</p>
 
