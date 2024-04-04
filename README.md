@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Idiot. Idiot! Idiot. Idiot.
+> [to Kevin] Why don’t you just go out on a date with her? Try to spark up an on going joke and then in a month or two, if it feels right, you’ll know.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
