@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello.  I’ve seen you guys around.  I’m Michael Scott, Dunder Mifflin.   How you doing?  [they stare at him] Uhghh, so I guess you know why I’m here?  I need to purchase something.
+> [emerging from the Men’s room] Empty.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
