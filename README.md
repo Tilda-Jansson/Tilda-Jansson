@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [driving truck] Hey, y’all are not gonna be playing these little private games all the way.
+> That’s offensive.
 >
-> <p>- Darryl</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
