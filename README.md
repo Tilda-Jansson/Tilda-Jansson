@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When they look back on this day in the history books all that will be remembered is that I had a good idea. And that’s what I am going to write down in my diary. That is what I want you to write down in yours.
+> No. [glances at it] Yes, I am sure, Jim. It —
 >
 > <p>- Michael</p>
 
