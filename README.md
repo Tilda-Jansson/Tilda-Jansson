@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They’re our largest client.
+> Ok, once in a while I’ll take a long lunch.
 >
 > <p>- Oscar</p>
 
