@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Phyllis, are you okay? Are, you okay?
+> I sure hope not.
 >
-> <p>- Charles</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
