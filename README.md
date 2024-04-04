@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [to Kevin] Why don’t you just go out on a date with her? Try to spark up an on going joke and then in a month or two, if it feels right, you’ll know.
+> Hello.  I’ve seen you guys around.  I’m Michael Scott, Dunder Mifflin.   How you doing?  [they stare at him] Uhghh, so I guess you know why I’m here?  I need to purchase something.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
