@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oscar, no. This is not the time for one of your principled stands.
+> Phyllis, are you okay? Are, you okay?
 >
-> <p>- Pam</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
