@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have to say, I think the problem with that whole thing…
+> No.
 >
-> <p>- Michael</p>
+> <p>- Police Officer 2</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
