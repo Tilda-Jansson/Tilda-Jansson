@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And then sleep in Saturday. That only leaves us less than 24 hours before you have to go back again.
+> Thank you.
 >
-> <p>- Holly</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
