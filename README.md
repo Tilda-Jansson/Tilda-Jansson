@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not Kevin’s child.  Can’t possibly be.  I mean, I don’t know what I would do.  Sue… icide?
+> No, no, no, NO, no!  You know what?  Fat people are not monsters!  Why don’t you guys have a little more sensitivity to the subject.  Bang!  Boom!  Case in point!  Look at the outside of this building.  It is ugly.  But you come inside… and it is beautiful.  Just like this unappealing fat suit.  Inside is a rather handsome, sexy, man.
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
