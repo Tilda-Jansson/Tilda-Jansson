@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh my God, oh my God, oh my God. [running out door]
+> And then sleep in Saturday. That only leaves us less than 24 hours before you have to go back again.
 >
-> <p>- Dwight and Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
