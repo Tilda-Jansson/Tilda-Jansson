@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on phone] This is Kevin. Please hold and I will transfer you. [Phyllis’s phone rings]
+> Whew, it’s better for me just to be quiet, yeah.
 >
-> <p>- Kevin</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
