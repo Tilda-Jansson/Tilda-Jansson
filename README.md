@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here we go, fourth time’s a charm. “Life’s like a road where you just… one day here, and the next day back…Sometimes you deal with it, today you don’t, sometimes you do, what you want… there’s a world out there…. [Holly sobs] Hey. Are you crying?
+> Hm. I’m looking forward to getting to know you better, Vikram.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
