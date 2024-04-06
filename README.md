@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You should come into town this weekend man. Yeah, we’ll hang out Scranton style.
+> Maybe. Barbara Keebis. She invests in local businesses. And I am putting together a little presentation for her.
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
