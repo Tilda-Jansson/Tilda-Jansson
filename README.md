@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [stops kissing Kelly] I can’t do this.
+> Kelly.
 >
 > <p>- Ryan</p>
 
