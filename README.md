@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Want some pie?
+> Can I hold her?
 >
 > <p>- Michael</p>
 
