@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Of course. Yeah.
+> Michael, I feel like I was a little harsh yesterday. [murmurs of agreement]
 >
-> <p>- Holly</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
