@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh no! The new boss does not find Jim adorable! Ohhhh! [smiles]
+> You could be hot too if you made any effort. At all.
 >
-> <p>- Dwight</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
