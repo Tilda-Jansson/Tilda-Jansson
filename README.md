@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Correct. And I was wondering if I could get you to do some of the field work that would normally go to the supervisor [Michael makes exaggerated oh-my-gosh face at camera]. There is an area from Carbondale to Marshbrook, where we have never done any business.
+> You’re always safe with me. I’m a very good screamer. And one day, we’re going to move to Disney’s Celebration Village in Florida and leave all of this behind.
 >
-> <p>- David</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
