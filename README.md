@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not here.
+> I normally don’t enjoy making people laugh. [grin]
 >
 > <p>- Angela</p>
 
