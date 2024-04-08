@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Where will you be staying while you’re in Scranton?
+> [moves his bobblehead from one side of his nameplate to the other and clears his throat to get Angela’s attention]
 >
-> <p>- Kelly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
