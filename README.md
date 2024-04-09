@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [groaning] Oh my God.
+> [both making make out lips at each other] Excuse me sir, I took the bus here and was wondering if I could catch a ride home with you in your car.
 >
-> <p>- Everyone</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
