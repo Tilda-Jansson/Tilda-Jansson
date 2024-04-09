@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [shakes head] No more.
+> [groaning] Oh my God.
 >
-> <p>- Holly</p>
+> <p>- Everyone</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
