@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No do it, do it.  I dare you.
+> Oh yeah!
 >
 > <p>- Michael</p>
 
