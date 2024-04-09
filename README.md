@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what the only thing I want for Christmas? I want Meredith to get better.  That’s my only wish.  But you know what?  My wishes never come true, so I’m not going to wish that on her. I– a watch would be nice.
+> [Kelly faints] Oh!
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
