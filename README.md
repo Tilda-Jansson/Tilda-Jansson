@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The rest stop where that soda exploded on me.  Exit 17, I think.  1 o’clock.
+> You know this can’t go on.
 >
-> <p>- JIM9334</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
