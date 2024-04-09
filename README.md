@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [both making make out lips at each other] Excuse me sir, I took the bus here and was wondering if I could catch a ride home with you in your car.
+> You are the master.
 >
 > <p>- Dwight</p>
 
