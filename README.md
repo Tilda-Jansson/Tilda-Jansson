@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Um, we all chipped in and got you this stroller.
+> Oh. Oh my God. I’m so embarrassed. You weren’t supposed to see this. This is like my secret obsession.
 >
-> <p>- Angela</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
