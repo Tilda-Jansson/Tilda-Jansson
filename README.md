@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Lynn, I’m just gonna say to you everything that I am thinking.
+> Oh, this is just something I’m taking a break with.
 >
-> <p>- Kevin</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
