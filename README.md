@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nope. His name is Michael. [Michael makes the da dum ksch on the drumset again]
+> Listen. Listen listen listen listen listen listen. I need someone to make a copy of this. Because I don’t make copies, I’m the boss. Got it? I make originals.
 >
-> <p>- Darryl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
