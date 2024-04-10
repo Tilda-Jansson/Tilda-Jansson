@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is disgusting, what is it this, instant?
+> So he doesn’t share it with his daughter but he shares it with his daughter’s fiance?
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
