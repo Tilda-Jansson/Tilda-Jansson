@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Um Phyllis, who’s that?
+> Okay, okay. What kind of car games did you play in the ‘hood?
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
