@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So he doesn’t share it with his daughter but he shares it with his daughter’s fiance?
+> Can’t you see I’m urinating?
 >
-> <p>- Pam</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
