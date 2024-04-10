@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [eating the watermelon] It is going to be the happiest day of my life. [Dwight gets dressed behind Michael and zips his fly]
+> I have no idea.
 >
 > <p>- Michael</p>
 
