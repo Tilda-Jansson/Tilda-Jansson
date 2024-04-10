@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, okay. What kind of car games did you play in the ‘hood?
+> What?
 >
 > <p>- Michael</p>
 
