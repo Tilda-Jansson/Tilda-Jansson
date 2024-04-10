@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on phone] Michael Scott calling for David. Well, just tell him to call me ASAP as possible. Thanks.
+> [sigh of relief] Well, sorry I’m late. [clears throat, coughs, pulls hairball out of her mouth]
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
