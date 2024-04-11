@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right there.
+> And you ask them for money, they’re gonna give you nine dollars. ‘Cause that’s what they think it costs to run the stand. So what you want to do is spend that dollar on something now, so that your parents think it costs ten dollars to run the lemonade stand.
 >
 > <p>- Oscar</p>
 
