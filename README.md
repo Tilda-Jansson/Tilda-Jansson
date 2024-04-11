@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you, Michael.
+> Can I help you?
 >
-> <p>- Kevin</p>
+> <p>- Rehab Nurse</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
