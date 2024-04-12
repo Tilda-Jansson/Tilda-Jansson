@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey there. So uh, how do you think we’re gonna do against Penn this year? Nathan Ford’s arm looks pretty strong.
+> Because, um, cause I’ll never wonder ever again. If I did something wrong and… Now I have closure. She’s happy and, I don’t know, it feels good.
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
