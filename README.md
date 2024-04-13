@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> An intervention.  It’s sort of hard to describe, but really its– it’s a coming together… it’s a surprise party for people who are– who have addictions.  And you get in their face and you scream at them and you make them feel really badly about themselves.  And then they stop.
+> Wha – that’s, I hate her.  Wha – God!  Why would you even ask me to – I, I mean, not that it matters, ’cause I don’t, but wha – OK, all right, fine.
 >
 > <p>- Michael</p>
 
