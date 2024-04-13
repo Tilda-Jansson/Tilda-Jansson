@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Stanley, didn’t she say a bunch of racist stuff to you?
+> Dwight. [to Kelly] I was informed by these gentlemen that the reports that you filed may not entirely be accurate.
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
