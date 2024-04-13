@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sighs]
+> An intervention.  It’s sort of hard to describe, but really its– it’s a coming together… it’s a surprise party for people who are– who have addictions.  And you get in their face and you scream at them and you make them feel really badly about themselves.  And then they stop.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
