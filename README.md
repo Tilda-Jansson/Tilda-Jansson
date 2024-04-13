@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I was there. That dude is not engaged. I’m not a big believer in therapy, but I’ll go into my own pocket to cover his co-pay.
+> We’ll do it quickly.
 >
-> <p>- Darryl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
