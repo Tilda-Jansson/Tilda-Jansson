@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wha – that’s, I hate her.  Wha – God!  Why would you even ask me to – I, I mean, not that it matters, ’cause I don’t, but wha – OK, all right, fine.
+> [on phone] Hold on one second.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
