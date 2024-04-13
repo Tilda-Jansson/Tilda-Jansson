@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight. [to Kelly] I was informed by these gentlemen that the reports that you filed may not entirely be accurate.
+> I was there. That dude is not engaged. I’m not a big believer in therapy, but I’ll go into my own pocket to cover his co-pay.
 >
-> <p>- Michael</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
