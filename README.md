@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care.
+> We wanted to stay on the phone all day, but the company has a policy against eight-hour personal calls. So we’re not telling anyone.
 >
-> <p>- Angela</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
