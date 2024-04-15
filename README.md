@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mose doesn’t know how to use a phone. So joke’s on you.
+> I’m screaming, I’m screaming, I’m screaming! Aaaaaaaa!
 >
 > <p>- Dwight</p>
 
