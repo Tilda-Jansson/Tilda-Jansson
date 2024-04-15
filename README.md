@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, how do you like these apples? [sets drinks on table] Alright, on a scale of 1 – 10, how hot is that dude? [indicates towards Oscar who waves slightly]
+> I am trying to be more optimistic in life. I’ve got what, 20 or 30 years left. And my family history says I have less. Now, the old Stanley Hudson would have found something wrong this actress. But that is no way to live life. Look at this healthy sexy pretty strong young woman. C’mon people! She is hot.
 >
-> <p>- Andy</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
