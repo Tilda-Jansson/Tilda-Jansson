@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Shh shh shh… don’t look down, look straight up. Come on please!
+> 400, 400 hey batter batter.
 >
 > <p>- Michael</p>
 
