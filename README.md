@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> 400, 400 hey batter batter.
+> God! No, that’s not… I don’t know what that is.  And I… I bet he has nothing to do with that!
 >
 > <p>- Michael</p>
 
