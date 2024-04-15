@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am trying to be more optimistic in life. I’ve got what, 20 or 30 years left. And my family history says I have less. Now, the old Stanley Hudson would have found something wrong this actress. But that is no way to live life. Look at this healthy sexy pretty strong young woman. C’mon people! She is hot.
+> Sorry. That was a family emergency.
 >
-> <p>- Stanley</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
