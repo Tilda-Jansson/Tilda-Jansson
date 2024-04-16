@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, oooh his mistress.  No. I’m kidding.  No one would ever cheat on you; you are the complete package, Pam.
+> If you gain weight, you will die. I want you to live forever. I want us all to live forever. How? How are we going to do this?
 >
 > <p>- Michael</p>
 
