@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fifty percent of marriages end in divorce, so… it was her parents or my parents…
+> You said fruit, Michael.
 >
-> <p>- Jim</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
