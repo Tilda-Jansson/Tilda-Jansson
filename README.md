@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes.  And I think they gave him too many fries.
+> See you on the field. Ha, ha. I can’t wait!
 >
-> <p>- Pam</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
