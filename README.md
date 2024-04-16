@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, hey.
+> I have here Kelly Kapoor’s personal and confidental file. Allow me to share. [opens file]  “Kelly Kapoor spent April 1995 to December 1996 at Berks County Youth Center.” Juvie. “According to past employers, it in no way affects her job perfor…”  Blah, Blah, Blah. [closes file]
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
