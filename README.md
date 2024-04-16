@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. No. Reservations are at 8:00, so we’ve got like an hour and 45 minutes. [sighs] [goofy voice] I’m a crazy eight, I’m crazy.
+> Oh, hey.
 >
 > <p>- Michael</p>
 
