@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s get ethical!  Ethical!  I wanna get ethical!  Let’s get into Ethics yeah!  Let me hear that Dunder Mifflin talk!  Your body talk.  Let me hear your body talk.
+> Yeah.
 >
-> <p>- Michael & Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
