@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> See you on the field. Ha, ha. I can’t wait!
+> Oh, oooh his mistress.  No. I’m kidding.  No one would ever cheat on you; you are the complete package, Pam.
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
