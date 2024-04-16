@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim, what do you say?
+> No. No. Reservations are at 8:00, so we’ve got like an hour and 45 minutes. [sighs] [goofy voice] I’m a crazy eight, I’m crazy.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
