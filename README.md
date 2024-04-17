@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I did not want to go back to the annex because that is where Holly worked whom I loved.
+> Jim, they are a poopy. [Jim coughs, presses button to end call on Bluetooth]
 >
 > <p>- Michael</p>
 
