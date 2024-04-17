@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You gotta have some extra space. Philly, work with me here. There’s gotta be some sort of secret office that you have… lurkin’ around… some awesome, free, keep it off the books… Oh, no. Not there. That would be humiliating.
+> Whoa, you haven’t told the misses about the castle?  You’re in for a spanking my friend.  Myself and my lady? – no secrets.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
