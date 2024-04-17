@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Or you could fire one of us. Whoever has less education.
+> You gotta have some extra space. Philly, work with me here. There’s gotta be some sort of secret office that you have… lurkin’ around… some awesome, free, keep it off the books… Oh, no. Not there. That would be humiliating.
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
