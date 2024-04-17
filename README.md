@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello, hello.  Hey!  Your face is almost back to normal.
+> Or you could fire one of us. Whoever has less education.
 >
-> <p>- Michael</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
