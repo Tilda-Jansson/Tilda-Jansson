@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, great. Yeah, Serenity by Jan is kicking ass and taking names. You remember last week when that girl went missing?  Guess whose candles they used for the vigil?
+> I knew some of it.
 >
-> <p>- Jan</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
