@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We should get a drink later. Catch up.  Pick me up around eight?
+> Got a call about a problem up here.
 >
-> <p>- Ryan</p>
+> <p>- Hank</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
