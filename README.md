@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you walk up toward the castle, and inside the castle are 4 men, and each of them, none of them have shoes, and they give you a funny cigarette, and you feel even more relaxed, and then you want ice cream. You want a big bowl of ice cream. What kind do you want? Shout it out.
+> Oh, Dwight, you're trying too hard, and that's just not classy. You see, the thing about classy is it's a state of mind.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
