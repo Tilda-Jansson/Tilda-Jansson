@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, Dwight, you're trying too hard, and that's just not classy. You see, the thing about classy is it's a state of mind.
+> [after snatching the clipboard with her signature] Got it.
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
