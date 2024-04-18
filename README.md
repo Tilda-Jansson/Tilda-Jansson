@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know.  I suck.
+> [out of breath and wet] Charles and Kelly? Absolutely not. He is a sophisticated man. He does not need to go dumpster-diving for companionship, ok?
 >
-> <p>- Jim</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
