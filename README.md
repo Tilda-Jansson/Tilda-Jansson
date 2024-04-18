@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [after snatching the clipboard with her signature] Got it.
+> Well, I just think we all deserve to be with someone who wants to be with us.
 >
-> <p>- Dwight</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
