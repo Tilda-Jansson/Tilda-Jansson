@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just to say “sterile” doesn’t make it so.
+> Have you seen her painting, Jim? The building? There are shadows coming from two different directions.
 >
-> <p>- Oscar</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
