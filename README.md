@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, how are you and Darryl?
+> [sees Holly behind Jan] I was just going to…  I was going to talk to Holly, about her hygiene.  She smells like old tomatoes and dirt.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
