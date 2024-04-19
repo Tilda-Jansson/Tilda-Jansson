@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m a smart guy.  I’ll figure it out.
+> Grass, weed?
 >
 > <p>- Michael</p>
 
