@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Today’s a big day.  Today’s the day that I show Pam the house that I bought for us. Without telling her. But it’s my parent’s house, the house I grew up in and yeah, I bought it kind of impulsively. I mean, the price was good and I was helping out my mom.  It’s got shag carpets.  I mean you can’t blame my parents it was the 70’s.  And why would you want to buy ugly wood from trees when you can have paneling? And a painting of some creepy clowns that is apparently crucial to the structural integrity of the building. [tugs and pulls in vain at the clown painting]  She’s gonna love it.  Right?
+> Hi, can I help you?
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
