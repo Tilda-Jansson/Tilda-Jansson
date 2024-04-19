@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sees Holly behind Jan] I was just going to…  I was going to talk to Holly, about her hygiene.  She smells like old tomatoes and dirt.
+> Standard, you know? Nothing fancy.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
