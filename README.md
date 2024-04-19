@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I knew some of it.
+> I train my major blood vessels to retract into my body on command.  Also, I can retract my penis up into itself. [pauses, then nods signaling that he performed the feat]
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
