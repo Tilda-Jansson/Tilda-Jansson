@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Who should it come from, then?
+> Paaam-o-laaaaaa…
 >
-> <p>- Michael</p>
+> <p>- Michael [on phone]</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
