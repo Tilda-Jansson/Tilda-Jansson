@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I was waiting until later to hand out this years gifts from corporate. [holds up shot glass] I don’t think they’re appropriate anymore.
+> Battlestar Galactica isn’t a documentary exactly.
 >
-> <p>- Phyllis</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
