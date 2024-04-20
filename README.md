@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, let me see your coffee cup.
+> I can’t believe I’m saying this, but Michael is actually killing it with Holly. And I think I know why. It’s because Holly is kind of a major dork.
 >
 > <p>- Jim</p>
 
