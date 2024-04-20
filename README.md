@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.  And the sexy looks between you and Pam, the general sexiness, the flowers, it’s creating a bit of a hostile work environment.
+> Okay, okay.  I’ll show them. Here we go. [whispers] Stanley.  All right.
 >
 > <p>- Michael</p>
 
