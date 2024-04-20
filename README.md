@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t believe I’m saying this, but Michael is actually killing it with Holly. And I think I know why. It’s because Holly is kind of a major dork.
+> Oh my God! Okay, it happening.  Everybody stay calm.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
