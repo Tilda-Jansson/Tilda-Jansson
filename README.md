@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re back on the 5th, should we just do it then?
+> I was waiting until later to hand out this years gifts from corporate. [holds up shot glass] I don’t think they’re appropriate anymore.
 >
-> <p>- Oscar</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
