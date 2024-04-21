@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’ve got no taste Stanley Hudson.
+> I am single now. What we have here, is the ultimate smackdown between the Nard-Dog and crippling despair, loneliness, and depression. I intend to win.
 >
-> <p>- Phyllis</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
