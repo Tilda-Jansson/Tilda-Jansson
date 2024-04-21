@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> His name is Dan, uh, this is us. So dorky.
+> Uh, I need some advice from one baby daddy to another.
 >
-> <p>- Karen</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
