@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did you tell him how sick of him you were?
+> It’s true. Around this office, in the past, I have been a little abrupt with people…
 >
 > <p>- Stanley</p>
 
