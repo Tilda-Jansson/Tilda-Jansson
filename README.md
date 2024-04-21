@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Now listen, we are a paper company. How can we take pride in our jobs if we have to put our fine paper in this wretched machine?
+> That is very general, and does not scare me in the slightest.
 >
-> <p>- Oscar</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
