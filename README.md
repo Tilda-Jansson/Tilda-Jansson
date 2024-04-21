@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am single now. What we have here, is the ultimate smackdown between the Nard-Dog and crippling despair, loneliness, and depression. I intend to win.
+> [on phone] Hello? Hello?
 >
-> <p>- Andy</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
