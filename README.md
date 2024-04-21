@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s true. Around this office, in the past, I have been a little abrupt with people…
+> So listen, as you know, we haven’t yet filled the regional supervisor job.
 >
-> <p>- Stanley</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
