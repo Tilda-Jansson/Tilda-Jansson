@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I think all of us have a tendency to view celebrities as sort of mythical figures, you know? We don’t really see them as real so therefore we don’t judge them as real people.
+> Do it! It’s a— Call her! [Andy holds up phone]  Oh my God, don’t call her! Don’t call her, Andy. [giggling] Andy, don’t call her!
 >
-> <p>- Jim</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
