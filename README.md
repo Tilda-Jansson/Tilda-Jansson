@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok. Then I don't get it. It doesn't make any sense to me. Because I thought in the new system I was supposed to talk to Charles, and then Charles was supposed to talk to you, and that would dilute any need for me to ever talk to you again.
+> Not a viable option.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
