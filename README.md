@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [disgusted groan]
+> I think all of us have a tendency to view celebrities as sort of mythical figures, you know? We don’t really see them as real so therefore we don’t judge them as real people.
 >
 > <p>- Jim</p>
 
