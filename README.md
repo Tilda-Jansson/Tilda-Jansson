@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do it! It’s a— Call her! [Andy holds up phone]  Oh my God, don’t call her! Don’t call her, Andy. [giggling] Andy, don’t call her!
+> Hey Kelly?
 >
-> <p>- Oscar</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
