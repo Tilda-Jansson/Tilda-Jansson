@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Because that is how my mind works.
+> OK, don’t get that. Please? [Pam gets up to answer her phone]
 >
 > <p>- Michael</p>
 
