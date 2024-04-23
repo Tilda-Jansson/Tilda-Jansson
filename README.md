@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We don’t normally download films illegally.  Because we’re honest,  hardworking people.
+> Cow surfing. [spots a cow out the window] Okay, here we go, there’s a cow.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
