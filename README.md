@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s about adapting to the circumstances.
+> Hey Phyllis, someone let the air out of your tires. Come quick.
 >
 > <p>- Dwight</p>
 
