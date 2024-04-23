@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, great.  I got it.
+> 200.
 >
-> <p>- Holly</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
