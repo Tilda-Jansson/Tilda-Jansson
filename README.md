@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, you know what? Why don’t you guys deal with it? I am going to get up, and I am going to be out in the common area. But you need to decide; otherwise I’m taking the bonus. All right?
+> Okay, great.  I got it.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
