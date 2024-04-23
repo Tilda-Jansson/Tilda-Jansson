@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes. I need your sage advice. And everyone, whatever Hank decides, that is the decision. That will resolve this issue. [Hank takes some jellybeans from Pam’s jar] Yeah, take as many as you want.
+> Alright Kevin. Enough with the Michael jokes. I think he got it bad enough yesterday.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
