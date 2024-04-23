@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, don’t get that. Please? [Pam gets up to answer her phone]
+> [interrupting] No.
 >
 > <p>- Michael</p>
 
