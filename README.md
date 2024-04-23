@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Alright Kevin. Enough with the Michael jokes. I think he got it bad enough yesterday.
+> Great ideas are just part of what I bring to the table.
 >
-> <p>- Oscar</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
