@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, hey, hey.  Hey.  I forgot… I forgot…
+> Intensive one-on-one retraining will begin after lunch. That is all.
 >
 > <p>- Michael</p>
 
