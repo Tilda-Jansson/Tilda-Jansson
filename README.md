@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I do, I think so.
+> What’s wrong?
 >
 > <p>- Holly</p>
 
