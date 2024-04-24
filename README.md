@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I agree.
+> David Wallace's office.
 >
-> <p>- Stanley</p>
+> <p>- Stephanie</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
