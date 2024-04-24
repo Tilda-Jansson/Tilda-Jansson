@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Excuse me?
+> So, in order to recoup the value of items we liked, we have to spend more money on things we don’t want. Who would ever come to this?
 >
-> <p>- Jim</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
