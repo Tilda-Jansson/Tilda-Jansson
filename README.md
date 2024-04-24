@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What are you– [people are yelling] What are you doing?
+> [on phone] Hello David. I just got back from my procedure, so–
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
