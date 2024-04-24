@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That's inspired.
+> Excuse me?
 >
 > <p>- Jim</p>
 
