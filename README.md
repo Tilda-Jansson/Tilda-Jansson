@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get your clouds right.
+> Hello, hi.
 >
-> <p>- Dwight</p>
+> <p>- Entire Prince family</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
