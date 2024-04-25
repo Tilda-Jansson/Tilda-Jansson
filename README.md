@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s a big ethical area?
+> How come out of everyone in the office, I’m the only one that went with you? Is it because I’m that stupid? I mean, your own grandmother doesn’t even believe in you!
 >
-> <p>- Oscar</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
