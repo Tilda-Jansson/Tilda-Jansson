@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Know what?
+> [outside] So I’m still in the process of converting the garage.  It’s got great light in here and I’m thinking, it could be perfect [opens garage door] for an art studio.  [Pam looks around and then looks at him] Look, I know, I bought this without asking you and it’s doesn’t look great, I know that.  And if you really hate it, I totally understand it’s just—
 >
-> <p>- Phyllis</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
