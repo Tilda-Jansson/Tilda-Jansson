@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, Michael? You want to succeed? You got to apply the same- [Michael slams door]
+> Mike gave me a list of his top ten Springsteen songs. Three of them were Huey Lewis and the News. One was Tracy Chapman, Fast Car. And my personal favorite, Short People.
 >
-> <p>- Vikram</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
