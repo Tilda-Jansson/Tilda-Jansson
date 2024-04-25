@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [to Holly] Can’t set ’em up like that.
+> No, it’s not a formality.  Now, were these, um, meet-ups just personal?  Unrelated to business?
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
