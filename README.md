@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The book All The President’s Men is about a conspiracy, just not the one people think.
+> You know, Michael? You want to succeed? You got to apply the same- [Michael slams door]
 >
-> <p>- Dwight</p>
+> <p>- Vikram</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
