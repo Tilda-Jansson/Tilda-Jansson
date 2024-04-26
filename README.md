@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here Comes Treble, class of ’96 was available for our big day, so, I booked ’em.
+> Yes, I’m from Techstar about a new phone system for you.   I was wondering if I could talk to Michael Scott.
 >
-> <p>- Andy</p>
+> <p>- Phone Salesman</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
