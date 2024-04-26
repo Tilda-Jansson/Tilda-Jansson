@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Please sit down.
+> [after accidentally seeing Michael and Holly kiss] No, I did not know that Michael was dating Holly.
 >
-> <p>- Professor</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
