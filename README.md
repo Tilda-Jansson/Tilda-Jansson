@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you sometimes have a drink to celebrate a special occasion or mark a holiday?
+> Here Comes Treble, class of ’96 was available for our big day, so, I booked ’em.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
