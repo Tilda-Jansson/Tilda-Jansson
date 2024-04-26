@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Alright, well, let’s look at this a little bit closer then shall we? [pulls a piece of paper out of his pocket]
+> [yelling as he runs past the radar gun] Aah!
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
