@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, its not how you leave in an office. It how you…
+> I’m gonna grab a cup of coffee.
 >
 > <p>- Jim</p>
 
