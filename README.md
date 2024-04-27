@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> “Uh, can you get this rundown for me?” [impersonating Charles]
+> Michael, its not how you leave in an office. It how you…
 >
 > <p>- Jim</p>
 
