@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Because you’re not a daddy, and it’s not your baby.
+> [muted] Mmhmm. [shrugs]
 >
-> <p>- Darryl</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
