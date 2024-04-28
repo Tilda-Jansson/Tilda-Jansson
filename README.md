@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, I feel like I was a little harsh yesterday. [murmurs of agreement]
+> Pam, what you don’t understand is that at my level you just don’t look in the want-ads for a job.  You are head-hunted.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
