@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah! Oh God. I practically invented decline.
+> Whatta we got?
 >
 > <p>- Michael</p>
 
