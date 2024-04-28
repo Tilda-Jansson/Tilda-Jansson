@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wasn’t. But thank you. [to Pam] Do you know anything about this party?
+> Ahh… I got you some tiramisu. No hard feelings.
 >
 > <p>- Jim</p>
 
