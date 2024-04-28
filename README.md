@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She’s right. I had my second kid just for the vacation.
+> I wasn’t. But thank you. [to Pam] Do you know anything about this party?
 >
-> <p>- Meredith</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
