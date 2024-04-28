@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Whatta we got?
+> Well here we all are.  Alone but together.  No flowers for us. [in a Mexican accent] Relationships, we don’t need no stinking relationships.   I think we should all go around and tell our worst relationship story, and then get past it, just blow through it, yeah? Kelly, what about Ryan?  He treated you pretty terribly, yeah?
 >
 > <p>- Michael</p>
 
