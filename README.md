@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK.
+> Michael, I feel like I was a little harsh yesterday. [murmurs of agreement]
 >
 > <p>- Oscar</p>
 
