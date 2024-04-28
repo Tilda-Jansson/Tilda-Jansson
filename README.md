@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ahh… I got you some tiramisu. No hard feelings.
+> I have like, like a blue shirt? I don’t wear a lot of colors, I have a lot of tan. Uh huh.
 >
-> <p>- Jim</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
