@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I assume your primary paper needs are stationary, general office.
+> Will you be able to milk with those implants?
 >
-> <p>- Prince Grandfather</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
