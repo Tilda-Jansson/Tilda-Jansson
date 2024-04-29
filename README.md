@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They say that laughter is the best medicine so Stanley, you can throw away those pills. You are cured. Actually, you should… better hold onto  them pills, just in case.
+> Hi. [they kiss] Mmm. ‘Cause– [looks toward camera]
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
