@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wait, do you guys hear that? There’s not a dog listening in, is there? [cut to show Michael on the other line] I hear panting.
+> I don’t know if I’m gonna make any money with art.
 >
-> <p>- Man on phone</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
