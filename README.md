@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [rises] Oh, thank you.
+> I only weigh 82 pounds!  Uh– save Bandit! [throws cat into air duct and he falls out through the other side] Oh!
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
