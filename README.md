@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, copy that breaker. Those Duke boys are at it again.
+> Wait, do you guys hear that? There’s not a dog listening in, is there? [cut to show Michael on the other line] I hear panting.
 >
-> <p>- Michael</p>
+> <p>- Man on phone</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
