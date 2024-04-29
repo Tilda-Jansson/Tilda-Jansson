@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I only weigh 82 pounds!  Uh– save Bandit! [throws cat into air duct and he falls out through the other side] Oh!
+> Oh, copy that breaker. Those Duke boys are at it again.
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
