@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He doesn’t love it that much. Wouldn’t be such a bad thing for him to be fired.
+> New York, as it turns out, is very expensive, and I ran out of money. I thought about selling a kidney, but Michael offered to get me a part-time job at corporate.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
