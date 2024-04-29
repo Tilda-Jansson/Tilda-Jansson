@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, sweet Jesus. Look, I’m sorry to do this, but can you drop me back at the telemarketing building?
+> So, I received my first Valentine from a secret admirer.  [Kelly opens the envelope] Roses are red, violets are blue, it’s time for your dental cleaning, and maybe a check-up too.
 >
-> <p>- Vikram</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
