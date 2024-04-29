@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, I received my first Valentine from a secret admirer.  [Kelly opens the envelope] Roses are red, violets are blue, it’s time for your dental cleaning, and maybe a check-up too.
+> She is a hazard to the other people of the office.
 >
-> <p>- Kelly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
