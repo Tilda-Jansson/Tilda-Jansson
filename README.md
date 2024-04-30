@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No! You idiot! [hangs up] Idiot, idiot, idiot! What are you doing? God! Oh my god. [redials]
+> Potential, lots of potential. yes.
 >
 > <p>- Michael</p>
 
