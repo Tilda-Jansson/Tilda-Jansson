@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s too late.
+> What is wrong with these people? They have no willpower. I went — I once went 28 years without having sex. And then again for seven years.
 >
 > <p>- Michael</p>
 
