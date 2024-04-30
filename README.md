@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah why don’t you send that to him in Costa Rica?
+> [sighs] What am I gong to do?  Uh… [chuckles].
 >
 > <p>- Michael</p>
 
