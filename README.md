@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We should help him out. [Jim and Pam each take a French fry, eat it, and then look toward the bathroom]
+> Yeah why don’t you send that to him in Costa Rica?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
