@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.
+> Her America’s Got Talent finale party over the summer. [Jim makes face] That’s crazy. It was packed. I thought everyone was there. You were there. I remember you being there.
 >
-> <p>- Michael</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
