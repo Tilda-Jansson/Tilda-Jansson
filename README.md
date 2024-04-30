@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t need $645; I already have $645, more or less.
+> Hey!
 >
 > <p>- Michael</p>
 
