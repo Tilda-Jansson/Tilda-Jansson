@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right, I know paper, I know how to manage. I have a name, close your eyes.
+> [reaching to open door] I’m gonna do it.
 >
 > <p>- Michael</p>
 
