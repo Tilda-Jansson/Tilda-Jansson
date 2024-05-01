@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, Okay. Well listen, you’re a new client, and as one of my new clients, you will always be taken care of. And that is the Nard-Dog guarantee.
+> How could you possibly think this is a good idea?
 >
-> <p>- Andy</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
