@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [starts to cry] Can we have another? I think I blinked.
+> What, I don’t — what do you want me to do now, Michael? What am I supposed to do now?
 >
-> <p>- Michael</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
