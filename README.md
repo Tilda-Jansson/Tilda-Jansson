@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Don’t patronize me, Pam.
+> No.  Not a giant net.
 >
 > <p>- Michael</p>
 
