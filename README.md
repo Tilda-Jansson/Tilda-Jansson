@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah… you could give it up though right? And almost nobody would know.
+> Don’t. Don’t. Get away from that, Dwight, please. You know what? She’s got a point about you two. You do have a problem dealing with people.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
