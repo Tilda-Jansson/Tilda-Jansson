@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [running to the phone] Just… don’t answer that call!
+> It’s been 20 seconds.
 >
-> <p>- Kevin</p>
+> <p>- CPR Trainer</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
