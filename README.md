@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Son, you have to talk louder.
+> A-B-C. Okay?  And hat stands for… airway, breathing and circulation.
 >
-> <p>- Jim</p>
+> <p>- CPR trainer</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
