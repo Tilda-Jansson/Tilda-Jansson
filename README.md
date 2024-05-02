@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What did you say to my dad?
+> Yeah… you could give it up though right? And almost nobody would know.
 >
 > <p>- Pam</p>
 
