@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, we’re gonna do the long-distance thing.
+> No, I don’t-this doesn’t change anything. I have a very important decision to make. We need a new copier. We need new chairs. And I need to figure out a way to keep this money without having everybody hate me.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
