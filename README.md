@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And your affiliation with Cornell –
+> Okay, he’s dead.  Anyone know what we do next? Anybody? Rose?
 >
 > <p>- Dwight</p>
 
