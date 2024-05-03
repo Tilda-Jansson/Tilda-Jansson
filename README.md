@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That you’re sleeping with Dwight.
+> Oh, no, I– no, no, I was gonna buy that doll.
 >
-> <p>- Andy</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
