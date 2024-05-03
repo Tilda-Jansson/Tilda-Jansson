@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I was thinking maybe like a mixer.
+> I don’t know. I haven’t decided yet.
 >
 > <p>- Michael</p>
 
