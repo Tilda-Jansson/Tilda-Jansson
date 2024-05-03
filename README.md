@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [wearing a fur coat] What did we learn this week? Well, one, thanks to me, my team is much, much faster at coming to decisions than I thought they would be. Number two, never buy a fur coat with a credit card until you absolutely have the money to pay for it. And three, [camera zooms out to see fake blood is splattered on the fur coat] you should know that some people think it’s cool to throw buckets of fake blood on you as you are walking out of Burlington Coat Factory.
+> [sighs] Yes, that’s true.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
