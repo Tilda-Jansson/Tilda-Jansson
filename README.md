@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s pronounced Ker-nell. It’s the highest rank in the military.
+> I’m not wearing a wire, so…
 >
-> <p>- Creed</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
