@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Anything.  You can ask me anything.
+> Okay, no, I am not.  Dwight! [Dwight runs into Michael’s office]  I want you to take Jim’s chair.  No!  No!  His chair at his desk.  He gets it back on Friday.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
