@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good morning, Mr. Wonka, here are your messages.
+> Oh God, that’s a terrible idea.
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
