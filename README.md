@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I think he meant personal day.
+> Oh, God.
 >
 > <p>- Pam</p>
 
