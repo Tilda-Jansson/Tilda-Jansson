@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, I am connecting and … you are not there. Did you install it right? How about this:  Go to applications–
+> It is 1-3-4, Kev! [Kevin runs to the phone]
 >
-> <p>- Jim</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
