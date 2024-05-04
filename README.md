@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, no, I– no, no, I was gonna buy that doll.
+> [laughs] I’m ok, I’m not, great, and um… [nods]
 >
-> <p>- Toby</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
