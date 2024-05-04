@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wait, wait, wait.
+> Exchange of steak.  Have you ever had sirloin steak, honey?
 >
-> <p>- Dwight</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
