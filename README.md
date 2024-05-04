@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [laughs] I’m ok, I’m not, great, and um… [nods]
+> That’s a halwa shabkia cookie.  They serve it during Ramadan. [Angela spits her cookie out]
 >
-> <p>- Jim</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
