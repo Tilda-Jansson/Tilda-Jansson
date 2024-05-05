@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Whew, wow I was so nervous about this I don’t think I ate for three days. [Michael passes out]
+> Intensive one-on-one retraining will begin after lunch. That is all.
 >
 > <p>- Michael</p>
 
