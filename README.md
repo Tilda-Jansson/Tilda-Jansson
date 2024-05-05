@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I lost it. [Phyllis glares at her until Angela pulls out the hairnet and puts it on]
+> [raises hand] Here.
 >
-> <p>- Angela</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
