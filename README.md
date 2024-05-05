@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A little close to my engagement there Tuna, what’s your game here?
+> I lost it. [Phyllis glares at her until Angela pulls out the hairnet and puts it on]
 >
-> <p>- Andy</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
