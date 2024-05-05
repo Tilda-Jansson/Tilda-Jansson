@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah. Gotcha. Of course. I’m gonna dive in. To the rundown. I’ll be exhausted ’cause it’s like a triathlon. [At door.] Do you want to close this? Close, or keep it?
+> Customer service might be monitoring this conversation.
 >
-> <p>- Jim</p>
+> <p>- Dwight </p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
