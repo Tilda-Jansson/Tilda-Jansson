@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I didn’t think it was very realistic in the movie and it turns out, it’s pretty realistic.
+> [to Pam] Can you believe this? [pause] He was pretty talkative at breakfast.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
