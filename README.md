@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [snickers]
+> I didn’t think it was very realistic in the movie and it turns out, it’s pretty realistic.
 >
-> <p>- Kevin</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
