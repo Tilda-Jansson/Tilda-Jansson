@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Would you like fries with that? Please drive around.
+> Just something I have to do first.
 >
 > <p>- Michael</p>
 
