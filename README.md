@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t believe I have had the pleasure.
+> Oh, that's because at first it was a made up position for Dwight, just to make him feel better, assistant to the regional manager. But then he lost that, and Michael gave it to me.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
