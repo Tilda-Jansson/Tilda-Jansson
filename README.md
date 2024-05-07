@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s start discussing those questionnaires that you filled in this morning.  It is wrong to make personal calls during work hours. Now, some of you marked that you very strongly agree.  But ideally you would have selected totally agree.
+> Try 80.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
