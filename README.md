@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.
+> Yes I do. You’ve just never seen it. [reading from diary] March 4th. Dwight came up with the best idea today about golden tickets.
 >
 > <p>- Michael</p>
 
