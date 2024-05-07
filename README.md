@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Andy, we are at a crossroads here. And we can either give in to what people are saying that we’re not good together.
+> Hmm?
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
