@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I forgot if there was an “e” between the “l” and the “y.” I still don’t know.
+> Let’s start discussing those questionnaires that you filled in this morning.  It is wrong to make personal calls during work hours. Now, some of you marked that you very strongly agree.  But ideally you would have selected totally agree.
 >
-> <p>- Jim</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
