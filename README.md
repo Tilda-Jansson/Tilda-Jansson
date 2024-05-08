@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You, you are taking about Dwight Schrute. The biggest Wonka fan I know. I mean, you’ve been talking about that movie for years.
+> [heaving the stroller into a tire yard] Don’t hit the fence.  Oh no, my child!
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
