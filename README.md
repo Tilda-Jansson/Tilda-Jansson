@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, that's because at first it was a made up position for Dwight, just to make him feel better, assistant to the regional manager. But then he lost that, and Michael gave it to me.
+> You, you are taking about Dwight Schrute. The biggest Wonka fan I know. I mean, you’ve been talking about that movie for years.
 >
 > <p>- Jim</p>
 
