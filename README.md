@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I think she got it as a tip, but I don’t know why she didn’t just take cash.
+> [laughs] Oh man, thanks, thank you, [tearing up] thank you, thank you.
 >
-> <p>- Kevin</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
