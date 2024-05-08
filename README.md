@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, ok. [Phyllis signs for the package, opens an empty box]
+> I think she got it as a tip, but I don’t know why she didn’t just take cash.
 >
-> <p>- Phyllis</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
