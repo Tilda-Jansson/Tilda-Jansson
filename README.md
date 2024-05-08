@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They would never know it was me doing it. Here we go, Knock, knock. [Dwight walks over]
+> Oh, ok. [Phyllis signs for the package, opens an empty box]
 >
-> <p>- Michael</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
