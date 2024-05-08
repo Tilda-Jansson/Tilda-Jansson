@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He’s taking a long time. Is it possible he’s bowling? I mean, you know him better than I do.
+> It– yep, recently.
 >
-> <p>- Vikram</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
