@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Maybe it’s because you spent the whole year flirting with the receptionist.
+> What did you say? I’m sorry, I couldn’t hear you.
 >
-> <p>- Pam</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
