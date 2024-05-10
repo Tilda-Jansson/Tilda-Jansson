@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He can do the same for you. Right now. By getting fired instead of you. So what are you gonna do?
+> Yeah, obviously you are. Okay, everybody who thinks that Meredith is an alcoholic please raise your hand. [everyone raises their hand]
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
