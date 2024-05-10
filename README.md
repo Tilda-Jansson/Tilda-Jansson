@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, obviously you are. Okay, everybody who thinks that Meredith is an alcoholic please raise your hand. [everyone raises their hand]
+> What are you writing? [Dwight writes in diary]
 >
 > <p>- Michael</p>
 
