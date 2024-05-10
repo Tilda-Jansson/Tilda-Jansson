@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> –that none of us can be a part of–
+> No.
 >
 > <p>- Michael</p>
 
