@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m calling it.  I guess that’s curtains for the yoga guy.
+> In Summer.
 >
 > <p>- Holly</p>
 
