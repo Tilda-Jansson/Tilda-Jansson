@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh! [Dwight and Erin laugh.]
+> We don’t have any money. We don’t have an office. We don’t have anything.
 >
-> <p>- Erin</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
