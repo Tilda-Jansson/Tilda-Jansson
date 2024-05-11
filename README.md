@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> But we already know each other’s names.
+> Uh, I actually thought we were keeping it pretty low-key.
 >
-> <p>- Mark</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
