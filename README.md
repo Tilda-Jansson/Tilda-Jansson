@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know, Kevin.
+> I’m excited to lose weight for the wedding, because I really want to have washboard abs the first time Angela sees me naked.
 >
-> <p>- Phyllis</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
