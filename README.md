@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, I actually thought we were keeping it pretty low-key.
+> Now what I’m curious about is how you were able to go an entire a week without knowing a member of your staff was there.
 >
-> <p>- Jim</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
