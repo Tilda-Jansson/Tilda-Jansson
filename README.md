@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Now what I’m curious about is how you were able to go an entire a week without knowing a member of your staff was there.
+> We’re trying to win a contest here, Kelly.  Please?
 >
-> <p>- David</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
