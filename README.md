@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, let’s give it for Miss… Holly Flaaaax! [everyone claps]
+> No no no no no no!
 >
 > <p>- Michael</p>
 
