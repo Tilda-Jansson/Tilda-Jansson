@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.
+> No, you don’t. No, it – [sighs] What will be the state of this company if I am the only one coming up with the great ideas? Right?
 >
 > <p>- Michael</p>
 
