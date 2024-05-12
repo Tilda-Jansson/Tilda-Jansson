@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do some overtime? You want to do some overtime this weekend? You know what, Kevin, I applaud your initiative. Yes. You may.
+> Oh…
 >
 > <p>- Michael</p>
 
