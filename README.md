@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ahh… I got you some tiramisu. No hard feelings.
+> Wow! Wow, I am blown away by this. I, um… I–ah! This is great, thank you!
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
