@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sweetheart. [Angela turns around] Just so you know, I don’t care where we get married. I’ll marry you right here in this building. I’ll marry you in the parking lot. I’ll marry you in the eye of a hurricane in the middle of a snowstorm on top of a monsoon. All I care about is that we’re gonna spend the rest of our lives together.
+> Aw, it’s gonna be the [softly] worst.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
