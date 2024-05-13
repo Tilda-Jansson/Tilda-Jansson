@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, my God. Is this how you are with Pam? ‘Cause she must want to shoot herself in the face.
+> 200.
 >
-> <p>- Dwight</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
