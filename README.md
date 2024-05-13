@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thanks Meredith.
+> Oh, my God. Is this how you are with Pam? ‘Cause she must want to shoot herself in the face.
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
