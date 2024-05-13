@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What did you say to my dad?
+> I thought we were having a nice time.
 >
 > <p>- Pam</p>
 
