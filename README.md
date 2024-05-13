@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Da  na na na na.  No, no, check it out, look. Da  na na na na… want to do that?
+> Another round, boys? Great. [Jim walks to the bar]
 >
-> <p>- Darryl</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
