@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [after a short pause] So run with the ball! Run with it, Kev.  [after another pause] Where you from?
+> TV.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
