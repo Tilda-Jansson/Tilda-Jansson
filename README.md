@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get ‘im, Jim! C’mon, tough D, Jim. [Charles kicks, ball hits Phyllis in the nose]
+> It’s very unusual for Michael not to show up to work. My guess? He’s either deeply depressed, or an icicle has snapped off his roof and impaled his brain. He has this terrible habit of standing directly underneath them and staring up at them. And I always say Michael, take two steps back, and stare at the icicle from the side. And he’s like no, I like the way they look from standing directly underneath them.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
