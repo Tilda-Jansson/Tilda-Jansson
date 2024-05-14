@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There’s still one thing we could do to get Toby fired.
+> You shouldn’t believe everything you hear.  In fact, there are many knots that I cannot untie.  So where does a woman as charming as yourself find herself employed on a day such as today.
 >
 > <p>- Dwight</p>
 
