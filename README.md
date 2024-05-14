@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You shouldn’t believe everything you hear.  In fact, there are many knots that I cannot untie.  So where does a woman as charming as yourself find herself employed on a day such as today.
+> Let me call you right back. Okay.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
