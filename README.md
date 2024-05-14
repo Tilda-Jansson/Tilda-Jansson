@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right. We’ll see. [to camera] No.
+> What do we have here?
 >
 > <p>- Jim</p>
 
