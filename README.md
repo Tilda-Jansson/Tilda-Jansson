@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There’s still one thing we could do to get Toby fired.
+> So, you’re dumping Michael? Smart.
 >
-> <p>- Dwight</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
