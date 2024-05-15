@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She thought I was McNabb. [laughing]
+> [pushing Kevin away] Um, yeah, that’s not gonna happen.
 >
-> <p>- Darryl</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
