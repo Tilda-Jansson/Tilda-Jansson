@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Spite her – ok [laughter]
+> It’s too late.
 >
 > <p>- Michael</p>
 
