@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are you kidding me?  Are you kidding me, that’s who you’re worried about?  You’re… you’re worried about the cop’s time?  You think I framed you, and you’re worried about the taxpayer?  Dah, God! Welcome back, jerky jerk-face.
+> This doesn't seem like a good way to spend company time.
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
