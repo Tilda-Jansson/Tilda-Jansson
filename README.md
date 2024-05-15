@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a trap.
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way. Like an improv conversation. An improversation.
 >
-> <p>- Kevin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
