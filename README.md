@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I knew it. Haha! [they high five]
+> [dumps coffee all over the copier glass] Oh!
 >
-> <p>- Stanley</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
