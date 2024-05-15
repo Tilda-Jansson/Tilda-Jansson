@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What are you mumbling about?
+> It’s a trap.
 >
-> <p>- Dwight</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
