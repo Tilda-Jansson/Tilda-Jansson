@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Take me home, country roads, to the place, I belong. West Virginia, mountain momma, take me home, country roads. [Erin leaves]
+> She thought I was McNabb. [laughing]
 >
-> <p>- Dwight and Andy</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
