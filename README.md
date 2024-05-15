@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [pushing Kevin away] Um, yeah, that’s not gonna happen.
+> Are you kidding me?  Are you kidding me, that’s who you’re worried about?  You’re… you’re worried about the cop’s time?  You think I framed you, and you’re worried about the taxpayer?  Dah, God! Welcome back, jerky jerk-face.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
