@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> One time. You love bringing up that one time, don’t you?
+> No. Jim. We’re a business. Post-its. That is a golden ticket idea. NASA took five or six golden ticket ideas to get man on the moon.
 >
-> <p>- Bob</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
