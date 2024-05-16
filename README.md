@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There he is! Hello, hello!
+> [sigh of relief] Well, sorry I’m late. [clears throat, coughs, pulls hairball out of her mouth]
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
