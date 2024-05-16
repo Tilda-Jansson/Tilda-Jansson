@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. Jim. We’re a business. Post-its. That is a golden ticket idea. NASA took five or six golden ticket ideas to get man on the moon.
+> Email’s not scary. This is an opportunity. Don’t, don’t blow it.
 >
 > <p>- Michael</p>
 
