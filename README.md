@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, from the insurance commercials!
+> Yeah, totally.  I’m sorry, Oscar.  Yeah, I didn’t realize it was bothering you.
 >
-> <p>- Kelly</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
