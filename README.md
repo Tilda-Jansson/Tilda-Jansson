@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what.  I had a great time at prom.  And no one said ‘Yes’ to that either.
+> Too late, too late. It’s dialing… now it’s ringing. [Oscar laughs] Shh…
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
