@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, I need some advice from one baby daddy to another.
+> No no, did, I heard you talking to Oscar about that guy.  What, what happened?  Did he call?
 >
 > <p>- Michael</p>
 
