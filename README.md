@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> After breakfast.
+> [at a park throwing whole pieces of bread] Caw… caw… caw caw… caw…
 >
 > <p>- Michael</p>
 
