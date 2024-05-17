@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good work. I’m proud of you. [Pam and Oscar leave] Mother-
+> Hey, Dwight, great idea. Dwight, Dwight, great idea. How’d you come up with that idea?
 >
 > <p>- Michael</p>
 
