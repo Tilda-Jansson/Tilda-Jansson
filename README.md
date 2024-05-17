@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I do!
+> Well you know what Jim? It is not my fault that you bought a house to impress Pam. That is why carnations exist.
 >
 > <p>- Michael</p>
 
