@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, Dwight, great idea. Dwight, Dwight, great idea. How’d you come up with that idea?
+> I thought you were a friend.
 >
-> <p>- Michael</p>
+> <p>- Roy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
