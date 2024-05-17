@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [at a park throwing whole pieces of bread] Caw… caw… caw caw… caw…
+> Good work. I’m proud of you. [Pam and Oscar leave] Mother-
 >
 > <p>- Michael</p>
 
