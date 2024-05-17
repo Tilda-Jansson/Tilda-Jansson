@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Too late, too late. It’s dialing… now it’s ringing. [Oscar laughs] Shh…
+> Uh, I need some advice from one baby daddy to another.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
