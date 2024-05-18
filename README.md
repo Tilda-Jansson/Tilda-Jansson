@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay?
+> I’m saying that her behavior is unethical and a little icky and I don’t think I want to work in an environment where that sort of conduct is tolerated.
 >
-> <p>- Kelly</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
