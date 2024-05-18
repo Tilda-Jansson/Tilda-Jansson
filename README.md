@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [seeing Kelly tear a paper heart in half] What are you doing?
+> Is that what ‘soon’ means to you?
 >
-> <p>- Meredith</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
