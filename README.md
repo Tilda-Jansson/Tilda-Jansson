@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, not a lot of money in the arts, right?
+> Yes, um, Jim.  Today is a very difficult day for a lot of people in this office.
 >
-> <p>- Pete</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
