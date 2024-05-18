@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are you out of your damn mind?
+> In nature, there is something called a food chain; it’s where the shark eats a little shark. And the little shark eats a littler shark. And so on and so on. Until you get down to the single cell shark. So now replace sharks with paper companies and that is all you need to know about business.
 >
-> <p>- Stanley</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
