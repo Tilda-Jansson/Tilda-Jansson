@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> After breakfast.
+> No, I, I don’t think so.
 >
-> <p>- Michael</p>
+> <p>- Julia</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
