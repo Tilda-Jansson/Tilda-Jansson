@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Look at that.  Bob ordered hot food.
+> You bet.
 >
 > <p>- Jim</p>
 
