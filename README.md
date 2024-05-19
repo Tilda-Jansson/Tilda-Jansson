@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good.
+> Oh, don’t start,
 >
 > <p>- Michael</p>
 
