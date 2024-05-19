@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah… you could give it up though right? And almost nobody would know.
+> I just got off the horn with David Wallace, and he said that you and I should try to get to know each other better. And I agree, so what I would like you to do is tell me something that you've never told anybody before.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
