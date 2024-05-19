@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, um, Jim.  Today is a very difficult day for a lot of people in this office.
+> [noticing that everyone is giving him a sympathetic look] How does everyone know already?
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
