@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I just got off the horn with David Wallace, and he said that you and I should try to get to know each other better. And I agree, so what I would like you to do is tell me something that you've never told anybody before.
+> Don’t sign anything.
 >
-> <p>- Michael</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
