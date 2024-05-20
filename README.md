@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> To socialize.  And inform.
+> Attention!  Attention!  We only have a few weeks left.  [looking at Phyllis]  And most of you are just as fat as the day we began.
 >
 > <p>- Dwight</p>
 
