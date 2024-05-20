@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Attention!  Attention!  We only have a few weeks left.  [looking at Phyllis]  And most of you are just as fat as the day we began.
+> Hope you didn’t have any major laundry issues.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
