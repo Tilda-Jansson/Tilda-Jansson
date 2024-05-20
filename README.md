@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Who is going to tell us the latest dirty joke?  Who is going to tell us what you watched on television last night?
+> Strawberries?
 >
 > <p>- Michael</p>
 
