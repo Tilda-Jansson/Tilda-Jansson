@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am not asking her to stop drinking.  I am imploring her to quit being an alcoholic.
+> No, this is where I work. I can’t relax in the same corner where I work.
 >
 > <p>- Michael</p>
 
