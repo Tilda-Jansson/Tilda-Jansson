@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, this is where I work. I can’t relax in the same corner where I work.
+> [Kelly eating in the break room] Hey, is that healthy food?
 >
 > <p>- Michael</p>
 
