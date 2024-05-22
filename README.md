@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, don’t worry, the chain is off.
+> Alrighty, Dwighty, let’s see how you did.
 >
 > <p>- Michael</p>
 
