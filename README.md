@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, I hear you, sweetheart, but this is a deal breaker.  But you know what?  You’re gonna love these guys.  Carl 1, Carl 2, Broccoli Rob, Spare Rib, Doobie, Lunch Box, Boner Champ, that’s me, Pubie Lewis and the News, Hopscotch, Jingle Jangle, Sandwich.  These are the best best-man a guy could ever hope for.
+> Michael get to the good part.
 >
-> <p>- Andy</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
