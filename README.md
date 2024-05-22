@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Kelly eating in the break room] Hey, is that healthy food?
+> [voiceover] I usually love babies, but when I held Astrid I just felt… shortchanged.
 >
 > <p>- Michael</p>
 
