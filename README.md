@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re always safe with me. I’m a very good screamer. And one day, we’re going to move to Disney’s Celebration Village in Florida and leave all of this behind.
+> I didn’t put caprese salad in my drawer, Michael.
 >
-> <p>- Andy</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
