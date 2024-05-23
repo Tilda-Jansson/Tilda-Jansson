@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s not really true. There’s a lot of things you can do with an art degree actually.
+> Firrrrre-duh guy! [high fives Ryan]
 >
-> <p>- Jim</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
