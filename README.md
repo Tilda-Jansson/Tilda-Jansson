@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim Halpert, yep. So, um, just going to let you get back to it... [being pulled away by Pam]
+> That’s so lame they didn’t invite us.
 >
-> <p>- Jim</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
