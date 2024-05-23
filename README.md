@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. My right one’s falling asleep a little bit.
+> If you say screw you one more time…
 >
 > <p>- Dwight</p>
 
