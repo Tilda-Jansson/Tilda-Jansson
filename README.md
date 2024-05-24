@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, uh, Pam? Hey everyone, lunch is on me today.
+> I know. Yes I do.
 >
 > <p>- Charles</p>
 
