@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [rolls down car window] Dwight and Angela are having an affair. They’ve been sleeping together for some time. That was the news. I wanted to let you know.
+> I’ve dated four guys last year too.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
