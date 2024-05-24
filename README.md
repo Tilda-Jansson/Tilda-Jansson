@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve dated four guys last year too.
+> Yo.  I got the Nard-puppy for ya.  What’s going on here?
 >
-> <p>- Holly</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
