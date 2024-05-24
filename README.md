@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re ‘I need you to’ is my command.
+> Okay. Now everyone here who’s bowled under 70 raise their hand.
 >
-> <p>- Michael</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
