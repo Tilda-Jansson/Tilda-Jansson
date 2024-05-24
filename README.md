@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Goodbye prince family, [to Michael] should be called the Sucker family. Here you go shark, let me fix your fin for you and sharpen your teeth while I’m at it. [Dwight laughs evilly, Michael seems remorseful] Bye bye.
+> No, Stacy is a boy.  Ugh.  Frustrating.  Why can’t you just be in art class with me?
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
