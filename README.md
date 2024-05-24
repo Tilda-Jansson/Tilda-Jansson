@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. Cow, goat or sheep. It’s not that hard.
+> I don’t try and be anything that I’m not.
 >
 > <p>- Dwight</p>
 
