@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yo.  I got the Nard-puppy for ya.  What’s going on here?
+> Probably the weirdest thing about Pam being gone would be lunch… actually.  But um, it will force me to become acquaintances with people I consider… coworkers.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
