@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Probably the weirdest thing about Pam being gone would be lunch… actually.  But um, it will force me to become acquaintances with people I consider… coworkers.
+> Okay. Cow, goat or sheep. It’s not that hard.
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
