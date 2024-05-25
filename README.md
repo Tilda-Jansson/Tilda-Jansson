@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Charles is having Kevin cover the phones for a while. How do I say this diplomatically? [pause] I think Kevin is doing exactly as well as anyone might have expected someone like him to perform in a position like that.
+> Wait; let me get something for you. Here is some, some references. Here is a list of references, our top clients. You call any of them; I trust you will hear some good things.
 >
-> <p>- Jim</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
