@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You guys have thought about this a lot more than I have. I just winged it.
+> But it works. I would like you all to give this a shot. What do you say?
 >
 > <p>- Michael</p>
 
