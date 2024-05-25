@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I did not.  Was that any good?
+> That’s better. [Michael walks back towards Stanley and the beeping goes up again]
 >
-> <p>- Andy</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
