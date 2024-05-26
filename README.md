@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About 80.
+> I am about to die. [laughs] Will you wait here while I go get my jacket?
 >
-> <p>- Prince Grandfather</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
