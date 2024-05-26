@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Toilet sponge. It’s a hollowed out sponge…
+> Ok, alright, well I'll just bounce that off David, see what comes back.
 >
 > <p>- Michael</p>
 
