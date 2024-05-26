@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Seven thousand dollars.
+> Your hand’s in it.
 >
 > <p>- Angela</p>
 
