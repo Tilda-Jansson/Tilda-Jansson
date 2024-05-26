@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Halfway! Okay, You know what I want to do, I want to pull over and find little bed and breakfast for when we meet in the middle. Emphasis on the bed. And the breakfast.
+> It was Pam’s idea. Pam was the mastermind.
 >
-> <p>- Michael</p>
+> <p>- Pete</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
