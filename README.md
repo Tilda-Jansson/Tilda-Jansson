@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Excuse me, waitress, where did the lady go?
+> Not, not as hard as you can, just a good, solid punch.  Come on! Come oooon…
 >
 > <p>- Michael</p>
 
