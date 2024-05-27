@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, Oscar!  Come on, let’s go!
+> 1,000 going once, 1,000 going twice. Sold for 1,000 dollar. [applause] Nicely done.
 >
 > <p>- Michael</p>
 
