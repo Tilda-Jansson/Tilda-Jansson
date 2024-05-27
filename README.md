@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ah, we did it!
+> Hey. I would like a pair of size nine, please. [Ryan is working at the bowling alley] It’s Michael.
 >
-> <p>- Blood Girl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
