@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A week later a friend of mine calls me up, and he says “I just saw him in a gay bar in Kansas City.” [everybody groans except for Michael who looks pleasantly surprised]
+> It– it’s warm.
 >
-> <p>- Kevin</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
