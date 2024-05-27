@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> 1,000 going once, 1,000 going twice. Sold for 1,000 dollar. [applause] Nicely done.
+> Ah, we did it!
 >
-> <p>- Michael</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
