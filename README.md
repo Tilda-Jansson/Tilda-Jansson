@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How do you even know they’re gay?
+> No.  I’m just thinking about what you said, about Karen, about closure. You remember Holly? She used to work for H.R.?
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
