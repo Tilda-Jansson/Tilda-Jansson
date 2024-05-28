@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Guys, stop everything. I’m about to ask out this girl, and I’m completely panicking.
+> I didn’t hear a phone.
 >
-> <p>- Andy</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
