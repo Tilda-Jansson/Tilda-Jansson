@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Man, was he fat. So, so… fat. You know what, forget it. I know me. When I saw him, I would never be able to apologize to him. Too fat. Big fat fatty.
+> Let go, please. Just gimmee –
 >
 > <p>- Michael</p>
 
