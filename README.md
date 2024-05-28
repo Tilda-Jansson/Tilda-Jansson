@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What am I saying?
+> Why was she in this building?
 >
-> <p>- Holly</p>
+> <p>- Erin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
