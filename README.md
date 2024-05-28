@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not going to make this call.
+> No I get it. I totally understand. And uh, I just want to assure you, that I mean no disrespect. You see, I’m applying!
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
