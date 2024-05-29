@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m your son now; you can visit him on holidays. Dwight Schrute, I’m a paper salesman at a second tier paper company called Dunder Mifflin.  I’m the top salesman there and I’m looking for a new challenge. I would say you guys have what, 40 high full volume clients?
+> You didn't tell them.
 >
-> <p>- Dwight</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
