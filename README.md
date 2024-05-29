@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well he’s had a pretty good season so far— Stop saying “we.” You did not go to Cornell. Okay, you’re just doing this to screw with me.
+> Yes!
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
