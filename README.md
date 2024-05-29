@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s go to the conference room.
+> Have a good meeting!
 >
 > <p>- Andy</p>
 
