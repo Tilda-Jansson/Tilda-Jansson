@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You didn't tell them.
+> You don’t have to wait that long. I mean, you don’t have to wait a month to ask her out. Just ask her out.
 >
-> <p>- Charles</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
