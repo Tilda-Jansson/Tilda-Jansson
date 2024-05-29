@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [makes squeaking sounds]
+> Maybe Pam should pay the check by drawing a picture on this napkin.
 >
-> <p>- Michael</p>
+> <p>- Tom</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
