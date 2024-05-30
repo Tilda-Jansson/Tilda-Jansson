@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You kidding me? It’s what I do. Get the whole nine ‘nards. [Oscar laughs]
+> Yeah, it’s illegal, but… everything they do on The Shield is illegal.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
