@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Is it true?
+> Get ‘im, Jim! C’mon, tough D, Jim. [Charles kicks, ball hits Phyllis in the nose]
 >
 > <p>- Andy</p>
 
