@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [as Michael continues imitating Charles] Not a good idea, Michael. Michael, stop. Stop doing that. Stop it. You're going to get all of us in trouble.
+> You kidding me? It’s what I do. Get the whole nine ‘nards. [Oscar laughs]
 >
-> <p>- Employees</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
