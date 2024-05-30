@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get ‘im, Jim! C’mon, tough D, Jim. [Charles kicks, ball hits Phyllis in the nose]
+> How did I propose, let me see… well, I drove her up to Nashua, and I had the ring, a big 10-carat diamond; it was beautiful. And I got down on my hands and knees, and a shooting star crossed overhead, and it just lit up the diamond like a shooting star. And we were in a restaurant, and I put the diamond into a cheeseburger.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
