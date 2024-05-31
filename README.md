@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This isn’t a handout club. It’s an investment club!
+> Really? [everybody signifies their agreement, and Kelly gives Michael a piece of cake]  Oh, thanks.
 >
-> <p>- Nana</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
