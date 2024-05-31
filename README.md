@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was helping. It was classic.
+> No rest for the sick. We are not always going to be there to coddle your heart back when it disappears to be working.  What are you gonna do if you’re by yourself and your heart stops?
 >
 > <p>- Michael</p>
 
