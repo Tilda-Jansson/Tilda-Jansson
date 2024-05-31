@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want you to listen to me. Because I want to tell you the situation that we are both in right now, kay? You quit your job. I quit my job. We both quit. Those are the facts. That’s what happened. Now, what are our choices right now? Because you know, kiddo, you quit.
+> Its simple, David would use that information to destroy them.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
