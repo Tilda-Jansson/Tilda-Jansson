@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Really? [everybody signifies their agreement, and Kelly gives Michael a piece of cake]  Oh, thanks.
+> That was helping. It was classic.
 >
 > <p>- Michael</p>
 
