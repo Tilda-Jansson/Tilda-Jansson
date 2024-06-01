@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No rest for the sick. We are not always going to be there to coddle your heart back when it disappears to be working.  What are you gonna do if you’re by yourself and your heart stops?
+> I am about to give blood.  The gift of everlasting life, the transfer of my bodily fluids, oh wow, that’s a big needle, that —
 >
 > <p>- Michael</p>
 
