@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I- I- believe you.
+> Actually, I don’t care for Meredith, but I don’t believe in this kind of thing.  In the Schrute family we believe in a five fingered intervention. [holds up his fist] Awareness, education, control, acceptance and punching.
 >
-> <p>- Blonde</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
