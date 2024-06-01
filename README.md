@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am about to give blood.  The gift of everlasting life, the transfer of my bodily fluids, oh wow, that’s a big needle, that —
+> Took him 40 minutes to get ready.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
