@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you know what? I even made fun of you when you dressed up as Willy Wonka to pitch this idea and for that I apologize.
+> What’s happening?
 >
-> <p>- Jim</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
