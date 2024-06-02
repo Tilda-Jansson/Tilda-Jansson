@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dunder Mifflin this is Pam. Oh, hey Mom. No, what did Dad say?
+> Hey, you know what?  I can’t do this by myself people!  Kelly and I are the only ones who have either passed out or almost passed out. [flails his arms]
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
