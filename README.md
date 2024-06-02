@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What did you say to my dad?
+> [listening in New York] I miss him.
 >
 > <p>- Pam</p>
 
