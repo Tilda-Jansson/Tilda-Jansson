@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yo.
+> [on the phone] We have that going out Tuesday… Okay? Sure, no, I can… I’ll double-check that for you.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
