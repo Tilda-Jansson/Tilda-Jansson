@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, actually, I, uh, I had a tub birth.  And it was really, really quite amazing.
+> That’s not really true. There’s a lot of things you can do with an art degree actually.
 >
-> <p>- Jan</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
