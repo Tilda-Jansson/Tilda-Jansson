@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [listening in New York] I miss him.
+> Juvie… nile… Detention Center. Where they send teenagers!
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
