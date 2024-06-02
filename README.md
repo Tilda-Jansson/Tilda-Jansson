@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, you know what?  I can’t do this by myself people!  Kelly and I are the only ones who have either passed out or almost passed out. [flails his arms]
+> And you know what? I even made fun of you when you dressed up as Willy Wonka to pitch this idea and for that I apologize.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
