@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No— I, I’d like to hear more about that.
+> Oh, not likely.  3 billion woman on the planet, most of them live in Asia so the numbers just don’t add up.
 >
-> <p>- Holly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
