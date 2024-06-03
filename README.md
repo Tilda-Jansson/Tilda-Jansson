@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re sure?
+> Can you believe it? Well, we’ll see, we’ll see. It’s just a, just a nugget of an idea right now so
 >
 > <p>- Michael</p>
 
