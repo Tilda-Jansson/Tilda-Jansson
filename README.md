@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You are the silent killer. Go back to the annex.
+> Michael...
 >
-> <p>- Michael</p>
+> <p>- Stephanie</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
