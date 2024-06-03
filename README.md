@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, okay.  You didn’t maintain 100 beats per minute, and the ambulance didn’t arrive because nobody called 911. So you lost him.
+> [to Jim] Who’s there?
 >
-> <p>- Rose</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
