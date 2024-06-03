@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You think that’s good? Check out these pants. Nine dollars.
+> Yeah, okay.  You didn’t maintain 100 beats per minute, and the ambulance didn’t arrive because nobody called 911. So you lost him.
 >
-> <p>- Michael</p>
+> <p>- Rose</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
