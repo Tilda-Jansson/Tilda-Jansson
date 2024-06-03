@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Stop it, Mr. Ash! Bad cat! That is very bad! You stop it right now! I swear, he is fixed.
+> [heaving the stroller into a tire yard] Don’t hit the fence.  Oh no, my child!
 >
-> <p>- Angela</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
