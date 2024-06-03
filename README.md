@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, I’d say she’s happy. I mean, she loves her classes. Loves the city. I mean, last night, she was out with her friends, till, like, 8:00 AM.
+> Sure, yeah that’s… your right. It’s too soon for… definitely too soon for me. So I’m glad we go that out of the way. I’m gonna be in touch with you. In three months. I’m gonna call you about that order. And maybe about that mall walk.
 >
-> <p>- Jim</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
