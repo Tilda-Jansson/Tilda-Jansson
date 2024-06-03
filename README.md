@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not! It’s not offensive during a roast! Anything goes! I want you guys to really get crackin on this. I want you to take me down. Don’t hold back. I want you to really make fun of anything about me. It could be my race, could be the fact that I’m so fit, or I’m a womanizer… fair game. Whatever. I don’t want to write your stuff for you, but I just want it to be good.
+> [loudly] Harry and the Henderson’s
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
