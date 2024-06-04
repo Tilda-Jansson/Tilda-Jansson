@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Was it the sales department?
+> Is he your boyfriend or something?
 >
-> <p>- David</p>
+> <p>- Guy at table</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
