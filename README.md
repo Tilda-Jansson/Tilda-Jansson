@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey. I would like a pair of size nine, please. [Ryan is working at the bowling alley] It’s Michael.
+> Let me paint you a picture of a little girl from southern India, who despite being welcomed into this country will now spend the rest of her life in prison for a crime she did commit.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
