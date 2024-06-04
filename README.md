@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Michael is Army crawling around the office] Michael?
+> Want some meat?
 >
-> <p>- Pam</p>
+> <p>- Bob</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
