@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, right. Thanks. [reading off index card] Dunder Mifflin, this is Kevin. Please hold while I transfer you. [cupping the mouthpiece, yelling] Oscar, your mom!
+> Jim.  I wanted to apologize… for how I treated you last year.  I lost sight of myself and now that I’ve quit the rat race I’ve realized there’s so much more to life than being the youngest VP in the company’s history.  I’ve even started volunteering.  Giving back to the community.
 >
-> <p>- Kevin</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
