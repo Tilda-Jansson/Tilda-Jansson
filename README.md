@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Attention everyone I just got a text from Michael. He says personnel day. Are we hiring?
+> This is Sam.
 >
-> <p>- Dwight</p>
+> <p>- Jessica Alba</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
