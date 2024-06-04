@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nah. [everyone groans and Girl turns around and walks away.
+> Since when is it illegal to put caprese salad… anywhere.
 >
 > <p>- Michael</p>
 
