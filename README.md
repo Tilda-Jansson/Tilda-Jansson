@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That is vodka and I mixed it with orange juice.  I call it an orange-vod-juice…ka.
+> Hey. I would like a pair of size nine, please. [Ryan is working at the bowling alley] It’s Michael.
 >
 > <p>- Michael</p>
 
