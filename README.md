@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> NOOOO! GOD! No, God, please no! No! No! NOOO!
+> You are.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
