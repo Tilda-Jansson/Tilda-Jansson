@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I've put having a family on hold.
+> Hey Pam.
 >
 > <p>- Michael</p>
 
