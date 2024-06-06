@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [continue to laugh]
+> No, No, No.  No, I’m just curious if you’ve heard of it.
 >
-> <p>- Stanley & Phyllis</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
