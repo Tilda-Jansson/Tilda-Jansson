@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you.
+> Well, if you guys insist on having your own private little love fest–
 >
 > <p>- Michael</p>
 
