@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, no way. I am not giving up.
+> Very well, we will come back at 5:15.
 >
 > <p>- Dwight</p>
 
