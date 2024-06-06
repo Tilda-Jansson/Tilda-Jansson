@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, No, No.  No, I’m just curious if you’ve heard of it.
+> Why haven’t I proposed yet? Uh, actually Pam and I talked about it. And we just decided that, um — well, we didn’t want to spend first three months of our engagement apart. And Pam’s always said she doesn’t want a long engagement. Something in her past, I guess. I’m not really sure of the whole story, but something about a guy who used to work here…
 >
-> <p>- Toby</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
