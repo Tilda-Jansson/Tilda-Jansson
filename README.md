@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what they say, keep your friends close. [pointing to office sign where “Dunder Mifflin” is listed right above “Michael Scott Pap”]
+> Okay, great.  I got it.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
