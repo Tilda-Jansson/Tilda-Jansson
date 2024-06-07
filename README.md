@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, great.  I got it.
+> Paaam-o-laaaaaa…
 >
-> <p>- Holly</p>
+> <p>- Michael [on phone]</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
