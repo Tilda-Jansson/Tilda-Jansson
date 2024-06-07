@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sold! To Jim.
+> So let’s hear it.
 >
-> <p>- Darryl</p>
+> <p>- Nana</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
