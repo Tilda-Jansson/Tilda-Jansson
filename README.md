@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m gonna go back to work. After I write you up for insubordination.
+> You can be so modest sometimes.
 >
 > <p>- Dwight</p>
 
