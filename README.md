@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> These are shaped like paper.
+> You know what they say, keep your friends close. [pointing to office sign where “Dunder Mifflin” is listed right above “Michael Scott Pap”]
 >
 > <p>- Michael</p>
 
