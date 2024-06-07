@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.
+> Nice job on the cake, Bozo!
 >
 > <p>- Dwight</p>
 
