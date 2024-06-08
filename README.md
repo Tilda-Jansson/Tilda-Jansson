@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah exactly. It’s my turn.
+> Shoot.
 >
 > <p>- Pam</p>
 
