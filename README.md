@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello, Stephanie. Ok, where is he? [looks into empty office]
+> What’s 15% of 200? [Michael doesn’t answer] Thank you. Everyone, Michael is returning the surplus so he can keep 15% as a bonus.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
