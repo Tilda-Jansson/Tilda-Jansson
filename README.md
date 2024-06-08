@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, I’m gonna need you to make this right or else we can’t be right.
+> Yeah!
 >
-> <p>- Darryl</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
