@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How about, “I’m sorry I did such a whorish job filling out this form?”
+> Absolutely. Oh, and you know what, Darryl? You are invited to go as well.
 >
-> <p>- Kevin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
