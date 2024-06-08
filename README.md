@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, alright.
+> Those are real cops, real guns.  I wonder what’s going on. [follows them]
 >
 > <p>- Michael</p>
 
