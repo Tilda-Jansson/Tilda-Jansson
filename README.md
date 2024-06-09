@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t want to talk. I want my laptop back.
+> Hey Dad. No I know, Mom told me. Ok. Yeah I’ll see ya then.
 >
-> <p>- Oscar</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
