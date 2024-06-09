@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Does anyone have any idea what the number one cause of death is in this country?
+> I can already feel people’s stress starting to melt. I think they’re very excited about paying their respects this way. I have got to make sure that YouTube comes down to tape this.
 >
 > <p>- Michael</p>
 
