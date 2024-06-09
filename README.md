@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right…
+> Come on! It’s Dandy Dale and Foppy McGee over there. [turns to bartender] Mademoiselle! Beer me dos Long Island iced teas s’ill vous plait. [to Oscar] Bad decision in a glass.
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
