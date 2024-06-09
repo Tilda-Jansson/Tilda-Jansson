@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s 15% of 200? [Michael doesn’t answer] Thank you. Everyone, Michael is returning the surplus so he can keep 15% as a bonus.
+> Before you got here, I’m the one who landed all these clients.  Half of them, at least. I can do it again.  I know the market, I know the price points.  I’m on it, don’t worry.  So, how do I do that?
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
