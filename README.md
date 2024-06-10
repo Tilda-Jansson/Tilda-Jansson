@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can tell Michael's mood by which comedy routine he chooses to do, the more infantile, the more upset he is. And he just skipped the Ace Ventura talking butt thing. He never skips it. This is bad.
+> Did you?
 >
-> <p>- Pam</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
