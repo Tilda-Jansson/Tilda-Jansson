@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s next?
+> Thank you so much. My daughter is going to love this.
 >
-> <p>- Dwight</p>
+> <p>- Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
