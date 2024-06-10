@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pump it up! Yeah! Yeah! Yeah! [Huey Lewis’ Heart of Rock and Roll plays] Pump up the volume. Thank you very much, everybody. Thank you, Mr. Springsteen. [music stops] And welcome to C.R.I.M.E.-A.I.D. [clears throat] Crime Reduces Innocence Makes Everyone Angry I Declare. It is not known how many office robberies occur every second because there is no  Wikipedia entry for office robbery statistics. However, tonight, its victims, are standing together and standing strong in the form of song, cooking lessons, and hugs. Really Phyllis? You’re auctioning a hug? Okay, so with no further ado, lights, camera, auction! Take it away Bruce! [Huey Lewis’ Heart of Rock and Roll plays]
+> Oh, but you mean other than embezzling?
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
