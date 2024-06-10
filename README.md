@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nana Mimi cannot squat over some trench.
+> Spot a cow, last person to say “Jackson Five” has to get on its back and ride it.
 >
-> <p>- Angela</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
