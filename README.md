@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Spot a cow, last person to say “Jackson Five” has to get on its back and ride it.
+> I hate disappointing just one person. And I really hate disappointing everyone. But I love Burlington Coat Factory. You go in there with $645, you are literally a king.
 >
-> <p>- Darryl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
