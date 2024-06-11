@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Every other branch has managed to get this to us so if it’s not something you can handle then that’s a different discussion.
+> I have made my decision. We do not need a new copier. We do not need new chairs. This copier… is… [puts paper on glass and makes a copy, then takes paper from glass] working perfectly.
 >
-> <p>- Kendall</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
