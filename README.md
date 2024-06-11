@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, I still have more.
+> Yeah, right. I filled him full of butter and sugar for 50 years and forced him not to exercise. Now, take a lesson from Stanley and jog on up here and sign this, okay?  Make a line. Just form a line right here.  Sign it!  Sign it now!
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
