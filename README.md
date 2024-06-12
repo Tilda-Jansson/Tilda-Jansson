@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m at a crucial point where I have sunk 4 hours into that copier, and I am not going to let it beat me like that wireless router did.
+> Well, this is William M. Buttlicker.
 >
-> <p>- Pam</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
