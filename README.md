@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nope, I don’t have a card, but I’ll do you one better. A little scrap of paper.
+> Get me some ice and a styrofoam bucket. [pulls out knife from holder that is attached to his leg] Here we go.
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
