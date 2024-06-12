@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Aw, it’s gonna be the [softly] worst.
+> [opens wallet and hands Jim a single bill] There you go.
 >
-> <p>- Jim</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
