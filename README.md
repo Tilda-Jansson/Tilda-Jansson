@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [opens wallet and hands Jim a single bill] There you go.
+> Hey, Dwight, sounds like she was 14, so maybe we wanna go a little easy.
 >
-> <p>- Creed</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
