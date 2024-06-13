@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ah… would you want to do it on Groundhogs day?
+> Where are they?  You know what? If we come across somebody with no arms or legs do we bother resuscitating them? I mean, what kind of quality of life do we have there?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
