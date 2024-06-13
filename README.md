@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey! HR lady, stop whispering in the corner please.  Very rude.  You’re ruining the party.
+> I mean, I don’t even know what the theme is. What’s the theme?!
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
