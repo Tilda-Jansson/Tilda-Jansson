@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You knew it.
+> I’ve never been a kiss up. I – it’s just not how I operate. I mean, I’ve always subscribed to the idea that if you really want to impress your boss, you go in there and you do mediocre work. Half-heartedly.
 >
 > <p>- Jim</p>
 
