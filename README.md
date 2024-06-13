@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Where are they?  You know what? If we come across somebody with no arms or legs do we bother resuscitating them? I mean, what kind of quality of life do we have there?
+> [moves his bobblehead from one side of his nameplate to the other and clears his throat to get Angela’s attention]
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
