@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am not insightful enough to be a movie critic. Mm… maybe I could be a food critic. These muffins taste bad. Hmm, or an art critic. That painting is bad.
+> Okay, it is time for the final votes. All of those in favor of resolution Hillary Swank is hot? [half of office raises hand] Okay. And all those opposed? [he skips back and joins other half of office in raising hand]
 >
 > <p>- Andy</p>
 
