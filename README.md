@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [in a hospital bed, watching Entourage in Spanish] Oh, I went zip lining my third day in Costa Rica.  I guess the harness wasn’t strapped in exactly right.  I broke my neck.  And, I’ve been in the hospital five weeks now.  I still haven’t seen the beach.  It’s nice to have visitors.
+> Hey.
 >
-> <p>- Toby</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
