@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, ok. If we hire Cirque de Soleil as salaried employees, will that help us with year-end tax stuff? [several seconds of silence]
+> Right. I mean why work harder than you should.
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
