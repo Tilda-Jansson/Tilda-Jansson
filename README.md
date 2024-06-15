@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, Stacy and Eric get to Bogre’s DeTech half an hour early so they don’t have to sit on the slab.
+> May I have your attention please. I have an announcement. Mr. Dwight Schrute and I just returned from a wonderful stroll together and although I probably will never do it again, I had fun. I really had fun with my best friend, Dwight.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
