@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh-huh. [comes out of office] Well, well, well, who have we here? Ah, it is Prince Charles Miner. [shakes Charles' hand] At your service. Everybody, this is Sir Charles Miner and he is the new VP for the Northeast region. So, just give it up for this big guy, right? Give it up. [leads round of applause] Here he is.
+> No…
 >
 > <p>- Michael</p>
 
