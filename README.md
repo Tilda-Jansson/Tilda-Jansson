@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He looks great.
+> And I, yours. So I will cede her to you.
 >
 > <p>- Dwight</p>
 
