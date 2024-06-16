@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nnyeah.  What ya gonna do?
+> You didn’t, but… it’ll be fine. It’ll be good.
 >
-> <p>- Micheal</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
