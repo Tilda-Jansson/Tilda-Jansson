@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I looked straight at the bag.
+> Oh, she is hot. [“Hillary Swank is hot” supporters cheer]
 >
 > <p>- Michael</p>
 
