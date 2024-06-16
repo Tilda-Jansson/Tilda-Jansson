@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Toby tries to come on stage] NO! No, friends only. Friends ONLY. [Toby shrugs and sits back down]
+> You know I have some things I need to do this weekend. I just remembered, so, I’ll just ride back with you.
 >
 > <p>- Michael</p>
 
