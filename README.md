@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Really, that’s your real name?
+> Uh, I’m fine, thank you.
 >
-> <p>- Dwight</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
