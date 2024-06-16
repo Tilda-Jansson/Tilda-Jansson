@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael Gary Scott rolling like a pimp!
+> Nnyeah.  What ya gonna do?
 >
-> <p>- Andy</p>
+> <p>- Micheal</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
