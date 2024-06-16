@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, well I’m afraid not.  Toby Flenderson, of H.R., has made a sudden reappearance.
+> I looked straight at the bag.
 >
 > <p>- Michael</p>
 
