@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, she is hot. [“Hillary Swank is hot” supporters cheer]
+> You can see clearly on this page that we have a surplus of $4300.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
