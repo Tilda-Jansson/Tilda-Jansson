@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nope. I mean, I could have brought a change of clothes, or-
+> Nope. His name is Michael. [Michael makes the da dum ksch on the drumset again]
 >
-> <p>- Jim</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
