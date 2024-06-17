@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good morning.
+> I do enjoy being the head of the Party Planning Committee.  I’m no longer under Angela’s heel, and her little grape head is under mine.
 >
-> <p>- Pam</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
