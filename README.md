@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fifty percent of marriages end in divorce, so… it was her parents or my parents…
+> I was– I was gonna get the doll.
 >
-> <p>- Jim</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
