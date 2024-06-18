@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve never framed a man before, have you?
+> You ready? And we’re off, like a herd of turtles.
 >
 > <p>- Michael</p>
 
