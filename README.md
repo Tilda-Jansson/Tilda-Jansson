@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are people watching?
+> [emerging from convenience store with two ice cream sundaes] Hey, look at that. Fun, right?
 >
 > <p>- Michael</p>
 
