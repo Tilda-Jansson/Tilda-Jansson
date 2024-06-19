@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I would like to invite you all to come away with me, on a journey. [nips mylar ribbon with hedge clippers, it won’t cut, he tears it down] Welcome! To the Michael Scott Paper Company!
+> Do you sometimes have a drink to celebrate a special occasion or mark a holiday?
 >
 > <p>- Michael</p>
 
