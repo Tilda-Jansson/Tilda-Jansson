@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whispers in Holly’s ear, Holly reacts with horrified look]
+> It’s a trap.
 >
 > <p>- Kevin</p>
 
