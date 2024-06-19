@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey guys that’s really inappropriate.
+> I would like to invite you all to come away with me, on a journey. [nips mylar ribbon with hedge clippers, it won’t cut, he tears it down] Welcome! To the Michael Scott Paper Company!
 >
-> <p>- Toby</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
