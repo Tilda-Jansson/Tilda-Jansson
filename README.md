@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ahh… I got you some tiramisu. No hard feelings.
+> She’s, um, she’s in New York. She’s at an art school.
 >
 > <p>- Jim</p>
 
