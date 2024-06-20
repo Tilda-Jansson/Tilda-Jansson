@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I uh, I’m sorry I didn’t uh, realize you were in a bath.  Do you want me to go?
+> Hi, Micha-
 >
-> <p>- Sam</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
