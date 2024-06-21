@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did you tell him how sick of him you were?
+> Whatever calms you down.
 >
-> <p>- Stanley</p>
+> <p>- Micheal</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
