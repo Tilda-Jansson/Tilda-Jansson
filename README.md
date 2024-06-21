@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well that goes without saying.
+> Now is really not the time, Meredith.
 >
 > <p>- Michael</p>
 
