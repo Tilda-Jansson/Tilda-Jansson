@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re not a man! You don’t know how to take care of her! [hits his car with the bike chain] All you do is dress fancy and sing. [imitating Andy] “La la la la la la la la la la!” What does that mean? You can’t even protect her!
+> He’s making all these fancy, uh, it’s a gut thing.
 >
-> <p>- Dwight</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
