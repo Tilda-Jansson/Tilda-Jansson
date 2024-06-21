@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He’s making all these fancy, uh, it’s a gut thing.
+> That’s so great. That’s great.
 >
-> <p>- Kevin</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
