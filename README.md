@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [bites his sandwich and notices there is a note in it]
+> 400.
 >
-> <p>- Oscar</p>
+> <p>- Bob</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
