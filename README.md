@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Um, I can offer you free delivery on any order that you place today. Okay, twenty boxes? I can do… just a second. I can do 20 boxes at 43 dollars a box. Great!
+> Yeah, oh there you go.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
