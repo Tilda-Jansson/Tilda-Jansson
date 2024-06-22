@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yikes.
+> [on speakerphone] Hey guys, I have with me Dwight Schrute. Dwight, take it away.
 >
-> <p>- Jim</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
