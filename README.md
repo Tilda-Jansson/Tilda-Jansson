@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes we do. So, get excited. But I have to go the bathroom real quick. If you’ll excuse me, be right back. [gets out of the car] Ah, okay.
+> [bites his sandwich and notices there is a note in it]
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
