@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, we don’t need to do that.
+> Uh, no, sorry, Michael. No, Kevin, right? We're going to need you to do that during office hours.
 >
-> <p>- Pam</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
