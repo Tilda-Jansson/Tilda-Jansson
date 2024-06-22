@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know there’s a ghost in this office
+> Um, I can offer you free delivery on any order that you place today. Okay, twenty boxes? I can do… just a second. I can do 20 boxes at 43 dollars a box. Great!
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
