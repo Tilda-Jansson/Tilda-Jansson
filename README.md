@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have to take care of a couple things. So Andy will be taking over things here. You’re in good hands, and give my best to your mother.
+> I think you should do that. [Kelly starts fake-crying, then laughing, then she and Michael both laugh]
 >
-> <p>- Stanley</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
