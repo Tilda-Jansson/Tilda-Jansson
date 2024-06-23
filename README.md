@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What? No. No, I am talking about a roast! Of Michael Scott! Oh c’mon! Who here has the Comedy Central Roast channel? You’ve seen it right? Everybody gets together, and everyone starts hurling insults at the one guy, and everybody’s laughing, and everybody’s hugging each other…
+> [holding a crossword puzzle] Yes.
 >
-> <p>- Michael</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
