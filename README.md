@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …and, yeah, the whole thing was incredibly cathartic.
+> So you should be heading back to your desk.
 >
-> <p>- Toby</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
