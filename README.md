@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael get to the good part.
+> Right, I know paper, I know how to manage. I have a name, close your eyes.
 >
-> <p>- Kelly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
