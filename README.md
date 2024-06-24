@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank You!
+> Oh no, no, no. You don't have to do that. I've got this covered. This was just a meet-and-greet.
 >
 > <p>- Michael</p>
 
