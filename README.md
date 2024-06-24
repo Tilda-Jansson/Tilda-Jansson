@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh no, no, no. You don't have to do that. I've got this covered. This was just a meet-and-greet.
+> I’m calling it.  I guess that’s curtains for the yoga guy.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
