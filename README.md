@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Then I’ll get something too.
+> And after the birth you get out and deliver the afterbirth. [everyone starts leaving]
 >
-> <p>- Andy</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
