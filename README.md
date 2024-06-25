@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And after the birth you get out and deliver the afterbirth. [everyone starts leaving]
+> This is a dream that I have had since lunch, and I am not giving up on it now.
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
