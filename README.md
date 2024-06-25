@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is a dream that I have had since lunch, and I am not giving up on it now.
+> My god, he's like a black George Clooney.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
