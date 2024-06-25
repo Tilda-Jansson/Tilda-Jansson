@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My god, he's like a black George Clooney.
+> A vacation.
 >
 > <p>- Kelly</p>
 
