@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why don’t we just, live and let live?
+> I have to say, I think the problem with that whole thing…
 >
 > <p>- Michael</p>
 
