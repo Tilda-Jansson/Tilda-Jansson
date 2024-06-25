@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re right, you’re right.  Just, Dwight, do it.  Just say it ok.
+> Why don’t we just, live and let live?
 >
 > <p>- Michael</p>
 
