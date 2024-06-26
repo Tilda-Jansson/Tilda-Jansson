@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Those aren’t… themes. There’s always a theme. [walks out]
+> [enters smiling and waving] Hello, everyone. Oh, ice cream. Nice, Kevin. Looks good.
 >
-> <p>- Kelly</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
