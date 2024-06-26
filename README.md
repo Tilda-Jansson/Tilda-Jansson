@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Aww.
+> [on computer screen] I can see you!
 >
 > <p>- Pam</p>
 
