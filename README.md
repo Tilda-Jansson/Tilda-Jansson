@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We are friends. Stanley, we’re friends. And you let me down.
+> It was Pam’s idea. Pam was the mastermind.
 >
-> <p>- Andy</p>
+> <p>- Pete</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
