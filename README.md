@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well it’s not too late, because you haven’t done anything.
+> Thank you, accounting department.
 >
 > <p>- Jim</p>
 
