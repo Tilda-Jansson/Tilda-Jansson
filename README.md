@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah… you could give it up though right? And almost nobody would know.
+> Hello, this is Michael Scott, regional manager.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
