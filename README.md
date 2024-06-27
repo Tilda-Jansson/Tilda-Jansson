@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I… Okay, okay, okay, [in disbelief] alright, thank you. [heads towards Dwight, makes make out lips signal]
+> Mr. Peanut is not classy.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
