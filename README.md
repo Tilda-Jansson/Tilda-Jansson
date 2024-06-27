@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Have you seen her painting, Jim? The building? There are shadows coming from two different directions.
+> Uh, sorry… what?
 >
-> <p>- Dwight</p>
+> <p>- Guy at table</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
