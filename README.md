@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> See you on the field. Ha, ha. I can’t wait!
+> I… Okay, okay, okay, [in disbelief] alright, thank you. [heads towards Dwight, makes make out lips signal]
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
