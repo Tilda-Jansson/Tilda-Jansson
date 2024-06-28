@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am on a lecture circuit. I’m goin’ around to all the branches, and I’m telling them my secret recipe for success.
+> Protect her from what? Bears, you idiot? When’s the last time you saw a damn bear in Scranton?
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
