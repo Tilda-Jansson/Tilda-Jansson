@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’d you say h[bleep]?
+> I am on a lecture circuit. I’m goin’ around to all the branches, and I’m telling them my secret recipe for success.
 >
-> <p>- Kelly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
