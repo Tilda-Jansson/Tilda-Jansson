@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My golden ticket idea? OK. Why would anyone think that this is my golden ticket idea? There is a one in 13 chance that this could be anybody’s golden ticket idea. [sighs] That… [sighs]
+> Michael, that’s fantastic.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
