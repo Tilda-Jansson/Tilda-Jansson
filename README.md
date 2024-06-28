@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [standing with Holly next to “Welcome to New Hampshire” sign] Oh, it’s really cold here.
+> [cats meowing in background][on Nanny-Cam] Where is that bad cat? Oh, you know who you are. Excuse me, Petals, I’m looking for Mr. Ash. He’s a bad cat. Bad, bad cat. Do you hear me? Bad. Yeah, you were bad. No, you look at me when I talk to you. Do you hear me, Mr. Ash? You look at me. ‘Cause I’m talking to you right now.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
