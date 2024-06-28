@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just… I want you to think about it, I’m starting my own company.
+> She did it!
 >
 > <p>- Michael</p>
 
