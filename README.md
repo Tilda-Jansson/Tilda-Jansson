@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mmm-hmm.  Saunas.
+> We didn’t break up.
 >
 > <p>- Michael</p>
 
