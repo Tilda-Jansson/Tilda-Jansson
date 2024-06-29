@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh! He says it’s cool. [laughs] He said, “It’s cool”.
+> Hey, look, Pennsylvania license plate! That’s crazy! All the way out here! Who can name all the states?
 >
-> <p>- Kelly</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
