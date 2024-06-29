@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Does anyone want to dance?
+> Oh, I don’t think it’s blackmail.  Angela just does what I ask her to do so I won’t tell everyone that she’s cheating on Andy with Dwight.  I think for it to be black mail, it would have to be a formal letter.
 >
-> <p>- Ronnie</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
