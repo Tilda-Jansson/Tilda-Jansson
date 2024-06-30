@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not much? What’s up with you? [from bathroom above] Nah it’s okay. I’m in the bathroom. Hey you been watching Damages this year? It’s so good. No, you gotta tune in, it’s as good as anything on HBO. [sound of pissing] Hey does blue go with tan?
+> Mmmhmmm…
 >
-> <p>- Toby</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
