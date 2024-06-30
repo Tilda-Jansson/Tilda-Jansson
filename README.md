@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK. How do you feel about Maine? [Angela picks up phone and dials] I’m on it. I’ll see you later, love. [Dwight’s pager vibrates, he and Angela walk out]
+> We could work from home.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
