@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Summers going great.  Just spent two hours listening to Michael Clump.  I have a weird pain in my left side that I’m convinced is an ulcer.  My girlfriend lives in New York and I haven’t seen her in 10 days.  How’s your summer?
+> Good.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
