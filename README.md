@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [out of breath] Bowling.
+> Why is it so bad for me to call and ask her to lunch today?
 >
-> <p>- Phyllis</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
