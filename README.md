@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive [Andy joins in] Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive.
+> [Toby tries to come on stage] NO! No, friends only. Friends ONLY. [Toby shrugs and sits back down]
 >
 > <p>- Michael</p>
 
