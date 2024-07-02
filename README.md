@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care, so it doesn’t matter.
+> Mmmm…
 >
 > <p>- Andy</p>
 
