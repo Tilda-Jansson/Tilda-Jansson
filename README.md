@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mmmm…
+> What makes you think we’d have weed?
 >
-> <p>- Andy</p>
+> <p>- Leo</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
