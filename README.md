@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> See ya. See ya. [Charles leaves] Bye!
+> Oh no.
 >
 > <p>- Jim</p>
 
