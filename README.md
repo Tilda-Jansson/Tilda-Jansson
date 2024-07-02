@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last week, Dwight sent out a memo about the dress code. So, this is me showing him that I'm taking it very seriously.
+> Take it Andy! Take me home, to the place I belong, Ba bah dah duh
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
