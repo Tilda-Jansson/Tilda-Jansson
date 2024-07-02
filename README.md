@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Vamping.
+> Oh it’s good, you’re coming along. It’s really technically proficient but really there’s no heart or soul in it.
 >
 > <p>- Dwight</p>
 
