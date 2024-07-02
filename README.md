@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Attention, all problem sales persons. Jim Halpert… Dwight Schrute…
+> What does warm mean?
 >
 > <p>- Michael</p>
 
