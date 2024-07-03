@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good, so, [Michael takes client list and heads out of office] where are you going?
+> Could you tell me why you had to cut the face off the dummy?
 >
-> <p>- Dwight</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
