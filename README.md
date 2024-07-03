@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What?! You have a cake. You have a delicious cake, with your name spelled correctly?
+> Can you believe it? Well, we’ll see, we’ll see. It’s just a, just a nugget of an idea right now so
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
