@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on phone] Yeah, I’m looking at it right now. It’s really gorgeous. You guys do great work.
+> I’m sorry to hear the hotel was bad.
 >
-> <p>- Andy</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
