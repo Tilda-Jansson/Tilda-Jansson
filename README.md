@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Could you tell me why you had to cut the face off the dummy?
+> [on phone] Yeah, I’m looking at it right now. It’s really gorgeous. You guys do great work.
 >
-> <p>- David Wallace</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
