@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m sorry to hear the hotel was bad.
+> What?! You have a cake. You have a delicious cake, with your name spelled correctly?
 >
-> <p>- David Wallace</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
