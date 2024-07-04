@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I sa- [Andy honks his horn]
+> Oh, my God! Oh wow. Jim, what the?
 >
-> <p>- Dwight</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
