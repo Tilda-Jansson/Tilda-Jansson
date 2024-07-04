@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just make that copy okay?
+> Listen, when Jim was dating Karen, I didn’t want to come to work. It was awful. I hated it. I wanted to quit, but-
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
