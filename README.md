@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh yeah!
+> She’s foreign.  I am–
 >
 > <p>- Michael</p>
 
