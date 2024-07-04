@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I thought very strongly agree sounded stronger than totally agree.
+> Pardon me, may I have a chocolate chip cookie?  I gave blood earlier and I’m still feeling woozy.
 >
-> <p>- Phyllis</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
