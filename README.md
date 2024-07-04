@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pardon me, may I have a chocolate chip cookie?  I gave blood earlier and I’m still feeling woozy.
+> [flashback] Boy, have you lost your mind? ‘Cause I’ll help you find it.
 >
 > <p>- Stanley</p>
 
