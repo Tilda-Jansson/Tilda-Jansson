@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, it’s not a surprise.
+> I haven’t made a decision yet.
 >
 > <p>- Dwight</p>
 
