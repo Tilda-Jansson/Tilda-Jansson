@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oops!
+> What does this have to do with sales?
 >
-> <p>- Erin</p>
+> <p>- Man</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
