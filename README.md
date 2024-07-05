@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What did you learn in there? I bet you learned things, huh? Like how to fashion a shiv, hmm?
+> Dwight K. Schrute. Why don’t you introduce me to your little friend? [Dwight immediately breaks the handshake with the redhead and turns to the blonde]  Hi, Dwight.
 >
 > <p>- Dwight</p>
 
