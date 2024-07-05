@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The best. Great friends. Thank you, Michael. [all three are still laughing]
+> Oscar, I’m now going to be prone to surges.
 >
-> <p>- Oscar</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
