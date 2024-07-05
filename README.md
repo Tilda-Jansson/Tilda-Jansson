@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, get the door.
+> That, is awesome!
 >
-> <p>- Michael</p>
+> <p>- Pete</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
