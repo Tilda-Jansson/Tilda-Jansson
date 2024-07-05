@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nope.
+> Charles asked me to do this rundown of all my clients.
 >
 > <p>- Jim</p>
 
