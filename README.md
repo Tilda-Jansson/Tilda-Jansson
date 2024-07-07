@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not frustrated. Even if I were in Scranton, Jim and I would have days like this. We’re just… a little out of sync.  You know, that’s all.  Oh, great.  I washed my lipstick.
+> You should probably just meander back there; take a look.  See if he’s, see if he’s back.
 >
-> <p>- Pam</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
