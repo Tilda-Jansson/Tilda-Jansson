@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is equal parts scotch, absinthe, rum, gin, vermouth, triple sec, and two packs of Splenda. Call it a one of everything.
+> Idiot. Idiot! Idiot. Idiot.
 >
 > <p>- Michael</p>
 
