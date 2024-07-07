@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Every year I do research to determine which toy will be the most popular of the Christmas season.  This year it’s a doll. Half girl, half unicorn.  Catchphrase: “My horn can pierce the sky”.  Pathetic. I bought out every store in the area over the last couple of weeks.  And as lazy parents become desperate I will sell them for an enormous profit.  Isn’t that right princess? [makes doll nod]
+> So you're the assistant to the regional manager?
 >
-> <p>- Dwight</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
