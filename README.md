@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> 325.
+> Yes I shouted “fire!”.  I shouted many things! I also shouted instructions on how to get out of the building, so you can imagine my frustration as safety officer when nobody would heed of what– heeded–
 >
-> <p>- Bob</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
