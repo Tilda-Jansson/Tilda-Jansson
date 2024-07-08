@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Racism is dead Stanley, you can have any kind of ice cream you want. What do you want? [beeping starts] What is that? People! Please I told you to get rid of the cell phones.
+> Screw you.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
