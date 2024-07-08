@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, I either get more involved, or I take a sick day… leaving Dwight in charge. Oh God.
+> I know you’re a very busy man so I’ll cut right to the chase. I’d like my old job back.
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
