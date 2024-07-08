@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s
+> So, I either get more involved, or I take a sick day… leaving Dwight in charge. Oh God.
 >
-> <p>- Darryl</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
