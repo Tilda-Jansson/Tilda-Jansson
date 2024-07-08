@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, I have immunity. It’s my two-weeks…
+> Racism is dead Stanley, you can have any kind of ice cream you want. What do you want? [beeping starts] What is that? People! Please I told you to get rid of the cell phones.
 >
 > <p>- Michael</p>
 
