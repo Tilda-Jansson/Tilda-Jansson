@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Idiot. Idiot! Idiot. Idiot.
+> [makes sudden sharp turn to the left, causing DVD player to fall out open window, then grins to camera]
 >
-> <p>- Michael</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
