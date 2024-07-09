@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight your’e supposed to do it this way.
+> [clapping] Ok.  Well done.  Good speech Ryan, you’re a good guy.
 >
 > <p>- Michael</p>
 
