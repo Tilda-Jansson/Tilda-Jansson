@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did you tell him how sick of him you were?
+> Get me some ice and a styrofoam bucket. [pulls out knife from holder that is attached to his leg] Here we go.
 >
-> <p>- Stanley</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
