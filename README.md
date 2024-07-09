@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I could read it.
+> Where?
 >
-> <p>- Pam</p>
+> <p>- Receptionitis15</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
