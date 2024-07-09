@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I should have been lovers with her first and then friends.  That was terrible advice.  Terrible advice!  You know my seduction method.  I like to get in there and get my hands dirty! Wh—  You sabotaged me.  You sabotaged me, man!
+> Okay, I’m gonna have to stop you right there. Was this a sorority that you didn’t get into a real sorority so you had to kind of form your own?
 >
 > <p>- Michael</p>
 
