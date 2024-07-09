@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan… Ryan.
+> “Interviewer has turned off applicant’s interest in Cornell, and they are going to go to the vastly superior Dartmouth.” Ever heard of it? I think I have everything I need.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
