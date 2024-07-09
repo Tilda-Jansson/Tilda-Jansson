@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim. What do you play?
+> I mean it’s a very competitive field. But I have a professor who says I have a lot of promise, and if I don’t try now, I never will. So…
 >
-> <p>- Charles</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
