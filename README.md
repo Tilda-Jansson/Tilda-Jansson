@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There is no movie called Willy Wonka. It’s called Willy Wonka and the Chocolate Factory.
+> Here we go. [Meredith’s phone rings. Jim and Andy groan.]
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
