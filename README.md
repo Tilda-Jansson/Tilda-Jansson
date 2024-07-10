@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here we go. [Meredith’s phone rings. Jim and Andy groan.]
+> She’s upstairs talking to Charles.
 >
-> <p>- Jim</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
