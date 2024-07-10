@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re doing this because of you.  So why don’t you just go stand somewhere else.  [to Ryan] Hey.  Hey.  You shaved?
+> Get out of the way! Go, go, go!
 >
 > <p>- Michael</p>
 
