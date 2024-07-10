@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She’s upstairs talking to Charles.
+> Party planning is literally the stupidest thing I have ever done in my life.
 >
-> <p>- Stanley</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
