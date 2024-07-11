@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hit the scales, everybody. Right on that black platform. This way. Step it up.
+> So… it wasn’t Dwight after all. Looks like I am the killer. You never expect that you’re the killer… it’s uh… great twist. Great twist.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
