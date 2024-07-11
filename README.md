@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Is that what I think it is? [Kevin and Oscar get up and go to Angela’s computer]
+> Yes, this is Beth.  This is my personal valet/flight attendant and she will be helping me this morning.
 >
-> <p>- Kevin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
