@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what we should do? We should have a party and not invite them.
+> No, you are saying that we should sweep it under the carpet, accept the discount on supplies, not fire Meredith and pretend like the whole thing never happened.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
