@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s up?
+> Is that what I think it is? [Kevin and Oscar get up and go to Angela’s computer]
 >
-> <p>- Andy</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
