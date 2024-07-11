@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, you are saying that we should sweep it under the carpet, accept the discount on supplies, not fire Meredith and pretend like the whole thing never happened.
+> It’s- it’s two pounds.  I’m losing money on this man just, give me the money.  Alright, walk away.
 >
-> <p>- Holly</p>
+> <p>- Vance Refrigeration Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
