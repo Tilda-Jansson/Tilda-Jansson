@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I did what I had to do. I stepped in. I took charge. That’s what being a man is. And earlier today, I was freaking out. Pam stepped up.  She was the man. Don’t think a woman can be a man? Well, then that’s your stereotype, not mine.
+> Yes.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
