@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, this is Beth.  This is my personal valet/flight attendant and she will be helping me this morning.
+> Yes.
 >
 > <p>- Michael</p>
 
