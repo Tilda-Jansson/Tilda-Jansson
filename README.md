@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Holly.  She’s on the warpath.  She is gunning for all our jobs.  Do you guys have any dirt on her?
+> Alright, Michael Scott Paper Company. You want in? Do you want to be a part of this?
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
