@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We think a lot alike. Sometimes you will think something and I will say what you’re thinking–
+> I am offering you the opportunity of a lifetime, Oscar. To come work for me.
 >
 > <p>- Michael</p>
 
