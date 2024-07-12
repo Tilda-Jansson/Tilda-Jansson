@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did you shout, “Fire!”, causing a panic?
+> We own our own delivery trucks. We could lease them out on the weekends —
 >
-> <p>- Lawyer</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
