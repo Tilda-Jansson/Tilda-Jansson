@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, wait, I gotta go, class starting. [hangs up]
+> Good, so, [Michael takes client list and heads out of office] where are you going?
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
