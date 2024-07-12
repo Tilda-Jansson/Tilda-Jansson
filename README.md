@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We own our own delivery trucks. We could lease them out on the weekends —
+> Holly.  She’s on the warpath.  She is gunning for all our jobs.  Do you guys have any dirt on her?
 >
-> <p>- Jim</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
