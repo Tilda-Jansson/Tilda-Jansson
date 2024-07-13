@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, hold on, Michael, thank you. Uh, Stanley, you know, we can't make any promises, but we'll try everything in our power to avoid that.
+> So I was in the office, and I look over to our Accounting division, and there is Kevin Malone. Kevin is wearing a jacket that I’ve never seen before. And I call over to Kevin, “Kevin, is that a tweed jacket?” And he looks at me and he says, “Michael, yes it is a tweed jacket.” And I look back at him and I say, “I feel the need!… The need for tweed.”
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
