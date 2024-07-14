@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Naked.
+> [enters, followed by Dwight, and makes a call] Yes, hi, my last name is Bernard, and I would like to cancel a wedding cake that I had ordered. B-E-R, N-A, R-D. Yeah, the one shaped like a sailboat… Yep, that’s the one.
 >
 > <p>- Andy</p>
 
