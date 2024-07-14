@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, what’s going on?  You don’t have my permission to do this.
+> Does that mean there’s no toilet paper in the bathroom?
 >
-> <p>- Toby</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
