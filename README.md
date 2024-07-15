@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m just bidding a bon voyage a La Mon Petit fiancee. Translation:
+> Very cool.
 >
 > <p>- Andy</p>
 
