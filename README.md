@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ll take them for my kid.
+> [looking around office to see if anyone notices the smoke]  Does anyone smell anything smoky?
 >
-> <p>- Meredith</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
