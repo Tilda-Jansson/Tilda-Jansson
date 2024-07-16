@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get your free pancakes. They are delicious. They are nutritious. They are complimentary. [Flips a pancake. It’s about 8×11 inches] Young sir, would you like a free pancake?
+> How do you expect to turn a profit in this economy?
 >
-> <p>- Michael</p>
+> <p>- Nana</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
