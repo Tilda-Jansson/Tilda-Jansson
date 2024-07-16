@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I get it. [To Phyllis] You need to see more?
+> Okay, Toby, I gotta go.
 >
-> <p>- Stanley</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
