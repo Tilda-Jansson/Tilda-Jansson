@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You must be freezing.
+> Why did you OK this golden ticket idea? We’re going to lose a fortune, Michael. How could you let this happen?
 >
-> <p>- Julia</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
