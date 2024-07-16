@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Maybe put up some shelves.
+> So apparently Pam went out last night, and accidentally called my work phone at 3:00 in the morning.
 >
 > <p>- Jim</p>
 
