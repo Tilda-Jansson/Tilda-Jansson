@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why did you OK this golden ticket idea? We’re going to lose a fortune, Michael. How could you let this happen?
+> Maybe put up some shelves.
 >
-> <p>- David</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
