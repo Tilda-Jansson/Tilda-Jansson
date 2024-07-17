@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well…
+> Hey, you don’t deserve her.
 >
 > <p>- Michael</p>
 
