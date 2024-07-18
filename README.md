@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> None of your business.
+> Andy still doesn’t know that Angela’s having an affair with Dwight. And it’s been seventeen days. I mean, eventually he’ll figure it out, when their kids have giant heads and beet-stained teeth. But right now it’s just… awkward.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
