@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Is she cleaning the cat with her tongue? [Angela licks cat, meows]
+> Well you know what Jim? It is not my fault that you bought a house to impress Pam. That is why carnations exist.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
