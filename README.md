@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Idiot. Idiot! Idiot. Idiot.
+> You are the silent killer. Go back to the annex.
 >
 > <p>- Michael</p>
 
