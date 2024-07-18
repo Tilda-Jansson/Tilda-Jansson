@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan… Ryan.
+> You look dynamite. What are you talking about? Very slick. Ok, get the fish.
 >
 > <p>- Michael</p>
 
