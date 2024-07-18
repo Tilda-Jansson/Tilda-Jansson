@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The ring, 10-carat diamond, pops out of her mouth, hits her shrimp cocktail, right onto her finger. Million-to-one shot. All of the Greek people in the restaurant start screaming “Opa!” Which means “congratulations,” so…
+> I’m getting fired, aren’t I?  I can’t get fired.  I got nothing else.  Nothing.  No skill set.  Can’t type, bad on the phone, not great with people.
 >
-> <p>- Michael</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
