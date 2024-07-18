@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Andy still doesn’t know that Angela’s having an affair with Dwight. And it’s been seventeen days. I mean, eventually he’ll figure it out, when their kids have giant heads and beet-stained teeth. But right now it’s just… awkward.
+> Oh, damn. [Pam looks down at her salad] They’ve been in there for like ten minutes.
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
