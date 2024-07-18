@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You look dynamite. What are you talking about? Very slick. Ok, get the fish.
+> The ring, 10-carat diamond, pops out of her mouth, hits her shrimp cocktail, right onto her finger. Million-to-one shot. All of the Greek people in the restaurant start screaming “Opa!” Which means “congratulations,” so…
 >
 > <p>- Michael</p>
 
