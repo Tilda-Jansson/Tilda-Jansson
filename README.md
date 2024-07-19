@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen up. It has come to my attention that some people in this office are not getting along with other people in this office. And I think I have come up with the reason why. This office space is too small.
+> I know.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
