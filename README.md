@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive [Andy joins in] Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive.
+> These aren’t announcements.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
