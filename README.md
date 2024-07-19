@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, totally.  I’m sorry, Oscar.  Yeah, I didn’t realize it was bothering you.
+> Well that outta do it. [bumper is heavily duct taped to the car]
 >
-> <p>- Andy</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
