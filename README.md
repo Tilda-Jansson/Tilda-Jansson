@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m getting fired, aren’t I?  I can’t get fired.  I got nothing else.  Nothing.  No skill set.  Can’t type, bad on the phone, not great with people.
+> If you want to tell me –
 >
-> <p>- Meredith</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
