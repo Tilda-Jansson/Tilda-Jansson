@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know.
+> Yeah, totally.  I’m sorry, Oscar.  Yeah, I didn’t realize it was bothering you.
 >
 > <p>- Andy</p>
 
