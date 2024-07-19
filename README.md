@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want to get that image out of my head. The psychological issues that go behind licking a cat, are not things I want to go into. Also, I’m pretty sure she coughed up a hairball.
+> Okay, how do you feel?
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
