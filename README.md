@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What I don’t understand is… why the steak coupons?  I mean, if you were already getting the discounted paper?
+> No.
 >
-> <p>- Holly</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
