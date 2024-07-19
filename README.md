@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> These aren’t announcements.
+> We’re laughing at this cartoon! [passes newspaper to Dwight]
 >
-> <p>- Oscar</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
