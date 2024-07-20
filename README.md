@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, there is some serious issues with Meredith.
+> Did you know that in Morocco it is common to exchange a small gift when meeting somebody for the first time?  In Japan you must always commit suicide to avoid embarrassment.  In Italy you must always wash your hands after going to the bathroom.  This is considered to be polite.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
