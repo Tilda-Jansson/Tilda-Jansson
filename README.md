@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How did you get here, Michael?
+> Michael, I don’t know about this.
 >
-> <p>- David</p>
+> <p>- Nana</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
