@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …Brixx’s, Carmen’s…
+> Michael, there is some serious issues with Meredith.
 >
-> <p>- Meredith</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
