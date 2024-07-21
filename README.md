@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Does anyone happen to know what 15% of 4300 is?
+> Might have hi— OK, what firm?
 >
-> <p>- Oscar</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
