@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Isaac Silby  here for the interview
+> Well Monkey, he’s a real minister. And you said, “I do.” And I said, “I do.” And Andy wasn’t signing a receipt; he was signing our marriage certificate as a witness.
 >
-> <p>- Isaac</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
