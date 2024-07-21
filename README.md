@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So we may not have someone in our lives that we love, but we do have each other.
+> Do you want to hear a lie?
 >
 > <p>- Michael</p>
 
