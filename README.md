@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You should probably just meander back there; take a look.  See if he’s, see if he’s back.
+> Chunky monkey.
 >
-> <p>- Jim</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
