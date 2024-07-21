@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right. I mean why work harder than you should.
+> Take it Andy! Take me home, to the place I belong, Ba bah dah duh
 >
-> <p>- Charles</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
