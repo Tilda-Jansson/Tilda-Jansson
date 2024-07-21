@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you went to New York to do this.  So when you come back you come back the right way. Right?
+> You should probably just meander back there; take a look.  See if he’s, see if he’s back.
 >
 > <p>- Jim</p>
 
