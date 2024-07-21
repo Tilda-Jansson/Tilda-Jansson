@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thanks Michael. [Michael groans exhaustingly] Today we’re going to have a business ethics seminar because recently, without mentioning any names, there has been some misconduct at corporate and we have a very strict ethics policy and that employee has been fired.
+> This is going to sound sort of high-maintenance, but could we have it, like, three degrees cooler in here? I always think better when it’s cooler.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
