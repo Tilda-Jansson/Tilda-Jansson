@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah. He said that you told him how much you love me. About how you feel when I walk in a room, and about how, you’ve never doubted for a second that I’m the woman you want to spend the rest of your life with. I guess he’s never felt that with my mom, even at their best.
+> Um Phyllis, who’s that?
 >
-> <p>- Pam</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
