@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What the hell’s a rundown?
+> So why did you come in here?
 >
 > <p>- Jim</p>
 
