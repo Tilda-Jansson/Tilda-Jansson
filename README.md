@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Angela said she was going to tell him. She’s just not ready.
+> Angela, you’ll go to the supermarket and get the New York cheesecake. Make sure it’s the generic one. It’s Stanley’s favorite.
 >
-> <p>- Dwight</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
