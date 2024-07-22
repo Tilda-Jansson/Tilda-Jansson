@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes I download pirated music onto my work computer.
+> Aww man, I really wanted to see them.
 >
-> <p>- Kelly</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
