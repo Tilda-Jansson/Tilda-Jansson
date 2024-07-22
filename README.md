@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We called about a dozen customers, and they all said that they gave us great marks.
+> Six dollars.
 >
 > <p>- Jim</p>
 
