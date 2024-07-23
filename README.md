@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can already feel people’s stress starting to melt. I think they’re very excited about paying their respects this way. I have got to make sure that YouTube comes down to tape this.
+> It– it’s warm.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
