@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What about February 2nd?
+> Sir, please step away from your desk.
 >
-> <p>- Oscar</p>
+> <p>- Police Officer 2</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
