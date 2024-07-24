@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He just had to wear his tux today.
+> Oh my God!
 >
 > <p>- Pam</p>
 
