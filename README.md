@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, because… [Dwight and Michael walk in and march into Michael’s office, silencing the conversation]
+> Okay! Procedure, procedure. Exit options.  Where do we go folks?  Wha– Use a what to cover the mouth?
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
