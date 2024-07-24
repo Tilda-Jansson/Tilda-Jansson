@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wait, officers, are you sure you don’t want to interrogate him?
+> I didn’t eat lunch. [Oscar gives Kevin a look] I didn’t eat all my lunch.
 >
-> <p>- Dwight</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
