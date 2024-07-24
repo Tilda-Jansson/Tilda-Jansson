@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s a drive!
+> Well, well.  Holly… lujah!  It’s a miracle, you’re at your desk.
 >
 > <p>- Michael</p>
 
