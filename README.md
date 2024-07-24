@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No no no no no no!
+> Oh, my God, what happened?
 >
 > <p>- Michael</p>
 
