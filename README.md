@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, just stop making excuses and just dig in there.
+> People turn to their families all the time when they need help starting out and if my Nana’s investment club can help the Michael Scott Paper Company become a reality, then I’m sure that’s what she would have wanted. Does want.
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
