@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I, uh… [to camera] I let her win.
+> He’s everything I’m not and everything I am. He’s the whole package.
 >
 > <p>- Michael</p>
 
