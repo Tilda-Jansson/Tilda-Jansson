@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This little hell-raiser is Angela. She has slept with a bunch of different guys in the office. One over there, in the orange [points to Andy]
+> I did fall on my sword once. I was running with it in my belt. Won’t happen again.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
