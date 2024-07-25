@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, Pam. Hey I got this, okay?  Hello, officers, Dwight Schrute, former volunteer Sheriff’s Deputy.  Listen, I may have inside information that someone is hiding drugs in this very office.  [leads them back towards the annex as Creed stands up and starts to put him hands up and then relaxes them behind his ears]
+> I know, right.  Merry Christmas.
 >
-> <p>- Dwight</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
