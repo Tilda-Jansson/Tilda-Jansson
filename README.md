@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, okay. What kind of car games did you play in the ‘hood?
+> Dunder Mifflin, this is Pam. Oh hi ,David. [Michael shakes his head to Pam] No, I’m sorry he’s not back from the Civil Rights rally. I’ll have him call you the minute he gets back from the Lincoln Memorial.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
