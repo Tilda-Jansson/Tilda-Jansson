@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dunder Mifflin, this is Pam. Oh hi ,David. [Michael shakes his head to Pam] No, I’m sorry he’s not back from the Civil Rights rally. I’ll have him call you the minute he gets back from the Lincoln Memorial.
+> I was just back there, to make some cup-o-soup; the thing is still a huge mess.
 >
-> <p>- Pam</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
