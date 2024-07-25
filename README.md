@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. Absolutely not.
+> Goodbye prince family, [to Michael] should be called the Sucker family. Here you go shark, let me fix your fin for you and sharpen your teeth while I’m at it. [Dwight laughs evilly, Michael seems remorseful] Bye bye.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
