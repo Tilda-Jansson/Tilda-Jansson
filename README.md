@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what? We’re pretty much done here today. Why don’t you just take off early?
+> Yeah, let’s face it. This meeting sounds like it’s Wonka fans only. He’s never seen the movie. [David laughs]
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
