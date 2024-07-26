@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh… okay. [looks back at Andy and Oscar] Doesn’t matter, because I am going to take a nap.  I think I am going to use my complimentary blindfold.  I will don it… and oh! Look at that.  I can’t see because I am in a– [cart crashes into Michael’s leg] GAH!
+> It’s been a little tense.  People are suspicious of me.  And my best friend in the office won’t even talk to me. Turns out being the morality police does not make you popular.  I should know because in middle school I was the hall monitor and the kids used to stuff egg salad in my locker.  I was just hoping middle school was over.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
