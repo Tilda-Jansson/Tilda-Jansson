@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. What? Why?
+> Thanks.  That’s sweet.  Anyways, umm, seems like we lost to Utica by only eight pounds.
 >
-> <p>- Pam</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
