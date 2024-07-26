@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s been a little tense.  People are suspicious of me.  And my best friend in the office won’t even talk to me. Turns out being the morality police does not make you popular.  I should know because in middle school I was the hall monitor and the kids used to stuff egg salad in my locker.  I was just hoping middle school was over.
+> [in New York] Right Dwight is loud.
 >
-> <p>- Holly</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
