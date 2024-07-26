@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Dwight comes over, starts to massage Michael’s shoulders] Don’t do that.
+> Dwight your’e supposed to do it this way.
 >
 > <p>- Michael</p>
 
