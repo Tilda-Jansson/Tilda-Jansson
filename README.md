@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thanks.  That’s sweet.  Anyways, umm, seems like we lost to Utica by only eight pounds.
+> I don’t mind telling you that I have an addiction.  I do.  To porn.
 >
-> <p>- Holly</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
