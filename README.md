@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, Michael, what are you doing?
+> Oh… okay. [looks back at Andy and Oscar] Doesn’t matter, because I am going to take a nap.  I think I am going to use my complimentary blindfold.  I will don it… and oh! Look at that.  I can’t see because I am in a– [cart crashes into Michael’s leg] GAH!
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
