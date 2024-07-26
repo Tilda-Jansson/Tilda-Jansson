@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Utica, Albany, all the other branches are struggling, but your branch is reporting strong numbers. [Michael smiles] Look, you’re not our most traditional guy, but clearly, something you are doing… is right. And I just, I need to get a sense of what that is.
+> Ooh. Ouch. Okay, good. You’re funny, very good and funny. Tell me, A.J., are you dating? Is there somebody you date?
 >
-> <p>- David</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
