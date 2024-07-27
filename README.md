@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you went to New York to do this.  So when you come back you come back the right way. Right?
+> Also — and no pressure — the teacher? He’s a catch.
 >
-> <p>- Jim</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
