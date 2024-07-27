@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t mind telling you that I have an addiction.  I do.  To porn.
+> What are you doing? What’s going on? Excuse me.
 >
-> <p>- Meredith</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
