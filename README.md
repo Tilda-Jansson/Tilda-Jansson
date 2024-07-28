@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim, good for you, standing up to Pam like that.
+> Can you turn the heat down now – it’s oppressive.
 >
-> <p>- Meredith</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
