@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can you turn the heat down now – it’s oppressive.
+> And in terms of nightlife, when you get there just ask the concierge.
 >
-> <p>- Oscar</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
