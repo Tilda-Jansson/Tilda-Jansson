@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And in terms of nightlife, when you get there just ask the concierge.
+> Stealing office supplies is another big ethical area that there seems to be some confusion about.
 >
-> <p>- David Wallace</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
