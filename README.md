@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Several times a day, Michael says words that are way beyond my vocabulary.
+> So Julia, um, let’s see. With regards to, uh, billing. Should we send bills to you, or to your boyfriend’s house or?
 >
-> <p>- Jim</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
