@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I opened this place after I came back from Vietnam.
+> Sir?
 >
-> <p>- Prince Grandfather</p>
+> <p>- Police Officer 1</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
