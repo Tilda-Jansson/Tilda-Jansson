@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So Julia, um, let’s see. With regards to, uh, billing. Should we send bills to you, or to your boyfriend’s house or?
+> Well, No, I actually only put in two. But that’s not how the songs goes.
 >
 > <p>- Andy</p>
 
