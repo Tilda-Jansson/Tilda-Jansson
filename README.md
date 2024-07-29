@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [as Michael continues imitating Charles] Not a good idea, Michael. Michael, stop. Stop doing that. Stop it. You're going to get all of us in trouble.
+> No because their sign is centered perfectly above their store. No sign of the sign being moved.
 >
-> <p>- Employees</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
