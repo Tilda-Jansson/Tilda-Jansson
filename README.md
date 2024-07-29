@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Come on, I’m sure there’s something you need to get off your chest.
+> Wow.
 >
 > <p>- Michael</p>
 
