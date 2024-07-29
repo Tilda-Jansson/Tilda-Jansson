@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why don’t you just get rid of this guy? [points to Prince Son]
+> No! Michael, no!
 >
 > <p>- Dwight</p>
 
