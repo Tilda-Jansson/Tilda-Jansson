@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, No, I actually only put in two. But that’s not how the songs goes.
+> Is that anything like the original Battlestar Galactica?
 >
 > <p>- Andy</p>
 
