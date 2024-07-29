@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What is your name, sir?
+> The three words I would describe you as is aggressive, hostile and definitely difficult.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
