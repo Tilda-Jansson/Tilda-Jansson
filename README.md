@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Got your per diem?
+> I’ve had two men fight over me before. Usually it’s over which one gets to hold the camcorder.
 >
-> <p>- David Wallace</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
