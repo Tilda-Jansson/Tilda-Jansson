@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She could be your soul mate.
+> And business class which was basically just coach. And the hotel which sucked big time.
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
