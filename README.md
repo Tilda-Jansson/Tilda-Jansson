@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, you know what? I got you a cake.
+> OK. ‘Cause the quote was, cut off your nose to spiderface.
 >
 > <p>- Jim</p>
 
