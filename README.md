@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m starting to get a feeling for what life was like around here for Toby.
+> The best. Great friends. Thank you, Michael. [all three are still laughing]
 >
-> <p>- Holly</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
