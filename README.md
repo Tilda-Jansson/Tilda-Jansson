@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve had two men fight over me before. Usually it’s over which one gets to hold the camcorder.
+> You remember Holly? She used to work for HR? She’s the love of my life. She just left… and I never got closure. And I feel like I need to go to Nashua and get closure.
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
