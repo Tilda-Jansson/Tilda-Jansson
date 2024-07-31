@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Actually, she’s on an HR retreat for the next three days.
+> What?
 >
-> <p>- Receptionist</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
