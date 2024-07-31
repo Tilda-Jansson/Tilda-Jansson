@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Classy.
+> [now belting out the lyrics, even though Astrid is asleep] How well I remember / The look that was in his eyes / Stealing kisses from me on the sly / Taking time to make time / Telling me that he’s all mine / Learning from each other’s knowing / Looking to see how much we’ve grown / And the only one…
 >
-> <p>- Dwight</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
