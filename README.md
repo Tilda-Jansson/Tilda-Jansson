@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And, well, I don’t see my co-workers–
+> Nobody panic. The good news is… they can’t fire all of us, right?
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
