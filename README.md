@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Whistling, enters office in farmer overalls]  I thought I’d come in casual today. Man, I’m hungry. Anyone else feel like a beet?
+> And I like you too.
 >
-> <p>- Andy</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
