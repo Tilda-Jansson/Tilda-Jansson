@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Major pharmaceuticals do not want you to know that beet juice has medicinal value both as an aphrodisiac and a laxative.
+> Numb me up. I want anesthesia!
 >
 > <p>- Dwight</p>
 
