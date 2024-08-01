@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Numb me up. I want anesthesia!
+> [Whistling, enters office in farmer overalls]  I thought I’d come in casual today. Man, I’m hungry. Anyone else feel like a beet?
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
