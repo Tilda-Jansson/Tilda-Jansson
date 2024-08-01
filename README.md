@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, no, no, no, no. No. You know what? I'm going to New York. And I am going to talk to David Wallace. [gets jacket] I'm going to tell him everything. And I'm sorry to say, you're screwed. And, you know what? You are gonna be through. And I'm sorry. I'm sorry to do that to you. Do you even know how paper is made? It's not like steel. You don't put it into a furnace. If you put paper into a furnace, you know what would happen? You'd ruin it. [pushes chair as he leaves]
+> OK.
 >
 > <p>- Michael</p>
 
