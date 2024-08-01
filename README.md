@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Great. Uh, except, I don’t want to be a receptionist anymore.
+> I put three pallets on the truck to Blue Cross once a week. They use a lot of paper.
 >
-> <p>- Pam</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
