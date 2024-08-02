@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are people watching?
+> So, assessing the situation.  Are they breathing?
 >
-> <p>- Michael</p>
+> <p>- CPR Trainer</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
