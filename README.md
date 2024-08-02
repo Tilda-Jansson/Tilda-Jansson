@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, we would never do that. And if we did, it would be with Jim and Pam.
+> Let me get a picture of you guys.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
