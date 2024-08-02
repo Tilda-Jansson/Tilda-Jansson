@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I learned a while back that if I don’t text 911 people will not return my calls.   Um, but now people always return my calls because they think that something horrible has happened.
+> I’ve written these things because it is my responsibility, as manager of this branch, to profiligate great ideas and I think I have done my part with the golden ticket promotion. Now it is your turn. I want to hear some great ideas from you that are just as good as mine. [Jim raises hand] Umm hmm.
 >
 > <p>- Michael</p>
 
