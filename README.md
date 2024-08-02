@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Darryl, would you do the honors?
+> Are people watching?
 >
 > <p>- Michael</p>
 
