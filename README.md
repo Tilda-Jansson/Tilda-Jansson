@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> May I have your attention please? Sign in, sign in on the sign in sheet, the clipboard. This meeting is mandatory, if you do not sign in your name will not be counted. Thank you.
+> Actually not.  It was really so-so.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
