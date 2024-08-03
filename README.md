@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s keep this rollin’… Ryan?
+> Well-
 >
 > <p>- Michael</p>
 
