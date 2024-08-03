@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, Phyllis, do I need this invite to get in to the party?
+> Let’s keep this rollin’… Ryan?
 >
 > <p>- Michael</p>
 
