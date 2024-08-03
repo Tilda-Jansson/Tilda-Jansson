@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Actually not.  It was really so-so.
+> Let’s go.
 >
 > <p>- Jim</p>
 
