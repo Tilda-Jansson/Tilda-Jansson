@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How dare you! Michael Clump is a celebration of fat people.
+> Hey, Phyllis, do I need this invite to get in to the party?
 >
 > <p>- Michael</p>
 
