@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Would a liar bring mini Mounds bars? [Pam tosses a handful of Mounds bars at everyone]
+> She’s, um, she’s in New York. She’s at an art school.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
