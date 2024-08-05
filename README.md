@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh coffee, that’s too much. [Dwight drinks it]
+> I was just thinking. Let me see a chair.
 >
-> <p>- Michael</p>
+> <p>- Hank</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
