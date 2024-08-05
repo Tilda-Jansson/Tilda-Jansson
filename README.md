@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They’re our largest client.
+> You don’t!
 >
-> <p>- Oscar</p>
+> <p>- Tom</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
