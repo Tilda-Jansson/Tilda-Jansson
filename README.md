@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love babies. I think they are beautiful in all sorts of different ways.  I try to pick up and hold a baby every day, if possible, because it nourishes me.  It feeds my soul.  Babies are drawn to me, and I think it’s because they see me as one of them.  But cooler, and with my life put together a little bit.  If a baby were president, there would be no taxes, there would be no war.  There would be no government, and things could get terrible.  It actually, probably – it would be a better screenplay idea than a serious suggestion.
+> Oh good. She broke up with you.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
