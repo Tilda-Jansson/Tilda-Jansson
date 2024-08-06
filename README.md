@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Shut it.  Shut it.
+> I love babies. I think they are beautiful in all sorts of different ways.  I try to pick up and hold a baby every day, if possible, because it nourishes me.  It feeds my soul.  Babies are drawn to me, and I think it’s because they see me as one of them.  But cooler, and with my life put together a little bit.  If a baby were president, there would be no taxes, there would be no war.  There would be no government, and things could get terrible.  It actually, probably – it would be a better screenplay idea than a serious suggestion.
 >
 > <p>- Michael</p>
 
