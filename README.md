@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not judging it, it’s like … I could run GM but I couldn’t fix a car. It’s not  saying one is better than the other.
+> Yes. We are. We are livid.  But we are going to let this one slide.
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
