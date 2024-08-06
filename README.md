@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, why is it that you asked everyone except me, Angela, Creed, and Meredith?
+> I’m not judging it, it’s like … I could run GM but I couldn’t fix a car. It’s not  saying one is better than the other.
 >
-> <p>- Kevin</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
