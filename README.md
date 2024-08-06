@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight and I are both writing letters to our clients. I’m just sending a quick note to say how much I appreciate their business, and he is writing notarized letters to inform them them that lying on customer reviews is a prosecutable form of fraud and defamation. It’s just… different styles.
+> [rolls down car window] Dwight and Angela are having an affair. They’ve been sleeping together for some time. That was the news. I wanted to let you know.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
