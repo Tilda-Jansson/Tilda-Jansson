@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well I just want to take a minute to talk to you all about something very serious. Once every hour, someone is involved in an internet scam. That man is Michael Scott. [laughter] He’s supporting about 20 Nigerian princesses.
+> You never know. Better safe than sorry.
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
