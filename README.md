@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …kind of [retches] Maybe you could tie it around your waist or lose the shirt underneath or something.
+> Thank you so much. My daughter is going to love this.
 >
-> <p>- Michael</p>
+> <p>- Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
