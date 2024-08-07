@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Cool!
+> Hello, Mr. Buttlicker. How may we help you?
 >
 > <p>- Michael</p>
 
