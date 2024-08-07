@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am.
+> [clears throat, raises his hand] Stanley Hudson. Are there gonna be layoffs?
 >
-> <p>- Eric</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
