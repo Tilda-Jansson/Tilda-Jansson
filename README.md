@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello. [two women, a blonde and a redhead, enter the office.  Michael and Dwight walk towards them and Dwight extends his hand to the redhead]
+> Really…
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
