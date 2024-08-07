@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh really? How are you gonna do that?
+> Punch him as hard as you possibly can in the face.
 >
 > <p>- Dwight</p>
 
