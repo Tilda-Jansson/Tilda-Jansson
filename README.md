@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [clears throat, raises his hand] Stanley Hudson. Are there gonna be layoffs?
+> Hello. [two women, a blonde and a redhead, enter the office.  Michael and Dwight walk towards them and Dwight extends his hand to the redhead]
 >
-> <p>- Stanley</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
