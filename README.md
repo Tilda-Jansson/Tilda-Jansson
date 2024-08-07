@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How much do you have?
+> Oh really? How are you gonna do that?
 >
 > <p>- Dwight</p>
 
