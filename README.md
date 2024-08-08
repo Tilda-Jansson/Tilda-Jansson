@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. So yeah.
+> Originally founded in 1866, Scranton quickly became one of Pennsylvania's largest anthracite coal-mining communities.
 >
 > <p>- Dwight</p>
 
