@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I heard you. [quickly walks away]
+> We are getting there folks. Slow and steady. [David Wallace walks in] Well, well, have we been blessed today. Ladies and gentlemen, Mr. David Wallace! Whoo!
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
