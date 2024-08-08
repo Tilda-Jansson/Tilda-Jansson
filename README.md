@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why have I stayed at Dunder Mifflin for so long? Certainly not because of the paycheck.  ‘Cause I could be making more money as a doctor or a professional athlete.  I think it’s because they respect me.  A boss that will not fire you, even though you just tell him off… right to his face… over the hone.  That’s respect.
+> How dare you all attack him like this.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
