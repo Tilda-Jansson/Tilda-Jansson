@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello! They took away my parking space but they can’t take away my pride! [awkwardly climbs out of his car]
+> Are you trying to hurt my feeling? Because if so, you are succeeding. Fortunately, my feelings regenerate at twice the speed of a normal man’s.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
