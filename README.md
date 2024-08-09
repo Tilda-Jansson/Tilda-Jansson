@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are you trying to hurt my feeling? Because if so, you are succeeding. Fortunately, my feelings regenerate at twice the speed of a normal man’s.
+> [clearly just humoring her] No… way!
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
