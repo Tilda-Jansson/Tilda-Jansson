@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, no, no! You will not die! Stanley! Stanley! You will not die!  Stanley! Stanley! Barack is president!  You are black, Stanley! I’m gonna give him mouth to mouth.
+> This man is crazy! This man is crazy!
 >
-> <p>- Michael</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
