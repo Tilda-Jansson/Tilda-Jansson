@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is going to sound sort of high-maintenance, but could we have it, like, three degrees cooler in here? I always think better when it’s cooler.
+> Hey! Hey! Stop it! Stop it!
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
