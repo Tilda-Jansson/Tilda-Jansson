@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [thinks for a moment] Give me two clients for her.
+> [reading from a note on the microwave] “To whoever made the microwave mess:
 >
-> <p>- Stanley</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
