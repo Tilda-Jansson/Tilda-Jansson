@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sickly] I am on the third day of my cleanse diet. All I have to do is drink maple syrup, lemon juice, cayenne pepper and water for all three meals. Um, I just bought some bikinis online, size 2. So … gonna look amazing.
+> Could I stick it with a pin?
 >
-> <p>- Kelly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
