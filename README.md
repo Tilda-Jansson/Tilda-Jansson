@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [giving chest compressions to the practice dummy] I can’t keep doing this forever.
+> Ha ha ha. That’s funny. [angrily] Take that sweatshirt off!  Hey buddy.
 >
-> <p>- Kevin</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
