@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The Springsteen tickets seemed too good to be true. But, a lot of Michael seems too good to be true. So far it’s all true. But yeah, those tickets, really seemed too good to be true.
+> Oh, look at that.  Cupids and hearts. Really shoving our faces in it this year.  You doin OK, bud?
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
