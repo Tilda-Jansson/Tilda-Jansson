@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I’m from Techstar about a new phone system for you.   I was wondering if I could talk to Michael Scott.
+> Thank you for your time I look forward to getting your calls. [hurrying out door]
 >
-> <p>- Phone Salesman</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
