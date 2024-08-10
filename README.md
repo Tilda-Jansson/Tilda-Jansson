@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.  Where is my translator?
+> Yes, I’m from Techstar about a new phone system for you.   I was wondering if I could talk to Michael Scott.
 >
-> <p>- Michael</p>
+> <p>- Phone Salesman</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
