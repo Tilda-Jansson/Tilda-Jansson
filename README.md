@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes.  And I think they gave him too many fries.
+> It squeaks when you bang it, that’s what she said. Let’s hear it for me! Right? A bargain at any price!
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
