@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m just gonna grab some lunch. You wanna come with?
+> [Jim and Dwight sitting next to each other in talking head interview] Go ahead.
 >
-> <p>- Oscar</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
