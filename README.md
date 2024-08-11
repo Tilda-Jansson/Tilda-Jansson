@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Jim and Dwight sitting next to each other in talking head interview] Go ahead.
+> I hate dieting, I hate it so much.  I hate this worm inside of me!
 >
-> <p>- Jim</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
