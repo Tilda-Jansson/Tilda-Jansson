@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you, accounting department.
+> Charles is having Kevin cover the phones for a while. How do I say this diplomatically? [pause] I think Kevin is doing exactly as well as anyone might have expected someone like him to perform in a position like that.
 >
 > <p>- Jim</p>
 
