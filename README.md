@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Angela, you have to put a stop to this right now.
+> [on phone] Damn it, Stephanie, put me through to him. Is that him in the background? David? David! David, pick up the phone!
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
