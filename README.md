@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Charles is having Kevin cover the phones for a while. How do I say this diplomatically? [pause] I think Kevin is doing exactly as well as anyone might have expected someone like him to perform in a position like that.
+> [gesturing Pam to be quiet] –then, we, are gonna have our own private Valentine’s Day party.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
