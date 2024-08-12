@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No! No No. No. “My Stumps.” Like “My Humps” but a guy with no legs.
+> You, you like that?
 >
 > <p>- Michael</p>
 
