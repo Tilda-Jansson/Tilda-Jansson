@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, stop. Forever stop that story. That’s disgusting, and it doesn’t count. So give me another one.
+> Okay, so all we need is a theme… and cups, and ice, and punch, and a cake.
 >
 > <p>- Jim</p>
 
