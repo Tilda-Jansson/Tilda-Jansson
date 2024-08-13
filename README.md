@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why isn’t Dwight turning around?
+> [on speakerphone] David, it was my understanding that I was not going to be managed.
 >
-> <p>- Phyllis</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
