@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get out of the way! Go, go, go!
+> Remember when I jokingly yelled at you to take your sweatshirt off? Totally joking. But, you should know, those colors are sacred. Not that I care. But if you’re not a Cornell man, you probably shouldn’t wear them.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
