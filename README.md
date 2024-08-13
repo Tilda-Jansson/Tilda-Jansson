@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We could go to the food court and get different foods. You could get Chicken Teriyaki. I could get a hot dog.
+> Get out of the way! Go, go, go!
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
