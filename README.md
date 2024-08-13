@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes they are, you just don’t care about the information.
+> Pow pow pow… [hands making gunshot impression, sporadic clapping]
 >
 > <p>- Michael</p>
 
