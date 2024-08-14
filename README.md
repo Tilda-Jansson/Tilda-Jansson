@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The Willy Wonka Golden Ticket promotional idea is probably the best idea I have ever had. It’s probably the best idea anybody has ever had. Three days ago, I slipped five pieces of gold paper into random paper shipments. This entitles the customer to ten percent off of their total order. It will be a day for them that is full of whimsy, and full of excitement and full of fantasy.
+> Of course.  I mean, there’s nothing erotic about this, you know, it’s, it’s, it’s what these [shakes a breast] were made for, you know, I mean they’re full of baby milk, they’re… nourishing my baby, so… [tosses head proudly, Creed comes up to stand next to Kevin, staring directly at Jan’s chest]  Michael!
 >
-> <p>- Michael</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
