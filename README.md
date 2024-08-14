@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Um, did my dad say anything about my mom?
+> [on the phone] Yeah, that’s no problem.
 >
 > <p>- Pam</p>
 
