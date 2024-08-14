@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [looking around office to see if anyone notices the smoke]  Does anyone smell anything smoky?
+> Yeah it’s, uh, a caprese salad.  There’s a little bit of, uh, mozerella right there.
 >
-> <p>- Dwight</p>
+> <p>- Police Officer 2</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
