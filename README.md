@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No that’s, that is incredibly dangerous.
+> Ok, Michael, I'm dissolving this committee.
 >
-> <p>- Karen</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
