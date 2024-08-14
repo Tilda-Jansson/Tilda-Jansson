@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah it’s, uh, a caprese salad.  There’s a little bit of, uh, mozerella right there.
+> Jimbo.
 >
-> <p>- Police Officer 2</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
