@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Of course.  I mean, there’s nothing erotic about this, you know, it’s, it’s, it’s what these [shakes a breast] were made for, you know, I mean they’re full of baby milk, they’re… nourishing my baby, so… [tosses head proudly, Creed comes up to stand next to Kevin, staring directly at Jan’s chest]  Michael!
+> It’s okay. It’s all right.
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
