@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim Halpert, yep. So, um, just going to let you get back to it... [being pulled away by Pam]
+> [on phone] Hold on one sec. Hold on one sec, Tom, what’s that? You found five golden tickets? And does it say limit one per customer? Nope, it doesn’t.
 >
 > <p>- Jim</p>
 
