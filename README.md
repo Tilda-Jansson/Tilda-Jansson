@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That wasn’t a tapeworm.
+> Move it! Let’s go, go, go, go, go. I got this.
 >
-> <p>- Creed</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
