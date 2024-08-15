@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, well thank you very much for all of your help. It’s going to be an incredibly hard decision.
+> Thank you.
 >
 > <p>- Michael</p>
 
