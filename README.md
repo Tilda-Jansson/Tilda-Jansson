@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, you have your own entrance. That’s nice.
+> Wait a second, wait a second, I wrote it down in my diary.
 >
 > <p>- Michael</p>
 
