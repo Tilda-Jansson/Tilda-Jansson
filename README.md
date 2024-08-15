@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re not going to do anything to his neck or his groin.
+> Nope, I don’t have a card, but I’ll do you one better. A little scrap of paper.
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
