@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Since when is it illegal to put caprese salad… anywhere.
+> Oh, well thank you very much for all of your help. It’s going to be an incredibly hard decision.
 >
 > <p>- Michael</p>
 
