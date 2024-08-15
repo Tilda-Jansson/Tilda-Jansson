@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whistling Pachelbel’s “Canon in D;” switches to singing then back to whistling]
+> That’s really good. [offers mimosa to Oscar]
 >
 > <p>- Andy</p>
 
