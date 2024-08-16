@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [concerned look on face] You okay?
+> It’s been 20 seconds.
 >
-> <p>- Jim</p>
+> <p>- CPR Trainer</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
