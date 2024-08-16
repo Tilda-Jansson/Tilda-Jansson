@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Love that one.
+> Well, stop. Hold your breath. I still hear it. Who’s there? Kelly, is that you? Hold on. [puts down phone and runs away]
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
