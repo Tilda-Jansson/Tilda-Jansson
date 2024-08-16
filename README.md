@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [walking out of the building] Oh, I forgot my keys.
+> We’re only halfway?
 >
 > <p>- Holly</p>
 
