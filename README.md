@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, that wouldn’t-
+> We wait, and hope that people show up to the pancake luncheon.
 >
 > <p>- Michael</p>
 
