@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You are? Good ideas, huh? Hey, did you come up with toilet buddy? It’s a net, circular net, that you put inside the toilet to catch all of your change and your wallet from falling into the toilet? Formally known as toilet guard?
+> Jimbo, let’s do this thang.
 >
 > <p>- Michael</p>
 
