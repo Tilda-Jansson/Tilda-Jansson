@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He just had to wear his tux today.
+> You are? Good ideas, huh? Hey, did you come up with toilet buddy? It’s a net, circular net, that you put inside the toilet to catch all of your change and your wallet from falling into the toilet? Formally known as toilet guard?
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
