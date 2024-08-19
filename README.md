@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [groans painfully]
+> [to Rose] You were in the parking lot earlier. That’s how I know you.
 >
-> <p>- Michael</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
