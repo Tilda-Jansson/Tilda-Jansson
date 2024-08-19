@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thousand-year-old church in the continental United States. There has to be a rainbow. 24-hour veterinarian on call.
+> Oh, fire!  Oh my goodness!  What’s the procedure?  What do we do, people?
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
