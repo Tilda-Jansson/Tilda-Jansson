@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know. Two, maybe three if one wears out. How many shoes do you need?
+> Does anyone happen to know what 15% of 4300 is?
 >
-> <p>- Dwight</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
