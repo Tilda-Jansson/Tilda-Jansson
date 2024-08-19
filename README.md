@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m gay!
+> Thousand-year-old church in the continental United States. There has to be a rainbow. 24-hour veterinarian on call.
 >
-> <p>- Oscar</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
