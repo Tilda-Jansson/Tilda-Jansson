@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know you’re a very busy man so I’ll cut right to the chase. I’d like my old job back.
+> I don’t know. Two, maybe three if one wears out. How many shoes do you need?
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
