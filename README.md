@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Deutsch… let me see here.  That is either an incense dispenser, or a ceremonial sarcophagus.
+> [picks up his bobblehead and throws it in the trash can]
 >
 > <p>- Dwight</p>
 
