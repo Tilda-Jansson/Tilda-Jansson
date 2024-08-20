@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey. I would like a pair of size nine, please. [Ryan is working at the bowling alley] It’s Michael.
+> No… God.
 >
 > <p>- Michael</p>
 
