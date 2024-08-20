@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, fire!  Oh my goodness!  What’s the procedure?  What do we do, people?
+> Deutsch… let me see here.  That is either an incense dispenser, or a ceremonial sarcophagus.
 >
 > <p>- Dwight</p>
 
