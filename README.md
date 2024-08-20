@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fax this for me.
+> Pardon me, may I have a chocolate chip cookie?  I gave blood earlier and I’m still feeling woozy.
 >
-> <p>- Dwight</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
