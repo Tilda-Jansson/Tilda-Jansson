@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [exiting the Ladies’ room] Mine too. [Pam and Jim notice the Handicapped stall and walk towards it.  Putting their ears to the door they hear Mr. and Mrs. Vance being intimate]
+> I don’t think that…
 >
-> <p>- Pam</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
