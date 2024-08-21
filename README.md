@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, I want you to be on top of that okay?  I want you to be my productivity czar. Okay, good.  Uh, okay that it on my list. So uh, you know, no excuses guys. Lets get going okay? [everyone leaves except Kevin and Stanley, who are sitting stunned in their chairs]
+> Uh, well, actually there’s something else I’d love to talk to you about. Can we go somewhere else to talk about it?
 >
-> <p>- Charles</p>
+> <p>- Alex</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
