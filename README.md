@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, well, actually there’s something else I’d love to talk to you about. Can we go somewhere else to talk about it?
+> You started on that rundown yet?  [Looks at Jim’s screen.]
 >
-> <p>- Alex</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
