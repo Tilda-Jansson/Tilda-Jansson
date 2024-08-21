@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hope you brought your appetitos.  My lady. My tuna. A little movie popcorn. [dumps popcorn in bowl, it’s almost all seeds] Uh, damn it.  This movie, a lot of buzz.  Not coming out for another six months.  Mrs. Albert Hannaday. So, friendship with the Nard-dog has its privileges.
+> You got a second?
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
