@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wow, thirteen!
+> I’ll be honest with you— we’ve been talking with Catalyst Paper. Their prices are better than yours.
 >
-> <p>- Phyllis</p>
+> <p>- Client</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
