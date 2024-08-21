@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is my baby.
+> Okay. There are … 4 corners in this room. Each corner is to be a personal space for each one of you. Whichever corner you want. And make it your own.
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
