@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, I’m Carrie Bradshaw from Sex And The City.
+> But, if you need to get in touch with her immediately, you could talk to A.J. He’s a salesman here.
 >
-> <p>- Kelly</p>
+> <p>- Receptionist</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
