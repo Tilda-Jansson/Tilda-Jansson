@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here we go. Everybody on.
+> When will she be ready?
 >
 > <p>- Michael</p>
 
