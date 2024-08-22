@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Take a nap, nothing good is on TV right now.
+> Oh, after vous. [walking into the girls bathroom]
 >
-> <p>- Stanley</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
