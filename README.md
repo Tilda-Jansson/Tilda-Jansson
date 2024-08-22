@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I hope he’s ok, I feel bad.
+> [angrier] Well I don’t know about that, because she certainly seems to enjoy making lovemaking with me.
 >
-> <p>- Phyllis</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
