@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Cryogenics. Beer me five.
+> Oh, so wait a minute, you’re going to time me every time I yawn?  That’s absurd. [Jim smiles and starts the stopwatch] Really? [in a mocking voice] Oh hey look, monkey knows how to use a stopwatch everybody!  He’s ti— [Dwight conceeds and goes back to work, Jim stops the watch]
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
