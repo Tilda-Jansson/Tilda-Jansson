@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, I don’t know.
+> [throwing the stroller against a high chain link fence] Don’t get stuck on the barbed wire!
 >
-> <p>- Stanley</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
