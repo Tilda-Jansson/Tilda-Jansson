@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [over the phone] How old’s Kelly?
+> …and, yeah, the whole thing was incredibly cathartic.
 >
-> <p>- Jim</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
