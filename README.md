@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I prefer being stuck in a Costa Rican hospital.
+> We wait, and hope that people show up to the pancake luncheon.
 >
-> <p>- Toby</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
