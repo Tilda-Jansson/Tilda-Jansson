@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fa-la-la-la-la-la-la-ka-ching.
+> Yeah… but… eh… breakfast? You mean when they were eating soup? I don’t think that was breakfast. Unless soup, does soup symbolize breakfast?
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
