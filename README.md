@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m just bidding a bon voyage a La Mon Petit fiancee. Translation:
+> Fa-la-la-la-la-la-la-ka-ching.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
