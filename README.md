@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …and, yeah, the whole thing was incredibly cathartic.
+> You have to stop. [bangs on glass window]
 >
 > <p>- Toby</p>
 
