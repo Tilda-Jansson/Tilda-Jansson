@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s three-way this little issue, and come to a solution by the time we get to Schrute Farms, how’s that for a plan?
+> Angela made several 911 calls about cars going too fast in front of the building, so the police put up a radar gun. It’s actually caused a bit of a traffic hazard.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
