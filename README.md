@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah… but… eh… breakfast? You mean when they were eating soup? I don’t think that was breakfast. Unless soup, does soup symbolize breakfast?
+> Is that the Matsuhashi B-400? The world’s tiniest Bluetooth? [reaches toward Jim’s ear] May I?
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
