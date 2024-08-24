@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay focus. Focus.  You’re in the right building, you’re with the right people; what happened?
+> Michael! It’s really good to see you.
 >
 > <p>- Pam</p>
 
