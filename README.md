@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can’t believe no ones thought of that.
+> [enters the office and walks to Angela] I need to talk to you.
 >
-> <p>- Jim</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
