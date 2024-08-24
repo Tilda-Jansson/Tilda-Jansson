@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know.  I saw this thing, like a belt with a key.
+> Now is really not the time, Meredith.
 >
 > <p>- Michael</p>
 
