@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love you, too.
+> I know! No, I’m saying that when I feel overwhelmed, something I like to do is make a list. Make a list of things to do and then start with the easy stuff.
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
