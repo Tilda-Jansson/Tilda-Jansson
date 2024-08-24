@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Now is really not the time, Meredith.
+> Uh, no, sorry, Michael. No, Kevin, right? We're going to need you to do that during office hours.
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
