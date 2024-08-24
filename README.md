@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sure.
+> Dunder Miff…Michael Scott Paper Company, this is Pam. Oh, hi Russell from the pancake luncheon, how are you? Well we’d like to do business with you too! How can we make that happen?
 >
 > <p>- Pam</p>
 
