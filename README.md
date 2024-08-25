@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [looking into Julia’s car] Trying to see what CD’s she got. It’s good to know the deets about the girl you’re wooing. Eh, Aha! Fiest. Yes! [bangs on car and alarm goes off] Whoa! Aah, Aah! [backs up and runs into another car starting another alarm]
+> No, you’re supposed to say, “Rock the house.”
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
