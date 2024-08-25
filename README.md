@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I do.  No.  I do.  I, I want to.  Trust me.  I really do.
+> She is an amazing actress.
 >
-> <p>- Michael</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
