@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sighs] Oh, so this is what every day would be like if you hadn’t left India.
+> Could I stick it with a pin?
 >
 > <p>- Michael</p>
 
