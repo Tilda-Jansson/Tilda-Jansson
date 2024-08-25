@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Could I stick it with a pin?
+> I met this guy at corporate last week and we were just digging each other's vibe. I was totally grooving on him and vice-versa. And besides, the last two people to have his job were Jan and Ryan. The former was my lover, and the latter my best friend. So, who knows? I do. [in British cockney accent] It's gonna be mental! It's going to be mental.
 >
 > <p>- Michael</p>
 
