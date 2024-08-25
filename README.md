@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I met this guy at corporate last week and we were just digging each other's vibe. I was totally grooving on him and vice-versa. And besides, the last two people to have his job were Jan and Ryan. The former was my lover, and the latter my best friend. So, who knows? I do. [in British cockney accent] It's gonna be mental! It's going to be mental.
+> [on the phone] We have that going out Tuesday… Okay? Sure, no, I can… I’ll double-check that for you.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
