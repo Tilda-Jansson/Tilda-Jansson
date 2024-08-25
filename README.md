@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on the phone] We have that going out Tuesday… Okay? Sure, no, I can… I’ll double-check that for you.
+> He just sent a text…
 >
 > <p>- Jim</p>
 
