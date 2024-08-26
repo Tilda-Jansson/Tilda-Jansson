@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A net? a giant net?
+> Not good.
 >
 > <p>- Dwight</p>
 
