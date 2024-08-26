@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How’s it going?
+> Well, okay, lets go.
 >
 > <p>- Michael</p>
 
