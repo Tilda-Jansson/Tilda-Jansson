@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Or, we can prove them wrong. Let’s prove them wrong.
+> [walks into Kelly’s cubicle and sets a box down on the desk] Just checking out where I’m going to be pretty soon.  When Pam gets back.  Gonna be close quarters.  Gonna be a lot of tension.
 >
-> <p>- Angela</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
