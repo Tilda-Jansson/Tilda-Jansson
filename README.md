@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I was just thinking. Let me see a chair.
+> Would you like to try next?
 >
-> <p>- Hank</p>
+> <p>- CPR Trainer</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
