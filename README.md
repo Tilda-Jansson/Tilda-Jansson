@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, but we should get back to business.  Have any of you ever faced any ethical dilemmas in the workplace.
+> Okay. There are … 4 corners in this room. Each corner is to be a personal space for each one of you. Whichever corner you want. And make it your own.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
