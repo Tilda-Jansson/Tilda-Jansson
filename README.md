@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen to me. I like you so much.
+> Ok, but we should get back to business.  Have any of you ever faced any ethical dilemmas in the workplace.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
