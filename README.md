@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It alerts me when my stress level goes up so I can try to calm down.
+> Listen to me. I like you so much.
 >
-> <p>- Stanley</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
