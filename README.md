@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey Ryan, look.  Shaved off my goatee.  I am goateeless.  We are the goateeless brothers.
+> How many squares of toilet paper go around the waist?
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
