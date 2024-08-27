@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you know what? I even made fun of you when you dressed up as Willy Wonka to pitch this idea and for that I apologize.
+> Okay, imagine a company that has no memory of your past misconduct because they have no files.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
