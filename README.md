@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah!  I mean it’s a great song.  I always thought it was bigger than Christmas anyway.  You know?
+> You’re cute.
 >
-> <p>- Andy</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
