@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sees Pam and Jim through office window, runs out the office] Hey, hey! [falls down stairs, gets up, falls down again] Pam, Pam! Hey!
+> This summer, corporate is sponsoring a little weight loss contest between the branches. Whichever branch loses the most weight gets three extra vacation days.
 >
 > <p>- Michael</p>
 
