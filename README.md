@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sure you can’t stay a little longer?
+> Hey Ryan, look.  Shaved off my goatee.  I am goateeless.  We are the goateeless brothers.
 >
 > <p>- Michael</p>
 
