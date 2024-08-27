@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This summer, corporate is sponsoring a little weight loss contest between the branches. Whichever branch loses the most weight gets three extra vacation days.
+> No.
 >
-> <p>- Michael</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
