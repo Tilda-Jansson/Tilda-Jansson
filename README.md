@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, imagine a company that has no memory of your past misconduct because they have no files.
+> Oh, have you not?
 >
 > <p>- Michael</p>
 
