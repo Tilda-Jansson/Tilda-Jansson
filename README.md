@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In this next section we examine the difference between sick days and personal days.  Sick days are only to be used when an illness precludes you form doing your job or can spread to your coworkers.  Personal days, on the other hand, are much more flexible.
+> I know none of that. If I did, you’d be the last to know.
 >
-> <p>- Holly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
