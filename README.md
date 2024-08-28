@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Im not a shark.
+> I did not like the trip. Well, starting with her airport shuttle which was basically just a van.
 >
 > <p>- Michael</p>
 
