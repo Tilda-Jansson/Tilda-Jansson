@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why would that make me a pervert, I –
+> Pam, could you set up a call in there in about 15 minutes, please?
 >
-> <p>- Andy</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
