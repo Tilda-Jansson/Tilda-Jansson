@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sees Holly behind Jan] I was just going to…  I was going to talk to Holly, about her hygiene.  She smells like old tomatoes and dirt.
+> Get out of the way! Go, go, go!
 >
 > <p>- Michael</p>
 
