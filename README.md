@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, ok. If we hire Cirque de Soleil as salaried employees, will that help us with year-end tax stuff? [several seconds of silence]
+> [sees Holly behind Jan] I was just going to…  I was going to talk to Holly, about her hygiene.  She smells like old tomatoes and dirt.
 >
 > <p>- Michael</p>
 
