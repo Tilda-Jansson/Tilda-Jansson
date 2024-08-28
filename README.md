@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam, could you set up a call in there in about 15 minutes, please?
+> Everyone, now [bleep] calm down!
 >
-> <p>- David</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
