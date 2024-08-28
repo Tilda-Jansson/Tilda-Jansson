@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How many squares of toilet paper go around the waist?
+> And then, remember, we went shopping the next day to buy me a washer and dryer?
 >
-> <p>- Angela</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
