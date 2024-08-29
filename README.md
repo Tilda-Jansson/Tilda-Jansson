@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What are you up to, girl? Huh? Phyllis put you up to this? Stanley? Are they paying you?
+> Since when is it illegal to put caprese salad… anywhere.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
