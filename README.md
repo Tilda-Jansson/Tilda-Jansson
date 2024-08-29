@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah. I have my copies. [holds up messed up copies]
+> Can I turn on the radio?
 >
 > <p>- Pam</p>
 
