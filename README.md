@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes, we– [Michael hangs up phone]
+> I will be honest with you.  That car ride did not go well and that was not my fault.  The only reason I am standing out here right now is because I don’t want to take the elevator with her.  And I am holding on to her leftovers. [throws Holly’s leftovers in the trash]
 >
-> <p>- David Wallace</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
