@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s the thing. Michael is doing something right. And in this economic climate, no method of success can be ignored. It’s not really time for executives to start getting judgmental now. It’s Hail Mary time.
+> Your mommy and daddy give you ten dollars to open up a lemonade stand. So you go out and you buy cups and you buy lemons and you buy sugar. And now you find out that it only costs you nine dollars.
 >
-> <p>- David</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
