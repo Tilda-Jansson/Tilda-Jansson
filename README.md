@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> But are, are you gonna pay for my mirror?
+> Sometimes, we– [Michael hangs up phone]
 >
-> <p>- Kevin</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
