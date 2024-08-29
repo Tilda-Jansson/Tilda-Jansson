@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can I turn on the radio?
+> Here’s the thing. Michael is doing something right. And in this economic climate, no method of success can be ignored. It’s not really time for executives to start getting judgmental now. It’s Hail Mary time.
 >
-> <p>- Pam</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
