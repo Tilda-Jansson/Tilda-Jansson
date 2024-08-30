@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Had conversation with Michael about taking credit for an idea that wasn’t mine. Discussed movies.
+> Actually, when I was seven, my Dad took me to the Natural History Museum in New York. And we looked at fossils all day. And at the end of the day, he got me a little plastic triceratops. It was awesome.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
