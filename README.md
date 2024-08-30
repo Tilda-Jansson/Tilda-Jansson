@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I heard you. [quickly walks away]
+> He wouldn’t have wanted that. Her name is Princess Lady!
 >
 > <p>- Angela</p>
 
