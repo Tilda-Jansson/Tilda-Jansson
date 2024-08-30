@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nobody thanked me.
+> I looked at Wallace and I said “I quit!” and as I turned to leave I looked back and I said “You have no idea how high I can fly.”
 >
 > <p>- Michael</p>
 
