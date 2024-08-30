@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We already offered free delivery!
+> What?
 >
 > <p>- Pam</p>
 
