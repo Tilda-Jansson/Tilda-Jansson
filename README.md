@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is Andy Bernard!
+> No that’s… not how it works.
 >
 > <p>- Andy</p>
 
