@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was the last signature I needed.
+> Maybe go to Sandals, Jamaica. Or the other Sandals, Jamaica. I just don’t want to go by myself.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
