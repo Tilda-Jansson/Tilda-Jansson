@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did you shout, “Fire!”, causing a panic?
+> Not that guy who murdered his mother. He was not so handsome. Also Kevin.
 >
-> <p>- Lawyer</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
