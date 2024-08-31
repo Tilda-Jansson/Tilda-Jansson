@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael I gave you a ride home last week, we spent an hour in traffic…
+> That’s as specific as I’d like to be.
 >
-> <p>- Warehouse Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
