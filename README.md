@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wow. That was Dwight. He seems upset about something.
+> Ok. Remember Spider face?
 >
 > <p>- Jim</p>
 
