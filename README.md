@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Da  na na na na.
+> So Sarah Kaya says to Eric, “No way.  You can’t reserve seats.” And Stacy gets all up in her face and Sarah Kaya picks up Stacy’s new PM pad and throws it at the light box.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
