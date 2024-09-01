@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get in there right now or I’m gonna lose it! [everyone gets up to go in the conference room]
+> That’s my corner.
 >
 > <p>- Michael</p>
 
