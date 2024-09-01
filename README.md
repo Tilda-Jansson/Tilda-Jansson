@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, so I have gone over this and I have thought about it and I just don’t think there is any way I can write a report that doesn’t end with her being terminated.
+> She said that? Is that what it said? What did it say?
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
