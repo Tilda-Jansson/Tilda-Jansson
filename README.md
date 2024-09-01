@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hank?  You really think Hank is going to be loyal to you?  Hank, please escort Charles from the building.
+> No, no no.
 >
 > <p>- Michael</p>
 
