@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She said that? Is that what it said? What did it say?
+> Da  na na na na.
 >
 > <p>- Michael</p>
 
