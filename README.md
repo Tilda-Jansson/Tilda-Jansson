@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.  Hello.
+> If I were joking, you would be laughing. Do you look like you are laughing?
 >
 > <p>- Michael</p>
 
