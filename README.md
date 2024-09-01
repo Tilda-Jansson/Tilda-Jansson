@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [collects Dwight’s weapons from around the office; holds up a hand scythe]
+> Get in there right now or I’m gonna lose it! [everyone gets up to go in the conference room]
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
