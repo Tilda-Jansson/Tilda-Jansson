@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s why you made the decision. That’s why you made…
+> Open your mouth.  Come on. Don’t swallow it.
 >
 > <p>- Michael</p>
 
