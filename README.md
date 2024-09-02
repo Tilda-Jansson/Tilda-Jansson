@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, wow, so quickly.
+> We’re gonna switch back and forth, the driving. Sometimes we’ll just meet in the middle. It’ll be fun. Wait a sec. Oh I love this song.
 >
 > <p>- Michael</p>
 
