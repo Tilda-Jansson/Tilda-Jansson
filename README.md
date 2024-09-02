@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re gonna switch back and forth, the driving. Sometimes we’ll just meet in the middle. It’ll be fun. Wait a sec. Oh I love this song.
+> No, I work at a desk all day, its nice working with my hands.
 >
-> <p>- Michael</p>
+> <p>- Prince Son</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
