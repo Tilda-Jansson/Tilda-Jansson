@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. Oh, all right.
+> Haha ha. Thank you very much, thank you. That was great. Great job, great laughs. Really, really went after my intelligence there. [clears throat] Dozens of online IQ test might prove you wrong, but, and my thing isn’t tiny, its average, so… get your facts straight. [clears throat again] So when I heard that there was going to be a roast in my honor, I thought [choking up, clears throat again] sorry. [laughs nervously] I think I have a frog in my throat. Um… [sigh] I decided to jot down some quick thoughts about you people, um, first up Phyllis and Kevin. Uh um… [Michael walks off stage, knocking over the snare drum]
 >
 > <p>- Michael</p>
 
