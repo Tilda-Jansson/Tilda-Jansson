@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Andy, I’m engaged to you. I mean, we just signed off on our wedding flowers. Would I have said yes to formal chrysanthemums if I didn’t want to get married? And, we went through all that stuff with our wedding cake…
+> [sighs]
 >
-> <p>- Angela</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
