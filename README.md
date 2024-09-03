@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. Now everyone here who’s bowled under 70 raise their hand.
+> Do you want us to look for ’em?
 >
-> <p>- Phyllis</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
