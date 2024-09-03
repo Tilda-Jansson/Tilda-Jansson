@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [driving] I am going to see Pam. Because I feel like I should. [sighs]
+> Oh, I’ll walk you out.
 >
 > <p>- Jim</p>
 
