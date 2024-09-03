@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ready to do this?
+> Email’s not scary. This is an opportunity. Don’t, don’t blow it.
 >
 > <p>- Michael</p>
 
