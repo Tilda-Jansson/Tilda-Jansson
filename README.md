@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, she is hot. [“Hillary Swank is hot” supporters cheer]
+> Does anyone want to dance?
 >
-> <p>- Michael</p>
+> <p>- Ronnie</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
