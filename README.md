@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen, Listen, Stanley. You don’t have to answer me now.
+> How much? How many pounds is it?
 >
 > <p>- Michael</p>
 
