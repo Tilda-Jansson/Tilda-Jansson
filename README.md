@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [visibly shocked] What? Why?
+> Oh, hi! I’m Lynn.
 >
-> <p>- Michael</p>
+> <p>- Lynn</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
