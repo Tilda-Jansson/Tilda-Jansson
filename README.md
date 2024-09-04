@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Obviously.
+> Well, I can’t be the only one who didn’t — [sees mugs on Angela’s and Meredith’s desks]
 >
-> <p>- Meredith</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
