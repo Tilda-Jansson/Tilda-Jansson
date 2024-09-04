@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s pronounced Ker-nell. It’s the highest rank in the military.
+> Twelve hundred dollars is what I spent on my whole bomb shelter.  For that kind of money, this stroller should be indestructible. [straps the watermelon into the stroller on the elevator]
 >
-> <p>- Creed</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
