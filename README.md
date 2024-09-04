@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m almost done.
+> OK.  You know what?  Here we go. [stands up] Uh, everybody?  I just want to make an announcement.  Pam and I are engaged.
 >
-> <p>- Kevin</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
