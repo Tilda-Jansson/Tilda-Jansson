@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK.  You know what?  Here we go. [stands up] Uh, everybody?  I just want to make an announcement.  Pam and I are engaged.
+> Why should I have to thank him?
 >
-> <p>- Jim</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
