@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, hi! I’m Lynn.
+> So let’s see what we can find out from reading. [reads] Jim Halpert is smudge and arrogant.
 >
-> <p>- Lynn</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
