@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, I am not dying here.  Come on. [everyone is coughing from the smoke, Dwight lights some fire crackers and they start popping]
+> Uh, actually, kind of.  Yes.  I just didn’t like eating dinner that early. [they laugh, Pam’s phone rings, she answers]
 >
-> <p>- Jim</p>
+> <p>- Friend</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
