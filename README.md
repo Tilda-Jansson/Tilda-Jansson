@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, actually, kind of.  Yes.  I just didn’t like eating dinner that early. [they laugh, Pam’s phone rings, she answers]
+> These aren’t announcements.
 >
-> <p>- Friend</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
