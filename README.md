@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why should I have to thank him?
+> Wow, thirteen!
 >
 > <p>- Phyllis</p>
 
