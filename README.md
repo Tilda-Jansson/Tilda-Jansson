@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Cool!
+> Okay, I am not dying here.  Come on. [everyone is coughing from the smoke, Dwight lights some fire crackers and they start popping]
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
