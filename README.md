@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wow, thirteen!
+> I made egg salad sandwiches. Do you want one? [holds up sandwich]
 >
-> <p>- Phyllis</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
