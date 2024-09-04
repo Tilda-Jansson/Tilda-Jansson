@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So let’s see what we can find out from reading. [reads] Jim Halpert is smudge and arrogant.
+> Is there no way we can get rid of him?
 >
 > <p>- Michael</p>
 
