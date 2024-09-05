@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. I need silence or Sam Kinison to prepare.
+> [laughing] It’s good!
 >
-> <p>- Michael</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
