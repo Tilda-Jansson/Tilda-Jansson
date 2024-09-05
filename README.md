@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [enters smiling and waving] Hello, everyone. Oh, ice cream. Nice, Kevin. Looks good.
+> Oh, my God!
 >
-> <p>- Angela</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
