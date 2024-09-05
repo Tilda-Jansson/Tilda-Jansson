@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Every little boy fantasizes about his fairy-tale wedding.
+> And I, yours. So I will cede her to you.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
