@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> See that, the obvious symmetry of the face? That’s a natural appeal of the scientific standard of coin aphelia, features that are a composite average of many features. Yes, she is attractive, but is not hot.
+> I’m not answering it.
 >
-> <p>- Oscar</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
