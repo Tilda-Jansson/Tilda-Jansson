@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I, yours. So I will cede her to you.
+> [enters smiling and waving] Hello, everyone. Oh, ice cream. Nice, Kevin. Looks good.
 >
-> <p>- Dwight</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
