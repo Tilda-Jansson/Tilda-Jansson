@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m pretty much devastated.
+> Yeah, they used to.
 >
 > <p>- Michael</p>
 
