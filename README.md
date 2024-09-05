@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ladies and gentlemen, even though the penis was fake, I was expecting a second plot twist where we found out Hilary Swank was a boy.
+> Oh yeah.  Wait ’til you get to know her better though.
 >
-> <p>- Kevin</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
