@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, you have to tolerate a lot when you are part of a family.
+> They always say that it is a mistake to hire your friends and they are right! So, I hired my best friends. And this is what I get?
 >
 > <p>- Michael</p>
 
