@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [punches button] Speakerphone!
+> Really Andy? It’s Christmas and your singing about nudity and France.
 >
-> <p>- Andy</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
