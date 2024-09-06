@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I have my original. [holds up original paper, ripped in half]
+> Uh, they’re good. Uh, Jim’s good. We’re engaged.
 >
 > <p>- Pam</p>
 
