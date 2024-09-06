@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, what does that mean?
+> Let’s hear an opening bid, everybody. Who’s first? Kevin do your taxes. He’s the tax man. Kevin the tax man.
 >
 > <p>- Michael</p>
 
