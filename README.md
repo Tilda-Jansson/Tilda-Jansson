@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [opens door to wake Kelly, bangs together two trash can covers loudly] Birthday time is over! Now go make up for all the work you missed when you were taking your nap. [slaps Kelly’s butt] Many happy returns. [slams door]
+> [hand up, seeking a high five] Up! Don’t leave me hangin’! [they do]
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
