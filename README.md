@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I stab her in the brain with a wooden stick.
+> Uh, they’re good. Uh, Jim’s good. We’re engaged.
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
