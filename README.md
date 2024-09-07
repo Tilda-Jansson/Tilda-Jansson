@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, under no circumstances can you read that letter. It’s a violation of her trust.
+> Hey, how’s things?
 >
-> <p>- Pam</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
