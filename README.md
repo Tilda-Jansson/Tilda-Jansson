@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You always say that, and I almost never know.
+> [opens door to wake Kelly, bangs together two trash can covers loudly] Birthday time is over! Now go make up for all the work you missed when you were taking your nap. [slaps Kelly’s butt] Many happy returns. [slams door]
 >
-> <p>- Kelly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
