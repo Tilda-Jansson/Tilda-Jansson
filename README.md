@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Took him 40 minutes to get ready.
+> No, under no circumstances can you read that letter. It’s a violation of her trust.
 >
 > <p>- Pam</p>
 
