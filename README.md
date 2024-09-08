@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They should not be in that room.
+> Shotgun weddings.
 >
 > <p>- Dwight</p>
 
