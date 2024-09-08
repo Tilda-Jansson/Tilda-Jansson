@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [groans in frustration] You think it’s easy?
+> You’ve been making that sign, for something that we could just announce to the whole office? Hey everybody, the party’s now at 3!
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
