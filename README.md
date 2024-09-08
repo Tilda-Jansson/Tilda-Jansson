@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’ve been making that sign, for something that we could just announce to the whole office? Hey everybody, the party’s now at 3!
+> No, you mean that you did a lot of messed up stuff to you… too?
 >
-> <p>- Jim</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
