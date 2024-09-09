@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You feel connected to his baby over there?
+> If you don’t mind.
 >
 > <p>- Darryl</p>
 
