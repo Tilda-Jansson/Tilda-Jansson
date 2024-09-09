@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [looking into Julia’s car] Trying to see what CD’s she got. It’s good to know the deets about the girl you’re wooing. Eh, Aha! Fiest. Yes! [bangs on car and alarm goes off] Whoa! Aah, Aah! [backs up and runs into another car starting another alarm]
+> I should have been lovers with her first and then friends.  That was terrible advice.  Terrible advice!  You know my seduction method.  I like to get in there and get my hands dirty! Wh—  You sabotaged me.  You sabotaged me, man!
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
