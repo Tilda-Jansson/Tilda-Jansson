@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What in the name of God is going on?!
+> Hey Phyllis, someone let the air out of your tires. Come quick.
 >
-> <p>- Phyllis</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
