@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I should have been lovers with her first and then friends.  That was terrible advice.  Terrible advice!  You know my seduction method.  I like to get in there and get my hands dirty! Wh—  You sabotaged me.  You sabotaged me, man!
+> You’re working hard? On this?
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
