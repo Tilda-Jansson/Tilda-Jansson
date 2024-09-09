@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re working hard? On this?
+> Then you need to give her an ultimatum. Tell her she needs to make a choice. You or Andy. If she pick you, great. If not, you can move on.
 >
-> <p>- Charles</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
