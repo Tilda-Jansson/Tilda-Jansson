@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sorry!
+> Perfect boobs, [gives a look at the camera] of course I remember Holly.
 >
 > <p>- Pam</p>
 
