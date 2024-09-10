@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I will seduce her.
+> Ok, that is fine.  Just water, and be back by weigh-in, ok?
 >
 > <p>- Michael</p>
 
