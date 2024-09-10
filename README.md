@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Who gives a f[bleep]?
+> Okay, okay.  I’ll show them. Here we go. [whispers] Stanley.  All right.
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
