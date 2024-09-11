@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, great.
+> We should help him out. [Jim and Pam each take a French fry, eat it, and then look toward the bathroom]
 >
 > <p>- Jim</p>
 
