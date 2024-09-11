@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’ll fall in love with her.
+> They are now.
 >
 > <p>- Dwight</p>
 
