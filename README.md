@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fine. [throws down microphone, knocks down microphone stand]
+> Well, wouldn’t it feel good to tell him that he was incompetent?
 >
-> <p>- Kevin</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
