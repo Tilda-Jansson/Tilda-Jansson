@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, wouldn’t it feel good to tell him that he was incompetent?
+> All right, how about we play the game where we guess how big the mother’s belly is?
 >
 > <p>- Angela</p>
 
