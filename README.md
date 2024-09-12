@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Gahh, dammit! [punches file cabinet] Come on!
+> [on voicemail] Hey, it’s Jim.  Leave a message.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
