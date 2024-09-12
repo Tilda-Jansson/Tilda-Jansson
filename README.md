@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I have to go over pencils and office supplies.  It’s part of the ethics thing.
+> I don’t know. I mean, we were together, and then he killed sprinkles, and then we stopped, and… I don’t know exactly when we started up again.
 >
-> <p>- Holly</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
