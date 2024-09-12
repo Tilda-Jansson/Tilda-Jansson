@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are we even sure that’s my file?
+> Wait; let me get something for you. Here is some, some references. Here is a list of references, our top clients. You call any of them; I trust you will hear some good things.
 >
-> <p>- Jim</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
