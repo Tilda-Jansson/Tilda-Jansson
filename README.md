@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know. I mean, we were together, and then he killed sprinkles, and then we stopped, and… I don’t know exactly when we started up again.
+> Sir, please step away from your desk.
 >
-> <p>- Angela</p>
+> <p>- Police Officer 2</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
