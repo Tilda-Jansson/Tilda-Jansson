@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thanks for the baby shower.  It was great.  And I’ll see you… soon.
+> I have like, like a blue shirt? I don’t wear a lot of colors, I have a lot of tan. Uh huh.
 >
-> <p>- Jan</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
