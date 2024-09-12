@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have like, like a blue shirt? I don’t wear a lot of colors, I have a lot of tan. Uh huh.
+> So listen, as you know, we haven’t yet filled the regional supervisor job.
 >
-> <p>- Toby</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
