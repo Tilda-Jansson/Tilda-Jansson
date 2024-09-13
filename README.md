@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah but, she doesn’t think she’s gonna be like, career musician right?
+> Ok, Michael, I'm dissolving this committee.
 >
-> <p>- Pete</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
