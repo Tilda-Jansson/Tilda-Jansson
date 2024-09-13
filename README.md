@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, Stacy is a boy.  Ugh.  Frustrating.  Why can’t you just be in art class with me?
+> You know sometimes, to get perspective, I like to think about a spaceman on a star incredibly far away. And, our problems don’t matter to him, because we’re just a distant point of light. But he feels sorry for me, because he has an incredibly powerful microscope, and he can see my face. [looks towards the sky] I’m okay. No, I’m not.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
