@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, yes I do.  I love that song. [clears throat, begins to sing] First I was afraid, I was petrified.
+> I’ve never framed a man before, have you?
 >
 > <p>- Michael</p>
 
