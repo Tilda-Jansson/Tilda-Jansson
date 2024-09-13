@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. [holds Sheriff’s Department mug protectively]
+> Yeah but, she doesn’t think she’s gonna be like, career musician right?
 >
-> <p>- Dwight</p>
+> <p>- Pete</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
