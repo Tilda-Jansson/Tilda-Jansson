@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yet here you are, back in a Laundromat.  Now, I’m just trying to help you, Beesly.  Be safe.
+> Yeah with a hot slab of Canadian bacon in your hand.
 >
-> <p>- Jim</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
