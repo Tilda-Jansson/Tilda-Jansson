@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, well, chivalry is not dead after all. Okay…
+> [ccming to] Oh my God, how long was I out?  [Michael looks over where Blood Girl was and sees Hank]
 >
 > <p>- Michael</p>
 
