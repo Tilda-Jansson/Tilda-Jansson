@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I was looking at pictures of food on my computer.
+> I’m almost done.
 >
 > <p>- Kevin</p>
 
