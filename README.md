@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [ccming to] Oh my God, how long was I out?  [Michael looks over where Blood Girl was and sees Hank]
+> [heard yelling from the street] Yeah! Yeah! Yeah, okay! Twelve miles an hour. Eat that, Carl Lewis!
 >
 > <p>- Michael</p>
 
