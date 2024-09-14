@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [heard yelling from the street] Yeah! Yeah! Yeah, okay! Twelve miles an hour. Eat that, Carl Lewis!
+> Yet here you are, back in a Laundromat.  Now, I’m just trying to help you, Beesly.  Be safe.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
