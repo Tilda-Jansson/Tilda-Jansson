@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, no, my God.
+> Well I wrote them down so I wouldn’t forget. Jim, you’re 6’11 and you weigh 90 pounds, Gumby has a better body than you. Boom. Roasted. Dwight, you’re a kiss ass. Boom. Roasted. Pam, you failed art school. Boom. Roasted. Meredith, you’ve slept with so many guys you’re starting to look like one. Boom. Roasted. Kevin, I can’t decide between a fat joke and a dumb joke. Boom. Roasted. Creed, you’re teeth called, your breath stinks. Boom. Roasted. Angela where’s Angela? [Angela raises her hand] Whoa there you are, I didn’t see you there behind that grain of rice. Boom. Roasted. Stanley, you crush your wife during sex and your heart sucks. Boom. Roasted. Oscar, you are… [Stanley is laughing] Oscar, you’re gay.
 >
 > <p>- Michael</p>
 
