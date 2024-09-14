@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m serious. Um, I’m really glad I came.
+> OK, here’s what happened, David. It was all my idea. You called me and you were really angry at me and I got scared, so I had Dwight take the fall, but now, it turns out that it’s a great idea and Dwight will not confess. Can you believe that?
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
