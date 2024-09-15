@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.
+> You’re gonna need to lie down right over here.
 >
-> <p>- Oscar</p>
+> <p>- Blood Drive Worker</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
