@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nope. I mean, I could have brought a change of clothes, or-
+> Yeah, I can’t… really can’t move him.
 >
 > <p>- Jim</p>
 
