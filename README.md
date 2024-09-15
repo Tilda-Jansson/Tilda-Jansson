@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dunder Mifflin this is Pam. Uh, I’m sorry, Michael’s not here right now can I take a message? Great. I will. Thanks.
+> Yeah, I did. [they kiss]
 >
-> <p>- Pam</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
