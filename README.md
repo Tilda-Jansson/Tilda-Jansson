@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, elephant in the room.  Let’s talk about it.  Do I regret what I did?  Of course I do.  Even though it was an amazing ride, and I’ll give you an example.  Anyone see Survivor season six? [Dwight raises his hand] Anyone know Joanna on that show? [Dwight nods] In New York City, I hooked up with a girl who looked exactly like that.  Indistinguishable. So…
+> No way!  There is no way! No way!
 >
-> <p>- Ryan</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
