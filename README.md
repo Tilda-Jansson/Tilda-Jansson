@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are we even sure that’s my file?
+> That’s the best part. That represents a pillow, or a television.
 >
 > <p>- Jim</p>
 
