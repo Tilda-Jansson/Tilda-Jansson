@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi, everyone.  Corporate has given Dwight two strikes. They are very, very upset with him. So, as a disciplinary measure he is going to have to issue a formal apology. Dwight, have you prepared your statement of regret?
+> Ahh, that’s mine.
 >
 > <p>- Michael</p>
 
