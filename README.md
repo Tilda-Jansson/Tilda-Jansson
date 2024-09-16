@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes it is!
+> Tomorrow I start a three-month design program at the Pratt Institute in New York. I will be a little fish in the big apple. [does hand gesture] What up, 212?
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
