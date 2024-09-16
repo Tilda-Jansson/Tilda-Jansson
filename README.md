@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We pranked you!
+> You’re gonna give yourself a bonus of $645 instead of getting the entire office something it really needs?
 >
-> <p>- Tom</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
