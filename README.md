@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good, so, [Michael takes client list and heads out of office] where are you going?
+> We pranked you!
 >
-> <p>- Dwight</p>
+> <p>- Tom</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
