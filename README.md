@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh that is so sweet.  Um, but I’m dating Darryl, still, and we’re like crazy in love so…
+> Shhhh! Keep it down.
 >
-> <p>- Kelly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
