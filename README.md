@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I took a lot from other poems.
+> Yeah, no such thing.  They don’t give out black belts for things that are stupid. [scoffs]  Well, I hope it was worth it, cause I’m gonna take it apart in about five minutes.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
