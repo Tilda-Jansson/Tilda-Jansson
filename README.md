@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Protect her from what? Bears, you idiot? When’s the last time you saw a damn bear in Scranton?
+> OK everybody. Get used to this because we are going to be standing here briefly every Monday for the next seven Mondays.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
