@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK everybody. Get used to this because we are going to be standing here briefly every Monday for the next seven Mondays.
+> No, I don’t want to wear a bra.
 >
 > <p>- Michael</p>
 
