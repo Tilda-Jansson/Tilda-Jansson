@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I don’t want to wear a bra.
+> [frazzled and out of breath] I wrote you a goodbye poem. It’s really long. I left it up in my office. Could you just please wait till I go get it?
 >
 > <p>- Michael</p>
 
