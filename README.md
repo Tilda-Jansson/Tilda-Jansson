@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh come on, man! Believe in something.
+> Hey, why don’t you guys come have lunch with Bob and me?  We’ll take all afternoon. [whispering] Michael is terrified of bob.
 >
-> <p>- Kevin</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
