@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [to Jim] To be married?
+> Oh, I still have more.
 >
 > <p>- Michael</p>
 
