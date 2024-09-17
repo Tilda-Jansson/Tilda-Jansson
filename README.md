@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, why don’t you guys come have lunch with Bob and me?  We’ll take all afternoon. [whispering] Michael is terrified of bob.
+> I thought it was clear with you, Holly.  Your task was to get signatures from the employees showing that they completed the training.
 >
-> <p>- Phyllis</p>
+> <p>- Kendall</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
