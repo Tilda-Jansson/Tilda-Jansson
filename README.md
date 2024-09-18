@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Golden Girls. That’s a golden ticket idea, right, I mean how great was that show? Golden Grahams. Another, is it — I don’t get this…
+> KGB.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
