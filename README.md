@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ll leave a message.
+> [getting out of the car] What are we doing at your parent’s house?
 >
 > <p>- Pam</p>
 
