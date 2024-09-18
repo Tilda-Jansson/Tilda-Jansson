@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, Michael? You want to succeed? You got to apply the same- [Michael slams door]
+> [laughs] Congrats, man.
 >
-> <p>- Vikram</p>
+> <p>- Roy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
