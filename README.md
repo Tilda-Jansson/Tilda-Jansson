@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Guess whose stock just went up, golden boy?
+> Michael, Michael, no. Michael, give that. Michael, don’t do this. No. [chasing Michael out of the office into parking lot]
 >
 > <p>- Dwight</p>
 
