@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Except this time, you have no legal right to kick me out, because I have started my very own paper company right here in the building. If I were you, Charles Miner, I would watch your step. Because the Michael Scott Paper Company is about to open a big ol’ can of whoopass on Dunder Mifflin. [Pam and Michael stare him down, he walks away] Actually a six pack. We’re gonna open a six pack of whoopass. He looks scared.
+> Yeah.
 >
 > <p>- Michael</p>
 
