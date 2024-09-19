@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [looking into Julia’s car] Trying to see what CD’s she got. It’s good to know the deets about the girl you’re wooing. Eh, Aha! Fiest. Yes! [bangs on car and alarm goes off] Whoa! Aah, Aah! [backs up and runs into another car starting another alarm]
+> Are we, uh… are we leaving or what? [Mose hits Andy in the head with a deflated ball] Ow!
 >
 > <p>- Andy</p>
 
