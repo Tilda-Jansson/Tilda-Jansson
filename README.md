@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are we, uh… are we leaving or what? [Mose hits Andy in the head with a deflated ball] Ow!
+> [jumps into Kelly’s area] Ha! [Kelly screams in surprise]
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
