@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, oh okay, okay.  Close your eyes.
+> Alright… Lily.
 >
-> <p>- Michael</p>
+> <p>- Sam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
