@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I see what you are doing. But I do not know where you are going with this.
+> Holly.  She’s on the warpath.  She is gunning for all our jobs.  Do you guys have any dirt on her?
 >
-> <p>- Dwight</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
