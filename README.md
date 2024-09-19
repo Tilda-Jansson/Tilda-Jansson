@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [jumps into Kelly’s area] Ha! [Kelly screams in surprise]
+> Guess whose stock just went up, golden boy?
 >
 > <p>- Dwight</p>
 
