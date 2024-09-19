@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, Michael, no. Michael, give that. Michael, don’t do this. No. [chasing Michael out of the office into parking lot]
+> I’m on the phone, please. Mom, I’m gonna have to call you back. P’s being a giant B.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
