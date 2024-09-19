@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, OK. [to Andy] Sorry.  Sorry.  Here we go.  Here we go!
+> Okay, oh okay, okay.  Close your eyes.
 >
 > <p>- Michael</p>
 
