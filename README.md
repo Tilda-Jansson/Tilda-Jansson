@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [grabs a spoon from Jim’s coffee cup and checks behind him with it] I need a soup spoon.
+> It was actually kind of hard to meet people I found.
 >
-> <p>- Dwight</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
