@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Come on, you think you can get into Cornell?
+> Yeah, I hear ya.   It’s been four months since I was with Holly, and she was way hotter then Stacy.  So if you think you’re hurting…
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
