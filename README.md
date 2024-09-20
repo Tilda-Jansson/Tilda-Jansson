@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not good.
+> [singing “Son of a Preacher Man” to Astrid] Being good isn’t always easy / No matter how hard I try / When he started sweet-talking to me / He’d come and tell me everything is all right / He’d kiss and tell me everything is all right / Can I get away again tonight / The only one…
 >
-> <p>- Dwight</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
