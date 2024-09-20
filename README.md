@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No way!  No way!  There is no way!
+> [in unison] Jackson Five!
 >
-> <p>- Meredith</p>
+> <p>- Holly & Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
