@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m on the phone, please. Mom, I’m gonna have to call you back. P’s being a giant B.
+> Michael, you are the reason I drink. You are the reason I live to forget.
 >
-> <p>- Michael</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
