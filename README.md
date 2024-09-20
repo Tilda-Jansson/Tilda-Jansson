@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I honestly don’t know how you can work with that jackass, that other jackass, and that new jackass.
+> Are you on email?
 >
-> <p>- Bob</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
