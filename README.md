@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not a surprise.
+> I need to talk to you in private.
 >
-> <p>- Jim</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
