@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Or I could come back as your personal assistant. You know? Sort your mail, set your appointments. I know all the people.
+> Its all better.
 >
-> <p>- Pam</p>
+> <p>- Prince Granddaughter</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
