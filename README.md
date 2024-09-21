@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s like Driving Miss Daisy, you know?
+> Oh.  I took the liberty of putting it in your trunk.
 >
-> <p>- Darryl</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
