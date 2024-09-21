@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, a little bit of blood rushed into mine as well, so where does that leave us?
+> Can you believe it? Well, we’ll see, we’ll see. It’s just a, just a nugget of an idea right now so
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
