@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [seeing Kevin throw out bunch of M&Ms]  Nice job, Kevin. [Kevin fills jar back up with another candy]
+> He is an organ donor.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
