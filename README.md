@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.
+> Or I could come back as your personal assistant. You know? Sort your mail, set your appointments. I know all the people.
 >
 > <p>- Pam</p>
 
