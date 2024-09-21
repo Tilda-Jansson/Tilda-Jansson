@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Meredith…  [copier has an error] Oh… so uh… G-44.  It’s not ready Kevin!
+> How would we know that?
 >
 > <p>- Pam</p>
 
