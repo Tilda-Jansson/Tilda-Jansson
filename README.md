@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, I'm sorry, I just don't know what classy is then.
+> [whispers in Leo’s ear] Hey, just hold on one second.
 >
-> <p>- Dwight</p>
+> <p>- Vance Refrigeration Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
