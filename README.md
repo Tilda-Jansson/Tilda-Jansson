@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mm. I like your shoes. [Kelly has 5-inch heels on]
+> Well, I'm sorry, I just don't know what classy is then.
 >
-> <p>- Phyllis</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
