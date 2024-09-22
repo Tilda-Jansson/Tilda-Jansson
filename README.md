@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That you’re sleeping with Dwight.
+> Mm. I like your shoes. [Kelly has 5-inch heels on]
 >
-> <p>- Andy</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
