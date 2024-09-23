@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are we, uh… are we leaving or what? [Mose hits Andy in the head with a deflated ball] Ow!
+> Fire not real.  This was merely a training exercise. [Oscar drops down from the ceiling] So, what have we learned? [Stanley falls to the floor]  Oh come on.  It’s not real Stanley. Don’t have a heart attack.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
