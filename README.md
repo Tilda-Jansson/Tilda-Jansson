@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know.  I mean, it’s well-written and all, I just—
+> [walking into storage room] Hurry, we have to make this fast.
 >
-> <p>- Kelly</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
