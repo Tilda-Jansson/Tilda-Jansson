@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Jim holds up phone] You are such a dork! Shots!
+> That guy did a lot of things I’m not proud of.
 >
-> <p>- Pam [on phone]</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
