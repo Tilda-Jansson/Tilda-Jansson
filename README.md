@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [over indistinct conversation] Good? Yeah, he said good, I’m good…
+> I don’t know.  I mean, it’s well-written and all, I just—
 >
-> <p>- Pam</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
