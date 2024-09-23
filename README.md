@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was… I went to Costa Rica for a few months.  What is going on?
+> Ceramics class. Then dinner by myself. I’m gonna watch HGTV and maybe go to Bungalow 8 with John Mayer.
 >
-> <p>- Toby</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
