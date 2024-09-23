@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fire not real.  This was merely a training exercise. [Oscar drops down from the ceiling] So, what have we learned? [Stanley falls to the floor]  Oh come on.  It’s not real Stanley. Don’t have a heart attack.
+> [over indistinct conversation] Good? Yeah, he said good, I’m good…
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
