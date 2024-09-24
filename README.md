@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’ve seen things cleaned before though, right?
+> You don’t hear a theme, you see it… why is there a chicklet on my cake?
 >
-> <p>- Pam</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
