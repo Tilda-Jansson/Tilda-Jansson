@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What a courageous venture.
+> And you burned over a thousand calories walking home.  And this branch just got a little bit closer to winning the contest.  Phyllis Vance, ladies and gentlemen! [claps]
 >
 > <p>- Dwight</p>
 
