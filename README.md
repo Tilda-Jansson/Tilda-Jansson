@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you burned over a thousand calories walking home.  And this branch just got a little bit closer to winning the contest.  Phyllis Vance, ladies and gentlemen! [claps]
+> I knew it.
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
