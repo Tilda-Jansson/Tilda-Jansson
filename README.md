@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You don’t hear a theme, you see it… why is there a chicklet on my cake?
+> Thousand-year-old church in the continental United States. There has to be a rainbow. 24-hour veterinarian on call.
 >
-> <p>- Kelly</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
