@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Those reports affect our bonuses, which is kind of great for me, because you wouldn’t know it from looking at her, but Pam’s a gold-digger.
+> I’m sorry, he’s not in right now.
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
