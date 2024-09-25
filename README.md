@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Also, it’s icky back there.
+> Mm.
 >
 > <p>- Dwight</p>
 
