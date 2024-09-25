@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> For your information, I have been with lots of beautiful women.
+> OK, you know what? You came up with this idea. I remember you told me that you loved the Willy Wonka movie when you were growing up.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
