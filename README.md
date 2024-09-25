@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Is he your boyfriend or something?
+> Those reports affect our bonuses, which is kind of great for me, because you wouldn’t know it from looking at her, but Pam’s a gold-digger.
 >
-> <p>- Guy at table</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
