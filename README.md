@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, why don’t you guys come have lunch with Bob and me?  We’ll take all afternoon. [whispering] Michael is terrified of bob.
+> [continuing to dance, lifting her shirt] Belly dancing!
 >
-> <p>- Phyllis</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
