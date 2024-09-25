@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ahoy.
+> Cancelled my fifteenth anniversary party. Just pulled the rug out from under me. And he said no figs. I've already bought em. And I don't have a place to store them. So, I feel like I've been sort of boned.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
