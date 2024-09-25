@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [shivers] [meowing noises] Has this been on the entire time?
+> Yeah, I’d say she’s happy. I mean, she loves her classes. Loves the city. I mean, last night, she was out with her friends, till, like, 8:00 AM.
 >
-> <p>- Angela</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
