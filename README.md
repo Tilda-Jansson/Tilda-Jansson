@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, you know what we’re gonna do?  We’re gonna take that and we are going to us it as a reward for the end of our competition.
+> I taught Jim and Dwight everything I know about sales. But there are certain things that cannot be taught, and it is these things that I now must teach them.
 >
 > <p>- Michael</p>
 
