@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> While you, my good friend, have nothing more to worry about. This wedding is officially out of your hands.
+> [blowing up balloon, breathes loudly] You have to write my suggestions down, too.
 >
 > <p>- Dwight</p>
 
