@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight. This, [picks up balloon] fits in the palm of my hand. You haven’t blown ’em up enough. Why have you chosen brown and gray balloons?
+> Pam. Everyone deserves a second second chance. [walks back to Ryan] Ryan, just out of curiosity, how much do you get paid here?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
