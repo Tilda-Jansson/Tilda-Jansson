@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I taught Jim and Dwight everything I know about sales. But there are certain things that cannot be taught, and it is these things that I now must teach them.
+> [storms in the office, sweaty and out of breath] Are you insane?!
 >
-> <p>- Michael</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
