@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [blowing up balloon, breathes loudly] You have to write my suggestions down, too.
+> Dwight. This, [picks up balloon] fits in the palm of my hand. You haven’t blown ’em up enough. Why have you chosen brown and gray balloons?
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
