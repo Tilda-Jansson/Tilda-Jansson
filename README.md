@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m good.
+> While you, my good friend, have nothing more to worry about. This wedding is officially out of your hands.
 >
-> <p>- Oscar</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
