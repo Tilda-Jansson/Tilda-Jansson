@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You need those things.  Most new businesses, they don’t make a profit till at least two years.  And then your margins will be razor thin. Best case scenario, you don’t cut yourself a salary for at least 5 years.  Can you go 5 years without a salary, Michael?
+> No, you know what we’re gonna do?  We’re gonna take that and we are going to us it as a reward for the end of our competition.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
