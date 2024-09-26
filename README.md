@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why would you even say that?
+> [approaching Reception] Michael Scott, manager.  Hi, how are ya?
 >
-> <p>- Leo</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
