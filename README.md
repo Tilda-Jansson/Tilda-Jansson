@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [walks into room] Okay.
+> Uh, I need some advice from one baby daddy to another.
 >
 > <p>- Michael</p>
 
