@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam. Everyone deserves a second second chance. [walks back to Ryan] Ryan, just out of curiosity, how much do you get paid here?
+> [walks into room] Okay.
 >
 > <p>- Michael</p>
 
