@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, she’s not.
+> Why would you even say that?
 >
-> <p>- Jim</p>
+> <p>- Leo</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
