@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Look, I’m gonna go…
+> It’s hard to try and evaluate yourself, Michael, but I appreciate you trying. [gets up] And thanks for coming in.
 >
-> <p>- Blonde</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
