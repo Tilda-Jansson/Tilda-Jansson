@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nobody thanked me.
+> Okay, don’t be nervous, just picture her naked.
 >
 > <p>- Michael</p>
 
