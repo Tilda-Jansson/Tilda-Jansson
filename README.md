@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uhh… hehe hah! I’m thinking Roy?
+> Nobody thanked me.
 >
 > <p>- Michael</p>
 
