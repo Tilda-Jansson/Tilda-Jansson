@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not taking… I’m not taking…
+> It’s very unusual for Michael not to show up to work. My guess? He’s either deeply depressed, or an icicle has snapped off his roof and impaled his brain. He has this terrible habit of standing directly underneath them and staring up at them. And I always say Michael, take two steps back, and stare at the icicle from the side. And he’s like no, I like the way they look from standing directly underneath them.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
