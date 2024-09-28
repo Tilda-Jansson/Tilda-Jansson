@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> David… you’re welcome. [Dwight and David shake hands and make exclamations]
+> Here’s another place.
 >
 > <p>- Dwight</p>
 
