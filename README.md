@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, OK. Let me just cut to the chase, Dwight. I want you to fall on your sword for me.
+> We own our own delivery trucks. We could lease them out on the weekends —
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
