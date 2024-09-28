@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I grab this [grabs a chain saw], and I turn it on and I say, “Prepare yourself, for the Utica chain store massacre.”
+> Do you want to hear a lie?
 >
 > <p>- Michael</p>
 
