@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s what I was thinking:
+> I grab this [grabs a chain saw], and I turn it on and I say, “Prepare yourself, for the Utica chain store massacre.”
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
