@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thanks for the baby shower.  It was great.  And I’ll see you… soon.
+> No, David. You listen to me.  Why did you send her away? That— God.  You knew I liked her and you just sent her away.  And that— that was a sucky thing to do man.
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
