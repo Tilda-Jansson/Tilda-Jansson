@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Irrelevant.
+> Oh, have you not?
 >
 > <p>- Michael</p>
 
