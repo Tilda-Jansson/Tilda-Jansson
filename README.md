@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wish you were home.  Uh, anyway…
+> Really wish you would have told me the new boss was coming today.
 >
 > <p>- Jim</p>
 
