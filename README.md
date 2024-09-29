@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you ever wondered if you were Michael Scott, here’s a quiz to help. If you ever put sunblock on a window, you might be Michael Scott. [laughter]
+> It’s not that kind of trip.  I’m going to Thailand with some friends from high school, well, a high school.  And if I don’t do it now I’ll never get to go.  And I’ll always resent you for it… you don’t want me to resent you, do you?
 >
-> <p>- Angela</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
