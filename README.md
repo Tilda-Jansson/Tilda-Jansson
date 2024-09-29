@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> David Wallace's office.
+> [in private office] Um.
 >
-> <p>- Stephanie</p>
+> <p>- Alex</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
