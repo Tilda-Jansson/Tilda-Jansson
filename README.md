@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Awww.  Check it out – who would have thought that this little baby would be marrying that little baby?
+> Sure, yeah that’s… your right. It’s too soon for… definitely too soon for me. So I’m glad we go that out of the way. I’m gonna be in touch with you. In three months. I’m gonna call you about that order. And maybe about that mall walk.
 >
 > <p>- Andy</p>
 
