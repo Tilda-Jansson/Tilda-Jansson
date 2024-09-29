@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, David. You listen to me.  Why did you send her away? That— God.  You knew I liked her and you just sent her away.  And that— that was a sucky thing to do man.
+> Oh God, what did you do?  I mean, not that I approve of any of it but…
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
