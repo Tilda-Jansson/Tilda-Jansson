@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sings] There’s a hole in the wall where the men can see it all.
+> Hi.
 >
-> <p>- Andy</p>
+> <p>- Rolando</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
