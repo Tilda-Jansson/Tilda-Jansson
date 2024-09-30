@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [tossing the stroller off a tall heap of tires] Playtime is over!
+> [sings] There’s a hole in the wall where the men can see it all.
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
