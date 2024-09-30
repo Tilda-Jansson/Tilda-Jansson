@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was your idea.
+> You’re so pathetic.  How long did this take you? Three hours?
 >
 > <p>- Dwight</p>
 
