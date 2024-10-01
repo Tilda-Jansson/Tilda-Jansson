@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yep. You’re being replaced.
+> [Kelly runs to parking lot in the rain] Hello, Charles? Charles!
 >
-> <p>- Jim</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
