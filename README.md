@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. Not at all, actually. But thanks for asking. Appreciate it. You know what? I’d also like to take this opportunity to thank all of you for lying. To my face. And not telling me what’s been going on this entire time.
+> They have new phone systems now that can ring directly to a salesman, or someone presses star and they go to accounting, basically 95% of my job.  But I’d like to see a machine that puts out candy for everyone. [realizing] Vending machine.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
