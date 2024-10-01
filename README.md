@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, what I would like you to do is take this folded note, and deliver it to Toby Flenderson?  I just want you to just react to whatever this note elicits.  Do not read it beforehand.  Can you do that for me?
+> [picks up his bobblehead and throws it in the trash can]
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
