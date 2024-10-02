@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.  Bye Charles.  Well you’ll let me know.  Good bye.
+> We lost weight today. I think it’s OK to reward ourselves once in a while.
 >
-> <p>- Angela</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
