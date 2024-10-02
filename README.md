@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, screw you, beefer, I don’t forget your birthday, I would never do that.
+> One more kid calls me “Hellboy,” I swear to God…
 >
-> <p>- Kelly</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
