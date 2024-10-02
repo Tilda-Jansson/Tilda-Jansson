@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, Michael, I don't need to know everyone's sеxual history.
+> Thank you.  That’s very sweet of you.
 >
-> <p>- Charles</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
