@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why do you always go to that?  Has anyone ever been after anyone in this office?
+> No, it’s more of a underwear garment that has little spikes like made of, sometimes they are made of metal.  You know what I am talking about.  You unlock a little door that… down… where you, where you put, where you put the…
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
