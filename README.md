@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, let me introduce you to some of the troops. Accounting, front and center. Come on up here. I'd like you to meet somebody. This is the accounting department.
+> Hi.
 >
-> <p>- Michael</p>
+> <p>- Lynn</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
