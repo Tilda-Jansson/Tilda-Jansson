@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t get it. Do I stress you out?
+> Yeah, I think that’s pretty boss.
 >
 > <p>- Michael</p>
 
