@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, my God! Oh wow. Jim, what the?
+> And then, out of that cake, pops another stripper holding a smaller cake. And then an even smaller stripper pops out of that one.
 >
-> <p>- Charles</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
