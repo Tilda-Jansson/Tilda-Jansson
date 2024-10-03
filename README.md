@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He is mentally challenged. But he’s doing a super job here.
+> Save your whining for the jury there, Flenderson.
 >
-> <p>- Holly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
