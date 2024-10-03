@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And then, out of that cake, pops another stripper holding a smaller cake. And then an even smaller stripper pops out of that one.
+> Last night was crazy. Jojo? Yeah. He did a donut in a parking lot in front of a cop. And then he yells, “Hey cop, you like donuts?” then we drive off. No, he just stayed there. [Pam goes to sit in a chair in the corner.] I want that new phone. No, the other one. No the other one. No, you know which one I’m talking about it’s the one, the one with the awesome browser. [More bathroom noises] No, not that one.
 >
-> <p>- Pam</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
