@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well…
+> You remember Holly? She used to work for HR? She’s the love of my life. She just left… and I never got closure. And I feel like I need to go to Nashua and get closure.
 >
 > <p>- Michael</p>
 
