@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, let’s go over the plan again.
+> Fa-la-la-la-la-la-la-ka-ching.
 >
 > <p>- Dwight</p>
 
