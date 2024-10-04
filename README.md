@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sarcastically chuckles] Uh, your late, everyone’s already in the conference room. Karen will be right here to take you over.
+> A what?  A rag.  A damp rag, perhaps.  Let’s remember those procedures.  What are the options?  Okay, that’s the wrong way.  We’ve already tried that.  Remember your exit points.  Exit points people.
 >
-> <p>- Rolando</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
