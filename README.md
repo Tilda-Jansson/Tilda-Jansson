@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, no, I’m okay. I’m all right. [sighs heavily] Okay… okay.
+> I am telling Andy.
 >
 > <p>- Michael</p>
 
