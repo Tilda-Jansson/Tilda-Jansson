@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I assume your primary paper needs are stationary, general office.
+> That’s the best part. That represents a pillow, or a television.
 >
-> <p>- Prince Grandfather</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
