@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A what?  A rag.  A damp rag, perhaps.  Let’s remember those procedures.  What are the options?  Okay, that’s the wrong way.  We’ve already tried that.  Remember your exit points.  Exit points people.
+> Okay, let’s go over the plan again.
 >
 > <p>- Dwight</p>
 
