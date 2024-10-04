@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You remember Holly? She used to work for HR? She’s the love of my life. She just left… and I never got closure. And I feel like I need to go to Nashua and get closure.
+> So I was in the office, and I look over to our Accounting division, and there is Kevin Malone. Kevin is wearing a jacket that I’ve never seen before. And I call over to Kevin, “Kevin, is that a tweed jacket?” And he looks at me and he says, “Michael, yes it is a tweed jacket.” And I look back at him and I say, “I feel the need!… The need for tweed.”
 >
 > <p>- Michael</p>
 
