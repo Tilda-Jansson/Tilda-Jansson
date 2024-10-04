@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We need to come up with one realistic thing that we could do today.
+> [sarcastically chuckles] Uh, your late, everyone’s already in the conference room. Karen will be right here to take you over.
 >
-> <p>- Pam</p>
+> <p>- Rolando</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
