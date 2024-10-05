@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, what’s going on?  You don’t have my permission to do this.
+> I told you guys, I’m really busy here, so…
 >
-> <p>- Toby</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
