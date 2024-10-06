@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I told you guys, I’m really busy here, so…
+> You know what? I don’t want to get into this debate again. I enjoy IHOP.
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
