@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, actually, I, uh, I had a tub birth.  And it was really, really quite amazing.
+> We were tipped off about a possible narcotics situation.
 >
-> <p>- Jan</p>
+> <p>- Police Officer 1</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
