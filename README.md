@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We were tipped off about a possible narcotics situation.
+> You can let people go a couple of minutes early if you want.
 >
-> <p>- Police Officer 1</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
