@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well… no, I’m not. So I… I’m not very articulate today, so I’ll just leave it for another time. Another day.
+> You should come into town this weekend man. Yeah, we’ll hang out Scranton style.
 >
-> <p>- Michael</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
