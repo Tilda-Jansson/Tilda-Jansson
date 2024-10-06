@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes you are. [tries to pull Meredith from the car]
+> To tell you or not.  And I’m glad I did.  I feel very very good.  Cathartic.  I promise you that you are not going to get into trouble.  You can say anything you want with total and complete immunity.
 >
 > <p>- Michael</p>
 
