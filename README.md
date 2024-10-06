@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Finally.  Right?  Ok, Phyllis you must be exhausted from standing on those gams.  Why don’t you have a seat?  [Phyllis sits] Let’s all clap at Phyllis. [everyone claps] Ok!  [in Michael Clump voice]  When Michael Clump wants to remind you [normal voice] that corporate… their idea, yes, was to urge you to lose weight, but more importantly what this whole thing is about, this contest is really about being healthy.  And in order to be healthy, you have to eat, Kelly.  Kelly.  [kneels down in front of Kelly, Dwight tries to help him down, Michael shouts gibberish at him]  Kelly, I want you to stand up on your chair.  Come on, stand up on your chair.  Stand up, stand up, stand up.  Somebody help her.  Here we go. [Kelly stands up on her chair] Ok, I want you to look at her.  She’s a beautiful Indian woman.  Why?  What makes her beautiful?
+> Well… no, I’m not. So I… I’m not very articulate today, so I’ll just leave it for another time. Another day.
 >
 > <p>- Michael</p>
 
