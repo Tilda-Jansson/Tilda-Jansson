@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hmm. It wasn’t here before.
+> Hi, I’m afraid we’re not hiring right now.
 >
-> <p>- Dwight</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
