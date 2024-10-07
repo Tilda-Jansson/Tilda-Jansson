@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know.  Can you?  Kendall, my main man.
+> The Scranton Zoning Board has a strong bias against beet farmers. The mayor is in the pocket of Big Lettuce.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
