@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This shouldn’t happen at work.
+> Why did you come to New York in the first place?
 >
-> <p>- Jim</p>
+> <p>- Alex</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
