@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Will never be her name.
+> 
 >
 > <p>- Dwight</p>
 
