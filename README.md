@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The Scranton Zoning Board has a strong bias against beet farmers. The mayor is in the pocket of Big Lettuce.
+> I have here Kelly Kapoor’s personal and confidental file. Allow me to share. [opens file]  “Kelly Kapoor spent April 1995 to December 1996 at Berks County Youth Center.” Juvie. “According to past employers, it in no way affects her job perfor…”  Blah, Blah, Blah. [closes file]
 >
 > <p>- Dwight</p>
 
