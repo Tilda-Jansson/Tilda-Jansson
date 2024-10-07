@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Any good headhunter knows I am available.
+> I don’t know.  Can you?  Kendall, my main man.
 >
 > <p>- Michael</p>
 
