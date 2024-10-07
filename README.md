@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have here Kelly Kapoor’s personal and confidental file. Allow me to share. [opens file]  “Kelly Kapoor spent April 1995 to December 1996 at Berks County Youth Center.” Juvie. “According to past employers, it in no way affects her job perfor…”  Blah, Blah, Blah. [closes file]
+> Let’s start discussing those questionnaires that you filled in this morning.  It is wrong to make personal calls during work hours. Now, some of you marked that you very strongly agree.  But ideally you would have selected totally agree.
 >
-> <p>- Dwight</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
