@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on voicemail, because she’s calling Jim at the same time] Hi, this is Pam.  Leave a message.
+> Gah! [tries to dislodge paper with his feet]
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
