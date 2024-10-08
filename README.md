@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ceramics class. Then dinner by myself. I’m gonna watch HGTV and maybe go to Bungalow 8 with John Mayer.
+> Oh it’s good, you’re coming along. It’s really technically proficient but really there’s no heart or soul in it.
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
