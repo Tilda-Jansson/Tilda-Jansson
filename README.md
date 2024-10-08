@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> To socialize.  And inform.
+> Good, so, [Michael takes client list and heads out of office] where are you going?
 >
 > <p>- Dwight</p>
 
