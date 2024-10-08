@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh it’s good, you’re coming along. It’s really technically proficient but really there’s no heart or soul in it.
+> Alright.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
