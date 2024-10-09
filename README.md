@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, nothing.  Nothing Michael!  Just saying hi. [Michael waves “hi” at the phone]
+> No way!  There is no way! No way!
 >
-> <p>- Pam</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
