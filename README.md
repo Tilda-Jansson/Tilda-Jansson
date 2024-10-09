@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Please don’t listen to my phone calls.  Yeah, she’s like um, she’d probably be a Six in New York, but she’s like a Seven here in Scranton. And then uh, my boss is my old boss from Dunder Mifflin. It’s a small space.
+> Yep. You’re being replaced.
 >
-> <p>- Ryan</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
