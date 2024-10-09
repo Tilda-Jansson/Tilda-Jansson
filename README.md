@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sir, can you step away from your desk please?
+> No, it’s really dorky. You were right the first time.
 >
-> <p>- Police Officer 2</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
