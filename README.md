@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I figured I’d catch you walking to your car, but…
+> “Please hug and kiss me, no matter how hard I struggle.  I’m too shy to tell you that I love you.”
 >
 > <p>- Pam</p>
 
