@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. [leaves to get laptop]
+> [laughs]
 >
-> <p>- Michael</p>
+> <p>- A.J.</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
