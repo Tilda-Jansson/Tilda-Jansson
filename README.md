@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How dare you? My family built this country, by the way.
+> Okay! Procedure, procedure. Exit options.  Where do we go folks?  Wha– Use a what to cover the mouth?
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
