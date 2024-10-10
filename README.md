@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, that seems impossible.
+> Michael, wait!  I’m coming with you.
 >
 > <p>- Pam</p>
 
