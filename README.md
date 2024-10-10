@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.
+> Well, perfect, because we have now arrived at Kevin and he has no sеxual history.
 >
 > <p>- Michael</p>
 
