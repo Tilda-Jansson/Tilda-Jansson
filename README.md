@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I bought it.  It’s ours.  Let’s go inside, I’ll show you inside.  [walking inside] So if you can believe it I did it without a realtor.  Saving on closing costs is good and, uh, we can put all the money to de-shag the carpet.  Which I think will help, the color situation. [Pam walks over to the clown painting on the wall]  Yeah, I am really sorry about this.  I tried to move it but he is really nailed in there.  Worried about art theft, I guess, lot of art theives in this neighborhood.  [upstairs] This is the master bedroom but, I’m actually not allowed in here so… [shuts the door]
+> [in private office] Um.
 >
-> <p>- Jim</p>
+> <p>- Alex</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
