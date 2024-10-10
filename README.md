@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What are you doing?
+> It’s Pam. Uh, I came to kidnap you. There’s free wine and cheese at the Chuck Close retrospective. Let’s go.
 >
-> <p>- Dwight</p>
+> <p>- Alex</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
