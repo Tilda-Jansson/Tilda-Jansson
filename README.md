@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Buddha who?
+> I’m not going inside.
 >
 > <p>- Pam</p>
 
