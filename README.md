@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want you to get your ass out of my face.
+> What’s that?
 >
 > <p>- Michael</p>
 
