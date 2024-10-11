@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Enough of this Christmas crap.  Let’s get some party music. [changes radio station]  Yeah!
+> Use the surge of fear and adrenaline to sharpen your decision-making.
 >
-> <p>- Meredith</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
