@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re trying to win a contest here, Kelly.  Please?
+> Then listen to your iPod, Pam.
 >
 > <p>- Michael</p>
 
