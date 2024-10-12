@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [to Michael] It’s actually Blue Cross from Pennsylvania.
+> It’s nice to learn new things.
 >
-> <p>- Jim</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
