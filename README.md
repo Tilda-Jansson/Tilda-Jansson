@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am about to die. [laughs] Will you wait here while I go get my jacket?
+> Well, I think we can all totally agree that Holly is totally fantastic. [claps]
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
