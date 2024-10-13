@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mmm.
+> So what did he say? Was it my fault?
 >
 > <p>- Jim</p>
 
