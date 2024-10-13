@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Really? That’s kind of a big client. [gets up and heads toward Oscar] Hey, Oscar. Woo hoo hoo. Um, how much of a hit is ten percent of our Blue Cross account?
+> Fraud, Jim, Fraud.
 >
-> <p>- Michael</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
