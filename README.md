@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello, hi.
+> Remember, you were gonna get a new chair, and you were gonna give your old chair to me. Remember that?
 >
-> <p>- Entire Prince family</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
