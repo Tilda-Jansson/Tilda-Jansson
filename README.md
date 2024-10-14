@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey!
+> Hi, Jan. Hello, baby. How are you? Good to see you. Who’s your daddy? You don’t know who your daddy is, do you? No, you don’t. [to Jan] Come on. Let’s go in.
 >
 > <p>- Michael</p>
 
