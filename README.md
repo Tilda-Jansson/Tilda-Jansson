@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Shhh! Don’t excite him. Don’t make him excitable. [whispering] Welcome back, Stanley.
+> What?
 >
 > <p>- Michael</p>
 
