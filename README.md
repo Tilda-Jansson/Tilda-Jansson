@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We found ourselves on the less prepared side of things when Stanley had his… when his heart went berserk. And I knew exactly what to do, but in a much more real sense I had no idea what to do.  So I thought we should have CPR training class and of course you can’t get the practice dummy unless the instructor comes along with it. Red Cross, you know, racket.
+> [taking Michael’s picture] Okay, uh, point at the Dunder Mifflin.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
