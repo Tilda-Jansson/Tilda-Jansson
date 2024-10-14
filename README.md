@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [taking Michael’s picture] Okay, uh, point at the Dunder Mifflin.
+> Yeah, I guess, since I won.
 >
 > <p>- Pam</p>
 
