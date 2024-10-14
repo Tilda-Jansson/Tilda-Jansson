@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why would that make me a pervert, I –
+> Can I help you?
 >
-> <p>- Andy</p>
+> <p>- Rehab Nurse</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
