@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The what now?
+> Hello, hi.
 >
-> <p>- Michael</p>
+> <p>- Entire Prince family</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
