@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know let me give you some money for this.
+> And that her butt refuses to quit!
 >
 > <p>- Michael</p>
 
