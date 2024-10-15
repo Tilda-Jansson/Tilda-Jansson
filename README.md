@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you want to hear a lie?
+> Well, actually, I, uh, I had a tub birth.  And it was really, really quite amazing.
 >
-> <p>- Michael</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
