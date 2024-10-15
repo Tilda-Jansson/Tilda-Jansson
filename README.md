@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get it over with. Then we don’t have to hide anymore.
+> That’s not good.
 >
-> <p>- Dwight</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
