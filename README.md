@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> “Applicant has a head shaped like a trapezoid.”
+> Okay. Okay! Well, come on, let’s have an auction. Let’s do this. We’ll auction off people like in the olden days.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
