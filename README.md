@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you, Michael.
+> What’s going on with Pam?
 >
-> <p>- Stanley</p>
+> <p>- Roy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
