@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s crazy.  That’s crazy talk!  Meredith!  The Merenator, sleepin’ with suppliers!  Hoo-ooh!  Wow!  What time we got? [checks watch] You know what?  That’s a good place to end it.  Right there.  This, I think, was a great ethics seminar.  She has given us a lot of wonderful things to think about.  Right… what is wrong.  Who’s to say?  Really.  In the end.  I mean because it is… unknowable.  But, let’s give her a round of applause.  Holly, everybody.  Holly!  Get back to work. [everyone applauds, then leaves] [to Holly] Great job.  I am truly impressed.  That, uh, you really pulled that one out.  Classic.  Classic meeting.  We should celebrate.
+> I’d like to contribute.
 >
-> <p>- Michael</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
