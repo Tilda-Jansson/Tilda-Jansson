@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, you have to take responsibility here. One of your employees had a heart attack.  He could have died, because of the way that you are allowing your office to run.  Do you want that on your conscious?
+> Hi. [they kiss] Mmm. ‘Cause– [looks toward camera]
 >
-> <p>- David Wallace</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
