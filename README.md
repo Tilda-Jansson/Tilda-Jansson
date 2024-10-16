@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’d like to contribute.
+> This is the hardest thing I’ve ever had to do in my entire life.  I haven’t had a very hard life.
 >
-> <p>- Creed</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
