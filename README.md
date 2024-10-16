@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, don’t worry, the chain is off.
+> I have to unpack this weekend but maybe next weekend we go to the outlets!
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
