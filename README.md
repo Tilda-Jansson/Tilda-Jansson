@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh God… okay alright. It’s time to go it’s time to go. Jim, let’s go. Come on!
+> I’m not moving the tree.  Face it. The only power you have over me is this big secret that I know you’re not going to tell.  And you want to know how I know that? Because then you won’t be able to plan your stupid, tacky parties anymore. So you move the tree.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
