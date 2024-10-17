@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, we had a personnel change today.  Shouldn’t effect our day to day.  But, until we get a new receptionist I want Kevin on the phones.
+> Yes, you did.  And then you came back, which makes you the biggest liar of… history.
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
