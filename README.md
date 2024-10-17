@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He wouldn’t have wanted that. Her name is Princess Lady!
+> Okay. [remains sitting]
 >
-> <p>- Angela</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
