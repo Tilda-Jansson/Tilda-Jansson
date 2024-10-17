@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The rest stop where that soda exploded on me.  Exit 17, I think.  1 o’clock.
+> No. No, I just wanted to make sure, it was in the same format. So that distribution list is gonna be my…?
 >
-> <p>- JIM9334</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
