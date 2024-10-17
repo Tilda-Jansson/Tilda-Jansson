@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, a new copier! [only Oscar applauds] Unless everybody can agree on something better?
+> The rest stop where that soda exploded on me.  Exit 17, I think.  1 o’clock.
 >
-> <p>- Michael</p>
+> <p>- JIM9334</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
