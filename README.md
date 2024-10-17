@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, that’s very sweet but we have to follow the protocol.  Those are the rules.
+> Well, um, you can scan it, and then you can upload the image, and then you can copy the new image.
 >
-> <p>- Holly</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
