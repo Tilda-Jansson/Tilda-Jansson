@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, you did.  And then you came back, which makes you the biggest liar of… history.
+> [sarcastically] That’s funny.
 >
-> <p>- Michael</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
