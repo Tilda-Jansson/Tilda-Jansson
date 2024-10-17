@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ach! Wuh—
+> Well, that’s very sweet but we have to follow the protocol.  Those are the rules.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
