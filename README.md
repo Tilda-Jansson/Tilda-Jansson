@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Federal and State. [no one bids]
+> I learned that she broke her left leg twice in one year. I learned that she’s allergic to sesame seeds. I learned that she has read “Lonesome Dove” three times.
 >
 > <p>- Michael</p>
 
