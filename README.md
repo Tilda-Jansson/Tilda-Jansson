@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wanted to say I’m sorry… for treating you bad the past couple years.  I was in my mid twenties and I was goin’ through a lot of stuff.  I think I never fully processed 9/11.  Um, I want you to know I’ve changed.
+> Ach! Wuh—
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
