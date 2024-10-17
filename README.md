@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. No, I just wanted to make sure, it was in the same format. So that distribution list is gonna be my…?
+> Oh, wow look at those.  How nice for you.  Up there, front and center, beautiful.  I think they would look better right here.  [Michael takes the flowers from Pam’s desk and puts them on the ground off to the side]  They’re very pretty and I wouldn’t want them to fall.  [Kevin groans]
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
