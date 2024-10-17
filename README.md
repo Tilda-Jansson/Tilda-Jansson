@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, um, you can scan it, and then you can upload the image, and then you can copy the new image.
+> He wouldn’t have wanted that. Her name is Princess Lady!
 >
-> <p>- Pam</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
