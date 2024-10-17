@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sarcastically] That’s funny.
+> No, a new copier! [only Oscar applauds] Unless everybody can agree on something better?
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
