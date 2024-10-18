@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My German is pre-industrial and mostly religious.
+> [sitting on floor playing the sitar] Hey, hey… Ange… check it out.  [sings] There’s a place in France where the naked ladies dance. [laughs]
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
