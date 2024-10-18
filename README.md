@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sitting on floor playing the sitar] Hey, hey… Ange… check it out.  [sings] There’s a place in France where the naked ladies dance. [laughs]
+> [thinks for a moment] I will respect the results of the duel.
 >
-> <p>- Andy</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
