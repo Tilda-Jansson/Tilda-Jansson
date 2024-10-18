@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Alright. I just got out of the shower, I’ll be one second.
+> OK. [Pam and Jim look worried]
 >
-> <p>- Jim</p>
+> <p>- Alex</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
