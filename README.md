@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [thinks for a moment] I will respect the results of the duel.
+> [shouting] Out of my way! Let’s go. Get out of my way!
 >
-> <p>- Angela</p>
+> <p>- Everyone</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
