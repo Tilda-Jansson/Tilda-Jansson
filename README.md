@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Each side will have three minutes to prepare opening arguments. Topic:
+> Sorry.
 >
 > <p>- Andy</p>
 
