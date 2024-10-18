@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK. [Pam and Jim look worried]
+> No, no, no no. Shes hot, okay? Because if you are saying Hillary Swank isn’t hot, then you are saying that I am not hot. Because obviously I am not as hot as Hillary Swank! [Kelly runs away in tears]
 >
-> <p>- Alex</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
