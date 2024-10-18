@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sorry.
+> I am a man! I’m a bigger man than you’ll ever be! I would never sleep with another man’s fiance!
 >
 > <p>- Andy</p>
 
