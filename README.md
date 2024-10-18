@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am a man! I’m a bigger man than you’ll ever be! I would never sleep with another man’s fiance!
+> Oh, uh, Pam? Hey everyone, lunch is on me today.
 >
-> <p>- Andy</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
