@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh my God, oh my God, oh my God. [running out door]
+> Michael, you have to make a decision. The day is almost done.
 >
-> <p>- Dwight and Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
