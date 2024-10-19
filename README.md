@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I've never gone hang-gliding. And I've never driven my car to the top of Mount Washington.
+> Really? That many? This doesn’t seem like a very big operation.
 >
 > <p>- Michael</p>
 
