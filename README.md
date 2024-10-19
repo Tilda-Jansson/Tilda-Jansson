@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are you kidding me with this? On the day that I bring in breakfast?
+> Nice beaches, pristine beaches?
 >
 > <p>- Michael</p>
 
