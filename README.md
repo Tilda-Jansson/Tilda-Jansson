@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Two are for souvenirs.
+> No, No! I was so nervous it was the wrong building! I walked into the wrong building!
 >
 > <p>- Michael</p>
 
