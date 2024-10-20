@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You got a second?
+> Pete couldn’t make the Mets. She’s at Pratt. You played JV baseball. Will you lighten up a little bit?
 >
-> <p>- Pam</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
