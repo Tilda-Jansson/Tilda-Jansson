@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You're still the branch manager, yes, and if you need anything else at all, just let Charles know.
+> Michael, wait!  I’m coming with you.
 >
-> <p>- David</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
