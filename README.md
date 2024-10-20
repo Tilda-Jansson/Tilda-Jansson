@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t do this! This is pathetic, isn’t it? I am such an idiot. I gave up the only job I ever loved to do this? I have egg in my Crocs.
+> Two are for souvenirs.
 >
 > <p>- Michael</p>
 
