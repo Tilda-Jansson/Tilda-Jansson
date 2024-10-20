@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, how you doing? Jim Halpert, sales. Just wanted to say, if you need anything, let me know.
+> [Angela dials the phone] Let’s talk about this later. [Dwight’s pager buzzes]
 >
-> <p>- Jim</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
