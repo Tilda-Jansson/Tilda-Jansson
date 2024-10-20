@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Angela dials the phone] Let’s talk about this later. [Dwight’s pager buzzes]
+> Michael is taking a personal day to move me up.
 >
-> <p>- Angela</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
