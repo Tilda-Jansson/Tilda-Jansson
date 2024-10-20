@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you.
+> Well it was great catching up with you. And I’ll see you around the building.
 >
 > <p>- Pam</p>
 
