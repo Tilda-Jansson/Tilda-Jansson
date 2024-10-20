@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Your fictitious name?
+> Excuse me, that is no way to address a superior.
 >
 > <p>- Dwight</p>
 
