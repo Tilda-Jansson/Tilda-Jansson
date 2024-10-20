@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s really cute.
+> Hey, how you doing? Jim Halpert, sales. Just wanted to say, if you need anything, let me know.
 >
-> <p>- Phyllis</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
