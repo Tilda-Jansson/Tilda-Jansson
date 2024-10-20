@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael is taking a personal day to move me up.
+> Alright Kevin. Enough with the Michael jokes. I think he got it bad enough yesterday.
 >
-> <p>- Holly</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
