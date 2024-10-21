@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It is a classic management tactic. You have two sides, a deadline, you know that neither of them are gonna concede. What you do is you put ’em in a room, and you just- [Pam and Oscar come to the door of kitchen] Hey.
+> [sighs]
 >
 > <p>- Michael</p>
 
