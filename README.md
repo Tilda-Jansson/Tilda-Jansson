@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Would you like to try next?
+> No! You idiot! [hangs up] Idiot, idiot, idiot! What are you doing? God! Oh my god. [redials]
 >
-> <p>- CPR Trainer</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
