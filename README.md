@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hmm. It wasn’t here before.
+> It is a classic management tactic. You have two sides, a deadline, you know that neither of them are gonna concede. What you do is you put ’em in a room, and you just- [Pam and Oscar come to the door of kitchen] Hey.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
