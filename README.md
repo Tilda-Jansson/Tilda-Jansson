@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I stole a sleeve of her sweater.
+> Mine was retribution. What are you doing? No more knock-knock jokes. That’s it.
 >
 > <p>- Michael</p>
 
