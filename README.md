@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Is this the party? [everyone turns to Michael wanting to know if this is Blood Girl]
+> Nnnngah!
 >
-> <p>- Girl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
