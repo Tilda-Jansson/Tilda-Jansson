@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, wait!  I’m coming with you.
+> I will not be the big guy in the tiny hat. [Kevin is wearing the same hat]
 >
-> <p>- Pam</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
