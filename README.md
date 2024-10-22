@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Doesn’t it?
+> [most of office huddles around print out of Hillary Swank, judging her hotness] Not at all.
 >
-> <p>- Jim</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
