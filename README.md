@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.  I’m just thinking about what you said, about Karen, about closure. You remember Holly? She used to work for H.R.?
+> I just saw this baby daddy-
 >
 > <p>- Michael</p>
 
