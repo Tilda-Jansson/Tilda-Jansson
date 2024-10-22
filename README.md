@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Who else knows about it?
+> This is nicer, it’s fun. It’s fun!
 >
-> <p>- Andy</p>
+> <p>- Pete</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
