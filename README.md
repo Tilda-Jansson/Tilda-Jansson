@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They have new phone systems now that can ring directly to a salesman, or someone presses star and they go to accounting, basically 95% of my job.  But I’d like to see a machine that puts out candy for everyone. [realizing] Vending machine.
+> But I– I promised my daughter. Darryl, look– I– I need the doll, I need the doll.  I– I’m– I’m begging you.  I just– I need it more than anything in this world.  I need this doll. Darryl, man I need this doll.
 >
-> <p>- Pam</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
