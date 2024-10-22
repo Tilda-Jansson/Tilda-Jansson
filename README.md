@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [riding in car with Michael] What if the owner of Prince Family Paper has a beautiful daughter and we have to seduce her in order to get their secrets?
+> No.  I’m just thinking about what you said, about Karen, about closure. You remember Holly? She used to work for H.R.?
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
