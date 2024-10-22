@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [most of office huddles around print out of Hillary Swank, judging her hotness] Not at all.
+> [riding in car with Michael] What if the owner of Prince Family Paper has a beautiful daughter and we have to seduce her in order to get their secrets?
 >
-> <p>- Kevin</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
