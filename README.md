@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I need a decent bonus, because I’m actually in the process of buying my parents’ house so that they can retire. And if history tells us anything, it’s that you can’t go wrong buying a house you can’t afford. Pam doesn’t know about the house, so it’s… a fun surprise. [taps Bluetooth earpiece] Pam, sorry about that. I lost you for a second. So, as it turns out, I may not have done so hot on my customer reviews this year.
+> Oh, this is a nice office.
 >
-> <p>- Jim</p>
+> <p>- Julia</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
