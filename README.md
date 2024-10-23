@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.  Not a giant net.
+> I- I- believe you.
 >
-> <p>- Michael</p>
+> <p>- Blonde</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
