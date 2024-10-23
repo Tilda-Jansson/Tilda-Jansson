@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well you know what my middle name is? Rajani Ghana! And I hate it! I hate it!
+> It’s the only gavel I could find.
 >
-> <p>- Kelly</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
