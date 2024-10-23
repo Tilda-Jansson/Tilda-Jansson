@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [emerging from convenience store with two ice cream sundaes] Hey, look at that. Fun, right?
+> I didn’t put caprese salad in my drawer, Michael.
 >
-> <p>- Michael</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
