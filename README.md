@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, Michael handed in his 2-week notice, did you also hand in your 2-week?
+> All right, how about some presents?  I want to see some presents. [holding a memo pad] I got this so I can write down for thank-you notes.
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
