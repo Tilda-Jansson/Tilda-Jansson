@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I- I- believe you.
+> I have an idea for a fancy men’s shoe store called Shoe La La. And it’s just men’s shoes for the special occasions in a man’s life, like the day that you get married or the day your wife has a baby, or for just lounging around the house.
 >
-> <p>- Blonde</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
