@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t do the presentation, I can’t- [voice cracks] … just… oh… thinking about seeing him… and… thinking about… him getting to hold her and getting to kiss her, it just- oh, God! [starts crying, covers his face]
+> Hi, I’m afraid we’re not hiring right now.
 >
-> <p>- Michael</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
