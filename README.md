@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi, I’m afraid we’re not hiring right now.
+> Hello, this is Dwight Schrute from the Dunder Mifflin Paper Company.
 >
-> <p>- Prince Grandfather</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
