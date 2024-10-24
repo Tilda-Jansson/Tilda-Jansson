@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A tow truck is going to charge you one hundred bucks to take you a mile.  Let me take a look.
+> WOO!  Alright!
 >
-> <p>- Prince Grandfather</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
