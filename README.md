@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello, this is Dwight Schrute from the Dunder Mifflin Paper Company.
+> A tow truck is going to charge you one hundred bucks to take you a mile.  Let me take a look.
 >
-> <p>- Dwight</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
