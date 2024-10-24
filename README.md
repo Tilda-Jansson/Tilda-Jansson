@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah. C’mon we’ll meet halfway.  You’ll be back for your 4 o’clock class.
+> Next to the IHOP?
 >
-> <p>- JIM9334</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
