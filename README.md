@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They’re getting on my nerves Mom. Both of them. R thinks he’s too good to be here, and P is not as much fun without Jim.
+> You pet the animals and they pet you back.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
