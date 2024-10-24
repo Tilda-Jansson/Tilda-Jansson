@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Then come back soon.
+> I can’t do the presentation, I can’t- [voice cracks] … just… oh… thinking about seeing him… and… thinking about… him getting to hold her and getting to kiss her, it just- oh, God! [starts crying, covers his face]
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
