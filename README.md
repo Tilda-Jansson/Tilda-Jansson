@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did my scores drop a little?
+> [leaning against Creed’s desk] So I am collecting $3 from everybody. For Kelly’s party.
 >
 > <p>- Jim</p>
 
