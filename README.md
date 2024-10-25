@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Don’t you ever talk to me that way. You pathetic, short little man. You don’t have any friends, or any family, or any land. [clapping and whooing]
+> Last week I gave a fire safety talk. [clears throat] And nobody paid any attention.  It’s my own fault for using PowerPoint.  PowerPoint is boring.  People learn in a lot of different ways, but experience is the best teacher.  [lights a cigarette] Today, smoking is gonna save lives. [throws cigarette into garbage can filled with paper and lighter fluid]
 >
 > <p>- Dwight</p>
 
