@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey Kelly?
+> [on airplane] Welcome to Cribs-the business class edition. Check this out. Mimosa.
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
