@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last week I gave a fire safety talk. [clears throat] And nobody paid any attention.  It’s my own fault for using PowerPoint.  PowerPoint is boring.  People learn in a lot of different ways, but experience is the best teacher.  [lights a cigarette] Today, smoking is gonna save lives. [throws cigarette into garbage can filled with paper and lighter fluid]
+> Hello.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
