@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, it’s–Ah, Ah, Ah, Ah, stayin’ alive, stayin’ alive.
+> Hey Kelly?
 >
-> <p>- Rose</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
