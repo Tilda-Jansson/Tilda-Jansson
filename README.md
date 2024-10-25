@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not gonna take her 10 minutes to fax it, Jim. [to Pam] If I don’t see you again, goodbye. Well, actually, I’ll see you when you give me the fax confirmation, so never mind.
+> Well, I think we can all totally agree that Holly is totally fantastic. [claps]
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
