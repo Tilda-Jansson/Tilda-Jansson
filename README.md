@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You up for a chest bump?
+> He brought a sled.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
