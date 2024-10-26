@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right. See you later. [backs out of the parking space] Ahh.
+> [standing outside hotel room… whispering] Do you want to get some breakfast or something?
 >
 > <p>- Michael</p>
 
