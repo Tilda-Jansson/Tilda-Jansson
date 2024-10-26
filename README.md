@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Tonight’s so…
+> All right. See you later. [backs out of the parking space] Ahh.
 >
 > <p>- Michael</p>
 
