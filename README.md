@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Boundaries, Dwight. Come on!
+> I took a lot from other poems.
 >
 > <p>- Michael</p>
 
