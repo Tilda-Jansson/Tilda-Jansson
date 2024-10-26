@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I took a lot from other poems.
+> And she took a bite, started to choke. So what do I do? I have CPR training. Go around, start doing the Heimlich.
 >
 > <p>- Michael</p>
 
