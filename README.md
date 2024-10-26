@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, hold on, Michael, thank you. Uh, Stanley, you know, we can't make any promises, but we'll try everything in our power to avoid that.
+> God! No, that’s not… I don’t know what that is.  And I… I bet he has nothing to do with that!
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
