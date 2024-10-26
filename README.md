@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, hey what is this?
+> I take Quincy Ave to Gibson.
 >
 > <p>- Michael</p>
 
