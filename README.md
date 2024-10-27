@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Don’t do this. [watches Andy take drinks to the other table]
+> Oh, yeah, Kelly gave them out as party favors. Remember? You got one.
 >
-> <p>- Oscar</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
