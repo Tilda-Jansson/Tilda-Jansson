@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wow! Wow, I am blown away by this. I, um… I–ah! This is great, thank you!
+> Why?
 >
-> <p>- Michael</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
