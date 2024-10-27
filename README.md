@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Michael and Holly cautiously pass each other] There’s another dolly in the truck, Mike. You could take more than that lamp.
+> No, I know you are.
 >
-> <p>- Darryl</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
