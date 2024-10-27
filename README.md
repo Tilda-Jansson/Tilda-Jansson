@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well…
+> Wow! Wow, I am blown away by this. I, um… I–ah! This is great, thank you!
 >
 > <p>- Michael</p>
 
