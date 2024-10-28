@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh-okay, you’re not letting me finish, and you just lost out on a million dollars.
+> Enough of this Christmas crap.  Let’s get some party music. [changes radio station]  Yeah!
 >
-> <p>- Michael</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
