@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I got some in my minivan somewhere.
+> Oh-okay, you’re not letting me finish, and you just lost out on a million dollars.
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
