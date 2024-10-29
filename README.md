@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What–
+> Michael, Michael, no. Michael, give that. Michael, don’t do this. No. [chasing Michael out of the office into parking lot]
 >
-> <p>- Phyllis</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
