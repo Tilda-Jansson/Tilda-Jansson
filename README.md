@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael are you serious? You really want us to roast you?
+> Don’t drink all of it.  Give some to Oscar.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
