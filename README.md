@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Don’t drink all of it.  Give some to Oscar.
+> I have to take care of a couple things. So Andy will be taking over things here. You’re in good hands, and give my best to your mother.
 >
-> <p>- Michael</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
