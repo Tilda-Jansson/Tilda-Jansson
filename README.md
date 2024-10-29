@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re gonna switch back and forth, the driving. Sometimes we’ll just meet in the middle. It’ll be fun. Wait a sec. Oh I love this song.
+> [both laugh hysterically at portable DVD player on dashboard while Darryl drives, looking miserable]
 >
-> <p>- Michael</p>
+> <p>- Holly & Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
