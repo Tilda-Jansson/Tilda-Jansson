@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Anything to get out of that office.
+> OK guys, listen up. Here’s the deal. I love candy. Sweet sugary candy from the second it touches my tongue to the moment it’s metabolized by my stomach acids, so naturally I liked Willy Wonka.
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
