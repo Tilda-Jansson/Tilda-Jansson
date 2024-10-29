@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [both laugh hysterically at portable DVD player on dashboard while Darryl drives, looking miserable]
+> Nah. [everyone groans and Girl turns around and walks away.
 >
-> <p>- Holly & Michael</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
