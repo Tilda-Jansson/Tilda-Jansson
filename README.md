@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, Michael, no. Michael, give that. Michael, don’t do this. No. [chasing Michael out of the office into parking lot]
+> [starts a stopwatch as Dwight yawns, stops it when Dwight is done] Yawn.  Four seconds.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
