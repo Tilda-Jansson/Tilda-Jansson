@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, nothing.  Nothing Michael!  Just saying hi. [Michael waves “hi” at the phone]
+> Are you– [Michael ends call]
 >
-> <p>- Pam</p>
+> <p>- Mother</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
