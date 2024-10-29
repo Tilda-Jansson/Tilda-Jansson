@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have to take care of a couple things. So Andy will be taking over things here. You’re in good hands, and give my best to your mother.
+> I am trying to be more optimistic in life. I’ve got what, 20 or 30 years left. And my family history says I have less. Now, the old Stanley Hudson would have found something wrong this actress. But that is no way to live life. Look at this healthy sexy pretty strong young woman. C’mon people! She is hot.
 >
 > <p>- Stanley</p>
 
