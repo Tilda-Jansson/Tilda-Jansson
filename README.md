@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know.  I mean, it’s well-written and all, I just—
+> No, No, we’ll just board that up.  It’ll be that weird spare room that people ask us about.
 >
-> <p>- Kelly</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
