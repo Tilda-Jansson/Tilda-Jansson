@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I… really want to keep you.
+> How about I make an appointment to come back?  That way, I know he’ll be here.
 >
-> <p>- Michael</p>
+> <p>- Phone Salesman</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
