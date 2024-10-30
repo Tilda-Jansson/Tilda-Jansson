@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [still reading] Alas, after much consideration and deliberation…
+> Party’s over. You are so busted!
 >
 > <p>- Dwight</p>
 
