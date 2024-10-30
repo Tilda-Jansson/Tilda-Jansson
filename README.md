@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. OK, no.  I’m crowning!  I’m crowning!  Aaaaaaaa! [runs into Michael’s office]
+> [over indistinct conversation] Good? Yeah, he said good, I’m good…
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
