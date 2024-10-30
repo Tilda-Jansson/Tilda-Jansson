@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t wait to be a father.  I’m going to smother that baby.
+> No. OK, no.  I’m crowning!  I’m crowning!  Aaaaaaaa! [runs into Michael’s office]
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
