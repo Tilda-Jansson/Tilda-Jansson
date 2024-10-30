@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Years!
+> No, it’s really dorky. You were right the first time.
 >
 > <p>- Michael</p>
 
