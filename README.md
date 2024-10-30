@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> 700 and one penny.
+> Ehh… [in accent] well it’s a very intriguing concept, isn’t it?  Um… hmmm..[makes weird noises to stall, Dwight enters] Michael is starting his own paper company. What do you think about that?
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
