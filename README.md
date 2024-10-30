@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Could I be a part of the meeting also?
+> I… really want to keep you.
 >
 > <p>- Michael</p>
 
