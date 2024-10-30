@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you. Holly is right. People, this is not just about winning some extra vacation days. This is about a very cool HR initiative that if we don’t follow, we are all going to die of obesity. So how much are we gonna lose?
+> Did you bring your jerky in again?
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
