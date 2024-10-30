@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not so weak, huh, Mom?
+> Never! [hits Andy’s car with his bike chain] Get out and face me like a man!
 >
 > <p>- Dwight</p>
 
