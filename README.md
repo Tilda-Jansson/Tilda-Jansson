@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last I checked, that’s not an office building in the Andromeda galaxy.
+> 700 and one penny.
 >
 > <p>- Dwight</p>
 
