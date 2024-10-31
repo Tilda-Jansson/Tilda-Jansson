@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Michael has a ‘sticky-hand’ toy and snags a paper off Jim’s desk and then laughs] About a week ago, Michael gave his 2-week notice. And, surprisingly there is a very big difference between Michael trying and Michael not trying.
+> Dangerous. Tacky. Sharks. Haunted. No.
 >
-> <p>- Jim</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
