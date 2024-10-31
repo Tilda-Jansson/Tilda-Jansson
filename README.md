@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael? You ran over me with your car. You posted a picture of my bare boobs on the bulletin board with a caption that said “Gross”…
+> [on the phone] You can fax it over. Yeah, 5-7-0-5-5-5-0-1–
 >
-> <p>- Meredith</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
