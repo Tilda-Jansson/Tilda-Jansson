@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You guys are throwing a lot at me.
+> Here’s what I was thinking. The following weekend, I drive up.
 >
-> <p>- Kevin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
