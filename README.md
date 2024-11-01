@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [noticing that everyone is giving him a sympathetic look] How does everyone know already?
+> And the birth instructor thought it wasn’t a good idea for you to be there, so…
 >
-> <p>- Jim</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
