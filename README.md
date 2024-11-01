@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whispering] Hey, that looks good. Listen, about the tickets. It’s sort of a gray-kind of a gray area in terms of…whether or not I had them- [Holly covers Michaels mouth]
+> I don’t try and be anything that I’m not.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
