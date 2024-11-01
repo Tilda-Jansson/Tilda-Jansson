@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And the birth instructor thought it wasn’t a good idea for you to be there, so…
+> [on speakerphone] Listen, Holly, Michael, I just got the report that your branch submitted and there’s a lot of stuff about a relationship Meredith is having with..
 >
-> <p>- Jan</p>
+> <p>- Kendall</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
