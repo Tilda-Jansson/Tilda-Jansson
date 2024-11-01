@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last year, idiot! [hits his car with the bike chain]
+> Oh man,
 >
 > <p>- Dwight</p>
 
