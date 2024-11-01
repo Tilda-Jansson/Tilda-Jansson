@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I stab her in the brain with a wooden stick.
+> You did. Several times. Over and over again.
 >
 > <p>- Dwight</p>
 
