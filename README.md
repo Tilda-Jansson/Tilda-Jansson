@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t try and be anything that I’m not.
+> C’mon, Oscar. What positions do people play?
 >
-> <p>- Dwight</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
