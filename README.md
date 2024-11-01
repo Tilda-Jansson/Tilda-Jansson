@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Stealing office supplies is another big ethical area that there seems to be some confusion about.
+> I stab her in the brain with a wooden stick.
 >
-> <p>- Holly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
