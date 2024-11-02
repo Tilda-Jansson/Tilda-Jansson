@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know I haven’t made this easy on you. [Dwight comes out of storage room alone, looks at watch.]
+> Oscar!
 >
 > <p>- Angela</p>
 
