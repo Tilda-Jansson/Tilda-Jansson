@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Alright, I am a local business owner. [Dwight nods along] I need to buy paper.  I find out everything about their prices and policies
+> Hey!
 >
 > <p>- Michael</p>
 
