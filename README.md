@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [yelling] That’s how much you and I contributed! I… Damn it Jim!
+> Pete couldn’t make the Mets. She’s at Pratt. You played JV baseball. Will you lighten up a little bit?
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
