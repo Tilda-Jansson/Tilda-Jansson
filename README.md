@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have a crazy idea. What if we did, um, fruit instead of cake?
+> You weren’t even in the room!  Thanks for nothing.
 >
-> <p>- Holly</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
