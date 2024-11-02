@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They’re on the supply shelf.
+> I know I haven’t made this easy on you. [Dwight comes out of storage room alone, looks at watch.]
 >
-> <p>- Pam</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
