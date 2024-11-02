@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes I do. You’ve just never seen it. [reading from diary] March 4th. Dwight came up with the best idea today about golden tickets.
+> I have a crazy idea. What if we did, um, fruit instead of cake?
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
