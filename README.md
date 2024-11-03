@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Meredith, that is serious.  I mean not only that a conflict of interests, there’s also an exchange of goods.
+> Mmm… sometimes her stockings have a run in them.
 >
-> <p>- Holly</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
