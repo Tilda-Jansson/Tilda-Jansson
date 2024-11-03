@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m gonna write you up for not working.
+> Yeah… yep.
 >
 > <p>- Jim</p>
 
