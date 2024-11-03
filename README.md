@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Darryl….
+> Meredith, that is serious.  I mean not only that a conflict of interests, there’s also an exchange of goods.
 >
 > <p>- Holly</p>
 
