@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know about anyone else.  But it was a good summer for me.  I lost seven pounds.  And you know what?  I’m just gonna take five days off anyway.
+> Jelly beans.
 >
-> <p>- Stanley</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
