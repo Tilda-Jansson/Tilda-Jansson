@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re going to mess with me, is that what you’re going to do? I’ll tell you something Charles, I don’t even care. Cause I’ve got nothing got lose. [Charles steps towards Michael] Oh my God, OH GOD! No no, all right. Fine, it’s not even worth it.
+> Call your mom, Michael. [everyone talking]
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
