@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [setting stopwatch] Go.
+> Yes, it does. No, this is about weight displacement. We have to have the same weight distribution. Right here. Here we go. Let’s move that up. Here we go.
 >
-> <p>- Darryl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
