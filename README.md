@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Guess what? Not happening at work.
+> Okay, Okay, we don’t have much time.  Just act normal.  Don’t look at me people. Stop.  Don’t look down. Don’t look down. He’s going to see me.  Don’t look all the way up. Keep it at a normal height.  Okay. This is not Michael Scott talking right now, this is your future.  Hello, I am your future.  You’re older, and you are very happy now.  Because you went with Michael Scott.  Right.  So everybody come on down.  Lets just crawl out of here together. Alright?  Come on!  Are you, are you doing your best here?  Are you being the best that you can be?  [Pam is thinking hard] Alright. Everybody who’s going to go with me I want you to stomp your foot.  Okay, alright. Come on. You’re coming with me.  Come on Phyllis.  Here we go, here we go!
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
