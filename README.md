@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I just… couldn’t wait.
+> I guess this is what they call a bittersweet moment. It is bitter because I slightly destroyed a wonderful little family. But sweet because David Wallace thought I did a good job. That’s what I hate bittersweet chocolate. I don’t even… what’s the point of that? Why not just sweet? Who are you helping?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
