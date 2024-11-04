@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh! I forgot my purse.
+> Pam, listen.  This order form.  Instead of saying “Dunder Mifflin” at the top is there any way I could get it to say something else?
 >
-> <p>- Phyllis</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
