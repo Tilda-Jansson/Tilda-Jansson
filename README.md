@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Really? Well then how would we come up with great ideas like Jim's? Go ahead.
+> Works in accounting.  This is uh, concierge Marie…
 >
 > <p>- Michael</p>
 
