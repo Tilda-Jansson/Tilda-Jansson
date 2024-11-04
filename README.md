@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Works in accounting.  This is uh, concierge Marie…
+> Thank you.
 >
 > <p>- Michael</p>
 
