@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m going out with you.
+> [goes up to concierge from the hotel] Excuse me, hello. Concierge Marie. Michael Scott.  Good to see you again.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
