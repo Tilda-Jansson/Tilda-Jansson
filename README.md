@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, you.
+> We could just give him a chance. It’s not much money.
 >
-> <p>- Ryan</p>
+> <p>- Old Woman</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
