@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is our first and only Valentine’s Day as fiances.
+> I was actually in Germany for the 2006 World Cup Finals.
 >
-> <p>- Pam</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
