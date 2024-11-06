@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Look you’ve been here longer, and besides, I’m a better wingman than I am a boyfriend so-
+> [laughing] She’s probably going to, cause they sit next to each other.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
