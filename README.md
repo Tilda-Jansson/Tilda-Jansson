@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi, I am well, how are you?
+> You can take the girl out of Philly…
 >
-> <p>- Michael</p>
+> <p>- Man on phone</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
