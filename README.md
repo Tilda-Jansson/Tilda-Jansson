@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ever since Pam and I started dating, I just feel weird asking her to make copies for me. So, I make my own copies. And that copier sucks. Let me tell you, I-But you know what? Pam and I don’t have to agree on everything.
+> Oh, thanks man. Appreciate that.
 >
 > <p>- Jim</p>
 
