@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you have to slaughter on our wedding day?
+> Ever since Pam and I started dating, I just feel weird asking her to make copies for me. So, I make my own copies. And that copier sucks. Let me tell you, I-But you know what? Pam and I don’t have to agree on everything.
 >
-> <p>- Angela</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
