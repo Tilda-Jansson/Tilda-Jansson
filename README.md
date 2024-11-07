@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So sexy it becomes hostile.
+> Yes I do. You’ve just never seen it. [reading from diary] March 4th. Dwight came up with the best idea today about golden tickets.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
