@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can I have a word with you, Jim?
+> Hmm.
 >
-> <p>- Michael</p>
+> <p>- Erin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
