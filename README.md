@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Rule 17:
+> Well, how do you like these apples? [sets drinks on table] Alright, on a scale of 1 – 10, how hot is that dude? [indicates towards Oscar who waves slightly]
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
