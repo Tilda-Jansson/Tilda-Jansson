@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I cannot wait to contact your clients.
+> Oh, cr…, oh, God.  Meredith, you know what?  I just need a minute, okay?
 >
 > <p>- Michael</p>
 
