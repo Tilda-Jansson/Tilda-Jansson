@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That guy did a lot of things I’m not proud of.
+> OK, I’m going to ask you something and I want you to be honest. What is a pallet?
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
