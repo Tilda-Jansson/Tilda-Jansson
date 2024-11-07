@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right! That would be hilarious! We should totally dog her, about being an artist, never making any money!
+> Call your mom, Michael. [everyone talking]
 >
-> <p>- Tom</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
