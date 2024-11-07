@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What!
+> I’ve written these things because it is my responsibility, as manager of this branch, to profiligate great ideas and I think I have done my part with the golden ticket promotion. Now it is your turn. I want to hear some great ideas from you that are just as good as mine. [Jim raises hand] Umm hmm.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
