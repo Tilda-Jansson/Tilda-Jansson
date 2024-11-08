@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t want to be married in a tent like a hobo
+> Oh, look at that.  Cupids and hearts. Really shoving our faces in it this year.  You doin OK, bud?
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
