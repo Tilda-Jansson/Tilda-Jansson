@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You sorta disappeared there for a while. Where ya been?
+> Well then it’s a happy ending, because he was gay. You should call him!
 >
 > <p>- Michael</p>
 
