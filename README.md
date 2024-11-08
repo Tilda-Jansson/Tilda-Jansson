@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whispering to Jim] Trade seats with me.
+> We haven’t decided on anything yet. We’re still reviewing some options, and it’s gonna come down to the numbers.
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
