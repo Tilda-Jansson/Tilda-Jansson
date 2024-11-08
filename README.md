@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What do I do with my bonus check? [scoffs] Simple. Purchase paper from myself. Boosts my sales, which boosts my bonus. Last year I bought even more paper to make this year’s bonus even bigger. Eventually, I’ll get a bonus so big I can retire on it. And I’ll use the paper to write my memoirs.
+> You sorta disappeared there for a while. Where ya been?
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
