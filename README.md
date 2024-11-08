@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My dad spent the night at our place last night.  My parents have been fighting for weeks and… it kinda sucks.  Jim’s been great. But I’m gonna need to buy my dad a robe.
+> Ok, goodbye Prince Family.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
