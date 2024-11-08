@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, I’ve gone over corporate policy.
+> It looks like we’re going to be here for awhile, so why don’t you make a little plate of hummus for everyone.  Little triangles of pita, toasted on both sides, fanned so you can easily can grab them.
 >
-> <p>- Holly</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
