@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [rolls down car window] Dwight and Angela are having an affair. They’ve been sleeping together for some time. That was the news. I wanted to let you know.
+> Michael, I got you a hot chocolate. I hope that’s okay.
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
