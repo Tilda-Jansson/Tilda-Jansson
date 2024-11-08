@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It looks like we’re going to be here for awhile, so why don’t you make a little plate of hummus for everyone.  Little triangles of pita, toasted on both sides, fanned so you can easily can grab them.
+> No, no, no! You will not die! Stanley! Stanley! You will not die!  Stanley! Stanley! Barack is president!  You are black, Stanley! I’m gonna give him mouth to mouth.
 >
-> <p>- Phyllis</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
