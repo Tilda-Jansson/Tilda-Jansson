@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, goodbye Prince Family.
+> I don’t want to be married in a tent like a hobo
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
