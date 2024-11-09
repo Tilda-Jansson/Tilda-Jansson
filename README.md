@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Come on! Ow! Ah! Aah!
+> Oh God, what did you do?  I mean, not that I approve of any of it but…
 >
-> <p>- Dwight</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
