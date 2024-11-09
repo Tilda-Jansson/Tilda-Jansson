@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I um, I spent the afternoon in the park trying to feed the pigeons, I guess they all flew west for the winter, and I, I just had some thoughts that I wanted to share with you people.
+> No, I would like to get back to work, actually, please.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
