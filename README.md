@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh God, what did you do?  I mean, not that I approve of any of it but…
+> No, okay. It’s fine. It’s fine. We’re just gonna add “find office”…
 >
-> <p>- Angela</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
