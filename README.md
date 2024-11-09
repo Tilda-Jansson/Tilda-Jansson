@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [flashback] Are you from another planet?
+> So we’re only eight pounds behind Utica.  Now, I know it’s a stretch but we could weigh ourselves again at the end of the day and maybe win this thing after all.
 >
-> <p>- Stanley</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
