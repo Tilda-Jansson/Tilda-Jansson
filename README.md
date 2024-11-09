@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh-oh-oh before you go, I’d just love to get a firm commitment on this.  You know maybe sign–
+> Also, it’s icky back there.
 >
 > <p>- Dwight</p>
 
