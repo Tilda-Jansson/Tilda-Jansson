@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, I wrote it on my hand… but then I washed it.
+> Yes, he bowled 5 frames with this pink sparkly thing until a little girl had to ask for her ball back.
 >
-> <p>- Kevin</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
