@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Close the door.  This is your fault.
+> There he is! Hello, hello!
 >
 > <p>- Michael</p>
 
