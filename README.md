@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, screw you, beefer, I don’t forget your birthday, I would never do that.
+> Ok. [to everyone] Michael makes a really good point so, uh, let’s just open this up a little bit. Say my name is Lauren and here I am shopping in a supermarket and I steal a pencil.  That’s not right.
 >
-> <p>- Kelly</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
