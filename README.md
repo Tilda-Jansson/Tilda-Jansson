@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, I think that’s pretty boss.
+> Yes! Wallace said there would be one of those.
 >
 > <p>- Michael</p>
 
