@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There he is! Hello, hello!
+> In German! Leben ist dort alt, alter als die Baume, Junger als die Berge, wie eine Brise blasend
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
