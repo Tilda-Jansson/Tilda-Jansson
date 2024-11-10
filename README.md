@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sp-Well, um, Michael should have filled you in last week.
+> Whew, it’s better for me just to be quiet, yeah.
 >
-> <p>- Charles</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
