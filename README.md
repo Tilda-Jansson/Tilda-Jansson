@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well… this might not be the right time, but I need more than I originally asked for.
+> No, I will.
 >
 > <p>- Michael</p>
 
