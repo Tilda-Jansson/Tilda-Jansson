@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, what is this?
+> Alright, then we’re screwed. I am just a net that traps all of your crappy subconscious ideas and adds a little bit of my own childhood memories and whimsy, so –
 >
-> <p>- Toby</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
