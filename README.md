@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, all my stuff is still upstairs so…
+> [to friend] Nice.
 >
 > <p>- Pam</p>
 
