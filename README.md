@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh my God, that makes it even more romantic.  This is like a modern day Enchanted, it’s like a fairy tale.
+> Please sit down.
 >
-> <p>- Kelly</p>
+> <p>- Professor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
