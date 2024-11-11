@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what everyone thinks.  I know I am not an alcoholic.
+> But now we think you’re a liar.
 >
-> <p>- Meredith</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
