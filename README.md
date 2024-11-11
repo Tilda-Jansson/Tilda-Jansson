@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [disapprovingly] Kevin!
+> Ayyyy!
 >
-> <p>- Pam</p>
+> <p>- Jim, Pam, Michael and Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
