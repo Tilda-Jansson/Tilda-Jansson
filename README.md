@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ayyyy!
+> I don’t care what everyone thinks.  I know I am not an alcoholic.
 >
-> <p>- Jim, Pam, Michael and Dwight</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
