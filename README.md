@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You… oh.  Somebody has been talking in bed.  Pillow talk.
+> I once had a dream. That I was eating a peanut butter and tuna fish sandwich. And, let me tell you something it was delicious. So the next day, I decided to make that sandwich. And in real life it is disgusting. [The phone rings] It is a disgusting sandwich. [It rings again.] And the reason I tell you this story. [phone] Pick up the phone.
 >
 > <p>- Michael</p>
 
