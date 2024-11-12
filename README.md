@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, I’m gonna have to stop you right there. Was this a sorority that you didn’t get into a real sorority so you had to kind of form your own?
+> Yes they are, you just don’t care about the information.
 >
 > <p>- Michael</p>
 
