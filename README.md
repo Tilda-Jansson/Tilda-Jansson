@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re gonna have to talk louder.
+> Okay, I’m gonna have to stop you right there. Was this a sorority that you didn’t get into a real sorority so you had to kind of form your own?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
