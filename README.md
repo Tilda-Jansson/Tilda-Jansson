@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It doesn’t make any sense.
+> This is what I’m gonna do.  I’m gonna randomly select three names and these three people will get liposuction.  Uhhhhh Stanley, Phyllis, Kevin.  And you will be responsible for your own medical bills.
 >
 > <p>- Dwight</p>
 
