@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, No! I was so nervous it was the wrong building! I walked into the wrong building!
+> I don’t need $645; I already have $645, more or less.
 >
 > <p>- Michael</p>
 
