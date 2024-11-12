@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s cool. Hey, you know what’s even cooler than triceratops? Every other dinosaur that ever existed.
+> Yes, that came out during the ethics seminar.
 >
-> <p>- Dwight</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
