@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Meredith, have you ever used alcohol to alter your mood or deliberately change your state of mind?
+> Why is it so bad for me to call and ask her to lunch today?
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
