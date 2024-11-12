@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No way, it’s the KGB.
+> Hey. Why are you wearing a turtleneck?
 >
 > <p>- Dwight</p>
 
