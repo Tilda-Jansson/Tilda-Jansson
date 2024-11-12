@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is what I’m gonna do.  I’m gonna randomly select three names and these three people will get liposuction.  Uhhhhh Stanley, Phyllis, Kevin.  And you will be responsible for your own medical bills.
+> It’s up to you to change his mind.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
