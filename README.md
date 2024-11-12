@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey. Why are you wearing a turtleneck?
+> No, this was years ago when I was living in Ohio.   John Mark and John David.
 >
-> <p>- Dwight</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
