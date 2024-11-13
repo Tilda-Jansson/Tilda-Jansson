@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on phone] Hello David. I just got back from my procedure, so–
+> A hat.
 >
 > <p>- Michael</p>
 
