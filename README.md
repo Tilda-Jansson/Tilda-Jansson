@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Make the party.  Don’t – make the party, please, Phyllis. [Phyllis starts inflating a balloon with a pump] Pump it!
+> I would like cat.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
