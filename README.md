@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Da  na na na na.
+> Maybe they are shrinking.
 >
 > <p>- Michael</p>
 
