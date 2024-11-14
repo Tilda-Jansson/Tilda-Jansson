@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why, Darryl, because I’m quote white quote unquote?
+> I took a lot from other poems.
 >
 > <p>- Michael</p>
 
