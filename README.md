@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My golden ticket idea? OK. Why would anyone think that this is my golden ticket idea? There is a one in 13 chance that this could be anybody’s golden ticket idea. [sighs] That… [sighs]
+> Ladies and gentlemen, even though the penis was fake, I was expecting a second plot twist where we found out Hilary Swank was a boy.
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
