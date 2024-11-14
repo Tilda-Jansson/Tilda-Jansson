@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you, Andy.
+> I can’t take it anymore.
 >
 > <p>- Michael</p>
 
