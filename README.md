@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hank, thank God you’re here. The office is at a crossroads.
+> Yeah.
 >
-> <p>- Michael</p>
+> <p>- Erin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
