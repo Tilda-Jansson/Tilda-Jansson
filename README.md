@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Cow, goat or sheep.
+> Dwight, I thought I knew what I wanted. And then, being here with you and the German Mennonite minister… it just all felt right. I made a mistake picking Andy.
 >
-> <p>- Dwight</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
