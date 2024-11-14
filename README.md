@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, I thought I knew what I wanted. And then, being here with you and the German Mennonite minister… it just all felt right. I made a mistake picking Andy.
+> Hank, thank God you’re here. The office is at a crossroads.
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
