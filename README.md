@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ladies and gentlemen, even though the penis was fake, I was expecting a second plot twist where we found out Hilary Swank was a boy.
+> [drawing two family trees on a whiteboard] Jan is about to have a baby with a sperm donor. And Michael is preparing for the birth of a watermelon with Dwight.  Now, this baby will be related to Michael through [draws a question mark] delusion.
 >
-> <p>- Kevin</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
