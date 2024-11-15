@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh and thanks for the tip on the concerige.  That was great.  That was great.  That was— that was a—
+> Yeah, here we go. Ok.
 >
 > <p>- Michael</p>
 
