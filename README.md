@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi. [they kiss] Mmm. ‘Cause– [looks toward camera]
+> Well, ya know, Michael is a great delegator. He never does any work himself. Ever. And one time, I walked in on him naked, and his thing is so small. [quickly walks off stage] If it were an iPod it would be a shuffle! [clapping, laughter]
 >
 > <p>- Pam</p>
 
