@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh my God! [Dwight has cut the face off the CPR dummy and put it over his own]
+> [starting to cry] Right.
 >
-> <p>- Angela</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
