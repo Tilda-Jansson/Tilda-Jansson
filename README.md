@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I will be honest with you.  That car ride did not go well and that was not my fault.  The only reason I am standing out here right now is because I don’t want to take the elevator with her.  And I am holding on to her leftovers. [throws Holly’s leftovers in the trash]
+> Oh Okay, all right. That makes sense. How does your boyfriend, deal with your phenomenal success? Is he just, like, totally threatened by you, or?
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
