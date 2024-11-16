@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It is my idea.
+> I did it. I learned everything about this machine.  I know all the buttons, even the inside ones.   I know all the error messages.  I could do a bound book, in plastic with offset colors.  Which feels…
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
