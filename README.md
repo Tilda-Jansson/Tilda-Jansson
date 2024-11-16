@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s go. We are following Pam to the supply shelf. Let us go.
+> Yes. We are. We are livid.  But we are going to let this one slide.
 >
 > <p>- Michael</p>
 
