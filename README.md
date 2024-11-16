@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I will walk away.
+> That was your choice; don’t put that on me.  I’m just going on a little trip.
 >
-> <p>- Charles</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
