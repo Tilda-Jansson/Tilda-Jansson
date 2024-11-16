@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [runs away] Oh my God! Oh my God! Oh my God!  No! No!
+> I don’t know, it could be any number of people. It could be a pedestrian. It could be an old person. It could be a lookie-loo. Or, it could be… a Bruce Springsteen fan – what? Who said that? I did. Why did I say that? Oh, I think you know why I said that. I think it is very apparent. I think it goes without saying. Bear with me. There’s a point there. But what is the point? I don’t understand what he’s saying. It seems a little shady. It seems a little foggy. Well, it’s not a little foggy there’s actually something going on here-
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
