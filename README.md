@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Lonely people mixing with one another?  Breeding? Creating an even lonelier generation?  Ha, you’re not allowing natural selection to do its work.  Pssh.  You’re like the guy who invented the seat belt.
+> I’m not overwhelmed, Pam.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
