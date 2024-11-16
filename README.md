@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right. Highways or surface roads?
+> Let’s go. We are following Pam to the supply shelf. Let us go.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
