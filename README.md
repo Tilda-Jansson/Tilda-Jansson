@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know, it could be any number of people. It could be a pedestrian. It could be an old person. It could be a lookie-loo. Or, it could be… a Bruce Springsteen fan – what? Who said that? I did. Why did I say that? Oh, I think you know why I said that. I think it is very apparent. I think it goes without saying. Bear with me. There’s a point there. But what is the point? I don’t understand what he’s saying. It seems a little shady. It seems a little foggy. Well, it’s not a little foggy there’s actually something going on here-
+> I will be honest with you.  That car ride did not go well and that was not my fault.  The only reason I am standing out here right now is because I don’t want to take the elevator with her.  And I am holding on to her leftovers. [throws Holly’s leftovers in the trash]
 >
 > <p>- Michael</p>
 
