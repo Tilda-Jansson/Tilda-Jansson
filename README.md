@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes. We are. We are livid.  But we are going to let this one slide.
+> Invite them on the tour.
 >
 > <p>- Michael</p>
 
