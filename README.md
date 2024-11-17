@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I dunno. I mean, maybe he’ll talk to you about some of this stuff ’cause he can’t really talk to me about it.
+> I’ll help. [Meredith tears the wings off of a Cupid]  Now it’s just a stupid baby.
 >
-> <p>- Pam</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
