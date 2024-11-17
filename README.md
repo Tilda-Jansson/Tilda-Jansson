@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That is stupid. I will use a sword and I will cut off your bare hands.
+> You always say that, and I almost never know.
 >
-> <p>- Dwight</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
