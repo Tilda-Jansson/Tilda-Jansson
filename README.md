@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh Okay, all right. That makes sense. How does your boyfriend, deal with your phenomenal success? Is he just, like, totally threatened by you, or?
+> I’m just gonna grab some lunch. You wanna come with?
 >
-> <p>- Andy</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
