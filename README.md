@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you take requests?
+> Alright, here we go.
 >
-> <p>- Jim</p>
+> <p>- Blood Drive Worker</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
