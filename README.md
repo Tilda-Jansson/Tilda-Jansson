@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you ever wondered if you were Michael Scott, here’s a quiz to help. If you ever put sunblock on a window, you might be Michael Scott. [laughter]
+> Yeah.
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
