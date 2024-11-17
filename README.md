@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, I wasn’t going to dignify this discussion by getting involved, but I don’t even get the discussion, hot is a temperature people. But Kevin deserves to lose for what he said, so, yes, she’s hot, she’s hot as heck, she’s a female Boris Becker.
+> Are you out of your damn mind?
 >
-> <p>- Angela</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
