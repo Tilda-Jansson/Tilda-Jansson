@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are you out of your damn mind?
+> Oh, that's the Party Planning Committee. They spend hours planning parties.
 >
-> <p>- Stanley</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
