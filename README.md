@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Beesly, are you threatening me?
+> I dunno. I mean, maybe he’ll talk to you about some of this stuff ’cause he can’t really talk to me about it.
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
