@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wait a minute. One more bite of eclair each. Hold it in your mouth if you can’t swallow.
+> Tsk… Oh.  Matsuki.  That’s a good one.  Uh, you may walk there if you wish or you man take the number seventeen bus until 9:00.  Other than that you can take the taxi and the number is right there.
 >
-> <p>- Dwight</p>
+> <p>- Concierge</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
