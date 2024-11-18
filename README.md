@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just leave me alone!
+> That’s a really… well fine,  Do the German instructions say what this is supposed to do?
 >
-> <p>- Kelly</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
