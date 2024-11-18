@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Tsk… Oh.  Matsuki.  That’s a good one.  Uh, you may walk there if you wish or you man take the number seventeen bus until 9:00.  Other than that you can take the taxi and the number is right there.
+> [backing out of the bloodmobile] I, uh-oh I feel so woozy I just [to Phyllis] Band-Aids.
 >
-> <p>- Concierge</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
