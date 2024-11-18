@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s a really… well fine,  Do the German instructions say what this is supposed to do?
+> The tall guy got engaged.
 >
-> <p>- Pam</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
