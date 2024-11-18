@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I see.
+> Yeah.  [Jim leans in for a kiss but Pam turns away]  She’s fine.
 >
-> <p>- David</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
