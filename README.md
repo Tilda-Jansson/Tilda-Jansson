@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He looks great.
+> So, in the year 2000, fungus and even black mold was discovered growing in the cave.  Some blame it on the new air conditioning system they installed.  Some, on the high powered lights. [Pam’s friend shows Pam a drawing mocking the professor, they laugh] Others feel that fungus is do to an over—
 >
-> <p>- Dwight</p>
+> <p>- Professor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
