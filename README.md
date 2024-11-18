@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, that was… that was legitimate.  That was totally legitimate.
+> I thought Nana raised some good questions. What kind of a name is Nana?
 >
-> <p>- Michael</p>
+> <p>- Vikram</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
