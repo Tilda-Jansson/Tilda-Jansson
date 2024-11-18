@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t see them when they’re on the floor
+> Hey, check it out. [hands her brochure] This is The Breakers, Newport, Rhode Island. Huge, awesome gorgeous mansion overlooking the Atlantic. And my dad went to Cornell with the current groundskeeper.
 >
-> <p>- Pam</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
