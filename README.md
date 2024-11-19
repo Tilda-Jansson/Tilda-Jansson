@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care.
+> You know, I will be honest with you… about something. Where we used to live, our paper supplier had a lot of big clients and I just didn’t feel like a priority. So I guess my question [reaches for paper in his pocket with questions on it] for you would be [reading off sheet] how many clients do you have?
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
