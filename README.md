@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You sure know a lot about paper for a lawyer.
+> I think you should do that. [Kelly starts fake-crying, then laughing, then she and Michael both laugh]
 >
-> <p>- Prince Grandfather</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
