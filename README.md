@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, I thought I knew what I wanted. And then, being here with you and the German Mennonite minister… it just all felt right. I made a mistake picking Andy.
+> Mmm… nope, we mostly just talked about cereal.
 >
-> <p>- Angela</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
