@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I think you should do that. [Kelly starts fake-crying, then laughing, then she and Michael both laugh]
+> Dwight, I thought I knew what I wanted. And then, being here with you and the German Mennonite minister… it just all felt right. I made a mistake picking Andy.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
