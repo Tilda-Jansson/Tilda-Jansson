@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Whoo!! Welcome welcome welcome welcome welcome. You are all jerks. Just kidding, not yet anyway. Welcome to the roast of Mr. Michael Scott. If you’re here for the Grabowski wedding, it is the second door on the left. [Creed looks around] So, we all know how these work, needs to get crazy, take your best shot. I am going to sit right here on my chair and… ah… whoever wants to come up and roast me, you may. [Angela jumps up] Ok… lower the mic for the midget.
+> So what is going on, girl in the computer?
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
