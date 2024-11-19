@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK. [holds elevator] Stanley, come on.
+> And exercise. Although I know everybody loves going to the gym.
 >
-> <p>- Oscar</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
