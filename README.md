@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jabba the hut, Pizza the hut, Fat guys like pizza, pepperoni pizza, pepperoni Tony!
+> Yeah, well, they stole my surge protector.
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
