@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So what are our options? Well, we can start this paper company. We can try. Or… that’s it. That’s our only option. Because we quit. Pam, I do my best work when people don’t believe in me. I remember in high school, my math teacher told me I was gonna flunk out. And know what I did? The very next day I went out and I scored more goals than anyone else in the history of the hockey team. See what I mean? I thrive on this. I thrive on it. So I’m gonna go inside. I’m going to make some calls, I’m gonna get us an office space, and I’m going to show you why you joined this company. Okay? [Pam nods]
+> You sure know a lot about paper for a lawyer.
 >
-> <p>- Michael</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
