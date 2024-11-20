@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes, we– [Michael hangs up phone]
+> I don’t care if you’re gay, straight, engaged… whatever. A guy needs intercourse.
 >
-> <p>- David Wallace</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
