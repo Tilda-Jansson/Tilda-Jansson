@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Come on, it’ll be fun.
+> Good. Good, good, good. Everyone, please give it up for Charles Miner. [claps]
 >
 > <p>- Michael</p>
 
