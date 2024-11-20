@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care if you’re gay, straight, engaged… whatever. A guy needs intercourse.
+> Wet Tuna!
 >
 > <p>- Andy</p>
 
