@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s true.  People say it’s icky.
+> [laughs] Oh man, thanks, thank you, [tearing up] thank you, thank you.
 >
-> <p>- Michael</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
