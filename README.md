@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [laughs] Oh man, thanks, thank you, [tearing up] thank you, thank you.
+> Phyllis, are you okay? Are, you okay?
 >
-> <p>- Toby</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
