@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Scotch with Splenda. Tastes like Splenda, gets you drunk like scotch. [in Oscar’s ear] Clinky, clinky-clink.  Come-on… come on, come on.
+> No way.
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
