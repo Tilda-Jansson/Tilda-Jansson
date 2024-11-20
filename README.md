@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mike gave me a list of his top ten Springsteen songs. Three of them were Huey Lewis and the News. One was Tracy Chapman, Fast Car. And my personal favorite, Short People.
+> So what did he say? Was it my fault?
 >
-> <p>- Darryl</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
