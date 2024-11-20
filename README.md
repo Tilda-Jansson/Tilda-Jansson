@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, look at all this stuff! It’s only seven hours.
+> Yeah.
 >
 > <p>- Holly</p>
 
