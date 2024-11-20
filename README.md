@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, um, you know, labor just kind of started very suddenly and-
+> We will move some money around, and I will personally see to it that you have your party, you have your figs. I will be in attendance. It's gonna be great. How's that?
 >
-> <p>- Jan</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
