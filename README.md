@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Impossible to say. I can’t see myself.
+> Well… I guess we papered over that pretty nicely. [chuckles] It always amuses me when corporate thinks they can make some big change with a twenty minute meeting in some fancy high-rise. What’s the matter? You hungry?
 >
 > <p>- Dwight</p>
 
