@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, all right. Who else? [to Angela] Can I put you down for 10 pounds?
+> [making out with Ryan on her desk] What are we doing?  This is so wrong.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
