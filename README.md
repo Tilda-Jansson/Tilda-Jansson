@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s the thing about debating, you’re just going to get people more entrenched in the view they had in the first place. [two sides of the debate start arguing]
+> Branch managers who come in under budget get 15% of the savings.
 >
-> <p>- Oscar</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
