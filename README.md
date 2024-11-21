@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You don’t flash around a newborn baby.  Don’t you know that?
+> Yes, all right. Who else? [to Angela] Can I put you down for 10 pounds?
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
