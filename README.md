@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [from inside the restroom] Stanley?
+> French. Classy.
 >
 > <p>- Michael</p>
 
