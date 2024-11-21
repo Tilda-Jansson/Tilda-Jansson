@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s really amazing. Congratulations Karen. So is there a guy or, uh, a person. Or, uh, a sperm machine that did this to you, or?
+> No. I need silence or Sam Kinison to prepare.
 >
 > <p>- Michael</p>
 
