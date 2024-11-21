@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh God… okay alright. It’s time to go it’s time to go. Jim, let’s go. Come on!
+> Yeah, I’m good. You good?
 >
 > <p>- Michael</p>
 
