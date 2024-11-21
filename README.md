@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well… I guess we papered over that pretty nicely. [chuckles] It always amuses me when corporate thinks they can make some big change with a twenty minute meeting in some fancy high-rise. What’s the matter? You hungry?
+> Beat.
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
