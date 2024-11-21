@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Halpert. He looks up!
+> You must be freezing.
 >
-> <p>- Charles</p>
+> <p>- Julia</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
