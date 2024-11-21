@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Beat.
+> That’s the thing about debating, you’re just going to get people more entrenched in the view they had in the first place. [two sides of the debate start arguing]
 >
-> <p>- Pam</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
