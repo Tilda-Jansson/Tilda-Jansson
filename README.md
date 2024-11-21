@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. I need silence or Sam Kinison to prepare.
+> Well…
 >
 > <p>- Michael</p>
 
