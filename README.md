@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Also — and no pressure — the teacher? He’s a catch.
+> It’s pronounced “Corn-ell!” It’s the highest rank in the Ivy League!
 >
-> <p>- Oscar</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
