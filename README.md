@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, Michael, I don't need to know everyone's sеxual history.
+> Mmm hmm. It’s like a fairy tale! [grabs Ryan and kisses him] Mmmm…
 >
-> <p>- Charles</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
