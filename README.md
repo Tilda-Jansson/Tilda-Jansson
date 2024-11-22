@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ll drop an ethics bomb on you.  Would you steal bread to feed your family? … Boom!
+> Also — and no pressure — the teacher? He’s a catch.
 >
-> <p>- Andy</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
