@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This has to happen again. Darryl can’t happen again. Look at me. Do you want me to do more push-ups?
+> Pam, listen.  This order form.  Instead of saying “Dunder Mifflin” at the top is there any way I could get it to say something else?
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
