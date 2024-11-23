@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am so tired.
+> So… it wasn’t Dwight after all. Looks like I am the killer. You never expect that you’re the killer… it’s uh… great twist. Great twist.
 >
-> <p>- Concierge Marie</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
