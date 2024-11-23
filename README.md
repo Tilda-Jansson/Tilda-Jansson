@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, OK.  Why didn’t you call me?
+> I am so tired.
 >
-> <p>- Michael</p>
+> <p>- Concierge Marie</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
