@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Before you got here, I’m the one who landed all these clients.  Half of them, at least. I can do it again.  I know the market, I know the price points.  I’m on it, don’t worry.  So, how do I do that?
+> Oh, OK.  Why didn’t you call me?
 >
 > <p>- Michael</p>
 
