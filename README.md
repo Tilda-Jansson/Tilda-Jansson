@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sighs]
+> I already have wine.
 >
 > <p>- Michael</p>
 
