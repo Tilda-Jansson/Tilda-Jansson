@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m just gonna sit here for a little bit longer if that’s okay. The air smells so good. I don’t remember it smelling so good. The chairs are so comfortable.
+> That’s not good.
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
