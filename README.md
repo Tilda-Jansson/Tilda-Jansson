@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [long pause] Yes.
+> [whispers to Meredith] I’ll be down in a minute. [walks over to Toby] Could you write down the number of that rehabilitation center that you mentioned?
 >
 > <p>- Michael</p>
 
