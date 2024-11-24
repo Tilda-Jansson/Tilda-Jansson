@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Next on the list —  song parodies.
+> You know, when Holly gets back, everyone will tell her what a great job you did. And then she’ll realize what she’s missing.
 >
 > <p>- Pam</p>
 
