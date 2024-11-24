@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can we have a moment?  [whispering] Can I talk to you for a sec?  Lot of good stuff. And you look… you look fantastic.
+> No.
 >
 > <p>- Michael</p>
 
