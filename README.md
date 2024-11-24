@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What?
+> Can we have a moment?  [whispering] Can I talk to you for a sec?  Lot of good stuff. And you look… you look fantastic.
 >
-> <p>- Toby</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
