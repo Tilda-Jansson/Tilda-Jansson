@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. [keeps eyes open]
+> You okay, man?
 >
 > <p>- Jim</p>
 
