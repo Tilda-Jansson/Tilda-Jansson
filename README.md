@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How could it be more clear?
+> [yelling] That’s how much you and I contributed! I… Damn it Jim!
 >
 > <p>- Dwight</p>
 
