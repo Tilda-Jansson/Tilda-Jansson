@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, what does that mean?
+> Handed to me as I sat down.  This was my hot towel.  It is still wet.
 >
 > <p>- Michael</p>
 
