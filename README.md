@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [stammers] Really? Is that… wow, that’s so weird.
+> Come on, you think you can get into Cornell?
 >
 > <p>- Andy</p>
 
