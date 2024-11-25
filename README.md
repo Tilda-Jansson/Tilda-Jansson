@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Kevin, you know what, why don’t you close your eyes? Imagine that Hilary Swank comes into this office for real and she walks over to you [in a more and more seductive voice] and says Kevin Malone, I just read your online profile and there is nothing I would rather do then make out with you right now. And now you tell me something, is she hot? [Kevin gets up to join the “hot” team to their great joy] Does that end the debate?
+> Yes.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
