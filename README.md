@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [looks momentarily flattered, but thinks better of it] Kelly.
+> A woman was murdered on this very floor in 1816. Haddie McGonagle. She was a prostitute.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
