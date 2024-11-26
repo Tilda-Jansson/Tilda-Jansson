@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have a lot of work to do this afternoon.  Those mines aren’t gonna sweep themselves.
+> Ew.
 >
-> <p>- Jim</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
