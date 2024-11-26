@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just about everyone in this office is single right now.   Including me.  And everyone is experiencing an incredible amount of emotional pain.  Especially me, because of my great capacity for emotion, and it is my first Valentine’s Day since Holly, so I think that I am well qualified to understand that these people need to be protected from having love shoved into their faces.
+> Yeah, I love it!
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
