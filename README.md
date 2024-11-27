@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, stop it Dwight.
+> We are, we are a family.
 >
 > <p>- Michael</p>
 
