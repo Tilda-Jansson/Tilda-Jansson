@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s offensive.
+> Here are our final actual costs for this year.
 >
 > <p>- Oscar</p>
 
