@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what guys? I don’t think we need to do this.
+> [in a singsong voice] Lets do this!
 >
 > <p>- Michael</p>
 
