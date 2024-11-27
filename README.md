@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nice. [they bump fists]
+> Hey Ryan? [Ryan watches Montgomery Flea Market ad on YouTube] Could you get to that copy from before?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
