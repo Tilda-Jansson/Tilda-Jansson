@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Could I stick it with a pin?
+> [covers phone, whispers to Dwight] See how it’s done? [into phone] Thank you very much, sir. I don’t think you’ll regret it. [to Dwight] See what I did?
 >
 > <p>- Michael</p>
 
