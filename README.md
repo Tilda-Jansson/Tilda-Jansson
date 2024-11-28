@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Keep it going. Hey batter batter batter.
+> [groans painfully]
 >
 > <p>- Michael</p>
 
