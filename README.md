@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah… .you want me to come in your office?  Oh.
+> Hey, I’m sorry we did not have a chance to talk more.  I get very nervous talking to pretty girls.  Seriously, feel how sweaty my hand is.
 >
-> <p>- Jim</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
