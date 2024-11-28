@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …Brixx’s, Carmen’s…
+> Everything okay?
 >
-> <p>- Meredith</p>
+> <p>- Client</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
