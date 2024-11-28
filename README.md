@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just say the word.
+> I have made a list of people that I would make out with before I would make out with Michael Scott. A turtle, a fridge, anybody from the warehouse, a woodchipper, Kevin, a candle, and Lord Voldemort. Anyway, Happy Birthday Michael.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
