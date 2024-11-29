@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Actually, she’s on an HR retreat for the next three days.
+> How about I make an appointment to come back?  That way, I know he’ll be here.
 >
-> <p>- Receptionist</p>
+> <p>- Phone Salesman</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
