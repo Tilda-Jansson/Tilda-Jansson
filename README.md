@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And… ta da.
+> Pam! You can’t be serious.
 >
 > <p>- Jim</p>
 
