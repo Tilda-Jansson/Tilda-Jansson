@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sure, last year you guys were riding me really hard for the website and I just peeled out my Z3 and I knocked the mirror off somebody’s car.  I never said a thing.
+> Actually, she’s on an HR retreat for the next three days.
 >
-> <p>- Ryan</p>
+> <p>- Receptionist</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
