@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, I’m going to ask you something and I want you to be honest. What is a pallet?
+> All right, all right. Say no more. So, this is how I got squeaky fromme. No small talk. Just show her who’s the boss. Just go right in and kiss her.
 >
-> <p>- Michael</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
