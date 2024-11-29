@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, well I lost a ton of money today and I have a mortgage, so I’m a little pissed too.
+> Sure.
 >
-> <p>- Jim</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
