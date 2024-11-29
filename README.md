@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, all right. Say no more. So, this is how I got squeaky fromme. No small talk. Just show her who’s the boss. Just go right in and kiss her.
+> So Jim, you’re gonna live in the same house that you used to pee the bed in?
 >
-> <p>- Creed</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
