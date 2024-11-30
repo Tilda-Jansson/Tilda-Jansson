@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I hate to even ask because you have been so accommodating about all the wedding stuff.
+> Hmm.
 >
-> <p>- Angela</p>
+> <p>- Erin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
