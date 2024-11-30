@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [forces candy out of vending machine and forces fruit into racks]
+> You know, I think I’m just gonna distill all this, and send it in an email to my team.
 >
-> <p>- Dwight</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
