@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So we’re only eight pounds behind Utica.  Now, I know it’s a stretch but we could weigh ourselves again at the end of the day and maybe win this thing after all.
+> Okay, this is the moment that you have all been waiting for. Our first item up for bids tonight is something that I consider to be very boss indeed. [cheers and applause] It is a Yoga lesson from Holly Flax! Yoga! And I would like to start the bidding off at 300 dollars. [auctioneer voice] 300 dollars do I hear 300 dollars? 300 dollars. Hey, batter batter batter, hey batter, swing batter, 300 dollars, 300 dollars, 300 dollars. Anybody, 300 dollars. 400 dollars. Who wants for 400-[speaking gibberish] Do I see somebody in the back? Is there somebody in the back? Do I see somebody in the back? 400-450 [speaking gibberish] Sold! For 300 dollars to me! [bangs gavel, which squeaks] What the hell is that?
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
