@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Stop yelling at me!
+> [rolls down car window] Dwight and Angela are having an affair. They’ve been sleeping together for some time. That was the news. I wanted to let you know.
 >
-> <p>- Kelly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
