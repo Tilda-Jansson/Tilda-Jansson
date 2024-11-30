@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hmm.
+> Okay. Well, we have a surplus. Imagine that your parents give you money for a lemonade stand-
 >
-> <p>- Erin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
