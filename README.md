@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Stop yelling at me!
+> We could auction off things we do for each other like cleaning or tennis lessons. My sorority did it all the time.
 >
-> <p>- Kelly</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
