@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.
+> No, you’re supposed to say, “Rock the house.”
 >
 > <p>- Michael</p>
 
