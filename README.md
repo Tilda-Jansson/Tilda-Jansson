@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am not insightful enough to be a movie critic. Mm… maybe I could be a food critic. These muffins taste bad. Hmm, or an art critic. That painting is bad.
+> Oh, he’s cute.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
