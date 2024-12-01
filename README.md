@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know but if I get it in deeper…
+> Do some… do some work. [whispering to Holly] People expect a lot from these meetings.  Laughter, sudden twists.  Surprise endings.  You need to be Robin Williams and M. Night Shyamalan.  You need to be Robin Shyamalan.
 >
-> <p>- Sam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
