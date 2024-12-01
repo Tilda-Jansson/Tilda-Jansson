@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, you can. I am, uh, Michael Scott, Regional Manager of the Scranton branch.
+> Okay.
 >
 > <p>- Michael</p>
 
