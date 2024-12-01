@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We could auction off things we do for each other like cleaning or tennis lessons. My sorority did it all the time.
+> You still have that option. [Michael sighs]
 >
-> <p>- Phyllis</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
