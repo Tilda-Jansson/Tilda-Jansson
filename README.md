@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [pained] Mpfh.
+> It’s Britney bitch. And I am back, in the form of a new company. The Michael Scott Paper Company.  [tries to parallel park, hits car.] Okay. Not gonna make this one. [drives away revealing plenty of space for the Cruiser]
 >
 > <p>- Michael</p>
 
