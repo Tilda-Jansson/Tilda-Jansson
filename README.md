@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I just keep getting bored. And I let things build up and build up and then I – I, I do something too big, like this. Who does this?
+> We don’t have any money. We don’t have an office. We don’t have anything.
 >
 > <p>- Pam</p>
 
