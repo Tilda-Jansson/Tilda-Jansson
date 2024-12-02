@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, break it down in terms of, um… okay, I-I think I’m getting you…
+> Goooood morning, Viet-Nashua! Sales. Sales is what bwings us together, today. How do we deal with clients who say, “Frankly, my dear, I don’t give a damn… about paper” and get them to “Show us the money!” Well, we are going to find out today. Show of hands. How many of you are salesmen? Let’s see the salesmen. [some raise their hands] Oh, okay. Well I know what the rest of you are thinking. Wow, yuck. Salesmen are the worst! They are awful. They are so arrogant. They think the whole place revolves around them. Handsome, good listeners, funny, Mr. Wonderful. So, okay, you’re a salesman. What’s, uh, what’s your name?
 >
 > <p>- Michael</p>
 
