@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I look okay?
+> Hey hey! Yeah! Unh!
 >
 > <p>- Michael</p>
 
