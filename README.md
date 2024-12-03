@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right.
+> My birthday was yesterday, and everybody forgot. I got really dressed up and  excited, and no one said a word. There wasn’t even a party. I think sometimes people are really mean to the hot, popular girl.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
