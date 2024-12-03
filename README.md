@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, here’s what happened, David. It was all my idea. You called me and you were really angry at me and I got scared, so I had Dwight take the fall, but now, it turns out that it’s a great idea and Dwight will not confess. Can you believe that?
+> What’s going on?
 >
 > <p>- Michael</p>
 
