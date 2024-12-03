@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is going to sound sort of high-maintenance, but could we have it, like, three degrees cooler in here? I always think better when it’s cooler.
+> We just wanted to say we are very sorry.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
