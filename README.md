@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whispers to Meredith] I’ll be down in a minute. [walks over to Toby] Could you write down the number of that rehabilitation center that you mentioned?
+> Paaam-o-laaaaaa…
 >
-> <p>- Michael</p>
+> <p>- Michael [on phone]</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
