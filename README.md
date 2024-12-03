@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Istn’t it?  Yeah, it’s kind of… business/romantic.  So you’re from Des Moines?
+> Oh, wow look at those.  How nice for you.  Up there, front and center, beautiful.  I think they would look better right here.  [Michael takes the flowers from Pam’s desk and puts them on the ground off to the side]  They’re very pretty and I wouldn’t want them to fall.  [Kevin groans]
 >
 > <p>- Michael</p>
 
