@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What, I don’t — what do you want me to do now, Michael? What am I supposed to do now?
+> So, Stacy and Eric get to Bogre’s DeTech half an hour early so they don’t have to sit on the slab.
 >
-> <p>- David</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
