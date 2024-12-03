@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want you to say I’m an alcoholic.
+> This is going to sound sort of high-maintenance, but could we have it, like, three degrees cooler in here? I always think better when it’s cooler.
 >
 > <p>- Michael</p>
 
