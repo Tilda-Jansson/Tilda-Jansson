@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve had two men fight over me before. Usually it’s over which one gets to hold the camcorder.
+> [whispers to Meredith] I’ll be down in a minute. [walks over to Toby] Could you write down the number of that rehabilitation center that you mentioned?
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
