@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My birthday was yesterday, and everybody forgot. I got really dressed up and  excited, and no one said a word. There wasn’t even a party. I think sometimes people are really mean to the hot, popular girl.
+> What’d you say h[bleep]?
 >
 > <p>- Kelly</p>
 
