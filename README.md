@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, how did it go?
+> You know, when Holly gets back, everyone will tell her what a great job you did. And then she’ll realize what she’s missing.
 >
-> <p>- Meredith</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
