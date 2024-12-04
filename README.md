@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, my pleasure. Yeah, there’s all kinds of weirdo’s out here, so…
+> These are terrible boss. You gotta make them in a circle so that they cook evenly.
 >
-> <p>- Andy</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
