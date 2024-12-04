@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know.  I know.  It is beautiful.  No.  Thank you.  Is this it? I mean, is this… Two bowls of M&Ms and some balloons?  You know what Phyllis, I think you need to step it up.  I think you need to get the lead out.  Because if I’m not mistaken, we gave you your wedding shower here.  We all came into this room and gave you a golden shower.  Well you know what, where’s my golden shower, Phyllis?
+> Hmm.
 >
-> <p>- Michael</p>
+> <p>- Erin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
