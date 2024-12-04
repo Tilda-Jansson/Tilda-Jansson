@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About what?
+> There is a small company there, Prince Paper. I can’t get a report on it because it’s not a public company. But we have been talking about going after their market, so I was hoping you could do some fact finding for me.
 >
-> <p>- Dwight</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
