@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh you had said that you don’t do anything personal during work time so… I’m just making sure.
+> Let’s just get this over with, shall we?
 >
-> <p>- Jim</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
