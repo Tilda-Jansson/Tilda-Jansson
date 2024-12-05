@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, hey, hey.  Hey.  I forgot… I forgot…
+> That’s what I do, steal my trick.
 >
 > <p>- Michael</p>
 
