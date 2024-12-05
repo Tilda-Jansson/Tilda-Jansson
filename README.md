@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Strawberries?
+> Hey, hey, hey.  Hey.  I forgot… I forgot…
 >
 > <p>- Michael</p>
 
