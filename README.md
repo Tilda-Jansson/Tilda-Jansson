@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, Holly doesn’t need luck. Everyone that meets her instantly loves her.
+> Strawberries?
 >
 > <p>- Michael</p>
 
