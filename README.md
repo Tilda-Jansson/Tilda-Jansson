@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s just get this over with, shall we?
+> Oh, uh, Pam? Hey everyone, lunch is on me today.
 >
-> <p>- Karen</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
