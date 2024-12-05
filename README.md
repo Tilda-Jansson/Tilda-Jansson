@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s what I do, steal my trick.
+> Oh, good. My hooker’s here. [laughs] Hi.
 >
 > <p>- Michael</p>
 
