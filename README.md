@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’d like to know.  You should call her and ask her. I’d like to know what’s wrong with her.
+> You know, Michael, I don't need to know everyone's sеxual history.
 >
-> <p>- Oscar</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
