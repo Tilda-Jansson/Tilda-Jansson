@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [heaving the stroller into a tire yard] Don’t hit the fence.  Oh no, my child!
+> Angela made several 911 calls about cars going too fast in front of the building, so the police put up a radar gun. It’s actually caused a bit of a traffic hazard.
 >
-> <p>- Dwight</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
