@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We don’t normally download films illegally.  Because we’re honest,  hardworking people.
+> Oh, Holly doesn’t need luck. Everyone that meets her instantly loves her.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
