@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What did Phyllis do wrong? I’ll tell you what Phyllis did wrong. She stuck her nose into my business and tried to help me. [Dwight has an epiphany]
+> I’ll just go later.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
