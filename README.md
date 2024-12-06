@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nice beaches, pristine beaches?
+> I think maybe Hank should be here.
 >
 > <p>- Michael</p>
 
