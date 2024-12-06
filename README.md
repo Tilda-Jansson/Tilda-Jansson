@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Might get ugly.
+> I don't understand that after fifteen years of service here, I have to get in the car and drive to New York in order to talk to you. That doesn't seem right to me. That doesn't seem fair. And I think that I've earned more than that.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
