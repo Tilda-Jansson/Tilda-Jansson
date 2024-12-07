@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t play the politics game anymore, Jim. Can I tell you something? I played it full on in New York. I played it high stakes. For keeps. Made it to the top. But look what it cost. [takes sip of coffee] Can I tell you what else I learned?
+> God, stop.  Stop it.
 >
-> <p>- Ryan</p>
+> <p>- Blood Girl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
