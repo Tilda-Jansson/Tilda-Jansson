@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jimbo, let’s do this thang.
+> Wait a minute. Wait a minute. Wait a minute. Wait a minute. Wait a minute. Wait a minute. Wait a minute. Wait a minute. Wait a minute. Wait a minute. Just wait! Just wait!
 >
-> <p>- Michael</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
