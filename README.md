@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Liaisons, you mean meet-ups?  I don’t know, once a month for six years.  Something like that.
+> Really? If I can skin a mule deer in less than ten minutes, I ought to be able to cut my — [sets briefcase on desk and sits in chair, desk and chair are made of paper, Dwight crashes to the floor]
 >
-> <p>- Meredith</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
