@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This shouldn’t be coming from his boss. And we should also consider the fact that that man has an anger issue.
+> I mean, they just need to communicate, you know?  If they said to each other what they’re saying to everyone else, then–
 >
 > <p>- Jim</p>
 
