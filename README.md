@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I would very much like that.
+> [on speakerphone] Do you have your passport?
 >
-> <p>- Angela</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
