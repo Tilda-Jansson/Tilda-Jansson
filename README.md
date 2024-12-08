@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not wearing a wire, so…
+> You know what guys? I don’t think we need to do this.
 >
 > <p>- Michael</p>
 
