@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Really? If I can skin a mule deer in less than ten minutes, I ought to be able to cut my — [sets briefcase on desk and sits in chair, desk and chair are made of paper, Dwight crashes to the floor]
+> Yeah, isn’t that messed up?
 >
-> <p>- Dwight</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
