@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what guys? I don’t think we need to do this.
+> Andy, Cornell called, they think you suck. And you’re gayer than Oscar. Boom. Roasted. [Stanley is still laughing] Alright. Alright everybody, you know I kid, you know I kid. You guys are the reason I went into the paper business, so, uh, goodnight, God bless, God bless America, and get home safe. [clapping and murmurs of appreciation]
 >
 > <p>- Michael</p>
 
