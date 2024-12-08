@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Phyllis?  Could you take-.
+> I’m not wearing a wire, so…
 >
 > <p>- Michael</p>
 
