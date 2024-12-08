@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I mean, they just need to communicate, you know?  If they said to each other what they’re saying to everyone else, then–
+> Where did you get this?
 >
-> <p>- Jim</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
