@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re gonna get us a copier then?
+> That’s offensive.
 >
 > <p>- Oscar</p>
 
