@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s the matter… haaaww!
+> Oh, God. [Michael clears his throat]
 >
 > <p>- Michael</p>
 
