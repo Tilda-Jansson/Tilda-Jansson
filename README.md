@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Enabler!  Enabler, enabler, enabler, enabler, enabler.  It’s Christmas and we are turning our back on somebody who is asking for help.
+> Well Monkey, he’s a real minister. And you said, “I do.” And I said, “I do.” And Andy wasn’t signing a receipt; he was signing our marriage certificate as a witness.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
