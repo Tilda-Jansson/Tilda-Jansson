@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m just gonna grab some lunch. You wanna come with?
+> Oh no, it’s actually really hygienic, Creed.
 >
-> <p>- Oscar</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
