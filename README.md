@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s offensive.
+> I’m just gonna grab some lunch. You wanna come with?
 >
 > <p>- Oscar</p>
 
