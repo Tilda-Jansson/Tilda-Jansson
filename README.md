@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s one. It was dark, warm, wet. A sudden burst of light. An intense pressure like I’d never felt before. Father, dressed in white, pulls me forward. Mother bites the cord. [pretends to bite]
+> Thank you for your time I look forward to getting your calls. [hurrying out door]
 >
 > <p>- Dwight</p>
 
