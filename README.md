@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well Monkey, he’s a real minister. And you said, “I do.” And I said, “I do.” And Andy wasn’t signing a receipt; he was signing our marriage certificate as a witness.
+> Well if somebody who barely out-sells Phyllis, can get in, I should be fine.
 >
 > <p>- Dwight</p>
 
