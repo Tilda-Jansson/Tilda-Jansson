@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Exactly. That should tell you how terrible the chairs are.
+> Yeah, he’s so cute. He’s a dermatologist. We met a bar. Can you believe that?
 >
-> <p>- Pam</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
