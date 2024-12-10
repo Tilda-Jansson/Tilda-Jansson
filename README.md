@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I do not like pregnant women in my workspace.  They’re always complaining.  I have varicose veins, too.  I have swollen ankles, I’m constantly hungry – do you think my nipples don’t get sore too?  Do you think I don’t need to know the fastest way to the hospital?
+> [whispers in Leo’s ear] Hey, just hold on one second.
 >
-> <p>- Stanley</p>
+> <p>- Vance Refrigeration Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
