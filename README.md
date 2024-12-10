@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh my God, that makes it even more romantic.  This is like a modern day Enchanted, it’s like a fairy tale.
+> Look, I’m at the supermarket, and they only have numbered candles. How old is she?
 >
-> <p>- Kelly</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
