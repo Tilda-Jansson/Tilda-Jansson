@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Look, I’m at the supermarket, and they only have numbered candles. How old is she?
+> what are you doing?
 >
-> <p>- Jim</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
