@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I mean, like we were talking about that is why he has come to the conclusion…
+> [watches Jim grimace, copies him] You know, that's good but it's not classy. I-I need something classy like the opening of a car dealership.
 >
 > <p>- Michael</p>
 
