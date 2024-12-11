@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [watches Jim grimace, copies him] You know, that's good but it's not classy. I-I need something classy like the opening of a car dealership.
+> You know sometimes, to get perspective, I like to think about a spaceman on a star incredibly far away. And, our problems don’t matter to him, because we’re just a distant point of light. But he feels sorry for me, because he has an incredibly powerful microscope, and he can see my face. [looks towards the sky] I’m okay. No, I’m not.
 >
 > <p>- Michael</p>
 
