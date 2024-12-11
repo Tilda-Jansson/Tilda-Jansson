@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am aware of the effect I have on woman.
+> I can untie any knot.  I’m serious.  Name a knot, any knot.  Go ahead.
 >
-> <p>- Charles</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
