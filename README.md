@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Maybe you and Charles should kick the soccer ball around.
+> Oh, ok. If we hire Cirque de Soleil as salaried employees, will that help us with year-end tax stuff? [several seconds of silence]
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
