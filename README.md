@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you very much.
+> Customer service might be monitoring this conversation.
 >
-> <p>- Dwight</p>
+> <p>- Dwight </p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
