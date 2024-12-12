@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey. So, since my little lady has such particular, impossible to perceive taste, I have made nonrefundable deposits at four totally different wedding locales:  Hot-air balloons over Napa Valley, world-famous Walt Disney’s Epcot Center, scuba-diving wedding in the Bahamas and the Wilkes-Barre Marriott Ballroom C.
+> No, no, no, NO, no!  You know what?  Fat people are not monsters!  Why don’t you guys have a little more sensitivity to the subject.  Bang!  Boom!  Case in point!  Look at the outside of this building.  It is ugly.  But you come inside… and it is beautiful.  Just like this unappealing fat suit.  Inside is a rather handsome, sexy, man.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
