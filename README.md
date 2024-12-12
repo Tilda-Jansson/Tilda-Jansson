@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [with mouth full] Yes.
+> ‘Cause it’s kind of bothering all of us, ’cause it’s really hot, you know, it’s hot, so we can lose weight, so we don’t screw up this whole contest for the entire freaking office, but if you want, I’ll turn it down.
 >
-> <p>- Kevin</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
