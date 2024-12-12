@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [giggling] Oh my GOD… Oh man… Ohhhhh my God…
+> Uh, 24. 37.
 >
-> <p>- Kevin</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
