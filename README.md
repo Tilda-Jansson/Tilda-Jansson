@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s totally unrealistic.  There are no lines in the parking lot.
+> So um… I think I’m gonna go back with Darryl [Holly hugs Michael] Okay. [they kiss goodbye.] Goodbye.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
