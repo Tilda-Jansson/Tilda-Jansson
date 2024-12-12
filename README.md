@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [has won the table war] That is all sir, you may go.
+> [giggling] Oh my GOD… Oh man… Ohhhhh my God…
 >
-> <p>- Dwight</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
