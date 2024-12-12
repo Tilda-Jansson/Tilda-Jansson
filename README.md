@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [to everyone] Well here we are… I would just like to…
+> I’m not, I’m not getting married. So… [laughs] Psych.
 >
 > <p>- Michael</p>
 
