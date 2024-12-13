@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not here.
+> There was no client.  Dwight drove me to an abandoned warehouse five miles away and pushed me out of the car.  I had to walk home with no money and no phone.
 >
-> <p>- Angela</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
