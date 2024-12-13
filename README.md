@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Correct. And I was wondering if I could get you to do some of the field work that would normally go to the supervisor [Michael makes exaggerated oh-my-gosh face at camera]. There is an area from Carbondale to Marshbrook, where we have never done any business.
+> That’s our theme.
 >
-> <p>- David</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
