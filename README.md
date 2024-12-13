@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My job is to manipulate the customer into buying paper. In return, they give me money. I am the predator and they are the prey. Would a mouse give a positive review to a hawk? Should the hawk even care? [sighs heavily, nearly starts to cry] Excuse me, I’ve got work to do.
+> Michael!
 >
-> <p>- Dwight</p>
+> <p>- Nana</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
