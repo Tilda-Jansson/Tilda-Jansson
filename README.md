@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s my bio-feedback machine..
+> I would die.
 >
 > <p>- Stanley</p>
 
