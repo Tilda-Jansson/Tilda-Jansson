@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam, you make more copies than anyone.
+> OK, I’m gonna assume that was it. Here’s the thing:
 >
-> <p>- Oscar</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
