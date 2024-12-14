@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You excited? About the new company?
+> No…
 >
 > <p>- Michael</p>
 
