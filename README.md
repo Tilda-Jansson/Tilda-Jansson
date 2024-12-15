@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, let’s keep this party movin’ on.
+> Yes.
 >
 > <p>- Michael</p>
 
