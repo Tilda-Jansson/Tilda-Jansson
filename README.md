@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I was on an IV for two days at the hospital.
+> No, we would never do that. And if we did, it would be with Jim and Pam.
 >
-> <p>- Kelly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
