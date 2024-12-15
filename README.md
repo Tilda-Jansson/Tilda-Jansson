@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Typical American ignorance that got us involved in a war we never should have been in.  World War II.
+> I was on an IV for two days at the hospital.
 >
-> <p>- Dwight</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
