@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you know how to do an intervention?
+> Love you too. [hangs up phone, Pam sits on a bench crying]
 >
-> <p>- Oscar</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
