@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I’ve replaced Angela as head of the party planning committee. [footage of Dwight and Angela making out] I guess I was just in the right place at the right time.
+> Well…
 >
-> <p>- Phyllis</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
