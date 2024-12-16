@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …and then we compare notes.
+> Oh, how did that happen?
 >
 > <p>- Dwight</p>
 
