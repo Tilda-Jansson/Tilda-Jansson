@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what? I’m a little busy.
+> These people need love and I am going to get it for them  Who cares if we sell a little bit less paper today?  A great boss cares more about the happiness of his employees then anything else.  I am going to be cupid, and I am going to shoot my sparrow at unsuspecting victims, and they are going to get hit and say “I’m in love I was hit by cupid’s sparrow.”  Funny little bird, but he gets the job done.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
