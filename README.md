@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey.  No movement.
+> So, even specialty paper, say 94 brightness double-bonded, you would put that on the same truck as your conventional stock?
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
