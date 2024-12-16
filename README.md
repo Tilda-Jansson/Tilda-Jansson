@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Andy, Pam, and Jim are all telling me how to deal with this girl that I like, Lynn. I, I don’t like getting advice from more than one person at a time. I’m a textbook over-thinker.
+> Why?
 >
-> <p>- Kevin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
