@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I made egg salad sandwiches. Do you want one? [holds up sandwich]
+> Andy, Pam, and Jim are all telling me how to deal with this girl that I like, Lynn. I, I don’t like getting advice from more than one person at a time. I’m a textbook over-thinker.
 >
-> <p>- Oscar</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
