@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We could go to the food court and get different foods. You could get Chicken Teriyaki. I could get a hot dog.
+> I’m just gonna sit here for a little bit longer if that’s okay. The air smells so good. I don’t remember it smelling so good. The chairs are so comfortable.
 >
-> <p>- Holly</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
