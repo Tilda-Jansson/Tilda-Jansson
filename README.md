@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael, you don’t have to buy them.
+> [movie] I’m in here.
 >
-> <p>- Holly</p>
+> <p>- Lily</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
