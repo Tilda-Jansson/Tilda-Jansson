@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh that’s mine actually. Um, maybe put it back in the truck.
+> Whoa!
 >
 > <p>- Michael</p>
 
