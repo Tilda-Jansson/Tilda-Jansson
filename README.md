@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m just gonna sit here for a little bit longer if that’s okay. The air smells so good. I don’t remember it smelling so good. The chairs are so comfortable.
+> Cool beans, man, I live by the quarry.  We should hang out by the quarry and throw things down there.
 >
-> <p>- Pam</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
