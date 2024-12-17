@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Everybody got a government cow.
+> What’s going on with Pam?
 >
-> <p>- Darryl</p>
+> <p>- Roy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
