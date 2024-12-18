@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, ok. If we hire Cirque de Soleil as salaried employees, will that help us with year-end tax stuff? [several seconds of silence]
+> This is going to sound sort of high-maintenance, but could we have it, like, three degrees cooler in here? I always think better when it’s cooler.
 >
 > <p>- Michael</p>
 
