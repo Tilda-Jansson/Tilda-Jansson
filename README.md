@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.
+> So maybe you’re not completely ethical after all.
 >
 > <p>- Jim</p>
 
