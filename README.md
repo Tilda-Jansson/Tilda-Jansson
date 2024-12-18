@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [going up to give Dwight a hug] Thanks for much for helping the company, Dwight.
+> OK,  all right. OK, I did it. All right? I lied, whatever. Just fire me. But you know what? I did it because you guys didn’t come to my party, and you said you would try to and then you didn’t even show up, and so you’re bad friends.
 >
-> <p>- Pam</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
