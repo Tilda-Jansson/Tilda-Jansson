@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, I either get more involved, or I take a sick day… leaving Dwight in charge. Oh God.
+> [as Dwight tries to take paper out from under him] Hey, can you not?
 >
 > <p>- Jim</p>
 
