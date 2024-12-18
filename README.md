@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh my god!
+> Just want to fill you in on a few details. As you know, I will be running the branch while we search for Michael’s replacement. So please feel free to come to me with any questions or concerns. [Kelly raises hand] Yeah.
 >
-> <p>- Erin</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
