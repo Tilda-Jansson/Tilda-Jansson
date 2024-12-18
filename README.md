@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, alright. Hey, you know what? I would appreciate it if people would stop storming off the stage.
+> [on voicemail] Hey, it’s Jim.  Leave a message.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
