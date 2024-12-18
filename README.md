@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let me paint you a picture of a little girl from southern India, who despite being welcomed into this country will now spend the rest of her life in prison for a crime she did commit.
+> So, I either get more involved, or I take a sick day… leaving Dwight in charge. Oh God.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
