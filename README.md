@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [also dressed as the Joker] Dammit Creed! I’ve been up since four!
+> How do you tell somebody that you care about deeply, “I told you so.”  Gently with a rose?  In a funny way, like it’s a hilarious joke?  Or do you just let it go, because saying it would just make things worse? … Probably the funny way.
 >
-> <p>- Kevin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
