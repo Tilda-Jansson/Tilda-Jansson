@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [peering nervously through conference room window] Oh, I don’t have anything to say. I’m just hiding from Dwight.
+> [through the laughter] Oh, is somebody making fun of me?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
