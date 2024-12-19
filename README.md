@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good work, kid.
+> [drawing two family trees on a whiteboard] Jan is about to have a baby with a sperm donor. And Michael is preparing for the birth of a watermelon with Dwight.  Now, this baby will be related to Michael through [draws a question mark] delusion.
 >
-> <p>- Creed</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
