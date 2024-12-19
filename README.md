@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh oh! Oh! Oh! [Andy improvs musical verbage]
+> Okay. Wow. Oh man! My head just exploded. Whoo! Thank God, for everybody right? Whoo kay. Wow, you’re huge! That’s incredible! I… God sorry, sorry my head is… I’m just, I’m trying to figure out the last time that you and Jim had sex, and…
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
