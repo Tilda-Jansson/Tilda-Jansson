@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right.  Um, I’m just going to lie down for a couple of minutes.  I’m exhausted, so um.  Remind me to talk to you about Astrid’s 529.  Wake me in twenty.
+> Okay!
 >
-> <p>- Jan</p>
+> <p>- Rose</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
