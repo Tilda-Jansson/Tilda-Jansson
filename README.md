@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [drawing two family trees on a whiteboard] Jan is about to have a baby with a sperm donor. And Michael is preparing for the birth of a watermelon with Dwight.  Now, this baby will be related to Michael through [draws a question mark] delusion.
+> All right.  Um, I’m just going to lie down for a couple of minutes.  I’m exhausted, so um.  Remind me to talk to you about Astrid’s 529.  Wake me in twenty.
 >
-> <p>- Jim</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
