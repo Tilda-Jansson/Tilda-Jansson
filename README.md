@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He’s already paying for himself.
+> I swallowed a tapeworm last night.  It’s going to grow up to three feet inside of me and then it eats all my food so that I don’t get fat.  And then after three months I take some medicine and then I pass it.  Creed sold it to me.  It’s from Mexico.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
