@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Has to be done. We’ll press send together. [phone beeps]
+> You know sometimes, to get perspective, I like to think about a spaceman on a star incredibly far away. And, our problems don’t matter to him, because we’re just a distant point of light. But he feels sorry for me, because he has an incredibly powerful microscope, and he can see my face. [looks towards the sky] I’m okay. No, I’m not.
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
