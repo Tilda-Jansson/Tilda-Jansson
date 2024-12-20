@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> God! No, that’s not… I don’t know what that is.  And I… I bet he has nothing to do with that!
+> No. Hey, hey. I just want to hear “yes”.
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
