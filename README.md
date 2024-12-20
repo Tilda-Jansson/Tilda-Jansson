@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. Hey, hey. I just want to hear “yes”.
+> No, it's a little bit more than that. I'm going to set up in here, ok?
 >
 > <p>- Charles</p>
 
