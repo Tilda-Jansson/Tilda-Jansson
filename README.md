@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> To get married.
+> No, I work at a desk all day, its nice working with my hands.
 >
-> <p>- Jim</p>
+> <p>- Prince Son</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
