@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey-oh!
+> That was great, but it’s just sort of, it’s still a little choppy like. But don’t worry, it’s hard, it took me a while too. It’s like [Andy plays Country Roads on his banjo.]
 >
 > <p>- Andy</p>
 
