@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I work at a desk all day, its nice working with my hands.
+> LOVE the hair. [Ryan walks up driveway with blonde dyed hair]
 >
-> <p>- Prince Son</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
