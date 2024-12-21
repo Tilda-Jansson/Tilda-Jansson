@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> LOVE the hair. [Ryan walks up driveway with blonde dyed hair]
+> Aaaaaaaa!  It’s coming!  Here we go! [drops the watermelon onto the floor] Oh! God! Wow! What was on that?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
