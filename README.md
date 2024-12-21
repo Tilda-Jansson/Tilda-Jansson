@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Erin [eerie voice] Erin…
+> Why is ok for smokers to take breaks all the time?  If I want to go outside and hang out once an hour, then I’ll just take up smoking.  I’ll do it.  I don’t care.
 >
-> <p>- Dwight</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
