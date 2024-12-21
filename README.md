@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Aaaaaaaa!  It’s coming!  Here we go! [drops the watermelon onto the floor] Oh! God! Wow! What was on that?
+> Erin [eerie voice] Erin…
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
