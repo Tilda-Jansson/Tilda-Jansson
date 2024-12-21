@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was great, but it’s just sort of, it’s still a little choppy like. But don’t worry, it’s hard, it took me a while too. It’s like [Andy plays Country Roads on his banjo.]
+> He’s stealing them. Okay, okay.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
