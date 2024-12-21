@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Whatever calms you down.
+> That is very important to me, so — I have work to do. Just do it. [walks away]
 >
-> <p>- Micheal</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
