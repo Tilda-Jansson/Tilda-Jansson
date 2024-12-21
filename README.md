@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want you to get your ass out of my face.
+> You didn’t eat much there Jimbo.
 >
-> <p>- Michael</p>
+> <p>- Bob</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
