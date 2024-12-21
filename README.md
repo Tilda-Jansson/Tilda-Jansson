@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why is ok for smokers to take breaks all the time?  If I want to go outside and hang out once an hour, then I’ll just take up smoking.  I’ll do it.  I don’t care.
+> See, this is what concerns me.
 >
-> <p>- Kelly</p>
+> <p>- Nana</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
