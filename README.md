@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> See, this is what concerns me.
+> Whatever calms you down.
 >
-> <p>- Nana</p>
+> <p>- Micheal</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
