@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fantastic.
+> No. I think they were stolen. I think they were stolen and they’re gone forever. So… oh, that was the last good item. So, good job, everybody.
 >
-> <p>- Stanley</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
