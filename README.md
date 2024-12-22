@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, nerd alert!
+> Okay, okay. Hey, hey, hey.
 >
-> <p>- Michael</p>
+> <p>- Dacvid Walalce</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
