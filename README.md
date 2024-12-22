@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. I think they were stolen. I think they were stolen and they’re gone forever. So… oh, that was the last good item. So, good job, everybody.
+> Dwight, Dwight!
 >
 > <p>- Michael</p>
 
