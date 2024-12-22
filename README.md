@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have doubts about this too. But when one person freaks out, sometimes it weirdly makes the other one calmer. That’s one thing I’ve learned about relationships. I hate that I just used the word relationship. [Michael comes out in a suit] Hey! You look great! [checks something off her list] Let’s go!
+> Oh, nerd alert!
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
