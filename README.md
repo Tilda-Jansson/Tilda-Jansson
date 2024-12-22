@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [taking Michael’s picture] Okay, a little bit more closer to the sign. Yeah.
+> It was gruesome. They say she walks these hallways. If you ever feel a tapping on your shoulder?
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
