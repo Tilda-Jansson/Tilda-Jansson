@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you have the Sharpie?!
+> That is vodka and I mixed it with orange juice.  I call it an orange-vod-juice…ka.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
