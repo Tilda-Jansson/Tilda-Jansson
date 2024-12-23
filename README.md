@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re back on the 5th, should we just do it then?
+> So Michael, what do you think?
 >
 > <p>- Oscar</p>
 
