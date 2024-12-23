@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, shut up. Here we go. Everybody gather up.
+> No, I will.
 >
 > <p>- Michael</p>
 
