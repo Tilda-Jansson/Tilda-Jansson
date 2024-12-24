@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Alright who’s next?  Where’s Andy?
+> Yeah, Dwight and Andy.  We were here.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
