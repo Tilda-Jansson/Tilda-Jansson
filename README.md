@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s pretty serious, yes.
+> Well it’s funny.  Maybe it’s a girl thing, but after we did it, and he would give me those coupons, I just felt good about myself. [Holly begins to write in her notebook] Hey what’s going on here?  I thought I had immunity?
 >
-> <p>- A.J.</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
