@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> These are terrible boss. You gotta make them in a circle so that they cook evenly.
+> That is very general, and does not scare me in the slightest.
 >
-> <p>- Creed</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
