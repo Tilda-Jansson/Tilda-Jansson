@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.
+> What’s the only thing worse than one HR rep?
 >
 > <p>- Michael</p>
 
