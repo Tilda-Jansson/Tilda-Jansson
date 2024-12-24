@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, Dwight and Andy.  We were here.
+> It’s true. Around this office, in the past, I have been a little abrupt with people…
 >
-> <p>- Oscar</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
