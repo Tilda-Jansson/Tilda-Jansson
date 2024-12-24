@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, all right, all right, all right, all right! Here we go. All right, big ticket item. [cheering] All right, in my pocket, I have… two tickets… to Mr. Bruce Springsteen, front… Oh, where are those? Has anyone seen an envelope with Bruce Springsteen front row tickets and backstage passes? Anybody seen something like-lying around?
+> Are you drunk?
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
