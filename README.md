@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s meet for lunch.
+> These are terrible boss. You gotta make them in a circle so that they cook evenly.
 >
-> <p>- JIM9334 [screen name]</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
