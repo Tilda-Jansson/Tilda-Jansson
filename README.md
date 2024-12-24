@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sunrise Rehab?  No! No! No!  I told you no! There is no way!
+> Let’s meet for lunch.
 >
-> <p>- Meredith</p>
+> <p>- JIM9334 [screen name]</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
