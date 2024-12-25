@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [amid groans from the rest of the office] Alright, no, no, no.  No. That is the image, I think we can all agree is very disgusting.  But you know what, Meredith, you lit your hair on fire today.  What about tomorrow.?  What is going to happen when you come into work and you’re dead?
+> 5 dollars.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
