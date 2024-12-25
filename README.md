@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, yeah. Don’t even. That’s really dorky.
+> Hey, what’s that show that she’s always talking about?
 >
-> <p>- Karen</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
