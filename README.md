@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, what’s that show that she’s always talking about?
+> It’s Mose. Who do you think it is?
 >
 > <p>- Jim</p>
 
