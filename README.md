@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How long could we keep that up?
+> All right man, don’t cry.  It’s cool.  I’ll let you get it for $400.
 >
-> <p>- Holly</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
