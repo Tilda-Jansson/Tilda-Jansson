@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They’re not easy. Everybody has to go to the bathroom.
+> [amid groans from the rest of the office] Alright, no, no, no.  No. That is the image, I think we can all agree is very disgusting.  But you know what, Meredith, you lit your hair on fire today.  What about tomorrow.?  What is going to happen when you come into work and you’re dead?
 >
 > <p>- Michael</p>
 
