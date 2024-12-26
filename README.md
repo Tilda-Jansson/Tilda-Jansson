@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok everybody, I’ve figured it out. The reason that you are all so stressed around me is that you are too intimidated to tell me what you really think. [Jim shakes his head at the camera] You are keeping these feelings inside, and that is what’s causing stress. So, what is the solution? Solution is honesty, laughter, and comedy. In short…
+> Yeah.
 >
 > <p>- Michael</p>
 
