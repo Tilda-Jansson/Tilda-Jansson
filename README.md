@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [pours something from the fridge into a bowl and opens the microwave, it is covered in exploded food] Oh, come on! [to the documentary crew] Do you see this?  Disgusting.
+> Oh no.
 >
 > <p>- Pam</p>
 
