@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whispers in Leo’s ear] Hey, just hold on one second.
+> Aah! This ones hot too!
 >
-> <p>- Vance Refrigeration Guy</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
