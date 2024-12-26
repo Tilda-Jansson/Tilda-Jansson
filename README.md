@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> 5 dollars.
+> Why don’t we just do it now? We’ll do it quickly.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
