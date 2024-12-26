@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why don’t we just do it now? We’ll do it quickly.
+> [whispers in Leo’s ear] Hey, just hold on one second.
 >
-> <p>- Michael</p>
+> <p>- Vance Refrigeration Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
