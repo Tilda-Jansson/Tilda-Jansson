@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [fingers opened an inch] This close.
+> There’s Andy, he’s in his car. You guys, what is he doing?
 >
-> <p>- Jim </p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
