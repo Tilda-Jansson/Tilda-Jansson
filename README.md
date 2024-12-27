@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Right, I know paper, I know how to manage. I have a name, close your eyes.
+> Yeah, he’s her boyfriend. He’s just over there.
 >
-> <p>- Michael</p>
+> <p>- Receptionist</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
