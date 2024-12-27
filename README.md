@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, he’s her boyfriend. He’s just over there.
+> No plowing my own acres. Going around shirtless all day. You know experiencing freedom.
 >
-> <p>- Receptionist</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
