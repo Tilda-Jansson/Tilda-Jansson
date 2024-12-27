@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam, I’d like you to meet Ronnie. We call her Rice-a-Ronnie. She is hilarious. She is wonderful, a beam of light in this dark, dark office. Not really so much. All she does is plop herself down there and answer phones all day.
+> Oh my God! Dwight!
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
