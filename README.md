@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uck… T.M.I.
+> I happen to be losing weight on my own for my own reasons. The truth is, I have lost a little of my speed, a little of my fire. Here’s what I used to look like. [holds up old photo] Look at those biceps. We were fighting the power and eating whatever we wanted.
 >
-> <p>- Michael</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
