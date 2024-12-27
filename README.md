@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No plowing my own acres. Going around shirtless all day. You know experiencing freedom.
+> Uck… T.M.I.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
