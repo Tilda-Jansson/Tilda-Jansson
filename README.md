@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Lynn, follow me, come on in.  For you we have one of our top people Kevin Malone.  Kevin, come out here show your beautiful self.
+> Jim. Jim, Jim, Jim. I’m not threatening you. I love you. [whispers] But you should know, you’re on very dangerous ground [kisses Jim]. [at normal volume] All right.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
