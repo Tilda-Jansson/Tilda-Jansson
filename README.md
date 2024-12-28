@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It did when Bob said I had to stop talking to my sister on the phone so much.
+> [dressed as a kitten] Meow. Sweet ‘stume, dude. Who are you supposed to be?
 >
-> <p>- Phyllis</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
