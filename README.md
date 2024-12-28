@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not that kind of trip.  I’m going to Thailand with some friends from high school, well, a high school.  And if I don’t do it now I’ll never get to go.  And I’ll always resent you for it… you don’t want me to resent you, do you?
+> Yes! [they embrace and kiss]
 >
-> <p>- Ryan</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
