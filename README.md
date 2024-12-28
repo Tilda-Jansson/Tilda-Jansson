@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Alright, Michael Scott Paper Company. You want in? Do you want to be a part of this?
+> Yeah, I am.  Wait, how do you know that?  I didn’t tell you that.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
