@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s true.  People say it’s icky.
+> Alright, Michael Scott Paper Company. You want in? Do you want to be a part of this?
 >
 > <p>- Michael</p>
 
