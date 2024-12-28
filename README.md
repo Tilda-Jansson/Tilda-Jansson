@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A canoe built around your horse so you can go from riding to water travel without slowing down. Horse Boat!
+> It did when Bob said I had to stop talking to my sister on the phone so much.
 >
-> <p>- Dwight</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
