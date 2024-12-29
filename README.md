@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can I have everyone’s attention?  Excuse me, may I have everyone’s attention, please.  We need to finish the ethics seminar.
+> I'll tell David what he needs to know. Sorry. David wants it this way.
 >
-> <p>- Holly</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
