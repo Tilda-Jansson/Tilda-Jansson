@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Miner – [kicking a piece of trash]
+> [goes over and closes office door] Frame him, for using drugs.
 >
-> <p>- Charles</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
