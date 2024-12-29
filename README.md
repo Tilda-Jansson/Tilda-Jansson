@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh.
+> Meredith…  [copier has an error] Oh… so uh… G-44.  It’s not ready Kevin!
 >
-> <p>- Erin</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
