@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, so um, what’s his name? All the way in the back there.
+> Good morning, Michael.  [Michael approaches table] Are you ready for the meeting?
 >
-> <p>- Darryl</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
