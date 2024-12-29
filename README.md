@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh. I get it. You’re trying to secure your place as head of the party-planning committee. You’re just being selfish. [Phyllis slaps Dwight] And you slap like a girl.
+> Yeah.  In all climates.  It’s going to be worldwide.  And I’m looking for some talented salesmen to join me.  That’s where you come in.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
