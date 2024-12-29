@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [shakes her head no]
+> Well, I am breathing, yes.
 >
-> <p>- Kelly</p>
+> <p>- Customer</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
