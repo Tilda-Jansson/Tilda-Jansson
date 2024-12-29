@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Has to be done. We’ll press send together. [phone beeps]
+> Nah, I wouldn’t have done it if it wasn’t for the discount paper.  There’s not a lot of fruit in those looms.
 >
-> <p>- Ryan</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
