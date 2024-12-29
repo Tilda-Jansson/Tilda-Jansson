@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [follows Jim into bathroom] You have to agree with me. [follows Jim back out] That’s insane.
+> Oh. I get it. You’re trying to secure your place as head of the party-planning committee. You’re just being selfish. [Phyllis slaps Dwight] And you slap like a girl.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
