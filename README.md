@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nah, I wouldn’t have done it if it wasn’t for the discount paper.  There’s not a lot of fruit in those looms.
+> Miner – [kicking a piece of trash]
 >
-> <p>- Meredith</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
