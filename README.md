@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.  In all climates.  It’s going to be worldwide.  And I’m looking for some talented salesmen to join me.  That’s where you come in.
+> That is vodka and I mixed it with orange juice.  I call it an orange-vod-juice…ka.
 >
 > <p>- Michael</p>
 
