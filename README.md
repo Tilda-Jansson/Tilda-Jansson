@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I'll tell David what he needs to know. Sorry. David wants it this way.
+> Has to be done. We’ll press send together. [phone beeps]
 >
-> <p>- Charles</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
