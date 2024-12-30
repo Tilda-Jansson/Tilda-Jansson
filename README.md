@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not so. Cornell is an excellent school. Without its agricultural program, we probably wouldn’t have cabbage. At least not modern cabbage.
+> [making out with Ryan on her desk] What are we doing?  This is so wrong.
 >
-> <p>- Dwight</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
