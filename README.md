@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, so.  I get up to the building, I get to the revolving door… broken!  So I have to take the normal door.
+> Hey, what’s up, guys? How you been?
 >
-> <p>- Michael</p>
+> <p>- Roy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
