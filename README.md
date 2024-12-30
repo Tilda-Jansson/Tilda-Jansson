@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [making out with Ryan on her desk] What are we doing?  This is so wrong.
+> No, but he could be yours if you play your cards right.
 >
-> <p>- Kelly</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
