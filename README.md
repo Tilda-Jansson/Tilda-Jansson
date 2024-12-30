@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [goes over and closes office door] Frame him, for using drugs.
+> [on phone] Yeah, I’m looking at it right now. It’s really gorgeous. You guys do great work.
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
