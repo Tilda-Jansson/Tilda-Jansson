@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, what’s up, guys? How you been?
+> Well, this is a highly exclusive establishment.
 >
-> <p>- Roy</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
