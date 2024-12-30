@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Andy, Cornell called, they think you suck. And you’re gayer than Oscar. Boom. Roasted. [Stanley is still laughing] Alright. Alright everybody, you know I kid, you know I kid. You guys are the reason I went into the paper business, so, uh, goodnight, God bless, God bless America, and get home safe. [clapping and murmurs of appreciation]
+> Not so. Cornell is an excellent school. Without its agricultural program, we probably wouldn’t have cabbage. At least not modern cabbage.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
