@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Shampoo.
+> Hey Kevin… [Kevin gives Ryan a noogie] That’s really funny.
 >
-> <p>- Dwight</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
