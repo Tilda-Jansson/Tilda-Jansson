@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen, Listen, Stanley. You don’t have to answer me now.
+> Ok, alright, well I'll just bounce that off David, see what comes back.
 >
 > <p>- Michael</p>
 
