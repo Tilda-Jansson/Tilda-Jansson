@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve talked to Meredith, Stanley and Jim about the chairs. I know they’re with me on this.
+> That is so unnecessary!
 >
-> <p>- Pam</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
