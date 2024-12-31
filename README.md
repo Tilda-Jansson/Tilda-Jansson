@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, hey.
+> Meredith recently had a total hysterectomy, so that’s sort of a repair.  Alright, I’ll let you guys talk.
 >
 > <p>- Michael</p>
 
