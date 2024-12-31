@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [walking out of the building] Hey, do you mind if we make a stop on the way home?
+> Michael, I feel like I was a little harsh yesterday. [murmurs of agreement]
 >
-> <p>- Jim</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
