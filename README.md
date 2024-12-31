@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is where my parents decided not to get divorced.
+> I’ve talked to Meredith, Stanley and Jim about the chairs. I know they’re with me on this.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
