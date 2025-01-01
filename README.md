@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mmhmm, okay.
+> So I love Willy Wonka. That golden ticket scene is so inspiring to me that that’s where I cam up with that idea [Michael comes into conference room].
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
