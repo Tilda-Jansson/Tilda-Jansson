@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I guess my only wish, would be that nothing so terrible would ever happen to anyone else ever again.
+> Well it was great catching up with you. And I’ll see you around the building.
 >
-> <p>- Kelly</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
