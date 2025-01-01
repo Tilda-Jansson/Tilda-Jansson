@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have cause.  It is be-cause I hate him.
+> I guess my only wish, would be that nothing so terrible would ever happen to anyone else ever again.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
