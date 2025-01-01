@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am simply punishing those parents that would wait till the last minute to get their child a gift.  And such a genetically improbable one.  Look at that.  How does that happen?  King has sex with a unicorn?  Man with a horn has sex with a royal horse?
+> No.
 >
 > <p>- Dwight</p>
 
