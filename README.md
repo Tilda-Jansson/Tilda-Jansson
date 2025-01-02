@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So, we had a personnel change today.  Shouldn’t effect our day to day.  But, until we get a new receptionist I want Kevin on the phones.
+> Angela, you have to put a stop to this right now.
 >
-> <p>- Charles</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
