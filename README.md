@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK.  Oh, wait a second, wait a second, that’s hers.   This is hers, she left her glove.  I need her name if I’m gonna return her glove.
+> No, no, please. Please do not do this.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
