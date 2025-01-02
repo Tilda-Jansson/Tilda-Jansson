@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nobody panic. The good news is… they can’t fire all of us, right?
+> May I have your attention please? Sign in, sign in on the sign in sheet, the clipboard. This meeting is mandatory, if you do not sign in your name will not be counted. Thank you.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
