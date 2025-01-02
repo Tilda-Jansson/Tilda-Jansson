@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes they are, you just don’t care about the information.
+> OK.  Oh, wait a second, wait a second, that’s hers.   This is hers, she left her glove.  I need her name if I’m gonna return her glove.
 >
 > <p>- Michael</p>
 
