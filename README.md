@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don't understand that after fifteen years of service here, I have to get in the car and drive to New York in order to talk to you. That doesn't seem right to me. That doesn't seem fair. And I think that I've earned more than that.
+> Nobody panic. The good news is… they can’t fire all of us, right?
 >
 > <p>- Michael</p>
 
