@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I had to go all the way to Canada to get to know a guy who sits 20 feet away from me.  And he’s delightful! [laughs]
+> It’s like Driving Miss Daisy, you know?
 >
-> <p>- Andy</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
