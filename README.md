@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You ready? And we’re off, like a herd of turtles.
+> Oh, agreed, mmm, except…
 >
 > <p>- Michael</p>
 
