@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [giggling] Oh my GOD… Oh man… Ohhhhh my God…
+> [most of office huddles around print out of Hillary Swank, judging her hotness] Not at all.
 >
 > <p>- Kevin</p>
 
