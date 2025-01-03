@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So…
+> From this point forward, you will not use the bathroom. We need to keep our starting weights high so we can lose more.
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
