@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Look what just arrived from the Nashua branch.  [reads from card attached to gift basket] “Here’s something to enjoy on your three non-vacation days.  Nashua branch.” Can I send them a dead deer?
+> Oh come on!  He’s right there. [points at Ryan] He was hired.  [to Jim] Oh check it out, “Hired Guy.”
 >
-> <p>- Dwight</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
