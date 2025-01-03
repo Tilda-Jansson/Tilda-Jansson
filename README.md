@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.
+> Look what just arrived from the Nashua branch.  [reads from card attached to gift basket] “Here’s something to enjoy on your three non-vacation days.  Nashua branch.” Can I send them a dead deer?
 >
 > <p>- Dwight</p>
 
