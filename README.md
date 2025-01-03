@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [stands up] Everything.  She’s perfect.
+> I didn’t think it was very realistic in the movie and it turns out, it’s pretty realistic.
 >
-> <p>- Ryan</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
