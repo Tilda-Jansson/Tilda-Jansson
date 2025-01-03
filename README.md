@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> okay, that’s uh, hard to keep track.  How many is that per hour?
+> You ready? And we’re off, like a herd of turtles.
 >
 > <p>- Michael</p>
 
