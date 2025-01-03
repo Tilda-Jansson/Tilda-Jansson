@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, I am really busy, I can’t talk about this anymore. [Dwight follows red cord through office past Phyllis’ and Stanley’s desks]
+> Woo! Yeah. Aw, don’t take it away!
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
