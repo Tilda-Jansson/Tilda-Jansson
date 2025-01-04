@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Invite them on the tour.
+> All right, get out. Get out.
 >
 > <p>- Michael</p>
 
