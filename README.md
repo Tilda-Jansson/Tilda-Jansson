@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, he’s cute.
+> No, Michael. I don’t….[mimicking Scooby-Doo] I’m gonna puke!
 >
-> <p>- Pam</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
