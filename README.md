@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, get out. Get out.
+> 160.
 >
 > <p>- Michael</p>
 
