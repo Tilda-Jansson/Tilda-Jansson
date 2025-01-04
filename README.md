@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do ya?
+> Yeah, I’m late for work, so I have to brush my teeth, it’s a whole routine.
 >
 > <p>- Jim</p>
 
