@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you gain weight, you will die. I want you to live forever. I want us all to live forever. How? How are we going to do this?
+> Let me check. [Pulls out hunting scope] Oh nope! Clearly a hunter. Who knows how to throw an outfit together.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
