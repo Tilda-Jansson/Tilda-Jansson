@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [dumps coffee all over the copier glass] Oh!
+> Alcohol is a drag. Yes.  Here’s what I’d like to do.  I’d like to go around the room and have us each express to Meredith how her alcoholism has affected us.  I’ll begin.  This Christmas party is perhaps the best Christmas party I have ever been to, but then you got so drunk that we had to stop and do this.  That’s how your drinking affected me.  Anybody else?  Another time when Meredith’s drinking affected you?   Come on people.  If we don’t say anything she’s not going to get any better.  [Kevin raises his hand] Yes, Kevin.
 >
-> <p>- Kevin</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
