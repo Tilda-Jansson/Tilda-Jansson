@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s like Driving Miss Daisy, you know?
+> [same time as Michael] You were dressed as Willy Wonka so…
 >
-> <p>- Darryl</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
