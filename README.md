@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [looking pregnant] Hey Michael?
+> But the doctor said if I can’t find a new way to relate more positively to my surroundings I’m going to die.
 >
-> <p>- Dwight</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
