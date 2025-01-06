@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey!  Jim! Um, listen, can I call you back in a little bit?  I made friends!
+> No. OK. Um, the last word is “seagulls.”
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
