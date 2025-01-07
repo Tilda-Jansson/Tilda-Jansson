@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We are, we are a family.
+> What’s going on?
 >
 > <p>- Michael</p>
 
