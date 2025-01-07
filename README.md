@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [smiles, sighs, chuckles] Okay.
+> Oh my God. Pam, I don’t know, I, nothing, truly, nothing. I mean, I, I just was honest with him and I, I’m so sorry, I don’t know. I’ll call him again. [Pam rolls her eyes and walks away]
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
