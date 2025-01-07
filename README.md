@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. No, no. There was wind.
+> Fine. What is going on?
 >
-> <p>- Michael</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
