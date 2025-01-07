@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ahem. This is for you… and [puts blanket around her shoulders] …Happy Birthday, Kel.
+> Well you know what? My mom always used to say that average people are the most special people in the world. And that’s why God made so many.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
