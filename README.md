@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes.
+> [in a monk-impression tone] Ohmmm… Ohmmm… Everybody sit on the floor Indian style like me. [Meredtih sits Indian style in a dress exposing herself right in front of Michael] Ohmmm my God if you’re wearing a dress please keep your knees together nobody wants to see that ohmmm… ohmmm…
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
