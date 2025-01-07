@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well you know what? My mom always used to say that average people are the most special people in the world. And that’s why God made so many.
+> [starts to cry] Can we have another? I think I blinked.
 >
 > <p>- Michael</p>
 
