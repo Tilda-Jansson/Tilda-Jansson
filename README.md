@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thank you.  In fact, spending a half hour at the water cooler during work hours is a form of stealing.
+> Ahem. This is for you… and [puts blanket around her shoulders] …Happy Birthday, Kel.
 >
-> <p>- Holly</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
