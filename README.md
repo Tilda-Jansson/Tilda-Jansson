@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No way!  There is no way! No way!
+> Michael, I got you a hot chocolate. I hope that’s okay.
 >
-> <p>- Meredith</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
