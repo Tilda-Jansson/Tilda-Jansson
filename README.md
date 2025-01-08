@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s- it’s two pounds.  I’m losing money on this man just, give me the money.  Alright, walk away.
+> That's what makes him classy.
 >
-> <p>- Vance Refrigeration Guy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
