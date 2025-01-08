@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I didn’t, I’ll look somewhere else.
+> [pushes Dwight’s finger away] Just, easy.
 >
 > <p>- Jim</p>
 
