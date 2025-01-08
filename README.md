@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The new receptionist is also named Kelly. So Kelly Kapoor has decided to hover around my desk, so that she can run into his Charles’ office every time he calls for Kelly. She thinks if she says “You wanted me” enough, he will in fact want her. It’s not the worse plan she’s ever had.
+> We called about a dozen customers, and they all said that they gave us great marks.
 >
 > <p>- Jim</p>
 
