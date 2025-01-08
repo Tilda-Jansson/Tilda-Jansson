@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We called about a dozen customers, and they all said that they gave us great marks.
+> It’s- it’s two pounds.  I’m losing money on this man just, give me the money.  Alright, walk away.
 >
-> <p>- Jim</p>
+> <p>- Vance Refrigeration Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
