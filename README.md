@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Don’t patronize me, Pam.
+> Meredith, why don’t you tell Holly… it’s not what she thinks.  Nothing unethical happened… and that you just like to sleep around.
 >
 > <p>- Michael</p>
 
