@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [slightly drunk] What am I gonna do? I’ll tell ya what I’m gonna do. I gonna do a little bit of this, a little bit of that.  I gonna stay up all day.  Gonna sleep it up all night. I’m gonna give it a OHH! HEY! HO!  And I’m going to stop worrying about calories.
+> Please call me back.
 >
-> <p>- Michael</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
