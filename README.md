@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Meredith, why don’t you tell Holly… it’s not what she thinks.  Nothing unethical happened… and that you just like to sleep around.
+> [slightly drunk] What am I gonna do? I’ll tell ya what I’m gonna do. I gonna do a little bit of this, a little bit of that.  I gonna stay up all day.  Gonna sleep it up all night. I’m gonna give it a OHH! HEY! HO!  And I’m going to stop worrying about calories.
 >
 > <p>- Michael</p>
 
