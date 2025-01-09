@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ask him about the party.
+> Not my problem.
 >
 > <p>- Dwight</p>
 
