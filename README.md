@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [most of office huddles around print out of Hillary Swank, judging her hotness] Not at all.
+> I sell more paper than anyone. [stands and reaches for the file]
 >
-> <p>- Kevin</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
