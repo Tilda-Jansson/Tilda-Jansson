@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I sell more paper than anyone. [stands and reaches for the file]
+> Paaam-o-laaaaaa…
 >
-> <p>- Dwight</p>
+> <p>- Michael [on phone]</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
