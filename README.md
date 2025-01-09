@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We have a lot to do, and you are… putting up a very effeminate sign. Is that what you’ve been doing, is making a sign?
+> It’s going very well.  People are mixing, a lot of hope.  Cause that’s what you hate to see, when hope gets crushed. [Michael suddenly turns to look at the open entrance door] Sorry, thought I heard somebody coming in.  Um, so [looking at his watch] it’s not too late.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
