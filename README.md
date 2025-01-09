@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s going very well.  People are mixing, a lot of hope.  Cause that’s what you hate to see, when hope gets crushed. [Michael suddenly turns to look at the open entrance door] Sorry, thought I heard somebody coming in.  Um, so [looking at his watch] it’s not too late.
+> No, no, no no. Shes hot, okay? Because if you are saying Hillary Swank isn’t hot, then you are saying that I am not hot. Because obviously I am not as hot as Hillary Swank! [Kelly runs away in tears]
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
