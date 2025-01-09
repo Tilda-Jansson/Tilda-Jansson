@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sure, yeah that’s… your right. It’s too soon for… definitely too soon for me. So I’m glad we go that out of the way. I’m gonna be in touch with you. In three months. I’m gonna call you about that order. And maybe about that mall walk.
+> What? No. No, I am talking about a roast! Of Michael Scott! Oh c’mon! Who here has the Comedy Central Roast channel? You’ve seen it right? Everybody gets together, and everyone starts hurling insults at the one guy, and everybody’s laughing, and everybody’s hugging each other…
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
