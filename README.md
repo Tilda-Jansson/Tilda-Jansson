@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [annoyed] All right.  Dwight.  Just push and breathe.
+> We have a lot to do, and you are… putting up a very effeminate sign. Is that what you’ve been doing, is making a sign?
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
