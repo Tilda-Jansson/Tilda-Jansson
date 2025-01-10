@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m an atheist. Did you know that? I don’t know your religion. There are so many conversations that we haven’t even had yet.
+> [laughs and swings his arm out which doesn’t come close to touching the reception desk] I’m always this close.
 >
-> <p>- Holly</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
