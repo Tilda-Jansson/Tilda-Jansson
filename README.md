@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> To recoup their losses, I am planning a little charity auction, where people from all over Scranton can come and bid on our goods and services. I’m calling it crime-aid. It’s like farm aid, but instead of farms fighting against AIDS, it is us fighting against our own poverty.
+> I’m an atheist. Did you know that? I don’t know your religion. There are so many conversations that we haven’t even had yet.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
