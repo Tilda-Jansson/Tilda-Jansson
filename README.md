@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why don’t we just, live and let live?
+> Cornell is a good school, and I want to better myself through higher education. If it makes Andy angry, so be it. [He sips from his Cornell mug]
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
