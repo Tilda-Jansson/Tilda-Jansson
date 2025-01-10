@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Idiot.
+> Hello, Stephanie. Ok, where is he? [looks into empty office]
 >
 > <p>- Michael</p>
 
