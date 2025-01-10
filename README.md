@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When will she be ready?
+> To recoup their losses, I am planning a little charity auction, where people from all over Scranton can come and bid on our goods and services. I’m calling it crime-aid. It’s like farm aid, but instead of farms fighting against AIDS, it is us fighting against our own poverty.
 >
 > <p>- Michael</p>
 
