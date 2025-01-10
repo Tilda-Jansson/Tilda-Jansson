@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [walking to his car] Hey, it’s me.  It is 5:03.
+> [in Jim’s ear] Ask how he’s doing since the breakup.
 >
-> <p>- Jim</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
