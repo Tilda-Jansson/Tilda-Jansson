@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Cornell is a good school, and I want to better myself through higher education. If it makes Andy angry, so be it. [He sips from his Cornell mug]
+> No, no, no, no.  I mean have this kind of party. I look around and I see all these beautiful people who are alone on Valentine’s, and I think that there are other single people out there too.  We just need to find them.  There’s a girl out there for all of us maybe even in this office park.  There has to be a way to get all these lonely people together.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
