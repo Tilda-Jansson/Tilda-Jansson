@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nah, I wouldn’t have done it if it wasn’t for the discount paper.  There’s not a lot of fruit in those looms.
+> Why don’t we just, live and let live?
 >
-> <p>- Meredith</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
