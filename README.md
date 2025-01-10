@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.  And the sexy looks between you and Pam, the general sexiness, the flowers, it’s creating a bit of a hostile work environment.
+> And business class which was basically just coach. And the hotel which sucked big time.
 >
 > <p>- Michael</p>
 
