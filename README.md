@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [in Jim’s ear] Ask how he’s doing since the breakup.
+> I could read it.
 >
 > <p>- Pam</p>
 
