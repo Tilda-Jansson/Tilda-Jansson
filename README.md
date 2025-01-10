@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [as Michael continues imitating Charles] Not a good idea, Michael. Michael, stop. Stop doing that. Stop it. You're going to get all of us in trouble.
+> Everything okay?
 >
-> <p>- Employees</p>
+> <p>- Client</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
