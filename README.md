@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, back off. This isn’t your fight. Oh, how much is this gonna cost? [hits his car with the bike chain] Oh! What? Trust fund will take care of that! [hits his car with the bike chain]
+> I’m all right. I’m all right.
 >
-> <p>- Dwight</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
