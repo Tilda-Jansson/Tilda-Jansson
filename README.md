@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, I’m in charge when Michael’s gone, and I need you to sit…
+> Do you guys want to hear about Thailand?
 >
-> <p>- Jim</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
