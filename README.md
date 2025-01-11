@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sarcastically chuckles] Uh, your late, everyone’s already in the conference room. Karen will be right here to take you over.
+> Hey! Is that his scarf?
 >
-> <p>- Rolando</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
