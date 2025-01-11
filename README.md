@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s the door. Here’s the door.
+> Hi.
 >
-> <p>- Michael</p>
+> <p>- Lynn</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
