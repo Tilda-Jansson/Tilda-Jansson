@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What for?
+> Here’s the door. Here’s the door.
 >
 > <p>- Michael</p>
 
