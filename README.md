@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m sorry sir we can’t give out that information. [Michael sighs]
+> For you.  I’m with Darryl.
 >
-> <p>- Blood Drive Worker</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
