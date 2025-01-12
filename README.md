@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s totally impossible!
+> Well I don’t even want these. [Takes the rectangle pancakes out of his coat.]
 >
-> <p>- Michael</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
