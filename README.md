@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, Jim Halpert. I need your eyes up front.
+> I dunno.  I always call everybody back right away.  He’ll call back though.  Give him until the end of the day, he’ll call.  If he doesn’t, he is loco.
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
