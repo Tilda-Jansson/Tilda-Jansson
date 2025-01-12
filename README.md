@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> For you.  I’m with Darryl.
+> Don’t you ever talk to me that way. You pathetic, short little man. You don’t have any friends, or any family, or any land. [clapping and whooing]
 >
-> <p>- Kelly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
