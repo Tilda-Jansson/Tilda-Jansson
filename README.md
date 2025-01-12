@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know you are. Knock, knock.
+> Okay, hey, you already have the job.  You don’t have to convince me.
 >
 > <p>- Michael</p>
 
