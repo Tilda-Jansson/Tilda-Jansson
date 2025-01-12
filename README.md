@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was Roy.  She was engaged to Roy.
+> I know you are. Knock, knock.
 >
-> <p>- Angela</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
