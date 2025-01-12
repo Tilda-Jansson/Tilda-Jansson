@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That is totally inappropriate. You never yell at the client. You never yell at the client.
+> She’s your wife, you idiot.
 >
 > <p>- Michael</p>
 
