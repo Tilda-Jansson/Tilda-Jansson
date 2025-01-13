@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, look. David, this is why we have training.  We start with the dummy, and we learn from our mistakes. And now Dwight knows not to cut the face off of a real person.
+> Jim, they are a poopy. [Jim coughs, presses button to end call on Bluetooth]
 >
 > <p>- Michael</p>
 
