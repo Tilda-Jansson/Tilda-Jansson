@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sure.
+> Angela made several 911 calls about cars going too fast in front of the building, so the police put up a radar gun. It’s actually caused a bit of a traffic hazard.
 >
 > <p>- Pam</p>
 
