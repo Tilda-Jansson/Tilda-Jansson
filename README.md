@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey!  This is not half-way!  I did the math.  I had to drive way longer than you.  Montclair would have been closer, so you have to buy lunch.
+> Let’s hear an opening bid, everybody. Who’s first? Kevin do your taxes. He’s the tax man. Kevin the tax man.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
