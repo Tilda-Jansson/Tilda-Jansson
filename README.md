@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Da  na na na na.  No, no, check it out, look. Da  na na na na… want to do that?
+> Thanks man.
 >
 > <p>- Darryl</p>
 
