@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh Okay, all right. That makes sense. How does your boyfriend, deal with your phenomenal success? Is he just, like, totally threatened by you, or?
+> Da  na na na na.  No, no, check it out, look. Da  na na na na… want to do that?
 >
-> <p>- Andy</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
