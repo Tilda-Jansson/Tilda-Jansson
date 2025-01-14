@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yo.  I got the Nard-puppy for ya.  What’s going on here?
+> Hey!  This is not half-way!  I did the math.  I had to drive way longer than you.  Montclair would have been closer, so you have to buy lunch.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
