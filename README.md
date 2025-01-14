@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Philly.
+> Oh Okay, all right. That makes sense. How does your boyfriend, deal with your phenomenal success? Is he just, like, totally threatened by you, or?
 >
-> <p>- Isaac</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
