@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s hear an opening bid, everybody. Who’s first? Kevin do your taxes. He’s the tax man. Kevin the tax man.
+> It’s a trap.
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
