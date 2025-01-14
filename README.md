@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, no, I never said Denny’s. IHOP.
+> Oh, have you not?
 >
 > <p>- Michael</p>
 
