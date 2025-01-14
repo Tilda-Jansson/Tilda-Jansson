@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I play.
+> [impersonating Fonzie]  Ayyyy!
 >
 > <p>- Jim</p>
 
