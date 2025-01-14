@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What, I don’t — what do you want me to do now, Michael? What am I supposed to do now?
+> Yo.  I got the Nard-puppy for ya.  What’s going on here?
 >
-> <p>- David</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
