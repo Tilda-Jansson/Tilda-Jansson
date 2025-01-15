@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Branch managers who come in under budget get 15% of the savings.
+> No, no, no, definitely, definitely.  Yes.  Next weekend, then.  All right!  I love you, too.
 >
-> <p>- David</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
