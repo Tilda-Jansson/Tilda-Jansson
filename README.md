@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [hand up, seeking a high five] Up! Don’t leave me hangin’! [they do]
+> [Kevin sits down, gets right back up and heads back to “not hot” team] No, it’s is she hot, not would you do her. Respect the game.
 >
-> <p>- Andy</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
