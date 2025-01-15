@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Brought you guys some coffees. Stanley, I know you have adult onset diabetes. So I put Splenda in yours. Let’s see. How many did I put in there? [starts singing to the tune of Feist’s 1234] One, Two, Three, Four Splenda’s in your coffee, Stanley. None in yours, Julia, cause I don’t know how you take it. But if you’d rather…
+> And YOU will not be pleased with the result!
 >
 > <p>- Andy</p>
 
