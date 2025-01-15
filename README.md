@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s the matter?
+> Pow pow pow… [hands making gunshot impression, sporadic clapping]
 >
 > <p>- Michael</p>
 
