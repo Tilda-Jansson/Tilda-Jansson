@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Kevin sits down, gets right back up and heads back to “not hot” team] No, it’s is she hot, not would you do her. Respect the game.
+> Oh, man!
 >
-> <p>- Kevin</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
