@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [loading up car with Michael] Don’t look up. Don’t look up. [sighs as office workers all looking from window]
+> Who was Cornell’s eighth president?
 >
-> <p>- Pam</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
