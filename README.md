@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [going up escalator in the hotel] This is nice.  This is nice.  Move in here.  Very sweet… ah.
+> Dude, you struck out.  They’re totally stuck up.  Here… drink up.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
