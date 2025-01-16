@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wow! Hold that thought. I want everybody to go into the break room. I have a little surprise for you. Go ahead. You too. Dwight, would you escort our guest in there? C'mon, here we go, don't be shy, don't be shy, you're one of us . [whispers] Dwight, stall him a little, I have to get the fish.
+> 100 dollars.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
