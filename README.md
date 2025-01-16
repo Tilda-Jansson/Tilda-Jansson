@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim Halpert, yep. So, um, just going to let you get back to it... [being pulled away by Pam]
+> We called about a dozen customers, and they all said that they gave us great marks.
 >
 > <p>- Jim</p>
 
