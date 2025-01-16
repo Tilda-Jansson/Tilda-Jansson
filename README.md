@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Da  na na na na.  No, no, check it out, look. Da  na na na na… want to do that?
+> Michael, you texted me, 911 CALL ME.
 >
-> <p>- Darryl</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
