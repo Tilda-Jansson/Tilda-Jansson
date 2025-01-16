@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, good. My hooker’s here. [laughs] Hi.
+> Jim Halpert, yep. So, um, just going to let you get back to it... [being pulled away by Pam]
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
