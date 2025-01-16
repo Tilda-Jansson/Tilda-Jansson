@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She said it is the name of a Viking princess. So…
+> I had no idea when I got in that car and headed to New York I was going to quit.  I got on that ramp and I thought two hours, two hours to go.  Feeling good.  Listen to some tunes.  Should’ve peed before I left.
 >
 > <p>- Michael</p>
 
