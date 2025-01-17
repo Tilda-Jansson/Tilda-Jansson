@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A-B-C. Okay?  And hat stands for… airway, breathing and circulation.
+> We’re small, but we’re eager to make a name for ourselves.
 >
-> <p>- CPR trainer</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
