@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s the thing. Michael is doing something right. And in this economic climate, no method of success can be ignored. It’s not really time for executives to start getting judgmental now. It’s Hail Mary time.
+> [feeding coins into a vent] I think it’s 75 cents.
 >
-> <p>- David</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
