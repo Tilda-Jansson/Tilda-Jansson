@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I had no idea when I got in that car and headed to New York I was going to quit.  I got on that ramp and I thought two hours, two hours to go.  Feeling good.  Listen to some tunes.  Should’ve peed before I left.
+> Michael Scott! [laughter]
 >
-> <p>- Michael</p>
+> <p>- Group</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
