@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [feeding coins into a vent] I think it’s 75 cents.
+> Well, it does.  That’s me.
 >
-> <p>- Creed</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
