@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Great.
+> Yes, well about some things, and other things I am very stupid. Like, watch this. Is this the cup? [picks up tape dispenser and makes drinking motion] Is this the cup? [picks up a stapler and makes drinking motion] Is this what I drink out of? [glug noise, both laugh] Laughter is my job, tears are my game, law is my profession.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
