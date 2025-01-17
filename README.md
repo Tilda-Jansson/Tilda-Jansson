@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, well about some things, and other things I am very stupid. Like, watch this. Is this the cup? [picks up tape dispenser and makes drinking motion] Is this the cup? [picks up a stapler and makes drinking motion] Is this what I drink out of? [glug noise, both laugh] Laughter is my job, tears are my game, law is my profession.
+> Okay, I’m gonna have to stop you right there. Was this a sorority that you didn’t get into a real sorority so you had to kind of form your own?
 >
 > <p>- Michael</p>
 
