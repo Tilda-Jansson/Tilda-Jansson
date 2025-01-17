@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, no way. I am not giving up.
+> Yup, I’m good, whew.  Wow, I feel like a human juicebox. [Blood Girl laughs] Hawaiian blood punch.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
