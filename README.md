@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Alright.  Alright!  [tears up tickets]  Just, I want you to just forget about him, ok?  Case closed.  Umm, can I pay you tomorrow?  I have like a 60 dollar limit on my ATM, so…
+> Remember when people used to say boss, when they were describing something that was really cool like, those shoulder pads are really boss man… Look at that perm, that perm is so boss. It’s what made me want to become a boss. And I looked so good in a perm and shoulder pads. But now, boss is just slang for jerk in charge.
 >
 > <p>- Michael</p>
 
