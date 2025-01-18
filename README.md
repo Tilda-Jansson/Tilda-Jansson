@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Damnit, Phyllis!  I’m sorry.  [more softly] Damnit, Phyllis.  It was hard enough to convince Jan to come.  So are we set for refreshments?
+> Nope.
 >
-> <p>- Michael</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
