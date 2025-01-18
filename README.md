@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not drunk.
+> Alright.  Alright!  [tears up tickets]  Just, I want you to just forget about him, ok?  Case closed.  Umm, can I pay you tomorrow?  I have like a 60 dollar limit on my ATM, so…
 >
-> <p>- Pam [on phone]</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
