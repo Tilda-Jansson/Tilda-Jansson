@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Although born just minutes from here, he speaks only German. Closed society. So, now, after the readings by all of your sisters, we will arrive at the vows. So, Konrad… [speaks German to minister; minister begins speaking in German] And away we go. This is a little taste of the ceremony, if you will. He’s explaining why we’re here, what we’re doing here, making introductions, blah blah blah… Then he’s gonna have Andy repeat a bunch of stuff. He’s gonna ask Andy to produce a ring. I have uh, now just uh… just some twine for our purposes, and you will put the ring on her finger. Yadda yadda, then he’s going to ask Andy, uh, if he would like to marry Angela. And you will reply, “I do.” [Andy mouths, “I do” silently] And then he’s going to ask Angela if she would like to marry Andy, to which you will reply…
+> Give me the details of how that happened.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
