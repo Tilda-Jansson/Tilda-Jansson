@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sitting on floor playing the sitar] Hey, hey… Ange… check it out.  [sings] There’s a place in France where the naked ladies dance. [laughs]
+> Damnit, Phyllis!  I’m sorry.  [more softly] Damnit, Phyllis.  It was hard enough to convince Jan to come.  So are we set for refreshments?
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
