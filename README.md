@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen, I would love to have an honest conversation with management about ethics.  Why isn’t the company doing better?  Mmm… it could be the pad of Post-its I took home last week.  Or it could be the twelve million dollars in deferred compensation in stock options they paid the CEO for a year of substandard performance.  I’m sure we’ll cover both in the seminar.
+> Me too.
 >
 > <p>- Oscar</p>
 
