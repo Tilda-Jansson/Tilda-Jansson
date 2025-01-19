@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [Kelly runs to parking lot in the rain] Hello, Charles? Charles!
+> I’m not moving the tree.  Face it. The only power you have over me is this big secret that I know you’re not going to tell.  And you want to know how I know that? Because then you won’t be able to plan your stupid, tacky parties anymore. So you move the tree.
 >
 > <p>- Angela</p>
 
