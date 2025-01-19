@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, let’s go over non-discretionary cuts. Okay, guys? [Charles sees Stanley with his crossword, Charles stares and he puts it away] Thank you. So, umm…
+> No, it’s going in a different direction then the other wires.
 >
-> <p>- Charles</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
