@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’ll thank me when they spank thee.
+> Let’s meet for lunch.
 >
-> <p>- Andy</p>
+> <p>- JIM9334 [screen name]</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
