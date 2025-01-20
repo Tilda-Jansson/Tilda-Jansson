@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wait, this isn’t our floor. Dwight…
+> Your fictitious name?
 >
 > <p>- Dwight</p>
 
