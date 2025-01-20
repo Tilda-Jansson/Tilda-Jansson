@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s our theme.
+> Hey. Hi, guys.
 >
-> <p>- Dwight</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
