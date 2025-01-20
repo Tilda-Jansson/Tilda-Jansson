@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, I know fixed; that ain’t fixed.
+> Uh, I’m fine, thank you.
 >
-> <p>- Meredith</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
