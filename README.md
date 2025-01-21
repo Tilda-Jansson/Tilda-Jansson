@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How about this one? It’s Christmas eve—
+> Hey Kevin… [Kevin gives Ryan a noogie] That’s really funny.
 >
-> <p>- Michael</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
