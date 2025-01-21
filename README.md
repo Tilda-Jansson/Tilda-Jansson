@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I do.  No.  I do.  I, I want to.  Trust me.  I really do.
+> Hey, why don’t you guys come have lunch with Bob and me?  We’ll take all afternoon. [whispering] Michael is terrified of bob.
 >
-> <p>- Michael</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
