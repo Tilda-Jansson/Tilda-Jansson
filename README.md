@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’ve got no taste Stanley Hudson.
+> Why do you even want to stay at Dunder Mifflin? I mean what’s the point? You’re cooped up in there all day. You don’t get to do your farming. You’re not dating Angela anymore. It doesn’t matter if you get fired for taking credit for the gold ticket idea. It doesn’t matter. Me on the other hand, I would be lost without this place. You, way too manly.
 >
-> <p>- Phyllis</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
