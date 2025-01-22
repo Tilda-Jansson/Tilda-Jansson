@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She never sent it to you?
+> Because the thing you’re saying I’m good at, is pushing a big green button a bunch of times.
 >
 > <p>- Pam</p>
 
