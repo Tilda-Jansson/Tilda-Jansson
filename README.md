@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …and the kind of discounts we’re talking about are not… hold on – Michael, Why do you keep looking at the front door?
+> Well, wouldn’t it feel good to tell him that he was incompetent?
 >
-> <p>- Dwight</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
