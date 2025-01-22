@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hell of an ass.
+> …and the kind of discounts we’re talking about are not… hold on – Michael, Why do you keep looking at the front door?
 >
-> <p>- Creed</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
