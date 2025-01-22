@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, the baby doesn’t ruin anything, Kevin, OK?  The baby multiplies the fun.  Let’s just do what you were going to do.
+> Is everyone okay?
 >
-> <p>- Michael</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
