@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, wouldn’t it feel good to tell him that he was incompetent?
+> No, wait. You’re, you’re supposed to… Never mind. Da  na na na na.
 >
-> <p>- Angela</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
