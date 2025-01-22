@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve got a better angle on Pam. I can see everything.
+> Hell of an ass.
 >
-> <p>- Dwight</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
