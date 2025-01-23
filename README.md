@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So you go in now, I am going to go in exactly ten minutes. We have never met each other. We are complete strangers. Also, we are going to need a signal to bolt out of there if there is danger. Lick ur lips, try it. [Michael licks lips] No, no like this. [Dwight starts and Michael follows passionately licking their lips] Good.
+> [gets up to shake David's hand] I quit.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
