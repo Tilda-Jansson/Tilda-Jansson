@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [smiles] It is a great mug. But it’s not my mug. That is my mug. So give it back.
+> So you go in now, I am going to go in exactly ten minutes. We have never met each other. We are complete strangers. Also, we are going to need a signal to bolt out of there if there is danger. Lick ur lips, try it. [Michael licks lips] No, no like this. [Dwight starts and Michael follows passionately licking their lips] Good.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
