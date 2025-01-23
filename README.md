@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ryan, enough with the texting machine. Come on. And tuck in your shirt, you’re the face of this company.
+> Attention everyone I just got a text from Michael. He says personnel day. Are we hiring?
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
