@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, first, work out. And, hey! Look! You did that. Check. [Michael doing leg lifts] Eat an enormous breakfast. Check.
+> Oh. OK, well you know what, I um, just call me later.
 >
-> <p>- Pam</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
