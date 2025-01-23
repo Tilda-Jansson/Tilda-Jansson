@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on voicemail] Hey, it’s Jim.  Leave a message.
+> 1,000 going once, 1,000 going twice. Sold for 1,000 dollar. [applause] Nicely done.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
