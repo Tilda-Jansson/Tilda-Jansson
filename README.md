@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.
+> I am no longer the worst salesman in the office. Yes! [Andy gestures excitedly, knocking over his coffee mug] Ow! Dammit!
 >
-> <p>- Pam</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
