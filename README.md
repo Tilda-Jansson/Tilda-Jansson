@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So listen, Michael, your branch has been doing great lately, and your sales staff is reporting very strong numbers. Out-performing last year, in fact. Um, and I don’t know exactly how to put this, but… what are you doing right?
+> I sure hope not.
 >
-> <p>- David</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
