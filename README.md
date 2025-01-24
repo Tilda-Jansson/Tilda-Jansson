@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, Oscar. Who’s that woman in Michael’s office with the feet?
+> Okay, so here’s what I’m thinking. I’m gonna say that before ceramics class, I took off my ring, and then when I changed back out of my smock, it wasn’t in my pocket anymore, and I lost it.
 >
-> <p>- Holly</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
