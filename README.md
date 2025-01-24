@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I'm kidding around, wow! Relax, everybody, it's just a joke. It's fine. Boy, so touchy. PPC, let's continue our morning meeting in the conference room.
+> Can I make just a little announcement. In a professional roast, usually the roaster will say something nice about the roastee after they’re done, something about how much they love them, so, just, keep that in mind.
 >
 > <p>- Michael</p>
 
