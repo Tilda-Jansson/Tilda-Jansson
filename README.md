@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [drinks] Oh… my… GOD!!!  [laughs] Hit me again.
+> What?
 >
-> <p>- Meredith</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
