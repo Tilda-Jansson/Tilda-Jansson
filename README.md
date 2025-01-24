@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uhh… hehe hah! I’m thinking Roy?
+> I'm kidding around, wow! Relax, everybody, it's just a joke. It's fine. Boy, so touchy. PPC, let's continue our morning meeting in the conference room.
 >
 > <p>- Michael</p>
 
