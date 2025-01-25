@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> …and then we compare notes.
+> [same time as Michael] You never know when it’s gonna strike. Just… boom.
 >
 > <p>- Dwight</p>
 
