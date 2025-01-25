@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [talking head] It’s a little sad. Michael and I just started dating. He wants me to stay and get a job around here as a baker. Or a baker’s helper.
+> …and then we compare notes.
 >
-> <p>- Holly</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
