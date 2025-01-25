@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, where is the steak sauce?
+> [talking head] It’s a little sad. Michael and I just started dating. He wants me to stay and get a job around here as a baker. Or a baker’s helper.
 >
-> <p>- Meredith</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
