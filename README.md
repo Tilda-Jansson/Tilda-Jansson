@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There it is.
+> Ronnie was bleh.  Things were at an all time sad here.  But then I got an e-mail from Ryan, that he was coming back to town.  And I called the temp agency and I told them I will pay you any amount, just give me Ryan Howard.  Give him to me.  I want him.  I need him.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
