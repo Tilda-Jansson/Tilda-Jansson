@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Electricity.
+> It's a great idea. And we have a cake in the shape of a bale of hay.
 >
 > <p>- Michael</p>
 
