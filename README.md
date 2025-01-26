@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why is she marrying Andy?
+> So, we had a personnel change today.  Shouldn’t effect our day to day.  But, until we get a new receptionist I want Kevin on the phones.
 >
-> <p>- Dwight</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
