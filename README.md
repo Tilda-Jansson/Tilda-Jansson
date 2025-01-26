@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nope. His name is Michael. [Michael makes the da dum ksch on the drumset again]
+> Dwight, get out of here!
 >
-> <p>- Darryl</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
