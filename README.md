@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Spite her – ok [laughter]
+> Nope. His name is Michael. [Michael makes the da dum ksch on the drumset again]
 >
-> <p>- Michael</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
