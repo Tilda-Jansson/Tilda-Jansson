@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They’re for her to look at, Michael.
+> Okay, I’m just gonna go get some ice.
 >
 > <p>- Jim</p>
 
