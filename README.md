@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, that came out during the ethics seminar.
+> Was it the sales department?
 >
-> <p>- Holly</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
