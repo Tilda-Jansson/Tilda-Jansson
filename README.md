@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wait, when you say “that guy”, you mean you?
+> [talking head] No. Not going to happen.  He has hurt me too much and too often.  And I am in a healthy relationship so I’m not gonna flaunt it and I’m not gonna hurt him, but that door is closed.
 >
-> <p>- Kevin</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
