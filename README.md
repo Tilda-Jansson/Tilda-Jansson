@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It has my face on it.
+> [movie] I want you to meet my nana.  Nana…
 >
-> <p>- Andy</p>
+> <p>- Jessica Alba</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
