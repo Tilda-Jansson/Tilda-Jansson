@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay! Procedure, procedure. Exit options.  Where do we go folks?  Wha– Use a what to cover the mouth?
+> Yes, of course it does.
 >
 > <p>- Dwight</p>
 
