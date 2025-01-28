@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can I make just a little announcement. In a professional roast, usually the roaster will say something nice about the roastee after they’re done, something about how much they love them, so, just, keep that in mind.
+> I want another try. Here we go! [Michael runs past the radar as a car passes] Thirty-one! Thirty-one!
 >
 > <p>- Michael</p>
 
