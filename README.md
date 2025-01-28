@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want another try. Here we go! [Michael runs past the radar as a car passes] Thirty-one! Thirty-one!
+> Well, well.  Holly… lujah!  It’s a miracle, you’re at your desk.
 >
 > <p>- Michael</p>
 
