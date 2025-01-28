@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Um, no, not… no. No, I got it at TJ Maxx, four dollars.
+> Da  na na na na.
 >
 > <p>- Michael</p>
 
