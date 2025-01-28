@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, but now his heart is in Thailand along with the rest of his body having random sex. [Kelly looks hurt]  Okay, sorry, let’s, who else?  Oscar.
+> Come on man, let’s, let’s go.
 >
-> <p>- Michael</p>
+> <p>- Hank</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
