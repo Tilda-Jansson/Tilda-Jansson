@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Come on man, let’s, let’s go.
+> [chanting and clapping] Call her! Call her!
 >
-> <p>- Hank</p>
+> <p>- Group</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
