@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [chanting and clapping] Call her! Call her!
+> Yeah, but you’re gonna need a permit for that.
 >
-> <p>- Group</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
