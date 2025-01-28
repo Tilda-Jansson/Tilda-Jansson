@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You can owe me.
+> [to Pam] Can you believe this? [pause] He was pretty talkative at breakfast.
 >
-> <p>- Darryl</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
