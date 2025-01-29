@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on phone] Hey Sasha, it’s daddy.  Have you ever heard of this doll , Princess Unicorn?
+> Yes they are, you just don’t care about the information.
 >
-> <p>- Toby</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
