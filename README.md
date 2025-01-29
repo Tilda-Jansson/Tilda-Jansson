@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I was just thinking. Let me see a chair.
+> Yeah. I love being on the road, but I especially love the time and a half pay 24 hours a day, for three days. Cause I have a mortgage now, got a bring home the bucks.
 >
-> <p>- Hank</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
