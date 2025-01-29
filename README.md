@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah. I love being on the road, but I especially love the time and a half pay 24 hours a day, for three days. Cause I have a mortgage now, got a bring home the bucks.
+> You’re good to talk to.
 >
 > <p>- Pam</p>
 
