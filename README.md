@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on cell phone] NO! Oh, my God. Oh, No. That is so awful. That is the worst news. I have to go. I have to do a presentation. I’ll talk to you… [hangs up phone, sighs] This is going to be hard for me to speak today. Because I just learned that my father has died. … No, he didn’t! He is alive. And this isn’t even a cell phone. This is a calculator. But you bought it! And now you can’t return it. Or can you? No you can’t. [Karen raises her hand] Yes. Karen, do you need to go pump?
+> Jim and Pam are, like, movie geniuses. They’re catching things that are totally going over my head.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
