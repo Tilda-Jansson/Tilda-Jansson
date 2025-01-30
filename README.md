@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hee-heeding this right now.
+> [starts a stopwatch as Dwight yawns, stops it when Dwight is done] Yawn.  Four seconds.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
