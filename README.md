@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [sees Pam and Jim through office window, runs out the office] Hey, hey! [falls down stairs, gets up, falls down again] Pam, Pam! Hey!
+> Oh, right. Thanks. [reading off index card] Dunder Mifflin, this is Kevin. Please hold while I transfer you. [cupping the mouthpiece, yelling] Oscar, your mom!
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
