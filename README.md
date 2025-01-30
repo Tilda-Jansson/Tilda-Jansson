@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [starts a stopwatch as Dwight yawns, stops it when Dwight is done] Yawn.  Four seconds.
+> Take a nap, nothing good is on TV right now.
 >
-> <p>- Jim</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
