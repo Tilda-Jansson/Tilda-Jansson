@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, I’m good. You good?
+> A.J. What kind of name is A.J.?
 >
 > <p>- Michael</p>
 
