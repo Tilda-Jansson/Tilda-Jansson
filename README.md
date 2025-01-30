@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nice job on the cake, Bozo!
+> [sees Pam and Jim through office window, runs out the office] Hey, hey! [falls down stairs, gets up, falls down again] Pam, Pam! Hey!
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
