@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what? I think we’re a great couple. I think we’re a classic couple. I think we’re like Romeo and Juliet. I think we… go together so well.  We’re like peanut butter and jelly, don’t you think?
+> You can let people go a couple of minutes early if you want.
 >
 > <p>- Michael</p>
 
