@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t accept these prices, Stanley. They just cut our budget.
+> Hello, Rolando, how are you?
 >
-> <p>- Julia</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
