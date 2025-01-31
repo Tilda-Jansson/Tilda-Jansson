@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen, why don't we just leave that position vacant? Truth be told, I think I thrive under a lack of accountability.
+> [fingers opened an inch] This close.
 >
-> <p>- Michael</p>
+> <p>- Jim </p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
