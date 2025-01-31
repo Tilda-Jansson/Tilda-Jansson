@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I make that one copy, and I become the girl who makes copies, and by the end of the day I’m receptionist again. And the worst part is, I like making copies. The paper comes out all warm and stuff. And it’s cold in there. Cause it’s technically a closet.
+> You know what? I think we’re a great couple. I think we’re a classic couple. I think we’re like Romeo and Juliet. I think we… go together so well.  We’re like peanut butter and jelly, don’t you think?
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
