@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. OK, no.  I’m crowning!  I’m crowning!  Aaaaaaaa! [runs into Michael’s office]
+> I don’t get it! How can she be sleeping with you this whole time and only sleep with me twice?
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
