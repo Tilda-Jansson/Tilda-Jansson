@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hello, Rolando, how are you?
+> I make that one copy, and I become the girl who makes copies, and by the end of the day I’m receptionist again. And the worst part is, I like making copies. The paper comes out all warm and stuff. And it’s cold in there. Cause it’s technically a closet.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
