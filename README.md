@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s wrong?
+> I can’t accept these prices, Stanley. They just cut our budget.
 >
-> <p>- Holly</p>
+> <p>- Julia</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
