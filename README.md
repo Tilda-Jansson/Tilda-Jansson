@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, right. Thanks. [reading off index card] Dunder Mifflin, this is Kevin. Please hold while I transfer you. [cupping the mouthpiece, yelling] Oscar, your mom!
+> No. OK, no.  I’m crowning!  I’m crowning!  Aaaaaaaa! [runs into Michael’s office]
 >
-> <p>- Kevin</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
