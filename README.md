@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, it’s really dorky. You were right the first time.
+> There has to be a barn that’s old enough that you can see the stars through the roof slats when you lay on your back. And antique tools to look at when you roll over.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
