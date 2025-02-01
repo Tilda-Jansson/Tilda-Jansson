@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [knocks on Pam’s hotel door] Hello, good morning.
+> So what?
 >
 > <p>- Michael</p>
 
