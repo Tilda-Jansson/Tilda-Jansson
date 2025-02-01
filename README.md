@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And what is that?
+> Come on man, let’s, let’s go.
 >
-> <p>- Charles</p>
+> <p>- Hank</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
