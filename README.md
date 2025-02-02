@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, sh- she didn’t. I’m gonna read it.
+> That’s what she said.
 >
 > <p>- Michael</p>
 
