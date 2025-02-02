@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t really know Ronnie. But I have a feeling I will get to know her very well over the next few years, and eventually declare my love for her.
+> Yeah.
 >
-> <p>- Jim</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
