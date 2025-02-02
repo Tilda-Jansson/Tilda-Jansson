@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I just wanted to tell you that… Oh What?  [takes a present out from behind his back]  What’s that?
+> I did have a chance to think about it, but then I thought about something else.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
