@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Someone’s looking out the window. Go go, Peel out, go. [car hits front divider, screeching]
+> It’s like Driving Miss Daisy, you know?
 >
-> <p>- Dwight</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
