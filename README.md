@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, we were expecting you. Have a seat.
+> No, sh- she didn’t. I’m gonna read it.
 >
-> <p>- Receptionist</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
