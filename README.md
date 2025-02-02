@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, how about this? An ice sculpture, shaped like you, covered in chocolate-covered strawberries.
+> I just wanted to tell you that… Oh What?  [takes a present out from behind his back]  What’s that?
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
