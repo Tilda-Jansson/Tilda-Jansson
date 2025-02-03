@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, I would like you to apologize to this beautiful, beautiful woman for forcing her to walk five miles, which for her is basically a death march.
+> Six point five days. [winces as Kevin smacks him on the back]
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
