@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.  I can do it.
+> It’s just me, my wife and my son.
 >
-> <p>- Holly</p>
+> <p>- Prince Grandfather</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
