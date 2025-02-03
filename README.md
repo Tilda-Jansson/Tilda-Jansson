@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wait, what?
+> Dwight, I would like you to apologize to this beautiful, beautiful woman for forcing her to walk five miles, which for her is basically a death march.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
