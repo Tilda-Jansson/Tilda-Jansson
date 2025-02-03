@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> yeah!
+> Yeah, OK.  Well, he only gets better.
 >
 > <p>- Michael</p>
 
