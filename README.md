@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [rapping] I’m MC Mike Scott, and I am hot. She’s DJ Jazzy Flax, and she is the best. All those sucker branches can suck our fat!
+> And I’m out a fiancee. Are those the customer surveys?
 >
 > <p>- Michael</p>
 
