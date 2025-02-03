@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, I’m sorry. I’m sorry. Oh I, I thought we had this energy. And I’m a mess. And I just had my heart broken. And you came in today and your so pretty. You’re, like, incredibly pretty.
+> [British accent] Hello.
 >
-> <p>- Andy</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
