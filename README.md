@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This shouldn’t be coming from his boss. And we should also consider the fact that that man has an anger issue.
+> [playing cat’s cradle with Holly] Okay, am I grabbing this one?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
