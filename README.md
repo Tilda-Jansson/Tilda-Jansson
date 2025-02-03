@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, isn’t that messed up?
+> [rapping] I’m MC Mike Scott, and I am hot. She’s DJ Jazzy Flax, and she is the best. All those sucker branches can suck our fat!
 >
-> <p>- Ryan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
