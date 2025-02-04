@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not a family.  It’s a workplace.
+> Boom! Yes. Now, Jim is going to be the client. Dwight, you’re going to have to sell to him without being aggressive, hostile or difficult. Let’s go.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
