@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, everybody’s still here.  Perfect! Got a little surprise I’ve been working on.  Angela, my bride, I just wanted you to know that for the rest of our lives, no matter the cultural milieu, I will always be there to bring you Christmas cheer.  [sings] Deck the halls with boughs of holly. Fa-la-la-la-la-la-la-la-la.  Tis the season to be jolly. Fa-la-la-la-la-la-la-la-la.  Don we now our gay apparel. Fa-la-la-la-la-LA.  Troll the little Yule tide carol. Roo-di-di-di-do. Roododododo. [laughs]
+> What is that?  What is that?
 >
-> <p>- Andy</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
