@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You guys lost four pounds.
+> [singing and playing the guitar] What I hate about you, you really suck as a boss, you’re the laziest, jerkiest and you’re dumber than applesauce. We’re stuck listening to you all day, Stanley tried to die just to get away, heeey, well it’s true. That’s what I hate about you. That’s what I hate about you. Yeah. And now, a man that deserves no introduction, Michael Scott.
 >
-> <p>- Darryl</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
