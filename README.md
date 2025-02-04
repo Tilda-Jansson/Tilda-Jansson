@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, I, you said you wanted to help, so I…
+> Yeah. [cats meowing] I mean, I usually try to take leave when I get a new cat, but I’m out of vacation days. And this company still doesn’t recognize cat maternity. I mean, when somebody has a kid, oh sure, take off a year.
 >
-> <p>- Jan</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
