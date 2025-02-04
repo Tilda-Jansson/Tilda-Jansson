@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah. [cats meowing] I mean, I usually try to take leave when I get a new cat, but I’m out of vacation days. And this company still doesn’t recognize cat maternity. I mean, when somebody has a kid, oh sure, take off a year.
+> The three words I would describe you as is aggressive, hostile and definitely difficult.
 >
-> <p>- Angela</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
