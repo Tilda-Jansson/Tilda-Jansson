@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [singing and playing the guitar] What I hate about you, you really suck as a boss, you’re the laziest, jerkiest and you’re dumber than applesauce. We’re stuck listening to you all day, Stanley tried to die just to get away, heeey, well it’s true. That’s what I hate about you. That’s what I hate about you. Yeah. And now, a man that deserves no introduction, Michael Scott.
+> All right, everybody’s still here.  Perfect! Got a little surprise I’ve been working on.  Angela, my bride, I just wanted you to know that for the rest of our lives, no matter the cultural milieu, I will always be there to bring you Christmas cheer.  [sings] Deck the halls with boughs of holly. Fa-la-la-la-la-la-la-la-la.  Tis the season to be jolly. Fa-la-la-la-la-la-la-la-la.  Don we now our gay apparel. Fa-la-la-la-la-LA.  Troll the little Yule tide carol. Roo-di-di-di-do. Roododododo. [laughs]
 >
 > <p>- Andy</p>
 
