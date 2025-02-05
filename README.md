@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She never sent it to you?
+> Okay, thanks.
 >
 > <p>- Pam</p>
 
