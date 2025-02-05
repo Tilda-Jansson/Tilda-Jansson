@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, we’re not.
+> Nonono, no, no, I don’t want to hear moaning.  This is a good day.  You guys accomplished something big.  You lost a ton of weight, literally.  A lot of weight.  And I don’t care what any stupid scale says.  You guys are all gigantic losers.
 >
-> <p>- David Wallace</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
