@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s the thing.  What I wish for you is that you land a job at a company that A, exists, and B, has a salary.  Because they’re set up to do that kind of thing.
+> Give it, give it. We can’t do this to those people.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
