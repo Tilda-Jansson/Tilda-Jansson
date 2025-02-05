@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, oh don’t say bucks, it’s not lady like. Here we go! [gets in backseat] Okay so what we do is drive all day and we stay in hotels together at night.
+> She never sent it to you?
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
