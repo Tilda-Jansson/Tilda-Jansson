@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Where are you taking the client list?
+> Yeah, oh don’t say bucks, it’s not lady like. Here we go! [gets in backseat] Okay so what we do is drive all day and we stay in hotels together at night.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
