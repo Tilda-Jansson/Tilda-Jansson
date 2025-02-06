@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Remember that time that I helped you do your laundry and that crazy guy came in and started yelling at you?
+> Would a liar bring mini Mounds bars? [Pam tosses a handful of Mounds bars at everyone]
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
