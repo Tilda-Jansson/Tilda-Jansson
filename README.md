@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, let me see your coffee cup.
+> She’s, um, she’s in New York. She’s at an art school.
 >
 > <p>- Jim</p>
 
