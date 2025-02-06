@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, yes, great. Very good, Um, so, Darryl, and the boys in the hood in the warehouse, have graciously donated to, uh, go out for a beer with them right now. You know what, I’m actually going to bid on this. I’m going to start the bidding, because this is something that I have dreamt of-
+> Dwight, let me see your coffee cup.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
