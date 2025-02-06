@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whispers in Holly’s ear, Holly reacts with horrified look]
+> No way!  There is no way! No way!
 >
-> <p>- Kevin</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
