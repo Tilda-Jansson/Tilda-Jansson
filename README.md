@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I've put having a family on hold.
+> But I– I promised my daughter. Darryl, look– I– I need the doll, I need the doll.  I– I’m– I’m begging you.  I just– I need it more than anything in this world.  I need this doll. Darryl, man I need this doll.
 >
-> <p>- Michael</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
