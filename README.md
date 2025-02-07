@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> 2,184 pounds, for a grand total — oh! You all gained five pounds back.
+> You’re so lucky! Good one… [clapping]
 >
-> <p>- Darryl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
