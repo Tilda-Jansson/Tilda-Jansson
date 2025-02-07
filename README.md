@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I got 500 feet of red wire at a flea market up by Dunmore High School. 20 bucks for the whole spool. Crazy, what a deal. [behind Jim, Dwight climbs telephone pole] Oh he’ll be fine. I made it up there.
+> You’ll see.
 >
-> <p>- Jim</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
