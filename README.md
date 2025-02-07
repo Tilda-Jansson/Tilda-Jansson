@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam, you make more copies than anyone.
+> I got 500 feet of red wire at a flea market up by Dunmore High School. 20 bucks for the whole spool. Crazy, what a deal. [behind Jim, Dwight climbs telephone pole] Oh he’ll be fine. I made it up there.
 >
-> <p>- Oscar</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
