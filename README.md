@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s what’s going to happen. I am going to have to fix you, manage you two on a more personal scale, a more micro form of management. Jim, what is that called?
+> What’s the rule about eating when people are in the bathroom?
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
