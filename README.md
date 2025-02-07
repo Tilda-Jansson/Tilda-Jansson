@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Type O-Ocean Spray.
+> That’s it. That’s it. You can’t put a price on freedom.
 >
 > <p>- Michael</p>
 
