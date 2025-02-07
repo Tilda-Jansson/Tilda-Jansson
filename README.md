@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [through tears] Sam! Sam!
+> Well, um, you know, labor just kind of started very suddenly and-
 >
-> <p>- Andy</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
