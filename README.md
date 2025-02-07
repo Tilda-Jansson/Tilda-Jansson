@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. Now everyone here who’s bowled under 70 raise their hand.
+> Yes it is, but it had to be done, didn’t it?
 >
-> <p>- Phyllis</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
