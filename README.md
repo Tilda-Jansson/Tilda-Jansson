@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s the rule about eating when people are in the bathroom?
+> Ah! Ah! Ahhhh!  [waking up] Hey. Whew. Ow. I was having a nightmare.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
