@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, why don't-
+> Oh brownies! I’m taking two so I can parcel them up and eat them at my leisure later on, much healthier.
 >
 > <p>- Michael</p>
 
