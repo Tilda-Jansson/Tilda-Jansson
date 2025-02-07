@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you?
+> Here’s what’s going to happen. I am going to have to fix you, manage you two on a more personal scale, a more micro form of management. Jim, what is that called?
 >
 > <p>- Michael</p>
 
