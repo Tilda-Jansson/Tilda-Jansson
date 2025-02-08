@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When no one hedded–
+> What is this?
 >
 > <p>- Dwight</p>
 
