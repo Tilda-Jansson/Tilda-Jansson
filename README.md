@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Could you guys all do me a favor and not talk about this until I tell Pam?
+> It’s really amazing. Congratulations Karen. So is there a guy or, uh, a person. Or, uh, a sperm machine that did this to you, or?
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
