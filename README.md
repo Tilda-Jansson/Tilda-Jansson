@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He wouldn’t have wanted that. Her name is Princess Lady!
+> You know what, Kevin?  Why don’t you just go ahead and stare?  Because, you know, it’s, it’s fine with me.  I mean, this is sooo natural, and so beautiful, and…
 >
-> <p>- Angela</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
