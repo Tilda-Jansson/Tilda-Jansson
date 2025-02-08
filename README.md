@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What is this?
+> Maybe the Michael Scott Paper Company was a huge mistake. I should leave. I should go, and start my own paper company. That’ll show ’em.
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
