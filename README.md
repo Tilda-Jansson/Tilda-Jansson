@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Had conversation with Michael about taking credit for an idea that wasn’t mine. Discussed movies.
+> When no one hedded–
 >
 > <p>- Dwight</p>
 
