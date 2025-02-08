@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not a family.  It’s a workplace.
+> Alright, I’ve scoped out the joint.  Those two dudes are as good as naked.
 >
-> <p>- Holly</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
