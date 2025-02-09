@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here’s what I was thinking. The following weekend, I drive up.
+> Okay, here we go.
 >
 > <p>- Michael</p>
 
