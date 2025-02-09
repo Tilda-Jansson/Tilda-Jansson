@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, here we go.
+> Awesome.  I think this is going to be the best Christmas party ever.
 >
 > <p>- Michael</p>
 
