@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Don’t you ever talk to me that way. You pathetic, short little man. You don’t have any friends, or any family, or any land. [clapping and whooing]
+> Erin [eerie voice] Erin…
 >
 > <p>- Dwight</p>
 
