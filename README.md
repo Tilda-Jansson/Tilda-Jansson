@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So… we all agree to get new chairs then. Good?
+> [comes back up to Michael] Hey, that’s gonna be 500 dollars.
 >
-> <p>- Michael</p>
+> <p>- Vance Refrigeration Guy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
