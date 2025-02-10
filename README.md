@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You didn’t eat much there Jimbo.
+> That’s me and my friend Jonathan from Thailand.
 >
-> <p>- Bob</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
