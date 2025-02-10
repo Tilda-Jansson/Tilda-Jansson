@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, oooh his mistress.  No. I’m kidding.  No one would ever cheat on you; you are the complete package, Pam.
+> Aaaaaaaa!
 >
 > <p>- Michael</p>
 
