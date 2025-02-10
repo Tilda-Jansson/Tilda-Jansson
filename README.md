@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight K. Schrute. Why don’t you introduce me to your little friend? [Dwight immediately breaks the handshake with the redhead and turns to the blonde]  Hi, Dwight.
+> No way!?
 >
-> <p>- Dwight</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
