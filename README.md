@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, get the boring stuff out of the way.  Autumn was what I was going to say.  When the leaves change.  It’s just, I… I think it is the most contemplative of seasons.
+> This doesn't seem like a good way to spend company time.
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
