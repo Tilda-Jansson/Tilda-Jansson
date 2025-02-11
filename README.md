@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Freeze, give me the list! [still chasing him back into office where Michael grabs his car keys from his desk and heads back to parking lot]
+> Oh, just stop making excuses and just dig in there.
 >
-> <p>- Dwight</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
