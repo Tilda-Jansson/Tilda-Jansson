@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on a cell phone in the hallway] Yes, I repeat a drug dealer is on the premisis of Dunder Mifflin.  His name is Toby Flenderson [Michael opens Toby’s desk drawer and puts something in it] and he recently returned from a mysterious vacation in Central America.   I have risked a great deal to tell you this information.  My name is Andy Bernard.  Andrew Bernard, that’s my name.  See you soon.
+> Um, I got some photos from Costa Rica if you want to see them?
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
