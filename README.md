@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good. As I was saying…
+> Nice to meet you, yeah.  Whew!  I can assure you we don’t need a new system though.  Happy with ours.
 >
-> <p>- Charles</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
