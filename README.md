@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Rebel Yell, Billy Idol
+> If you ever called the fire department ’cause your head was stuck in your chair you might be…
 >
-> <p>- Dwight</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
