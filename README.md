@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I also stole something off of her computer. A document called “Dear Michael.”
+> Freeze, give me the list! [still chasing him back into office where Michael grabs his car keys from his desk and heads back to parking lot]
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
