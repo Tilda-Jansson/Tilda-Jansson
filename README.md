@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, but now his heart is in Thailand along with the rest of his body having random sex. [Kelly looks hurt]  Okay, sorry, let’s, who else?  Oscar.
+> Booty call.
 >
 > <p>- Michael</p>
 
