@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Um, I got some photos from Costa Rica if you want to see them?
+> [giggling] Oh my GOD… Oh man… Ohhhhh my God…
 >
-> <p>- Michael</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
