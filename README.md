@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you ever called the fire department ’cause your head was stuck in your chair you might be…
+> She thought I was McNabb. [laughing]
 >
-> <p>- Angela</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
