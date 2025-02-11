@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nice to meet you, yeah.  Whew!  I can assure you we don’t need a new system though.  Happy with ours.
+> [on a cell phone in the hallway] Yes, I repeat a drug dealer is on the premisis of Dunder Mifflin.  His name is Toby Flenderson [Michael opens Toby’s desk drawer and puts something in it] and he recently returned from a mysterious vacation in Central America.   I have risked a great deal to tell you this information.  My name is Andy Bernard.  Andrew Bernard, that’s my name.  See you soon.
 >
-> <p>- Jim</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
