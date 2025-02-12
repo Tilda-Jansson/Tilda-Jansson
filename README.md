@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ooh. Ouch. Okay, good. You’re funny, very good and funny. Tell me, A.J., are you dating? Is there somebody you date?
+> Would you like fries with that? Please drive around.
 >
 > <p>- Michael</p>
 
