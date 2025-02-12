@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And, they are collectively my best man.  And they are crashing with us for three weeks, so… it totally works out.
+> Its simple, David would use that information to destroy them.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
