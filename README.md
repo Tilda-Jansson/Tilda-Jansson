@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Whoa. You're talking about my anniversary party, so. . .
+> I have made my decision. We do not need a new copier. We do not need new chairs. This copier… is… [puts paper on glass and makes a copy, then takes paper from glass] working perfectly.
 >
 > <p>- Michael</p>
 
