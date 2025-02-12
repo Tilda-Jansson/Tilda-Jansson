@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [following them out] You have laws that protect you in any kind of interrogation.  Why don’t you use them?
+> Ooh. Ouch. Okay, good. You’re funny, very good and funny. Tell me, A.J., are you dating? Is there somebody you date?
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
