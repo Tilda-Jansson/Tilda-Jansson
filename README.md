@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What the hell was that? [Michael starts to fight with Dwight]
+> And, they are collectively my best man.  And they are crashing with us for three weeks, so… it totally works out.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
