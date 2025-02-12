@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Its simple, David would use that information to destroy them.
+> No no no, I can’t let you do this!
 >
 > <p>- Dwight</p>
 
