@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wow.
+> I just want to say for the record, I did not kill anyone.  Stanley was attacked by his own heart. And he should be released from the hospital and back in the office in a couple days.
 >
-> <p>- Roy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
