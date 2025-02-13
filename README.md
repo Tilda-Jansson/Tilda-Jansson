@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you have the Sharpie?!
+> Alright. . .
 >
-> <p>- Dwight</p>
+> <p>- Stephanie</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
