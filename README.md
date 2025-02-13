@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [voiceover] I usually love babies, but when I held Astrid I just felt… shortchanged.
+> Do you have the Sharpie?!
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
