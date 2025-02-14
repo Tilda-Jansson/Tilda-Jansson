@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is equal parts scotch, absinthe, rum, gin, vermouth, triple sec, and two packs of Splenda. Call it a one of everything.
+> Hey, HEY.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
