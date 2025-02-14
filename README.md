@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam. Everyone deserves a second second chance. [walks back to Ryan] Ryan, just out of curiosity, how much do you get paid here?
+> [pointing to staff members] Blazer. Freckles. Penguin. K.D. Lang. Holly’s boyfriend. These mnemonic devices help to make a connection, and then, also to help you memorize names. I have a chainsaw! [holds up chainsaw, makes a wimpy chain saw noise] Cutting down the competition.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
