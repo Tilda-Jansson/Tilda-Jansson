@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay.
+> …kind of [retches] Maybe you could tie it around your waist or lose the shirt underneath or something.
 >
 > <p>- Michael</p>
 
