@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No! No way! I told you. We talked about this.  There is absolutely no way.  No!  No! There is no way!  No! No! I am not going in there! I am not going in there!
+> Buddha who?
 >
-> <p>- Meredith</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
