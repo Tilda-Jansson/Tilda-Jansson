@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Monsieur.
+> [stands up] Everything.  She’s perfect.
 >
-> <p>- Andy</p>
+> <p>- Ryan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
