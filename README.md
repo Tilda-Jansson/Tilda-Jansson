@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [pointing to staff members] Blazer. Freckles. Penguin. K.D. Lang. Holly’s boyfriend. These mnemonic devices help to make a connection, and then, also to help you memorize names. I have a chainsaw! [holds up chainsaw, makes a wimpy chain saw noise] Cutting down the competition.
+> Ok.
 >
-> <p>- Pam</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
