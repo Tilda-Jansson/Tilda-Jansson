@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, just a few more items.
+> You’re right, you’re right.  Just, Dwight, do it.  Just say it ok.
 >
 > <p>- Michael</p>
 
