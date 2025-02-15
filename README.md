@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [outside men’s room] You might be interested- [stops when he sees Stanley come out]
+> “…or that Dunder Mifflin does not discriminate.  Nor does it condone unhealthy dieting habits or extreme weight loss strategies.  As was clearly stated in the official starting—“
 >
-> <p>- Andy</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
