@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh hey! Stanley, Phyllis. Come on in. Welcome, welcome. Let me give you the tour.
+> Of course, now Michael knows where to reach me 16 to 18 hours a week.
 >
-> <p>- Michael</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
