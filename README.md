@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No. We’re not gonna hire Ryan.
+> Um, did my dad say anything about my mom?
 >
 > <p>- Pam</p>
 
