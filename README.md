@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ohh, I do not have much time… car’s all the way over there, to tell you what I have to tell you. And just bear in mind when I say… say these things, that… are bad things… that you hear… in your ears… this is something that I, if I were you, that I wouldn’t want to hear…
+> Da  na na na na!!
 >
-> <p>- Michael</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
