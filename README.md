@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> “…or that Dunder Mifflin does not discriminate.  Nor does it condone unhealthy dieting habits or extreme weight loss strategies.  As was clearly stated in the official starting—“
+> I think we might have hired an outside marketing consultant.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
