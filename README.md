@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hmm?
+> Oh hey! Stanley, Phyllis. Come on in. Welcome, welcome. Let me give you the tour.
 >
 > <p>- Michael</p>
 
