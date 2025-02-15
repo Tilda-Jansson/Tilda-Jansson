@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. [walks to the window, sighs] This city.  Dwight. We are not mad, we are just disappointed.
+> Ohh, I do not have much time… car’s all the way over there, to tell you what I have to tell you. And just bear in mind when I say… say these things, that… are bad things… that you hear… in your ears… this is something that I, if I were you, that I wouldn’t want to hear…
 >
 > <p>- Michael</p>
 
