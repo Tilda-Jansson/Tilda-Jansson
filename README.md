@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care.
+> If you ever called the fire department ’cause your head was stuck in your chair you might be…
 >
 > <p>- Angela</p>
 
