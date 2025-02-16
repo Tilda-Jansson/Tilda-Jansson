@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is Oscar Martinez. He is Latino. And he just got out of a long-term relationship with a man, Gil, who broke his heart. But he didn't bring any of that into work, it did not affect his job performance whatsoever and I am very proud of him for that.
+> Whoo!! Welcome welcome welcome welcome welcome. You are all jerks. Just kidding, not yet anyway. Welcome to the roast of Mr. Michael Scott. If you’re here for the Grabowski wedding, it is the second door on the left. [Creed looks around] So, we all know how these work, needs to get crazy, take your best shot. I am going to sit right here on my chair and… ah… whoever wants to come up and roast me, you may. [Angela jumps up] Ok… lower the mic for the midget.
 >
 > <p>- Michael</p>
 
