@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael is like a movie on a plane.  You know, it’s not great, but it’s something to watch.  And when it’s over you’re like… how much time is left on this flight? Now what?
+> Tell him you’d like to go with him.
 >
-> <p>- Toby</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
