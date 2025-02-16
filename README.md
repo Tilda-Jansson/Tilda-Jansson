@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I checked the route – there are no potholes.  Come on, get in here and have the baby.
+> Michael is like a movie on a plane.  You know, it’s not great, but it’s something to watch.  And when it’s over you’re like… how much time is left on this flight? Now what?
 >
-> <p>- Michael</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
