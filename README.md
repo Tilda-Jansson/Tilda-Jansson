@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m sorry, I thought today at the baby shower would be a good time for the two of you to meet.
+> This is Oscar Martinez. He is Latino. And he just got out of a long-term relationship with a man, Gil, who broke his heart. But he didn't bring any of that into work, it did not affect his job performance whatsoever and I am very proud of him for that.
 >
-> <p>- Jan</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
