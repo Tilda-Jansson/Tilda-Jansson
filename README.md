@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen, when Jim was dating Karen, I didn’t want to come to work. It was awful. I hated it. I wanted to quit, but-
+> Yeah, um, but one of them is for Toby.
 >
-> <p>- Pam</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
