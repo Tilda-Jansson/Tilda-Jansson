@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Tell him you’d like to go with him.
+> Really?
 >
 > <p>- Pam</p>
 
