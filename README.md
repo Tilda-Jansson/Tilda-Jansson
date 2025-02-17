@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What’s 15% of 200? [Michael doesn’t answer] Thank you. Everyone, Michael is returning the surplus so he can keep 15% as a bonus.
+> I don’t know about anyone else.  But it was a good summer for me.  I lost seven pounds.  And you know what?  I’m just gonna take five days off anyway.
 >
-> <p>- Oscar</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
