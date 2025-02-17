@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What did you say? I’m sorry, I couldn’t hear you.
+> [to Stanley] Hey, I did good too!
 >
-> <p>- Andy</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
