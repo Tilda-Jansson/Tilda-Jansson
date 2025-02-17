@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What is wrong with these people? They have no willpower. I went — I once went 28 years without having sex. And then again for seven years.
+> What’s 15% of 200? [Michael doesn’t answer] Thank you. Everyone, Michael is returning the surplus so he can keep 15% as a bonus.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
