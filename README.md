@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> But I really think you should reconsider.
+> I have to unpack this weekend but maybe next weekend we go to the outlets!
 >
-> <p>- Pam</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
