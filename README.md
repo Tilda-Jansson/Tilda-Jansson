@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right!
+> Umm… I think I saw some in the kitchen. [toaster oven bell rings, Ryan opens it as smoke rolls out and he see’s his melted sunglasses on the tray, Ryan takes cooked sunglasses to Kevin] Oh! I didn’t do that.  That was Kevin 1.0, but he hurt a lot of people Ryan, and I can’t accept responsibility for what he did. [Ryan walks away and throws his sunglasses in the trash, Kevin smiles]
 >
-> <p>- Dwight</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
