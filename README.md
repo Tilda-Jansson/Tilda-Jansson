@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you walk up toward the castle, and inside the castle are 4 men, and each of them, none of them have shoes, and they give you a funny cigarette, and you feel even more relaxed, and then you want ice cream. You want a big bowl of ice cream. What kind do you want? Shout it out.
+> You’re right.
 >
 > <p>- Michael</p>
 
