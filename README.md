@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Maybe. Barbara Keebis. She invests in local businesses. And I am putting together a little presentation for her.
+> Oscar, enough with the girl talk please.
 >
 > <p>- Michael</p>
 
