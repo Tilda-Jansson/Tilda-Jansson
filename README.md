@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [through the car window] Okay. I will… Dwight and Angela are having an affair, so…
+> It– yep, recently.
 >
 > <p>- Michael</p>
 
