@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can’t you see I’m urinating?
+> [through the car window] Okay. I will… Dwight and Angela are having an affair, so…
 >
-> <p>- Stanley</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
