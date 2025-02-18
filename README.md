@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Protect her from what? Bears, you idiot? When’s the last time you saw a damn bear in Scranton?
+> Not if we turn these dials [getting louder] all the way down. [whispering] Now they can’t hear us at all.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
