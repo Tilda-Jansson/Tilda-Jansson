@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [muted] Mmhmm. [shrugs]
+> [on speaker phone] Michael, what the hell is going on here?
 >
-> <p>- Prince Grandfather</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
