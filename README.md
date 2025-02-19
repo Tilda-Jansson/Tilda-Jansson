@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh you can tell by the way I use my walk I’m a woman’s man, no time to talk. Music loud, women warm, been kicked around since I was born. Oh, it’s alright, it’s okay, [Michael and Kelly join in] you can look the other way. Loo do do!
+> Mike gave me a list of his top ten Springsteen songs. Three of them were Huey Lewis and the News. One was Tracy Chapman, Fast Car. And my personal favorite, Short People.
 >
-> <p>- Andy</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
