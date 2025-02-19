@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on speaker phone] Michael, what the hell is going on here?
+> Can’t I take some paper and just tape over it with transparent tape?
 >
-> <p>- David</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
