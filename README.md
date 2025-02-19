@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [approaching Reception] Michael Scott, manager.  Hi, how are ya?
+> Oh, Pam, I really… hate that copier.
 >
 > <p>- Jim</p>
 
