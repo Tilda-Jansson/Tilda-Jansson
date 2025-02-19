@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah.
+> Schrutes don’t celebrate birthdays, idiot. It started as a Depression-era practicality, and then moved on to an awesome tradition that I look forward to every year. [rolls eyes] What about you?
 >
 > <p>- Dwight</p>
 
