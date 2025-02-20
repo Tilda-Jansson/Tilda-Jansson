@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He said he would do the same for me.
+> Dwight and I are both writing letters to our clients. I’m just sending a quick note to say how much I appreciate their business, and he is writing notarized letters to inform them them that lying on customer reviews is a prosecutable form of fraud and defamation. It’s just… different styles.
 >
-> <p>- Dwight</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
