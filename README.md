@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, there we go.
+> Oh, copy that breaker. Those Duke boys are at it again.
 >
 > <p>- Michael</p>
 
