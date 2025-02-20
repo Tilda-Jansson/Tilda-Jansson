@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, God. [Michael clears his throat]
+> Uh, new wicks from Craft Corner, uh, this dress [hands Michael bag] returned to Suburban Casuals, and uh, panty liners.
 >
-> <p>- Michael</p>
+> <p>- Jan</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
