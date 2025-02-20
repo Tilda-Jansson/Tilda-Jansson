@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Meredith, why don’t you tell Holly… it’s not what she thinks.  Nothing unethical happened… and that you just like to sleep around.
+> Oh, God. [Michael clears his throat]
 >
 > <p>- Michael</p>
 
