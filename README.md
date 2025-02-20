@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, stop. Forever stop that story. That’s disgusting, and it doesn’t count. So give me another one.
+> There is no movie called Willy Wonka. It’s called Willy Wonka and the Chocolate Factory.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
