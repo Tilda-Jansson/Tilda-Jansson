@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam? Knock, knock.
+> [struggling to speak] Mmm— mmm…  Um…
 >
 > <p>- Michael</p>
 
