@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.
+> A canoe built around your horse so you can go from riding to water travel without slowing down. Horse Boat!
 >
 > <p>- Dwight</p>
 
