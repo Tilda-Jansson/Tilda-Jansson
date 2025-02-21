@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I will go first.  When I discovered
+> I’m not overwhelmed, Pam.
 >
 > <p>- Michael</p>
 
