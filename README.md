@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I… Okay, okay, okay, [in disbelief] alright, thank you. [heads towards Dwight, makes make out lips signal]
+> Look at where my seats were.
 >
-> <p>- Michael</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
