@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I get it. [To Phyllis] You need to see more?
+> No, because… [Dwight and Michael walk in and march into Michael’s office, silencing the conversation]
 >
-> <p>- Stanley</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
