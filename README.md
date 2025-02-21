@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you have any weapons?
+> Come on, Bernard. [Andy spits on floor as warehouse worker walks past]
 >
-> <p>- Police Officer 1</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
