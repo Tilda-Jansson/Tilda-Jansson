@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pam, line three.
+> Did you ever have intercourse in this office? [Dwight’s expression implies ‘yes’]
 >
-> <p>- Receptionist</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
