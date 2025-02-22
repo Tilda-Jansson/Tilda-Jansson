@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not on the surface, no, but I can tell people are disturbed, David.
+> I don’t get it. Do I stress you out?
 >
 > <p>- Michael</p>
 
