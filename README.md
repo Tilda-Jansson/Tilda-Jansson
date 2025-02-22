@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did you ever have intercourse in this office? [Dwight’s expression implies ‘yes’]
+> It’s my sumo suit.  I just didn’t inflate it all the way.  I am so glad that I bought instead of rented.
 >
 > <p>- Michael</p>
 
