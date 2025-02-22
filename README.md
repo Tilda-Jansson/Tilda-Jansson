@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Thanks.
+> Okay. Okay, sold! Have fun, you guys. Well, this next item is sure to spring steam from your ears if you don’t win it. It just says “Creed.”
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
