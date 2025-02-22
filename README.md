@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was funny.  Let’s go do it to somebody else.   Ayyyy!
+> Yes you are. [tries to pull Meredith from the car]
 >
 > <p>- Michael</p>
 
