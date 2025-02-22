@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When Michael’s skirting a phone call, he gave me a list of places to say he is. ‘Stopping a fight in the parking lot. ‘ ‘An Obama fashion show. ‘ Whatever… that is. Or ‘trapped in an oil painting.’ I’m gonna save that one.
+> You’re not.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
