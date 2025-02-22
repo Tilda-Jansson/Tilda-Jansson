@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes! Wallace said there would be one of those.
+> That was funny.  Let’s go do it to somebody else.   Ayyyy!
 >
 > <p>- Michael</p>
 
