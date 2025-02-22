@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t get it. Do I stress you out?
+> Pam, line three.
 >
-> <p>- Michael</p>
+> <p>- Receptionist</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
