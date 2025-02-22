@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [snaps back] No one cares. Who thinks that Hillary Swank is hot, raise your hand. [half of office raises hand] Okay, and who thinks Hillary Swank is not hot, raise your hand. [other half of office raises hand]
+> Wow, this is my lucky day.
 >
 > <p>- Jim</p>
 
