@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s my sumo suit.  I just didn’t inflate it all the way.  I am so glad that I bought instead of rented.
+> I’m good.
 >
-> <p>- Michael</p>
+> <p>- Tom</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
