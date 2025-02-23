@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, here we go. Ok.
+> Oh, you'd understand if you read the memo which I should probably get you, there's probably one in a drawer... uh. It was pretty crazy. But, uh, not more crazy than wearing a tux, at work, I grant you that... so, uh.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
