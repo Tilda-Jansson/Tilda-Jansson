@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You’re always safe with me. I’m a very good screamer. And one day, we’re going to move to Disney’s Celebration Village in Florida and leave all of this behind.
+> Ladies, are we prepared to let the Kevins of the world decide anything for us? Anything at all? We don’t even give him full internet access.
 >
-> <p>- Andy</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
