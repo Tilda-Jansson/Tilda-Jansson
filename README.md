@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, from what I can gather it seems like a gray area.  Look, to be honest the company is getting a discount at a tough time in our balance sheet and I don’t know that the right thing to do for the company is to turn our noses up at that.
+> [backing out of the bloodmobile] I, uh-oh I feel so woozy I just [to Phyllis] Band-Aids.
 >
-> <p>- Kendall</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
