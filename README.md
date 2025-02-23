@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Good. Listen, my name is, uh, Michael... Scotch. And, uh, I just wanted to say that, uh, I've got David Wallace's son in the trunk of my car. If he doesn't get on this phone in 5 seconds-
+> Utica, Albany, all the other branches are struggling, but your branch is reporting strong numbers. [Michael smiles] Look, you’re not our most traditional guy, but clearly, something you are doing… is right. And I just, I need to get a sense of what that is.
 >
-> <p>- Dwight</p>
+> <p>- David</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
