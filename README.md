@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know.  If she wasn’t an alcoholic before, she is now. [Jim laughs]
+> Wait, is this a joke? I’m getting that queasy feeling that sometimes accompanies jokes.
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
