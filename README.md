@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right.
+> Are you kidding me? We only lost one pound, Phyllis.
 >
 > <p>- Michael</p>
 
