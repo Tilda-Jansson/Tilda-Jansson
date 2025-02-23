@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Utica, Albany, all the other branches are struggling, but your branch is reporting strong numbers. [Michael smiles] Look, you’re not our most traditional guy, but clearly, something you are doing… is right. And I just, I need to get a sense of what that is.
+> Well, from what I can gather it seems like a gray area.  Look, to be honest the company is getting a discount at a tough time in our balance sheet and I don’t know that the right thing to do for the company is to turn our noses up at that.
 >
-> <p>- David</p>
+> <p>- Kendall</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
