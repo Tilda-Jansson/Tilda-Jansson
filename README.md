@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Huh. Twelve hundred dollars for a stroller? Phhhbt.
+> You once told me that Andy and I had different strengths. Well, he can’t do what I can do. I can get into Cornell, but he doesn’t know how to make food and shelter from a golden retriever.
 >
 > <p>- Dwight</p>
 
