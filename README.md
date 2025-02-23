@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Lilly no. Lilly! Lilly please! Lilly STOP! I don’t care how much time we have left. I don’t care what my friends say! And I don’t care what your mom thinks! Frankly I’m pretty sure she’s not makin any sense. Please. Move back to my apartment. [Andy’s crying, “I’m All Out of Love” starts playing] Lilly. I’m not giving up. I’m not giving up. Lilly… Lilly! Push the reverse button! Reverse the button!
+> Well, that makes two of us.
 >
-> <p>- Sam</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
