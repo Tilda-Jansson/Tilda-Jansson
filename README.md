@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ladies, are we prepared to let the Kevins of the world decide anything for us? Anything at all? We don’t even give him full internet access.
+> Good. Listen, my name is, uh, Michael... Scotch. And, uh, I just wanted to say that, uh, I've got David Wallace's son in the trunk of my car. If he doesn't get on this phone in 5 seconds-
 >
-> <p>- Pam</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
