@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [backing out of the bloodmobile] I, uh-oh I feel so woozy I just [to Phyllis] Band-Aids.
+> [on cell phone] Charles Miner. Hello? Hello, who is this? Who is this?
 >
-> <p>- Stanley</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
