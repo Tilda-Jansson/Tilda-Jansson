@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not an alcoholic.
+> We’ll dig a trench. As long as it’s downhill from the well, we should be fine.
 >
-> <p>- Meredith</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
