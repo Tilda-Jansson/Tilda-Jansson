@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey there. So uh, how do you think we’re gonna do against Penn this year? Nathan Ford’s arm looks pretty strong.
+> Get that done already.
 >
-> <p>- Dwight</p>
+> <p>- Lily</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
