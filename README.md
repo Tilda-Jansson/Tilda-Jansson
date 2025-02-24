@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on phone] Dunder Mifflin, this is Pam. Oh hi, David. He’s having a colonoscopy. Alright, I’ll find out if he’s out yet.
+> Potential, lots of potential. yes.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
