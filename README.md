@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> These are terrible boss. You gotta make them in a circle so that they cook evenly.
+> You said you were leaving and you made liars out of all of us.  So…
 >
-> <p>- Creed</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
