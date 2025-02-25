@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hopefully, nothing that can’t be undone because Dwight I owe you an apology. The head of Blue Cross just called. They were so excited about the golden ticket discount that they have decided to make Dunder Mifflin their exclusive provider of all office supplies. Congratulations Dwight. [holds out hand for handshake]
+> That’s really fattening.
 >
-> <p>- David</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
