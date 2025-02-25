@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Everyone is going to end up dying someday.  And I think it’s better to die with people you like… like Oscar, and Andy, and concierge Marie… than to know that there’s somebody out there that you love that you’re not with.
+> That was Roy.  She was engaged to Roy.
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
