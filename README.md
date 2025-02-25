@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah with a hot slab of Canadian bacon in your hand.
+> [blowing air horn] Attention everyone! Employees of Dunder Mifflin!  This has been a test of our emergency preparedness.  There is no fire.  It was only a simulation.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
