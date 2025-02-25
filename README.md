@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Um, I think you’ll have fun. Men from Scranton are handsome, and they know how to show a woman a good time.
+> Yeah with a hot slab of Canadian bacon in your hand.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
