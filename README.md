@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You said you were leaving and you made liars out of all of us.  So…
+> Keep it going. Hey batter batter batter.
 >
 > <p>- Michael</p>
 
