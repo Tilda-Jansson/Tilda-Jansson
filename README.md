@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And just like that.  As mysteriously as he arrived, he was gone. [Michael sneaks back in the parking lot, and into a back door of the building]
+> Everyone is going to end up dying someday.  And I think it’s better to die with people you like… like Oscar, and Andy, and concierge Marie… than to know that there’s somebody out there that you love that you’re not with.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
