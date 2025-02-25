@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yeah, I a baby daddy.  Um, when you first became a baby daddy, did you have an immediate connection with that baby?  Like, the first time that you held it, did you find that with your baby baby?
+> Ha ha. That’s hilarious?
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
