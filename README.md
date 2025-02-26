@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on speakerphone] David, it was my understanding that I was not going to be managed.
+> I know.
 >
 > <p>- Michael</p>
 
