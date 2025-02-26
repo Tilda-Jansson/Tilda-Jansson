@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In this climate?
+> I don’t know you. But I need to know you in order to sell to you. That is why I have asked you to go around and tell me you names. I have an amazing mnemonic device, by which I have memorized all of your names. Shirty, mole, lazy eye, Mexico, baldy, sugar boobs, black woman. I have taken a unique part of who you are, and I have used that to memorize your name. Baldy, your head is bald. It is hairless. It is shiny, it is reflective like a mirror. “M” your name is Mark.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
