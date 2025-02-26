@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, everybody. This is your last meal, so eat up. [cheering]
+> No, now listen. You can’t let what you see here, sully your image of them. They are good, decent cats. [all laugh] I gotta go. I’ll be back in an hour. Oh, stop that! Oh!
 >
-> <p>- Michael</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
