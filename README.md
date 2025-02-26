@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> By wanting it more. By working hard-
+> All right, everybody. This is your last meal, so eat up. [cheering]
 >
 > <p>- Michael</p>
 
