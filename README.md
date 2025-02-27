@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re gonna make everything all right. Alright? Conference room, 15 minutes. Half an hour. Alright?
+> I shouldn’t have done it. It just- I couldn’t help it.
 >
 > <p>- Michael</p>
 
