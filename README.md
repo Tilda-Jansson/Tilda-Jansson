@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, it sounds risky.
+> And business class air, like a five-star hotel in the sky, nothing but the best.  Actually better than a five-star hotel ’cause you get a big, cushy seat and you sit in a row of people and to eat, whatever the mind can imagine.  I think I am going to have a filet with mushroom sauce.
 >
-> <p>- Andy</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
