@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I shouldn’t have done it. It just- I couldn’t help it.
+> This summer, corporate is sponsoring a little weight loss contest between the branches. Whichever branch loses the most weight gets three extra vacation days.
 >
 > <p>- Michael</p>
 
