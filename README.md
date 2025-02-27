@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, this is just something I’m taking a break with.
+> Are we even sure that’s my file?
 >
 > <p>- Jim</p>
 
