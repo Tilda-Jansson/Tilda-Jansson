@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Please stop. People are having a Christmas party.
+> His name is Dan, uh, this is us. So dorky.
 >
-> <p>- Jim</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
