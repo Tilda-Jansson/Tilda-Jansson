@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK. Or maybe I could finish the coffee that’s in here and you could use [finds a mug] uh, oh — Snoopy.
+> Oh, this is just something I’m taking a break with.
 >
 > <p>- Jim</p>
 
