@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Are we even sure that’s my file?
+> No, it’s not a formality.  Now, were these, um, meet-ups just personal?  Unrelated to business?
 >
-> <p>- Jim</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
