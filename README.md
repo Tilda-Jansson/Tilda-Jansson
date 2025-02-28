@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, Oscar. Who’s that woman in Michael’s office with the feet?
+> [on the phone] It was terrible.
 >
-> <p>- Holly</p>
+> <p>- Toby</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
