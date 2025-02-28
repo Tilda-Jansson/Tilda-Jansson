@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [to Holly] I’m doing the blood type diet.
+> I mean, like, “156 paces from the light red mailbox, make a left.”
 >
-> <p>- Kelly</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
