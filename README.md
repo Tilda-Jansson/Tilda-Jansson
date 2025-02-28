@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I mean, like, “156 paces from the light red mailbox, make a left.”
+> OK, I’ll ta…I’ll talk to you later. [hangs up]  That was a good story.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
