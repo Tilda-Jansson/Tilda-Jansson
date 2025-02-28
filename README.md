@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Come on. [making karate moves] Baaah!
+> He looks great.
 >
 > <p>- Dwight</p>
 
