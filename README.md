@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Kelly Kapoor is our dusky, exotic customer service rep. And once a year, she will contact our clients and find out how happy they are with our salespeople. Sort of a Kapoor’s List. “Schindler’s List” parody. … That’s not appropriate, no.
+> You are a smart guy. I know you’ll do the right thing.
 >
-> <p>- Michael</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
