@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Of course, now Michael knows where to reach me 16 to 18 hours a week.
+> Was John Belushi fine?  Was Bob Hope fine?  Hey– come here.  If anything ever happened to you, I would be very angry at myself for not doing all that I could do.
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
