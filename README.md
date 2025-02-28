@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Was John Belushi fine?  Was Bob Hope fine?  Hey– come here.  If anything ever happened to you, I would be very angry at myself for not doing all that I could do.
+> Come on. [making karate moves] Baaah!
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
