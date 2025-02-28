@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I didn’t know we had so many, uh, soccer fans in the office.
+> [walking out of the building] Oh, I forgot my keys.
 >
-> <p>- Charles</p>
+> <p>- Holly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
