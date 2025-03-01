@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay. Oh also, we have a meeting this afternoon with a potential investor.
+> Thank you, Jim is with me.
 >
 > <p>- Michael</p>
 
