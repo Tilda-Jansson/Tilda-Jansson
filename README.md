@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [music playing] It’s a pretty lame party.
+> Everyone in this room loves you, but mark my words, we are not going to support your alcoholism anymore.  The next time you light yourself on fire we are not going to help put you out.
 >
 > <p>- Michael</p>
 
