@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> She is a hazard to the other people of the office.
+> Some of what we order depends on whether we’re having sex after. [laughs] Oh, my. Wow, elephant in the room. Are we, do you think? Do you think we’re going to have sex tonight?
 >
-> <p>- Dwight</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
