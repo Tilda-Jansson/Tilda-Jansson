@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Who have I wronged? Who have I wronged? Oh, oh! What about that fat guy from Stamford that I insulted? We should find him!
+> Yeah, I will. What I told Michael last week-
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
