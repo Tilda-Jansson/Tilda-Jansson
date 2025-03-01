@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [still talking over PA] Toby Flenderson to the principal’s office. Your mother called, and it appears that you wet the bed again. So you have to get home to wash your sheets [Jim stands up, puts scissors in back pocket] because they are yellow and they’re wet with your urine.
+> [music playing] It’s a pretty lame party.
 >
 > <p>- Michael</p>
 
