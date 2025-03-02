@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I didn’t say anything
+> Merry Christmas.
 >
 > <p>- Dwight</p>
 
