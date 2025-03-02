@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fifteen years I have been here. And I have sacrificed a lot.
+> [leaving someone a message on his cell phone, looking very uncomfortable] Hey what’s up, I just thought I’d try you. I was thinking about that story where you ran into the girl you used to babysit.
 >
-> <p>- Michael</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
