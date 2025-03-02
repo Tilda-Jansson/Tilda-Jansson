@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sasquatches are the strongest animal on the planet! So fine, call me a Sasquatch!
+> I didn’t say anything
 >
 > <p>- Dwight</p>
 
