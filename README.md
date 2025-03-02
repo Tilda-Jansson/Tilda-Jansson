@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh my God! Okay, it happening.  Everybody stay calm.
+> I am talking about, how you all need to sell an experience. Like I sold you on the idea that my father had died.
 >
 > <p>- Michael</p>
 
