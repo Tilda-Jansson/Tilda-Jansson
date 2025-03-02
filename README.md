@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [kissing Kelly against her desk] You did that for me?
+> Okay, Toby, I gotta go.
 >
-> <p>- Ryan</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
