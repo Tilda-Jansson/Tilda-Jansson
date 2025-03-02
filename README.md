@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Just faxing. My Dad. A rundown.
+> [Dwight walks back to his desk] 19 minutes and 48 seconds.  What were we doing for 19 minutes and 48 seconds?
 >
 > <p>- Jim</p>
 
