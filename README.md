@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [whispers] Andy brought one too.
+> Hi, Jan. Hello, baby. How are you? Good to see you. Who’s your daddy? You don’t know who your daddy is, do you? No, you don’t. [to Jan] Come on. Let’s go in.
 >
-> <p>- Oscar</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
