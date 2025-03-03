@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok. You know, our sales are fine. We’re doing fine. They’re doing fine.
+> Tonight’s so…
 >
 > <p>- Michael</p>
 
