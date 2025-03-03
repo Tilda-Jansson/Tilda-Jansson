@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, Dwight, if we pay extra, could you slaughter the entrees the day before?
+> Were the boxes near each other?
 >
-> <p>- Andy</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
