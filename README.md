@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> These aren’t announcements.
+> Look I just want you and I to hang out so, you know. Just, [They Hi-5 badly] Boom.
 >
-> <p>- Oscar</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
