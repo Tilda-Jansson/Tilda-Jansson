@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, it’s called time theft, and it’s the same as taking money from the company.  Can anyone think of examples of things that are over the line time wasters?
+> Okay.
 >
-> <p>- Holly</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
