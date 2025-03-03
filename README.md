@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi, Jan. Hello, baby. How are you? Good to see you. Who’s your daddy? You don’t know who your daddy is, do you? No, you don’t. [to Jan] Come on. Let’s go in.
+> Sweetheart. [Angela turns around] Just so you know, I don’t care where we get married. I’ll marry you right here in this building. I’ll marry you in the parking lot. I’ll marry you in the eye of a hurricane in the middle of a snowstorm on top of a monsoon. All I care about is that we’re gonna spend the rest of our lives together.
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
