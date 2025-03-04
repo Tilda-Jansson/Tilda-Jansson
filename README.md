@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ladies, are we prepared to let the Kevins of the world decide anything for us? Anything at all? We don’t even give him full internet access.
+> [to Jim] Shush. [to Kevin] Kevin, a playful touch on the arm, or on the back, it can show your interest and it’s really romantic.
 >
 > <p>- Pam</p>
 
