@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I used to go there with my fiance [Lynn is taken aback]. Before she left me [Lynn shows pity].   No, I mean, before I left her [Lynn looks confused].  She left me.   [Kevin walks away dejected]
+> J-Money. Or should it be T-Money, for Tuna? Receptionist Money. K-Money.
 >
-> <p>- Kevin</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
