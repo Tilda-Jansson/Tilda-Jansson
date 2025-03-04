@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [in the lunch room, with a sock puppet] He is so dumb that he tries to put his M&Ms in alphabetical order. [giggles]
+> Yeah.
 >
-> <p>- Kevin</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
