@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on Bluetooth] That was weird.
+> I used to go there with my fiance [Lynn is taken aback]. Before she left me [Lynn shows pity].   No, I mean, before I left her [Lynn looks confused].  She left me.   [Kevin walks away dejected]
 >
-> <p>- Pam</p>
+> <p>- Kevin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
