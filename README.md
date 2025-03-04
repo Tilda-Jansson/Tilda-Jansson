@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [to Jim] Shush. [to Kevin] Kevin, a playful touch on the arm, or on the back, it can show your interest and it’s really romantic.
+> Uh, Pam. What do you want on your coffee?
 >
-> <p>- Pam</p>
+> <p>- Alex</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
