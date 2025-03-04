@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> J-Money. Or should it be T-Money, for Tuna? Receptionist Money. K-Money.
+> Oh!
 >
-> <p>- Andy</p>
+> <p>- Kelly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
