@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He finally has a story everyone wants to hear… and he knows it.
+> [thinks for a moment] Give me two clients for her.
 >
-> <p>- Pam</p>
+> <p>- Stanley</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
