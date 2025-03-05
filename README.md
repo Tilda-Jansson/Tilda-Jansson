@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, why don't-
+> But now we think you’re a liar.
 >
-> <p>- Michael</p>
+> <p>- Karen</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
