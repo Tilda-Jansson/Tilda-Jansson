@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let’s three-way this little issue, and come to a solution by the time we get to Schrute Farms, how’s that for a plan?
+> [angrier] Well I don’t know about that, because she certainly seems to enjoy making lovemaking with me.
 >
-> <p>- Andy</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
