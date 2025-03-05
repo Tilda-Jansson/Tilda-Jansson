@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I mean the guy I used to be.  I’m Ryan 2.0 and if it makes you feel any better, that guy did a lot of messed up stuff to me too. [tries to walk away]
+> Anyway, um… I miss you.
 >
-> <p>- Ryan</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
