@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well thanks Michael.
+> I wasn’t given candy as a child, so a movie that fetish-ized it that much, would have made no sense to me. Plus, we weren’t allowed to see movies. So… do the math.
 >
-> <p>- Toby</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
