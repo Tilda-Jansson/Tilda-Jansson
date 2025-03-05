@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Look I’ll be in touch, thanks buddy.
+> Let’s three-way this little issue, and come to a solution by the time we get to Schrute Farms, how’s that for a plan?
 >
-> <p>- David</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
