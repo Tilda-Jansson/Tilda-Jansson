@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is how we’re gonna do it. Five pounds. I’m asking each of you to lose five pounds. That plus Jim’s 65 will give us a very good chance at winning this thing.
+> [makes squeaking sounds]
 >
 > <p>- Michael</p>
 
