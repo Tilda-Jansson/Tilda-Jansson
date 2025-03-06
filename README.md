@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> What? Oh my God you heard that I’m so embarrassed. I’m like so rusty.
+> Michael.
 >
-> <p>- Andy</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
