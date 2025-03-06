@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [noticing that everyone is giving him a sympathetic look] How does everyone know already?
+> He’s talking about Michael, Dwight, and Andy.
 >
-> <p>- Jim</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
