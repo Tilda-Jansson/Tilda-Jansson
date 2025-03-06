@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is getting weird.
+> Okay, it is time for the final votes. All of those in favor of resolution Hillary Swank is hot? [half of office raises hand] Okay. And all those opposed? [he skips back and joins other half of office in raising hand]
 >
-> <p>- Kevin</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
