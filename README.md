@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [mouth full of brownie] Just stop it.  You haven’t done anything helpful all day.
+> Had conversation with Michael about taking credit for an idea that wasn’t mine. Discussed movies.
 >
-> <p>- Michael</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
