@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He’s talking about Michael, Dwight, and Andy.
+> What? Oh my God you heard that I’m so embarrassed. I’m like so rusty.
 >
-> <p>- Phyllis</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
