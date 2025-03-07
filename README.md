@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yep, we will get to you. Okay, so you’re dating somebody? Um… is it serious?
+> Where are we going?
 >
-> <p>- Michael</p>
+> <p>- Vikram</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
