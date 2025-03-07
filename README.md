@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, I didn't know that position existed.
+> Wha – that’s, I hate her.  Wha – God!  Why would you even ask me to – I, I mean, not that it matters, ’cause I don’t, but wha – OK, all right, fine.
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
