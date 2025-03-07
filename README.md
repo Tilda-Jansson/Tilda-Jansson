@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Call your mom, Michael. [everyone talking]
+> Uh, no one really knows, but Pam’s parents are going through a little bit of a rough patch in their marriage.
 >
-> <p>- Kelly</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
