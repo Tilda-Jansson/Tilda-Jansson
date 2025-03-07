@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Uh, no one really knows, but Pam’s parents are going through a little bit of a rough patch in their marriage.
+> Nope. His name is Michael. [Michael makes the da dum ksch on the drumset again]
 >
-> <p>- Jim</p>
+> <p>- Darryl</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
