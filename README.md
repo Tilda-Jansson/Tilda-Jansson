@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not effeminate. It’s festive.
+> Hey you want to sing with me? Almost heaven…
 >
 > <p>- Dwight</p>
 
