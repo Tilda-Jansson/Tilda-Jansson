@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hoo-ooh!  Reaching!  You’ll get there.  Anyway, I was giving it some thought, and there’s no reason that two attractive, good looking, intelligent, funny, attractive people can’t, you know, just… sit down and work this whole Meredith thing out.
+> So I was in the office, and I look over to our Accounting division, and there is Kevin Malone. Kevin is wearing a jacket that I’ve never seen before. And I call over to Kevin, “Kevin, is that a tweed jacket?” And he looks at me and he says, “Michael, yes it is a tweed jacket.” And I look back at him and I say, “I feel the need!… The need for tweed.”
 >
 > <p>- Michael</p>
 
