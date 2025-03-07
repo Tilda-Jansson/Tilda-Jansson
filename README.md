@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nope. His name is Michael. [Michael makes the da dum ksch on the drumset again]
+> Hoo-ooh!  Reaching!  You’ll get there.  Anyway, I was giving it some thought, and there’s no reason that two attractive, good looking, intelligent, funny, attractive people can’t, you know, just… sit down and work this whole Meredith thing out.
 >
-> <p>- Darryl</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
