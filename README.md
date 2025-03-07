@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> So I was in the office, and I look over to our Accounting division, and there is Kevin Malone. Kevin is wearing a jacket that I’ve never seen before. And I call over to Kevin, “Kevin, is that a tweed jacket?” And he looks at me and he says, “Michael, yes it is a tweed jacket.” And I look back at him and I say, “I feel the need!… The need for tweed.”
+> Oh, and Kelly…
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
