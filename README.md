@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Story’s kinda bland.  It’s about this guy named Dumbledore Calrissian who needs to return the ring back to Mordor.
+> Well I don’t even want these. [Takes the rectangle pancakes out of his coat.]
 >
-> <p>- Jim</p>
+> <p>- Creed</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
