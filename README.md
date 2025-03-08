@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ok, let’s give it for Miss… Holly Flaaaax! [everyone claps]
+> Stanley, Michael’s not here. You can eat a slice of your birthday cake.
 >
-> <p>- Michael</p>
+> <p>- Phyllis</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
