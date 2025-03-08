@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [reading from computer] My colonoscopy was an examination of my large colon and the distal part of my small bowel with a camera.
+> Story’s kinda bland.  It’s about this guy named Dumbledore Calrissian who needs to return the ring back to Mordor.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
