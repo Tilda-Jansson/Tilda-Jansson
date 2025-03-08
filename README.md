@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Monkey. [kisses her]
+> I don’t know if it’ll be shorter to fly. [Holly gasps] You have to drive to Boston, right? That’s an hour and a half. Get there an hour before the flight. Now you’re up two and a half hours. The flight to Philadelphia is an hour fifteen. It’s another two and a half hour drive to Scranton, assuming there’s no traffic, because….
 >
-> <p>- Dwight</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
