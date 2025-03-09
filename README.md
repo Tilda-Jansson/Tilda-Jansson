@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Let me check. [Pulls out hunting scope] Oh nope! Clearly a hunter. Who knows how to throw an outfit together.
+> Also — and no pressure — the teacher? He’s a catch.
 >
-> <p>- Dwight</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
