@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Wow!
+> I’m sorry.  You’ll need to keep moving.
 >
-> <p>- Erin</p>
+> <p>- Stewardess</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
