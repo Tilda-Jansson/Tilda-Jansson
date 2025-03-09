@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Give me the details of how that happened.
+> Yeah, get the boring stuff out of the way.  Autumn was what I was going to say.  When the leaves change.  It’s just, I… I think it is the most contemplative of seasons.
 >
 > <p>- Michael</p>
 
