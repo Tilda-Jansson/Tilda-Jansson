@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I can’t feel… I can’t feel anything that you’re doing, Michael.
+> Oh, damn. [Pam looks down at her salad] They’ve been in there for like ten minutes.
 >
-> <p>- Jan</p>
+> <p>- Pam</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
