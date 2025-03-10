@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All right, I am connecting and … you are not there. Did you install it right? How about this:  Go to applications–
+> I’ll take care of that for you. [crumples receipt and throws it in trash] Thanks.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
