@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Gah! [tries to dislodge paper with his feet]
+> Because you’re engaged to Andy.
 >
 > <p>- Dwight</p>
 
