@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> After you talked, he called my mom and said he was gonna look for an apartment.
+> How could you possibly think this is a good idea?
 >
-> <p>- Pam</p>
+> <p>- David Wallace</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
