@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yup, a little.
+> He made non-refundable deposits on his honeymoons, so he’s just knocking them off one at a time.  I think today he’s hot air ballooning and later he’s got a couple’s massage.
 >
-> <p>- Blood Drive Worker</p>
+> <p>- Oscar</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
