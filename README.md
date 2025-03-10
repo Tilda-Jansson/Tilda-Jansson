@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, I’m gonna assume that was it. Here’s the thing:
+> No, no. I have a fiance I very much like!
 >
-> <p>- Jim</p>
+> <p>- Angela</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
