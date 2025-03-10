@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Mmmm-My mission is stated as follows:
+> Cake? Who suggested cake? [Angela points to Phyllis]
 >
 > <p>- Michael</p>
 
