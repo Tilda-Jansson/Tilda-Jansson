@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How could you possibly think this is a good idea?
+> OK, I’m gonna assume that was it. Here’s the thing:
 >
-> <p>- David Wallace</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
