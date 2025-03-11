@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I learned that she broke her left leg twice in one year. I learned that she’s allergic to sesame seeds. I learned that she has read “Lonesome Dove” three times.
+> “Applicant is attempting to blackmail interviewer, showing low moral character.”
 >
-> <p>- Michael</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
