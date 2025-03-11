@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t know I think we’ve done absolutely everything you can do to prepare for the day. I’ve updated our contacts, I have gotten quotes from suppliers. I have sent out an E-vite for our big grand opening pancake luncheon. Six yeses, one maybe, only eleven noes. Um, and 788 not yet replieds. But of that group, 782 have viewed it.
+> I get back from work around 6.
 >
-> <p>- Michael</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
