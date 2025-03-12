@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Come on. What's your wife's name? Where did you work before you came here?
+> Yes you are. [tries to pull Meredith from the car]
 >
 > <p>- Michael</p>
 
