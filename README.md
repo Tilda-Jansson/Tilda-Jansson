@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, Michael, new chairs. These chairs are terrible. We were supposed to get new ones last year.
+> But it works. I would like you all to give this a shot. What do you say?
 >
-> <p>- Pam</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
