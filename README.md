@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re taking a picture.
+> Alright, I’ve scoped out the joint.  Those two dudes are as good as naked.
 >
 > <p>- Andy</p>
 
