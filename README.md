@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dunder Mifflin this is Pam. Oh, hey Mom. No, what did Dad say?
+> Michael, you are the reason I drink. You are the reason I live to forget.
 >
-> <p>- Pam</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
