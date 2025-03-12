@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh.  She left.
+> Originally founded in 1866, Scranton quickly became one of Pennsylvania's largest anthracite coal-mining communities.
 >
-> <p>- Blood Drive Worker</p>
+> <p>- Dwight</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
