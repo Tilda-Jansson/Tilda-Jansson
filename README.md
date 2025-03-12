@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No.  You have to just push it out!
+> Oh.  She left.
 >
-> <p>- Michael</p>
+> <p>- Blood Drive Worker</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
