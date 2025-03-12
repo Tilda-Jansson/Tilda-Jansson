@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pamtown lady sing this song, doo-dah doo-dah.  Hello, Pam.  Jim may I have a moment with Pam please.
+> You started on that rundown yet?  [Looks at Jim’s screen.]
 >
-> <p>- Michael</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
