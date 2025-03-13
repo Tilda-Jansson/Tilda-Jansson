@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, OK, so you gotta hear this.  So, Jan’s shower is going on right now, and she’s singing “Son of a Preacher Man” and everyone’s just staring at her.
+> Yeah.
 >
 > <p>- Jim</p>
 
