@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s Mose. Who do you think it is?
+> Country roads, take me home, to the place…[Dwight is strumming the tune on his guitar] Sorry. I like that song. You’re good!
 >
-> <p>- Jim</p>
+> <p>- Erin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
