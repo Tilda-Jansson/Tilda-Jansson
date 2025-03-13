@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Originally founded in 1866, Scranton quickly became one of Pennsylvania's largest anthracite coal-mining communities.
+> Holly.  She’s on the warpath.  She is gunning for all our jobs.  Do you guys have any dirt on her?
 >
-> <p>- Dwight</p>
+> <p>- Meredith</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
