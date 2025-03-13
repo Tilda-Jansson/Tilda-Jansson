@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I would like to get back to work, actually, please.
+> I honestly don’t know how you can work with that jackass, that other jackass, and that new jackass.
 >
-> <p>- Jim</p>
+> <p>- Bob</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
