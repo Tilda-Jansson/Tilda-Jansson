@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And you are not going to, either.
+> Oh, okay. Good. Good. Well, here’s the thing. Some people want to use the surplus to buy a new copier. Other people are complaining about the chairs.
 >
-> <p>- Jim</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
