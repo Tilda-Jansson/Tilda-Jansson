@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pshaw, that’s nothing. I’ve 90 clients myself. You had better look out, someone might run you out of business.
+> Oh, uh, Pam? Hey everyone, lunch is on me today.
 >
-> <p>- Dwight</p>
+> <p>- Charles</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
