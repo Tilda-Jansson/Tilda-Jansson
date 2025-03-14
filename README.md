@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Okay, Michael?
+> I wish you had told us sooner, because I was going to go to the vending machine and get an egg salad.
 >
-> <p>- Charles</p>
+> <p>- Michael</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
