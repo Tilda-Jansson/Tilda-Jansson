@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> [on the phone] That cannot be true! [Dwight jumps] You’re going to charge me a fee to cut my own cake? Uh, no. No, no, no. What I’m saying is, I want to cut it myself…
+> Yeah, we’d never do that.
 >
-> <p>- Andy</p>
+> <p>- Jim</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
