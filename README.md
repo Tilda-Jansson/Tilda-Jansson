@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Leave it woman!
+> [on the phone] That cannot be true! [Dwight jumps] You’re going to charge me a fee to cut my own cake? Uh, no. No, no, no. What I’m saying is, I want to cut it myself…
 >
-> <p>- Stanley</p>
+> <p>- Andy</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
