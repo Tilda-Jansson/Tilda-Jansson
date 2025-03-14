@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Have any of you ever faced any ethical dilemmas in the work place?
+> [on phone] So I’d like to redouble my order, if  you could put me down for, um —
 >
-> <p>- Holly</p>
+> <p>- Customer</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
