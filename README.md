@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim couldn’t land me in a thousand years.
+> Get a friend, loser.
 >
 > <p>- Dwight Schrute</p>
 
