@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have cause. It’s beCAUSE I hate him.
+> You cheated on me? When I specifically asked you not to?
 >
 > <p>- Michael Scott</p>
 
