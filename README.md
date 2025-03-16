@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Saw Inception. Or at least I dreamt I did.
+> You miss 100 percent of the shots you don’t take. Wayne Gretzky.
 >
 > <p>- Michael Scott</p>
 
