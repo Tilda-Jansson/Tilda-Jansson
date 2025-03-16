@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
+> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
 >
 > <p>- Dwight Schrute</p>
 
