@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
+> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
 >
 > <p>- Pam Beesly</p>
 
