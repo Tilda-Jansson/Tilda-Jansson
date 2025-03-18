@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
+> Nothing stresses me out. Except having to seek the approval of my inferiors.
 >
 > <p>- Dwight Schrute</p>
 
