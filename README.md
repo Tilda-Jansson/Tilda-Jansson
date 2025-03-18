@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> Any man who says he totally understands women is a fool. Because they are un-understandable.
 >
 > <p>- Michael Scott</p>
 
