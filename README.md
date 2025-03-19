@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a good thing Russia doesn’t exist anymore.
+> I think green is kind of whorish.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
