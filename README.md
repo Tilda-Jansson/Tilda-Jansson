@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
+> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
