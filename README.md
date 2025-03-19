@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
+> This day is BANANAS! B-A-N-A-N-A-S!
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
