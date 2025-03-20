@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You are as creepy as a real serial killer. For real.
+> Well, well, well, how the turntables.
 >
 > <p>- Michael Scott</p>
 
