@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wonder if king-sized sheets are called presidential-sized in England?
+> You only live once? False. You live every day. You only die once.
 >
 > <p>- Dwight Schrute</p>
 
