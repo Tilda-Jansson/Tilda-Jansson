@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
 >
 > <p>- Michael Scott</p>
 
