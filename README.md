@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
