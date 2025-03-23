@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
 >
 > <p>- Dwight Schrute</p>
 
