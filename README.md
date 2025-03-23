@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
 > <p>- Dwight Schrute</p>
 
