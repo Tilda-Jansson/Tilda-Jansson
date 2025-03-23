@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+> All that singing got in the way of some perfectly good murders.
 >
 > <p>- Dwight Schrute</p>
 
