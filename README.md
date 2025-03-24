@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
+> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
 >
 > <p>- Dwight Schrute</p>
 
