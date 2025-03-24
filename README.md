@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
 >
 > <p>- Michael Scott</p>
 
