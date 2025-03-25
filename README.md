@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> Make friends first, make sales second, make love third. In no particular order.
 >
 > <p>- Michael Scott</p>
 
