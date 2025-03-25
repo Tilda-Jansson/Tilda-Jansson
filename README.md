@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s what she said!
+> The only time I set the bar low is for limbo.
 >
 > <p>- Michael Scott</p>
 
