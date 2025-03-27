@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
 >
 > <p>- Dwight Schrute</p>
 
