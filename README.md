@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am running away from my responsibilities. And it feels good.
+> I’m not gonna cry over it. I did that in the car on the way home.
 >
 > <p>- Michael Scott</p>
 
