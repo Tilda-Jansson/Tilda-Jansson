@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
 >
 > <p>- Dwight Schrute</p>
 
