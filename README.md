@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+> I really should have a Tweeter account.
 >
 > <p>- Dwight Schrute</p>
 
