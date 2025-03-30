@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It just seems awfully mean. But sometimes, the ends justify the mean.
+> It’s a good thing Russia doesn’t exist anymore.
 >
 > <p>- Michael Scott</p>
 
