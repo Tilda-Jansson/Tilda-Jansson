@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
 >
 > <p>- Michael Scott</p>
 
