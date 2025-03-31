@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
+> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
 >
 > <p>- Michael Scott</p>
 
