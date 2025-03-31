@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, happy birthday, Jesus. Sorry that your party’s so lame.
+> It just seems awfully mean. But sometimes, the ends justify the mean.
 >
 > <p>- Michael Scott</p>
 
