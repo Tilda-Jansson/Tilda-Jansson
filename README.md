@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
+> Well, happy birthday, Jesus. Sorry that your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
