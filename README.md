@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s Britney, bitch.
+> That’s what she said!
 >
 > <p>- Michael Scott</p>
 
