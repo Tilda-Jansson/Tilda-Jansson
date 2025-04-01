@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
 > <p>- Dwight Schrute</p>
 
