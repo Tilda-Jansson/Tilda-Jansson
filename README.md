@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s what she said!
+> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
 >
 > <p>- Michael Scott</p>
 
