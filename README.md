@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
