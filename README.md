@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You don’t know me, you’ve just seen my penis.
+> It’s not like booze ever killed anyone.
 >
 > <p>- Michael Scott</p>
 
