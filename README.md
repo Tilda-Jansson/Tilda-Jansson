@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The eyes are the groin of the head.
+> Who is Justice Beaver?
 >
 > <p>- Dwight Schrute</p>
 
