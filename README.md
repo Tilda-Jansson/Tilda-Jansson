@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
