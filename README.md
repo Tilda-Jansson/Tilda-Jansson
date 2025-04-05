@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am ready to face any challenge that might be foolish enough to face me.
+> Congratulations on your one cousin. I have seventy, each one better than the last!
 >
 > <p>- Dwight Schrute</p>
 
