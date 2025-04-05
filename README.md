@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
+> I am ready to face any challenge that might be foolish enough to face me.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
