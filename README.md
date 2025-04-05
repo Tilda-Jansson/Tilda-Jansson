@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
 >
 > <p>- Dwight Schrute</p>
 
