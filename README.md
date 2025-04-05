@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Congratulations on your one cousin. I have seventy, each one better than the last!
+> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
 >
 > <p>- Dwight Schrute</p>
 
