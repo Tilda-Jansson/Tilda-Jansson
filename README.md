@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
 >
 > <p>- Michael Scott</p>
 
