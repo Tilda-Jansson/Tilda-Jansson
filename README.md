@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love inside jokes. I hope to be a part of one someday.
+> You are as creepy as a real serial killer. For real.
 >
 > <p>- Michael Scott</p>
 
