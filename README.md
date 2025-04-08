@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They say on your deathbed you never wish you spent more time at the office — but I will.
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
 > <p>- Michael Scott</p>
 
