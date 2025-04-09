@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
 >
 > <p>- Michael Scott</p>
 
