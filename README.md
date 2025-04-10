@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
