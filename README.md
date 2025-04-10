@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve got to make sure that YouTube comes down to tape this.
+> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
 >
 > <p>- Michael Scott</p>
 
