@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
 >
 > <p>- Michael Scott</p>
 
