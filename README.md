@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I’m optimistic because every day I get a little more desperate.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 
