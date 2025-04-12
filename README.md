@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+> They say on your deathbed you never wish you spent more time at the office — but I will.
 >
 > <p>- Michael Scott</p>
 
