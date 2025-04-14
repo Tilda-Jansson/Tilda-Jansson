@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
+> It’s never too early for ice cream.
 >
 > <p>- Michael Scott</p>
 
