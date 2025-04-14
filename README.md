@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bread is the paper of the food industry. You write your sandwich on it.
+> Well, well, well, how the turntables.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
