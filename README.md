@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> When I President, they see. They see.
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
