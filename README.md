@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
+> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
 >
 > <p>- Dwight Schrute</p>
 
