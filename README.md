@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
+> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
 >
 > <p>- Dwight Schrute</p>
 
