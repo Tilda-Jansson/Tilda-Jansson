@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
+> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
 >
 > <p>- Dwight Schrute</p>
 
