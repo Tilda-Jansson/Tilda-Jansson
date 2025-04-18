@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Identity theft is not a joke, Jim! Millions of families suffer every year.
+> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
 >
 > <p>- Dwight Schrute</p>
 
