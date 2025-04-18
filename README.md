@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
