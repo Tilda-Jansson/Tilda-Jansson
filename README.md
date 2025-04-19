@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am running away from my responsibilities. And it feels good.
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
 > <p>- Michael Scott</p>
 
