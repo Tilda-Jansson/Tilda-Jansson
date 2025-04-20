@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
 > <p>- Michael Scott</p>
 
