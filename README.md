@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
 >
 > <p>- Pam Beesly</p>
 
