@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
 >
 > <p>- Michael Scott</p>
 
