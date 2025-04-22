@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> It’s never too early for ice cream.
 >
 > <p>- Michael Scott</p>
 
