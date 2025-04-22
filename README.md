@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not like booze ever killed anyone.
+> I saved a life — my own.
 >
 > <p>- Michael Scott</p>
 
