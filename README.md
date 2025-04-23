@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
 >
 > <p>- Dwight Schrute</p>
 
