@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
+> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
 >
 > <p>- Dwight Schrute</p>
 
