@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
+> I am running away from my responsibilities. And it feels good.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
