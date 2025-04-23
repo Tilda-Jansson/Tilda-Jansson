@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The worst thing about prison was the dementors.
+> Pizza: the great equalizer.
 >
 > <p>- Michael Scott</p>
 
