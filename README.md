@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
