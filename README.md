@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+> The people that you work with are, when you get down to it, your very best friends.
 >
 > <p>- Michael Scott</p>
 
