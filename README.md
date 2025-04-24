@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did I stutter?
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
