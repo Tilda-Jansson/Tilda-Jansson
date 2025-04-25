@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did I stutter?
+> Michael will be related to this baby through... delusion.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
