@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Identity theft is not a joke, Jim! Millions of families suffer every year.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
