@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
 >
 > <p>- Michael Scott</p>
 
