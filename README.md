@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+> All you need is love? False. The four basic human necessities are air, water, food, and shelter.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
