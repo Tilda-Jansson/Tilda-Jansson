@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All you need is love? False. The four basic human necessities are air, water, food, and shelter.
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
 > <p>- Dwight Schrute</p>
 
