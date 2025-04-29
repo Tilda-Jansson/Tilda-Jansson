@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
+> I love catching people in the act. That’s why I always whip open doors.
 >
 > <p>- Dwight Schrute</p>
 
