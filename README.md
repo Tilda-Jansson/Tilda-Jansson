@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I find the mystery genre disgusting. I hate being titillated.
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
-> <p>- Angela Martin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
