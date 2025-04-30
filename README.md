@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
 >
 > <p>- Dwight Schrute</p>
 
