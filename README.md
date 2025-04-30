@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
+> A real man swallows his vomit when a lady is present.
 >
 > <p>- Dwight Schrute</p>
 
