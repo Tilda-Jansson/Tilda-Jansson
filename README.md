@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Will I get over it? Mmm. No. But life goes on.
+> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
 >
 > <p>- Dwight Schrute</p>
 
