@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
+> I really like Andy these days. He’s pretend, and he does exactly as I tell him to. All that will change when real Andy comes back tomorrow. Unless he comes back as pretend Dwight. In which case, we’re in for an epic, confusing showdown.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
