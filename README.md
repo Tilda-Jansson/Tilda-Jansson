@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
