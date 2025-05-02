@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> They say on your deathbed you never wish you spent more time at the office — but I will.
 >
 > <p>- Michael Scott</p>
 
