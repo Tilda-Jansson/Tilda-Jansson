@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You don’t know me, you’ve just seen my penis.
+> I saved a life — my own.
 >
 > <p>- Michael Scott</p>
 
