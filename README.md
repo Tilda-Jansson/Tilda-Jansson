@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> I say dance, they say ‘How high?'
 >
 > <p>- Michael Scott</p>
 
