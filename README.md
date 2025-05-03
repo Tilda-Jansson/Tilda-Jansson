@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I saved a life — my own.
+> I am Beyonce, always.
 >
 > <p>- Michael Scott</p>
 
