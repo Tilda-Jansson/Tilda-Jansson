@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> PowerPoints are the peacocks of the business world; all show, no meat.
+> Who is Justice Beaver?
 >
 > <p>- Dwight Schrute</p>
 
