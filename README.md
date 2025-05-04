@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
 > <p>- Dwight Schrute</p>
 
