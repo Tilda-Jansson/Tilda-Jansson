@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
+> I signed up for second life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same… except I could fly.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
