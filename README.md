@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
 >
 > <p>- Michael Scott</p>
 
