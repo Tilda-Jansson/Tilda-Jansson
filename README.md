@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
+> How is it possible that in five years, I’ve had two engagements and only one chair?
 >
-> <p>- Creed Bratton</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
