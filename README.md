@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
 >
 > <p>- Dwight Schrute</p>
 
