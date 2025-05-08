@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Will I get over it? Mmm. No. But life goes on.
+> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
 >
 > <p>- Dwight Schrute</p>
 
