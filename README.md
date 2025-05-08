@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael will be related to this baby through... delusion.
+> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
