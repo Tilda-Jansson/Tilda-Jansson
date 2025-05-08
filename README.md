@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
+> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
 >
 > <p>- Michael Scott</p>
 
