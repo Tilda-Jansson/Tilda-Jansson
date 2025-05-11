@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want you to rub butter on my foot… Pam, please? I have Country Crock.
+> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
 >
 > <p>- Michael Scott</p>
 
