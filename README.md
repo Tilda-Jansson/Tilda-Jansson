@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
 >
 > <p>- Michael Scott</p>
 
