@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
+> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
 >
 > <p>- Dwight Schrute</p>
 
