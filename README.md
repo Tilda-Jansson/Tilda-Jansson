@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That’s what she said!
+> There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
 >
 > <p>- Michael Scott</p>
 
