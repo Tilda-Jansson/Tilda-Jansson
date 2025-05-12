@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You think you’re excited? You should feel my nipples. Boing!
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
 > <p>- Dwight Schrute</p>
 
