@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Any man who says he totally understands women is a fool. Because they are un-understandable.
+> You are as creepy as a real serial killer. For real.
 >
 > <p>- Michael Scott</p>
 
