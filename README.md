@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
 > <p>- Michael Scott</p>
 
