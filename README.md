@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When someone smiles at me, all I see is a chimpanzee begging for its life.
+> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
 >
 > <p>- Dwight Schrute</p>
 
