@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, you ignorant slut.
+> My mind is going a mile an hour.
 >
 > <p>- Michael Scott</p>
 
