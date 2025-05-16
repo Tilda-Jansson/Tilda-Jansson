@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
