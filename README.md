@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When I die, I want to be frozen. And if they have to freeze me in pieces, so be it. I will wake up stronger than ever, because I will have used that time to figure out exactly why I died. And what moves I could have used to defend myself better now that I know what hold he had me in.
+> You only live once? False. You live every day. You only die once.
 >
 > <p>- Dwight Schrute</p>
 
