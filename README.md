@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+> There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
 >
 > <p>- Michael Scott</p>
 
