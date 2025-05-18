@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nothing stresses me out. Except having to seek the approval of my inferiors.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
 > <p>- Dwight Schrute</p>
 
