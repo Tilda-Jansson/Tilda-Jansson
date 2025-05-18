@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK. When the baby emerges, mark it secretly in a kind of a mark that only you could recognize and no baby snatcher could ever copy.
+> I am better than you have ever been or ever will be.
 >
 > <p>- Dwight Schrute</p>
 
