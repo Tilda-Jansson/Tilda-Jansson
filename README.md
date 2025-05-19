@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
+> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
 >
 > <p>- Dwight Schrute</p>
 
