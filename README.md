@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am faster than 80 percent of all snakes.
+> Love is all you need? False, you need water and rations.
 >
 > <p>- Dwight Schrute</p>
 
