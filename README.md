@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Five minutes ahead of schedule… right on schedule.
+> I am faster than 80 percent of all snakes.
 >
 > <p>- Dwight Schrute</p>
 
