@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
 >
 > <p>- Michael Scott</p>
 
