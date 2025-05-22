@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
+> I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
 >
 > <p>- Michael Scott</p>
 
