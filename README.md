@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nothing stresses me out. Except having to seek the approval of my inferiors.
+> I hate the idea that someone out there hates me. I even hate thinking that Al Qaeda hates me. I think if they got to know me, they wouldn’t hate me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
