@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m an early bird and a night owl. So I’m wise and have worms.
+> I love my employees even though I hit one of you with my car.
 >
 > <p>- Michael Scott</p>
 
