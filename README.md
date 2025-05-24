@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You all took a life here today. You did. The life of the party.
+> I always knew I would be destroyed by my own creation, but honestly, I thought it would be that bull that Mose and I are trying to reanimate.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
