@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
+> I’m not usually the butt of the joke. I’m usually the face of the joke.
 >
 > <p>- Michael Scott</p>
 
