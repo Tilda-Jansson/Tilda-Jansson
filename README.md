@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pizza: the great equalizer.
+> It’s not like booze ever killed anyone.
 >
 > <p>- Michael Scott</p>
 
