@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
 >
 > <p>- Michael Scott</p>
 
