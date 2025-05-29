@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All you need is love? False. The four basic human necessities are air, water, food, and shelter.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
 > <p>- Dwight Schrute</p>
 
