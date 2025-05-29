@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When someone smiles at me, all I see is a chimpanzee begging for its life.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
