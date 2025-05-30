@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hold me! Cradle my hand!
+> A real man swallows his vomit when a lady is present.
 >
 > <p>- Dwight Schrute</p>
 
