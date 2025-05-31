@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bread is the paper of the food industry. You write your sandwich on it.
+> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
 >
 > <p>- Dwight Schrute</p>
 
