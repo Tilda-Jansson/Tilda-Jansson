@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wonder if king-sized sheets are called presidential-sized in England?
+> PowerPoints are the peacocks of the business world; all show, no meat.
 >
 > <p>- Dwight Schrute</p>
 
