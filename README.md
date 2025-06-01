@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> PowerPoints are the peacocks of the business world; all show, no meat.
+> The eyes are the groin of the head.
 >
 > <p>- Dwight Schrute</p>
 
