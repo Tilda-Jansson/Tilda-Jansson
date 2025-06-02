@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+> You don’t know me, you’ve just seen my penis.
 >
 > <p>- Michael Scott</p>
 
