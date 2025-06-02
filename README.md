@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the wild, there is no healthcare. Healthcare is oh, I broke my leg! A lion comes and eats you, you’re dead. Well, I’m not dead, I’m the lion. You’re dead!
+> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
 >
 > <p>- Dwight Schrute</p>
 
