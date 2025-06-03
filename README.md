@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked, but it’s not like this compulsive need to be liked, like my need to be praised.
+> Two weeks ago, I was in the worst relationship of my life. She treated me poorly, we didn’t connect, I was miserable. Now, I am in the best relationship of my life, with the same woman. Love is a mystery.
 >
 > <p>- Michael Scott</p>
 
