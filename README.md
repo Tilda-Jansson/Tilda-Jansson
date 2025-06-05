@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
+> When I was five, I imagined that there was such a thing as a unicorn. And this was before I had even heard of one, or seen one. I just drew a picture, of a horse, that could fly over rainbows, and had a huge spike in its head. I was five! Five years old. Couldn’t even talk yet.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
