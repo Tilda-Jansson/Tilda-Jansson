@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I’m optimistic because every day I get a little more desperate.
+> It’s never too early for ice cream.
 >
 > <p>- Michael Scott</p>
 
