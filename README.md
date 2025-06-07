@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not enough for me? You are everything.
+> I am one of the few people who looks hot eating a cupcake.
 >
-> <p>- Jim Halpert</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
