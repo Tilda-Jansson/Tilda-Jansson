@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You only live once? False. You live every day. You only die once.
+> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
 >
 > <p>- Dwight Schrute</p>
 
