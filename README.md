@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+> Not enough for me? You are everything.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
