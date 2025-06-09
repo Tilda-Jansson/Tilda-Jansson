@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dwight, you ignorant slut.
+> I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
 >
 > <p>- Michael Scott</p>
 
