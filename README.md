@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
