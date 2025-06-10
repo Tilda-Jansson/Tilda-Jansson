@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You are as creepy as a real serial killer. For real.
+> I have cause. It’s beCAUSE I hate him.
 >
 > <p>- Michael Scott</p>
 
