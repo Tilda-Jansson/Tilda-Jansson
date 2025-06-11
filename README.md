@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
 > <p>- Dwight Schrute</p>
 
