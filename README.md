@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
 > <p>- Dwight Schrute</p>
 
