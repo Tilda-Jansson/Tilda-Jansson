@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why tip someone for a job I’m capable of doing myself? I can deliver food. I can drive a taxi. I can, and do, cut my own hair. I did, however, tip my urologist, because I am unable to pulverize my own kidney stones.
+> Through concentration, I can raise and lower my cholesterol at will.
 >
 > <p>- Dwight Schrute</p>
 
