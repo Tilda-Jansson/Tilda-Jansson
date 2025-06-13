@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I always wondered how they picked the person to die. I’d be good at picking the person.
+> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
 >
 > <p>- Dwight Schrute</p>
 
