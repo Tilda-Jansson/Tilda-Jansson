@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You think you’re excited? You should feel my nipples. Boing!
+> The eyes are the groin of the head.
 >
 > <p>- Dwight Schrute</p>
 
