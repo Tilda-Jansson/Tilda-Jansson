@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
+> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
 >
 > <p>- Dwight Schrute</p>
 
