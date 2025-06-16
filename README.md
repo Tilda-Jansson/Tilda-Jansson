@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
 > <p>- Michael Scott</p>
 
