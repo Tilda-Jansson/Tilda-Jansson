@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All that singing got in the way of some perfectly good murders.
+> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
 >
 > <p>- Dwight Schrute</p>
 
