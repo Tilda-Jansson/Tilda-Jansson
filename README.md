@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Occasionally, I’ll hit someone with my car. So sue me.
+> I’m not superstitious but I am a little stitious.
 >
 > <p>- Michael Scott</p>
 
