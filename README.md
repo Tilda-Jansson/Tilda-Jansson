@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> Bread is the paper of the food industry. You write your sandwich on it.
 >
 > <p>- Dwight Schrute</p>
 
