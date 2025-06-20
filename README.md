@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The people that you work with are, when you get down to it, your very best friends.
+> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
