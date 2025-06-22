@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s Britney, bitch.
+> It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
 >
 > <p>- Michael Scott</p>
 
