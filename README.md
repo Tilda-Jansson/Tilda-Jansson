@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
+> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
 >
 > <p>- Michael Scott</p>
 
