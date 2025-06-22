@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael is like Mozart, and I’m like Butch Cassidy. You mess with Mozart and you’re gonna get a bullet in your head, courtesy of Butch Cassidy.
+> Jim told me you could buy gaydar online.
 >
 > <p>- Dwight Schrute</p>
 
