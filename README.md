@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I find the mystery genre disgusting. I hate being titillated.
+> I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station.
 >
-> <p>- Angela Martin</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
