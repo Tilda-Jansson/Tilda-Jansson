@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
 >
 > <p>- Michael Scott</p>
 
