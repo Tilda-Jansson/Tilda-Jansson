@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pizza: the great equalizer.
+> Well, happy birthday, Jesus. Sorry that your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
