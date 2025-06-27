@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans!
+> I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
 >
 > <p>- Michael Scott</p>
 
