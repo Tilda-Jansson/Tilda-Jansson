@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
