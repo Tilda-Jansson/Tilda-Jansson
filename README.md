@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Occasionally, I’ll hit someone with my car. So sue me.
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
 > <p>- Michael Scott</p>
 
