@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know a human can go on living for several hours after being decapitated.
+> Let’s put a smile on that face.
 >
 > <p>- Creed Bratton</p>
 
