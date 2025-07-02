@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+> Did I stutter?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
