@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Any man who says he totally understands women is a fool. Because they are un-understandable.
+> I’m an early bird and a night owl. So I’m wise and have worms.
 >
 > <p>- Michael Scott</p>
 
