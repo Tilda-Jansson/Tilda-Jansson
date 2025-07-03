@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> You better learn your rules. If you don’t, you’ll be eaten in your sleep.
 >
 > <p>- Dwight Schrute</p>
 
