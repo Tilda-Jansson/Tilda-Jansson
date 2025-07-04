@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> As it turns out, you can’t just check someone into rehab against their will. They have to do it voluntarily. They have to hit rock bottom. So, I think I know what I need to do at this point. I need to find ways to push Meredith to the bottom. Um. I think I can do it.
 >
 > <p>- Michael Scott</p>
 
