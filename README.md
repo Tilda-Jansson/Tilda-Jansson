@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Make friends first, make sales second, make love third. In no particular order.
+> You cheated on me? When I specifically asked you not to?
 >
 > <p>- Michael Scott</p>
 
