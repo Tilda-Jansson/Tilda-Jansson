@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> I am one of the few people who looks hot eating a cupcake.
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
