@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not gonna cry over it. I did that in the car on the way home.
+> I hate so much about the things you choose to be.
 >
 > <p>- Michael Scott</p>
 
