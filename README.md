@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Through concentration, I can raise and lower my cholesterol at will.
+> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
 >
 > <p>- Dwight Schrute</p>
 
