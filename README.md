@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You couldn’t handle my undivided attention.
+> OK, see you later, Pan.
 >
 > <p>- Dwight Schrute</p>
 
