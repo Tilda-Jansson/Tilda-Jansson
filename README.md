@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
 >
 > <p>- Michael Scott</p>
 
