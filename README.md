@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
+> The people that you work with are, when you get down to it, your very best friends.
 >
 > <p>- Michael Scott</p>
 
