@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
 > <p>- Dwight Schrute</p>
 
