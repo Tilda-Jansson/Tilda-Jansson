@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I hate so much about the things you choose to be.
+> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
 >
 > <p>- Michael Scott</p>
 
