@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Get a friend, loser.
+> You think you’re excited? You should feel my nipples. Boing!
 >
 > <p>- Dwight Schrute</p>
 
