@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not like booze ever killed anyone.
+> Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
