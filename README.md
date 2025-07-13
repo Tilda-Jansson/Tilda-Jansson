@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
 >
 > <p>- Dwight Schrute</p>
 
