@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
+> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
 >
 > <p>- Dwight Schrute</p>
 
