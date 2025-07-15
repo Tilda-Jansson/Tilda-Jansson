@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I would not miss it for the world. But if something else came up, I would definitely not go.
+> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
 >
 > <p>- Michael Scott</p>
 
