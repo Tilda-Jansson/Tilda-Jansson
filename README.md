@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You are as creepy as a real serial killer. For real.
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
 > <p>- Michael Scott</p>
 
