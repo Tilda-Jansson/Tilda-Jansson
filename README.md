@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+> You better learn your rules. If you don’t, you’ll be eaten in your sleep.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
