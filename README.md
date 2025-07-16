@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> And I’m optimistic because every day I get a little more desperate.
 >
 > <p>- Michael Scott</p>
 
