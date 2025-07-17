@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When I discovered YouTube, I didn’t work for five days.
+> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
 >
 > <p>- Michael Scott</p>
 
