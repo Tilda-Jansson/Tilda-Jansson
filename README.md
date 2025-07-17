@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I'm going to do something I've never done at this job before - try.
+> I always knew I would be destroyed by my own creation, but honestly, I thought it would be that bull that Mose and I are trying to reanimate.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
