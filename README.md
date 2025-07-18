@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
+> I bought those boat tickets the day I saw that You Tube video. I knew we'd need a back-up plan. The boat was actually Plan C. The church was Plan B and Plan A was marrying her a long, long time ago. Pretty much the day I met her.
 >
-> <p>- Creed Bratton</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
