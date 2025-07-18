@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want you to rub butter on my foot… Pam, please? I have Country Crock.
+> You don’t know me, you’ve just seen my penis.
 >
 > <p>- Michael Scott</p>
 
