@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
+> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
 >
 > <p>- Dwight Schrute</p>
 
