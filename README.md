@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am Beyonce, always.
+> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
 >
 > <p>- Michael Scott</p>
 
