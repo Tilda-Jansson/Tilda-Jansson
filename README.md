@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The Civil War history industry has conveniently forgotten about the battle of Schrute Farms. Whatever. I’m over it. It’s just grossly irresponsible.
+> My mind is going a mile an hour.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
