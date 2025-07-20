@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> I find the mystery genre disgusting. I hate being titillated.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
