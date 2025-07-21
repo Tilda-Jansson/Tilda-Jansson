@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wonder if king-sized sheets are called presidential-sized in England.
+> Through concentration, I can raise and lower my cholesterol at will.
 >
 > <p>- Dwight Schrute</p>
 
