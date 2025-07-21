@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am better than you have ever been or ever will be.
+> I wonder if king-sized sheets are called presidential-sized in England.
 >
 > <p>- Dwight Schrute</p>
 
