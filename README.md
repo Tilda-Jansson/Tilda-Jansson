@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
+> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
