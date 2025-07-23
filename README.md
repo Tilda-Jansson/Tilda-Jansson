@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
 >
 > <p>- Michael Scott</p>
 
