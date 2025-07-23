@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
+> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
