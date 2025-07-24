@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
