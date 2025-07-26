@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve got to make sure that YouTube comes down to tape this.
+> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
 >
 > <p>- Michael Scott</p>
 
