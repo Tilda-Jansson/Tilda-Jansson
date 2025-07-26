@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
+> You think you’re excited? You should feel my nipples. Boing!
 >
 > <p>- Dwight Schrute</p>
 
