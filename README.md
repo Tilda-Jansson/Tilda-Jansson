@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
 > <p>- Michael Scott</p>
 
