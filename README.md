@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
+> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
 >
 > <p>- Michael Scott</p>
 
