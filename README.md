@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You miss 100 percent of the shots you don’t take. Wayne Gretzky.
+> That has sort of an oaky afterbirth.
 >
 > <p>- Michael Scott</p>
 
