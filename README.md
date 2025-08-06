@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> Nothing stresses me out. Except having to seek the approval of my inferiors.
 >
 > <p>- Dwight Schrute</p>
 
