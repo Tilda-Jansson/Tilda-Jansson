@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+> You all took a life here today. You did. The life of the party.
 >
 > <p>- Michael Scott</p>
 
