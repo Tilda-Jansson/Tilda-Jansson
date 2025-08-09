@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bread is the paper of the food industry. You write your sandwich on it.
+> You couldn’t handle my undivided attention.
 >
 > <p>- Dwight Schrute</p>
 
