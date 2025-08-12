@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+> Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
 >
 > <p>- Dwight Schrute</p>
 
