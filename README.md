@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
 >
 > <p>- Michael Scott</p>
 
