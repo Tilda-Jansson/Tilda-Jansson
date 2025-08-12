@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You think you’re excited? You should feel my nipples. Boing!
+> I love catching people in the act. That’s why I always whip open doors.
 >
 > <p>- Dwight Schrute</p>
 
