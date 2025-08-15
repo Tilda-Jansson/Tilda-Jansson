@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wonder if king-sized sheets are called presidential-sized in England?
+> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
 >
 > <p>- Dwight Schrute</p>
 
