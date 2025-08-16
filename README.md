@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
+> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
