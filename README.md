@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Any man who says he totally understands women is a fool. Because they are un-understandable.
+> Boy, have you lost your mind, 'cause I will help you find it!
 >
-> <p>- Michael Scott</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
