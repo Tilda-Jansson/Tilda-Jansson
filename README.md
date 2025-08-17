@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I always wondered how they picked the person to die. I’d be good at picking the person.
+> OK, see you later, Pan.
 >
 > <p>- Dwight Schrute</p>
 
