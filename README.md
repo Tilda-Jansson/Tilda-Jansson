@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
 >
 > <p>- Dwight Schrute</p>
 
