@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Always the Padawan, never the Jedi.
+> I never thought I’d say this, but I think I ate too much bone marrow.
 >
 > <p>- Dwight Schrute</p>
 
