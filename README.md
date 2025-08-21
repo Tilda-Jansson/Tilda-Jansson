@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
+> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
 >
 > <p>- Dwight Schrute</p>
 
