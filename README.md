@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> PowerPoints are the peacocks of the business world; all show, no meat.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
