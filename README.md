@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> How is it possible that in five years, I’ve had two engagements and only one chair?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
