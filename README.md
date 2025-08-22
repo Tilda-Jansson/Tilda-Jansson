@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
+> Congratulations on your one cousin. I have seventy, each one better than the last!
 >
 > <p>- Dwight Schrute</p>
 
