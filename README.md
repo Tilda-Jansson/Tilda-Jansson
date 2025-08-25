@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, happy birthday, Jesus. Sorry that your party’s so lame.
+> Jim and I are great friends. We hang out a ton, mostly at work.
 >
 > <p>- Michael Scott</p>
 
