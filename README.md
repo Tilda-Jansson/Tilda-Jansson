@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fortunately, my feelings regenerate at twice the speed of a normal man’s.
+> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
