@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+> Identity theft is not a joke, Jim! Millions of families suffer every year.
 >
 > <p>- Dwight Schrute</p>
 
