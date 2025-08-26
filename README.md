@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All you need is love? False. The four basic human necessities are air, water, food, and shelter.
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
 > <p>- Dwight Schrute</p>
 
