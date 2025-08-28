@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Creed Bratton</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
