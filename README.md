@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love inside jokes. I hope to be a part of one someday.
+> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
 >
 > <p>- Michael Scott</p>
 
