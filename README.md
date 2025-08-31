@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I’m optimistic because every day I get a little more desperate.
+> This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
 >
 > <p>- Michael Scott</p>
 
