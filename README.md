@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
+> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
 >
 > <p>- Dwight Schrute</p>
 
