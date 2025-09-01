@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> When I President, they see. They see.
 >
-> <p>- Pam Beesly</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
