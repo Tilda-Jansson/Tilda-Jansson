@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
+> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
 >
 > <p>- Michael Scott</p>
 
