@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
+> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
 >
 > <p>- Dwight Schrute</p>
 
