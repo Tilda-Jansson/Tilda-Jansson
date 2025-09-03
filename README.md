@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I say dance, they say ‘How high?'
+> It’s never too early for ice cream.
 >
 > <p>- Michael Scott</p>
 
