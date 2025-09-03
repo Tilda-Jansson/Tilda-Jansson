@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The people that you work with are, when you get down to it, your very best friends.
+> You cheated on me? When I specifically asked you not to?
 >
 > <p>- Michael Scott</p>
 
