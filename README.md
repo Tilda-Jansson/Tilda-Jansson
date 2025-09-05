@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am better than you have ever been or ever will be.
+> Will I get over it? Mmm. No. But life goes on.
 >
 > <p>- Dwight Schrute</p>
 
