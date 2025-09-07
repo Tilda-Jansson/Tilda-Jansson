@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I signed up for second life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same… except I could fly.
+> Jim is my enemy. But it turns out that Jim is also his own worst enemy. And the enemy of my enemy is my friend. So, Jim is actually my friend. But because he is his own worst enemy, the enemy of my friend is my enemy so, actually, Jim is my enemy.
 >
 > <p>- Dwight Schrute</p>
 
