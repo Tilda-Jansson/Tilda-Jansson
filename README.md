@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
+> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
