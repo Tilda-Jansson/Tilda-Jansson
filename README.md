@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
+> I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
