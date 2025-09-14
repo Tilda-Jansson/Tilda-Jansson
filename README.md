@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
+> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
 >
 > <p>- Michael Scott</p>
 
