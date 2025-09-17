@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I always wondered how they picked the person to die. I’d be good at picking the person.
+> Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
 >
 > <p>- Dwight Schrute</p>
 
