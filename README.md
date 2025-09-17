@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I'm always thinking one step ahead, like a carpenter who makes stairs.
+> And I misspelled, in front of the entire school, the word ‘failure.’
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
