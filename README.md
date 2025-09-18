@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
+> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
 >
 > <p>- Creed Bratton</p>
 
