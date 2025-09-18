@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
+> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
