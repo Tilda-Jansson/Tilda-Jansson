@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
+> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
 >
 > <p>- Michael Scott</p>
 
