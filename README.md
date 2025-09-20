@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Five minutes ahead of schedule… right on schedule.
+> I am ready to face any challenge that might be foolish enough to face me.
 >
 > <p>- Dwight Schrute</p>
 
