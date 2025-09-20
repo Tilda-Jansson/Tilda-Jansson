@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
+> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
 >
 > <p>- Dwight Schrute</p>
 
