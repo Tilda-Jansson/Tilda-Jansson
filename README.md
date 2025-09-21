@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This day is BANANAS! B-A-N-A-N-A-S!
+> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
