@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the parking lot today, there was a circus! The copier did tricks on the high-wire. A lady tried to give away a baby that looked like a cat. There was a Dwight impersonator and a Jim impersonator. A strongman crushed a turtle; I laughed, and I cried. Not bad for a day in the life of a dog food company.
+> I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
