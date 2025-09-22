@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a good thing Russia doesn’t exist anymore.
+> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
 >
 > <p>- Michael Scott</p>
 
