@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+> It is St. Patrick’s Day. And here in Scranton, that is a huge deal. It is the closest that the Irish will ever get to Christmas.
 >
 > <p>- Michael Scott</p>
 
