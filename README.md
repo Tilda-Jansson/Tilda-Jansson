@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Not enough for me? You are everything.
+> I miss Dwight. Congratulations Universe, you win.
 >
 > <p>- Jim Halpert</p>
 
