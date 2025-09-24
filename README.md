@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the parking lot today, there was a circus! The copier did tricks on the high-wire. A lady tried to give away a baby that looked like a cat. There was a Dwight impersonator and a Jim impersonator. A strongman crushed a turtle; I laughed, and I cried. Not bad for a day in the life of a dog food company.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
 > <p>- Creed Bratton</p>
 
