@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Boy, have you lost your mind, 'cause I will help you find it!
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
