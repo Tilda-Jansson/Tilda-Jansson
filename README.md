@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why are all these people here? There’s too many people on this earth. We need a new plague.
+> When someone smiles at me, all I see is a chimpanzee begging for its life.
 >
 > <p>- Dwight Schrute</p>
 
