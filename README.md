@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
 >
 > <p>- Michael Scott</p>
 
