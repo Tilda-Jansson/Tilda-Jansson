@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
+> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
 >
 > <p>- Dwight Schrute</p>
 
