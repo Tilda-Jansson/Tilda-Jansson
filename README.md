@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This day is BANANAS! B-A-N-A-N-A-S!
+> I’m not usually the butt of the joke. I’m usually the face of the joke.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
