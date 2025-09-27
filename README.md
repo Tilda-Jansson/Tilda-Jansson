@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
+> Occasionally, I’ll hit someone with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
