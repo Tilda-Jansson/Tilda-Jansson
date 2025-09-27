@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
 >
 > <p>- Michael Scott</p>
 
