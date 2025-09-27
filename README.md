@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
 >
 > <p>- Michael Scott</p>
 
