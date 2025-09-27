@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Now that I own the building, I’m looking for new sources of revenue. And a daycare center? Muahahahahahahahaha. Well, I guess it’s not an evil idea, it’s just a regular idea, but there’s no good laugh for a regular idea.
+> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
 >
 > <p>- Dwight Schrute</p>
 
