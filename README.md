@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Five minutes ahead of schedule… right on schedule.
+> You couldn’t handle my undivided attention.
 >
 > <p>- Dwight Schrute</p>
 
