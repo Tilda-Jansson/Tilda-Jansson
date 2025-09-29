@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
+> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
