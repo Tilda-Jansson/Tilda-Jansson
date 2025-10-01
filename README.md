@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I miss Dwight. Congratulations Universe, you win.
+> I find the mystery genre disgusting. I hate being titillated.
 >
-> <p>- Jim Halpert</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
