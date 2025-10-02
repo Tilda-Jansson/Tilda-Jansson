@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You are as creepy as a real serial killer. For real.
+> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
 >
 > <p>- Michael Scott</p>
 
