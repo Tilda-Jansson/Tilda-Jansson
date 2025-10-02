@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
+> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
 >
 > <p>- Michael Scott</p>
 
