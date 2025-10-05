@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, happy birthday, Jesus. Sorry that your party’s so lame.
+> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
 >
 > <p>- Michael Scott</p>
 
