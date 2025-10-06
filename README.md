@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
+> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
 >
 > <p>- Michael Scott</p>
 
