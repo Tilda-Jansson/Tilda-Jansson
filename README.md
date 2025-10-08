@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> You cheated on me? When I specifically asked you not to?
 >
 > <p>- Michael Scott</p>
 
