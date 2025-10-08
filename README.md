@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
+> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
 >
 > <p>- Michael Scott</p>
 
