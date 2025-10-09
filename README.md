@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bread is the paper of the food industry. You write your sandwich on it.
+> Jim couldn’t land me in a thousand years.
 >
 > <p>- Dwight Schrute</p>
 
