@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
