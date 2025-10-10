@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
+> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
 >
 > <p>- Dwight Schrute</p>
 
