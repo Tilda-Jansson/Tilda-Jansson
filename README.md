@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
