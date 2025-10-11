@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I fell in love with these kids. And I didn’t want to see them fall victim to the system. So I made ’em a promise. I told them if they graduated from high school, I would pay for their college education. I have made some empty promises in my life but, hands down, that was the most generous.
+> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
