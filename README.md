@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
+> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
 >
 > <p>- Michael Scott</p>
 
