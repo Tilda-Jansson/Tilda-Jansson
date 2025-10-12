@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Five minutes ahead of schedule… right on schedule.
+> Nothing stresses me out. Except having to seek the approval of my inferiors.
 >
 > <p>- Dwight Schrute</p>
 
