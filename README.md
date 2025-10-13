@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I saved a life. My own. Am I a hero?… I really can’t say, but yes!
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
 > <p>- Michael Scott</p>
 
