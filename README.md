@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> I saved a life. My own. Am I a hero?… I really can’t say, but yes!
 >
 > <p>- Michael Scott</p>
 
