@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> I hate so much about the things you choose to be.
 >
 > <p>- Michael Scott</p>
 
