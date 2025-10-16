@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
 >
 > <p>- Michael Scott</p>
 
