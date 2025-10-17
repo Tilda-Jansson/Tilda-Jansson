@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+> They say on your deathbed you never wish you spent more time at the office — but I will.
 >
 > <p>- Michael Scott</p>
 
