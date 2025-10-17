@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, you know that line on the top of the shrimp? That’s feces.
+> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
 >
 > <p>- Dwight Schrute</p>
 
