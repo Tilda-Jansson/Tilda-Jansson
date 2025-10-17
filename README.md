@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
+> Oh, you know that line on the top of the shrimp? That’s feces.
 >
 > <p>- Dwight Schrute</p>
 
