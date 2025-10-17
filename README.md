@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When I discovered YouTube, I didn’t work for five days.
+> Occasionally, I’ll hit someone with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
