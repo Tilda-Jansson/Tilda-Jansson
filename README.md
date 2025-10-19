@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
+> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
 >
 > <p>- Michael Scott</p>
 
