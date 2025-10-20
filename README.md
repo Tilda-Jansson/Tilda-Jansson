@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
 >
 > <p>- Dwight Schrute</p>
 
