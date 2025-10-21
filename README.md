@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
