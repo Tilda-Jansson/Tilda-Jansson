@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, too many different words from coming at me from too many different sentences.
+> I am running away from my responsibilities. And it feels good.
 >
 > <p>- Michael Scott</p>
 
