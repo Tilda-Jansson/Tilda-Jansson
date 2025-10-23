@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The people that you work with are, when you get down to it, your very best friends.
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
 > <p>- Michael Scott</p>
 
