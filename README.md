@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Can’t a guy just buy some bagels for his friends so they’ll owe him a favor which he can use to get someone fired who stole a co-manager position from him anymore? Jeez. When did everyone get so cynical?
+> You only live once? False. You live every day. You only die once.
 >
 > <p>- Dwight Schrute</p>
 
