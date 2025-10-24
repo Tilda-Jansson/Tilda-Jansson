@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
+> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
 >
 > <p>- Dwight Schrute</p>
 
