@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love catching people in the act. That’s why I always whip open doors.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
 > <p>- Dwight Schrute</p>
 
