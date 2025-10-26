@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I saved a life. My own. Am I a hero?… I really can’t say, but yes!
+> Well, happy birthday, Jesus. Sorry that your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
