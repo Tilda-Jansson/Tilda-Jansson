@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
+> Today, smoking is going to save lives.
 >
 > <p>- Dwight Schrute</p>
 
