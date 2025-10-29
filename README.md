@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Boy, have you lost your mind, 'cause I will help you find it!
+> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
