@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I hate so much about the things you choose to be.
+> Pizza: the great equalizer.
 >
 > <p>- Michael Scott</p>
 
