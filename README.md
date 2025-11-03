@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, it is true. I, Michael Scott, am signing up with an online dating service. Thousands of people have done it, and I am going to do it. I need a username. And I have a great one. Little Kid Lover. That way people will know exactly where my priorities are at.
+> If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
 >
 > <p>- Michael Scott</p>
 
