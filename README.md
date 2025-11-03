@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> You are as creepy as a real serial killer. For real.
 >
 > <p>- Michael Scott</p>
 
