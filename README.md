@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You are as creepy as a real serial killer. For real.
+> I am running away from my responsibilities. And it feels good.
 >
 > <p>- Michael Scott</p>
 
