@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Always the Padawan, never the Jedi.
+> You couldn’t handle my undivided attention.
 >
 > <p>- Dwight Schrute</p>
 
