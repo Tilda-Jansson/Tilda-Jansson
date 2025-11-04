@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A real man swallows his vomit when a lady is present.
+> Do I have a date for Valentine’s Day? Yes. February 14th.
 >
 > <p>- Dwight Schrute</p>
 
