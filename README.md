@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
+> Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm.
 >
 > <p>- Michael Scott</p>
 
