@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It just seems awfully mean. But sometimes, the ends justify the mean.
+> Occasionally, I’ll hit someone with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
