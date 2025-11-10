@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I really should have a Tweeter account.
+> Through concentration, I can raise and lower my cholesterol at will.
 >
 > <p>- Dwight Schrute</p>
 
