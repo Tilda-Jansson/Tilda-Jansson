@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Always the Padawan, never the Jedi.
+> I really should have a Tweeter account.
 >
 > <p>- Dwight Schrute</p>
 
