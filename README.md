@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It is St. Patrick’s Day. And here in Scranton, that is a huge deal. It is the closest that the Irish will ever get to Christmas.
+> Well, happy birthday, Jesus. Sorry that your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
