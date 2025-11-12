@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station.
+> I am ready to face any challenge that might be foolish enough to face me.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
