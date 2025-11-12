@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not gonna cry over it. I did that in the car on the way home.
+> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
 >
 > <p>- Michael Scott</p>
 
