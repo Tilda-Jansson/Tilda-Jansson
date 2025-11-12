@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
 > <p>- Michael Scott</p>
 
