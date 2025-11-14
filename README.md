@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+> Jim told me you could buy gaydar online.
 >
 > <p>- Dwight Schrute</p>
 
