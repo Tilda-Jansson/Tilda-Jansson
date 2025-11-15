@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, see you later, Pan.
+> It’s not effeminate. It’s festive.
 >
 > <p>- Dwight Schrute</p>
 
