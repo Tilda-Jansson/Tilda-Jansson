@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
+> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
 >
 > <p>- Michael Scott</p>
 
