@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You better learn your rules. If you don’t, you’ll be eaten in your sleep.
+> I am faster than 80 percent of all snakes.
 >
 > <p>- Dwight Schrute</p>
 
