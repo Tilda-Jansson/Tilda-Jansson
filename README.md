@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
 >
 > <p>- Dwight Schrute</p>
 
