@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
+> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
 >
 > <p>- Michael Scott</p>
 
