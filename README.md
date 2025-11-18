@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Through concentration, I can raise and lower my cholesterol at will.
+> You only live once? False. You live every day. You only die once.
 >
 > <p>- Dwight Schrute</p>
 
