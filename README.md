@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> All you need is love? False. The four basic human necessities are air, water, food, and shelter.
 >
 > <p>- Dwight Schrute</p>
 
