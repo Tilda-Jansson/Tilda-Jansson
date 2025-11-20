@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When I discovered YouTube, I didn’t work for five days.
+> Make friends first, make sales second, make love third. In no particular order.
 >
 > <p>- Michael Scott</p>
 
