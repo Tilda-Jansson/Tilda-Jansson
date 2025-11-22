@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You don’t know me, you’ve just seen my penis.
+> I’m not gonna cry over it. I did that in the car on the way home.
 >
 > <p>- Michael Scott</p>
 
