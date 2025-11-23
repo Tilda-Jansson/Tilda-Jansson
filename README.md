@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
+> Occasionally, I’ll hit someone with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
