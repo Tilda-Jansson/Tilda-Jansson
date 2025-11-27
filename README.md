@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love inside jokes. I hope to be a part of one someday.
+> Saw Inception. Or at least I dreamt I did.
 >
 > <p>- Michael Scott</p>
 
