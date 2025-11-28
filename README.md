@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
+> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
 >
 > <p>- Dwight Schrute</p>
 
