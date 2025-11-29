@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
+> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
 >
 > <p>- Dwight Schrute</p>
 
