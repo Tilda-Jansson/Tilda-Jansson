@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+> Pizza: the great equalizer.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
