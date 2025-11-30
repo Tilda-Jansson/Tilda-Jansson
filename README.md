@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All that singing got in the way of some perfectly good murders.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
 > <p>- Dwight Schrute</p>
 
