@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, you know that line on the top of the shrimp? That’s feces.
+> All that singing got in the way of some perfectly good murders.
 >
 > <p>- Dwight Schrute</p>
 
