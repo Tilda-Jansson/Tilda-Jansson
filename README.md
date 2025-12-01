@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am faster than 80 percent of all snakes.
+> Get a friend, loser.
 >
 > <p>- Dwight Schrute</p>
 
