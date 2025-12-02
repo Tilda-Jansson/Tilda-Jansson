@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+> And I misspelled, in front of the entire school, the word ‘failure.’
 >
 > <p>- Dwight Schrute</p>
 
