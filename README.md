@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I would not miss it for the world. But if something else came up, I would definitely not go.
+> This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
 >
 > <p>- Michael Scott</p>
 
