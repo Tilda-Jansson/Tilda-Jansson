@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
+> When I President, they see. They see.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
