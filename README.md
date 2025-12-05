@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When I was five, I imagined that there was such a thing as a unicorn. And this was before I had even heard of one, or seen one. I just drew a picture, of a horse, that could fly over rainbows, and had a huge spike in its head. I was five! Five years old. Couldn’t even talk yet.
+> They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
 >
 > <p>- Michael Scott</p>
 
