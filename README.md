@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love catching people in the act. That’s why I always whip open doors.
+> Fortunately, my feelings regenerate at twice the speed of a normal man’s.
 >
 > <p>- Dwight Schrute</p>
 
