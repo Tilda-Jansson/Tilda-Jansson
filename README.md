@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Fortunately, my feelings regenerate at twice the speed of a normal man’s.
+> Love is all you need? False, you need water and rations.
 >
 > <p>- Dwight Schrute</p>
 
