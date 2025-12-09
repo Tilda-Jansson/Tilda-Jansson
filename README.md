@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> Hold me! Cradle my hand!
 >
 > <p>- Dwight Schrute</p>
 
