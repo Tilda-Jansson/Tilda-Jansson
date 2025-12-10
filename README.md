@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a good thing Russia doesn’t exist anymore.
+> I hate so much about the things you choose to be.
 >
 > <p>- Michael Scott</p>
 
