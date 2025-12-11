@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
 > <p>- Dwight Schrute</p>
 
