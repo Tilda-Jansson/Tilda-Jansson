@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
 > <p>- Dwight Schrute</p>
 
