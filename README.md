@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
+> Boy, have you lost your mind, 'cause I will help you find it!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
