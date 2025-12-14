@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
+> I wonder if king-sized sheets are called presidential-sized in England?
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
