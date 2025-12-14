@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
+> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
