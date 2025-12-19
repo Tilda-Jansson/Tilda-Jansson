@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I saved a life. My own. Am I a hero?… I really can’t say, but yes!
+> We’re all homos. Homo… Sapiens.
 >
 > <p>- Michael Scott</p>
 
