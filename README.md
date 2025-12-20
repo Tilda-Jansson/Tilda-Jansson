@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael will be related to this baby through... delusion.
+> Through concentration, I can raise and lower my cholesterol at will.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
