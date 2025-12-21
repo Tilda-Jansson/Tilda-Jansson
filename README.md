@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A real man swallows his vomit when a lady is present.
+> Michael will be related to this baby through... delusion.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
