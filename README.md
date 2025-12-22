@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
+> Saw Inception. Or at least I dreamt I did.
 >
 > <p>- Michael Scott</p>
 
