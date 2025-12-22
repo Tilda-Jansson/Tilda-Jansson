@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
+> If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
 >
 > <p>- Michael Scott</p>
 
