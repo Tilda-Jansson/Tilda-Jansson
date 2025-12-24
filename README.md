@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, you’re paying way too much for worms. Who’s your worm guy?
+> If I can’t scuba, then what’s this all been about? What am I working toward?
 >
 > <p>- Creed Bratton</p>
 
