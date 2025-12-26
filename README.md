@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
+> Do you think that doing alcohol is cool?
 >
 > <p>- Michael Scott</p>
 
