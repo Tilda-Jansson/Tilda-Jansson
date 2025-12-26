@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+> You think you’re excited? You should feel my nipples. Boing!
 >
 > <p>- Dwight Schrute</p>
 
