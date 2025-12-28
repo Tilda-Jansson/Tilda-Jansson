@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, Rose, they are not breathing. And they have no arms or legs… Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?
+> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
 >
 > <p>- Michael Scott</p>
 
