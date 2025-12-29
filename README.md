@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, you know that line on the top of the shrimp? That’s feces.
+> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
 >
 > <p>- Dwight Schrute</p>
 
