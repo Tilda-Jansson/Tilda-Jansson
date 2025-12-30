@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s never too early for ice cream.
+> Do you think that doing alcohol is cool?
 >
 > <p>- Michael Scott</p>
 
