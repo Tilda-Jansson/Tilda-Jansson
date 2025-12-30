@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
+> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
 >
 > <p>- Dwight Schrute</p>
 
