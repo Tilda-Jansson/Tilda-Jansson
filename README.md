@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
 > <p>- Michael Scott</p>
 
