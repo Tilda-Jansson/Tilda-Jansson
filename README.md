@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael is like Mozart, and I’m like Butch Cassidy. You mess with Mozart and you’re gonna get a bullet in your head, courtesy of Butch Cassidy.
+> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
 >
 > <p>- Dwight Schrute</p>
 
