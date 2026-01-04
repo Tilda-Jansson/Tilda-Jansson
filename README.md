@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Occasionally, I’ll hit someone with my car. So sue me.
+> You cheated on me? When I specifically asked you not to?
 >
 > <p>- Michael Scott</p>
 
