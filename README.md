@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know a human can go on living for several hours after being decapitated.
+> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
 >
 > <p>- Creed Bratton</p>
 
