@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
