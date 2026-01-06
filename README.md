@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
 >
 > <p>- Pam Beesly</p>
 
