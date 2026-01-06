@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+> I saved a life. My own. Am I a hero?… I really can’t say, but yes!
 >
 > <p>- Michael Scott</p>
 
