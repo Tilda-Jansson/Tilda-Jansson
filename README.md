@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes, I am taking Andy hunting after work. Not long ago we were sexual competitors. I used to hate him, hate him, hate him, hate him. I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
 >
 > <p>- Dwight Schrute</p>
 
