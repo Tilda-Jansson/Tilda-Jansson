@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+> Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
 >
 > <p>- Michael Scott</p>
 
