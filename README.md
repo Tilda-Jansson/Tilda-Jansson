@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
