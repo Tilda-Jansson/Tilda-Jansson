@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
+> Schrutes don’t celebrate birthdays, idiot. It started as a depression-era practicality and then, moved on to an awesome tradition that I look forward to every year!
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
