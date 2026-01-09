@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+> Congratulations on your one cousin. I have seventy, each one better than the last!
 >
 > <p>- Dwight Schrute</p>
 
