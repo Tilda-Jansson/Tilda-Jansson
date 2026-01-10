@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It just seems awfully mean. But sometimes, the ends justify the mean.
+> I’m not gonna cry over it. I did that in the car on the way home.
 >
 > <p>- Michael Scott</p>
 
