@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
+> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
 >
 > <p>- Michael Scott</p>
 
