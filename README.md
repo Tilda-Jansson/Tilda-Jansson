@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
+> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
 >
 > <p>- Michael Scott</p>
 
