@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
+> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
 >
 > <p>- Dwight Schrute</p>
 
