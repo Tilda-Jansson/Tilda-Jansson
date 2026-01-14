@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
+> I find the mystery genre disgusting. I hate being titillated.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
