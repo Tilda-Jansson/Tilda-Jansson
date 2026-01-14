@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, you know that line on the top of the shrimp? That’s feces.
+> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
 >
 > <p>- Dwight Schrute</p>
 
