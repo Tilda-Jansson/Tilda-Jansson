@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+> When someone smiles at me, all I see is a chimpanzee begging for its life.
 >
 > <p>- Dwight Schrute</p>
 
