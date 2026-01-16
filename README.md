@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I'm always thinking one step ahead, like a carpenter who makes stairs.
+> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
