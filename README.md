@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The worst thing about prison was the dementors.
+> Do you think that doing alcohol is cool?
 >
 > <p>- Michael Scott</p>
 
