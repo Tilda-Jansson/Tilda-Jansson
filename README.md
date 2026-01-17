@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
 >
 > <p>- Dwight Schrute</p>
 
