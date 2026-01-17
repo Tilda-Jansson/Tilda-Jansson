@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I can’t scuba, then what’s this all been about? What am I working toward?
+> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
