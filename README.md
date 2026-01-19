@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
 > <p>- Michael Scott</p>
 
