@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
+> The eyes are the groin of the head.
 >
 > <p>- Dwight Schrute</p>
 
