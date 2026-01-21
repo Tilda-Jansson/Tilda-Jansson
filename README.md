@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pizza: the great equalizer.
+> You are as creepy as a real serial killer. For real.
 >
 > <p>- Michael Scott</p>
 
