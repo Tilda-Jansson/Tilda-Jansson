@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My philosophy is, basically this. And this is something that I live by. And I always have. And I always will. Don’t, ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who you are with, or, or where you are going, or, or where you’ve been. Ever. For any reason. Whatsoever.
+> Nobody should have to go to work thinking, ‘Oh, this is the place that I might die today.’ That’s what a hospital is for. An office is for not dying. An office is a place to live life to the fullest. To the max. To… an office is a place where dreams come true.
 >
 > <p>- Michael Scott</p>
 
