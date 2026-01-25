@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Ah, humor. I have it, too.
+> Oh, you know that line on the top of the shrimp? That’s feces.
 >
 > <p>- Dwight Schrute</p>
 
