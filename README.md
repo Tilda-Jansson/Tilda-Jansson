@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The Civil War history industry has conveniently forgotten about the battle of Schrute Farms. Whatever. I’m over it. It’s just grossly irresponsible.
+> All you need is love? False. The four basic human necessities are air, water, food, and shelter.
 >
 > <p>- Dwight Schrute</p>
 
