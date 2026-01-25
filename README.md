@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
+> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
 >
 > <p>- Michael Scott</p>
 
