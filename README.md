@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, see you later, Pan.
+> Love is all you need? False, you need water and rations.
 >
 > <p>- Dwight Schrute</p>
 
