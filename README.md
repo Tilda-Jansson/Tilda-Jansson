@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
+> I enjoy having breakfast in bed. I like waking up to the smell of bacon, sue me. And since I don’t have a butler, I do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill, I go back to sleep again. Then I wake up to the smell of crackling bacon.
 >
 > <p>- Michael Scott</p>
 
