@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You only live once? False. You live every day. You only die once.
+> PowerPoints are the peacocks of the business world; all show, no meat.
 >
 > <p>- Dwight Schrute</p>
 
