@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I talk a lot, so I've learned to tune myself out.
+> Will I get over it? Mmm. No. But life goes on.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
