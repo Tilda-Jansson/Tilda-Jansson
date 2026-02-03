@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> A hero kills people, people that wish him harm. A hero is part human and part supernatural. A hero is born out of a childhood trauma, or out of a disaster, that must be avenged.
+> Michael is like Mozart, and I’m like Butch Cassidy. You mess with Mozart and you’re gonna get a bullet in your head, courtesy of Butch Cassidy.
 >
 > <p>- Dwight Schrute</p>
 
