@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
