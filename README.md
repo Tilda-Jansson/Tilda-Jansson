@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
+> Jim is my enemy. But it turns out that Jim is also his own worst enemy. And the enemy of my enemy is my friend. So, Jim is actually my friend. But because he is his own worst enemy, the enemy of my friend is my enemy so, actually, Jim is my enemy.
 >
 > <p>- Dwight Schrute</p>
 
