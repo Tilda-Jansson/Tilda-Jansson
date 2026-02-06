@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim and I are great friends. We hang out a ton, mostly at work.
+> You all took a life here today. You did. The life of the party.
 >
 > <p>- Michael Scott</p>
 
