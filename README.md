@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
 > <p>- Dwight Schrute</p>
 
