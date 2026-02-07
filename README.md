@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
 >
 > <p>- Michael Scott</p>
 
