@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
