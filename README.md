@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the wild, there is no healthcare. Healthcare is oh, I broke my leg! A lion comes and eats you, you’re dead. Well, I’m not dead, I’m the lion. You’re dead!
+> Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.
 >
 > <p>- Dwight Schrute</p>
 
