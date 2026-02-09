@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bears, Beets, Battlestar Galactica.
+> I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station.
 >
-> <p>- Jim Halpert</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
