@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I'm going to do something I've never done at this job before - try.
+> I'm always thinking one step ahead, like a carpenter who makes stairs.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
