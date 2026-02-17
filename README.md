@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Love is all you need? False, you need water and rations.
+> I am better than you have ever been or ever will be.
 >
 > <p>- Dwight Schrute</p>
 
