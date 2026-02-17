@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
+> When someone smiles at me, all I see is a chimpanzee begging for its life.
 >
 > <p>- Dwight Schrute</p>
 
