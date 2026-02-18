@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> OK, too many different words from coming at me from too many different sentences.
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
 > <p>- Michael Scott</p>
 
