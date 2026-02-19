@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am ready to face any challenge that might be foolish enough to face me.
+> People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
 >
 > <p>- Dwight Schrute</p>
 
