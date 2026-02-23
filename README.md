@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you think that doing alcohol is cool?
+> Saw Inception. Or at least I dreamt I did.
 >
 > <p>- Michael Scott</p>
 
