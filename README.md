@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have cause. It’s beCAUSE I hate him.
+> Do you think that doing alcohol is cool?
 >
 > <p>- Michael Scott</p>
 
