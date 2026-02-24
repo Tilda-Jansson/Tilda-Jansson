@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You couldn’t handle my undivided attention.
+> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
 >
 > <p>- Dwight Schrute</p>
 
