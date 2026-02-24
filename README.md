@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hold me! Cradle my hand!
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
 > <p>- Dwight Schrute</p>
 
