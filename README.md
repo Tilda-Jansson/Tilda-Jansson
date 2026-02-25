@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
+> I love catching people in the act. That’s why I always whip open doors.
 >
 > <p>- Dwight Schrute</p>
 
