@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re all homos. Homo… Sapiens.
+> And I’m optimistic because every day I get a little more desperate.
 >
 > <p>- Michael Scott</p>
 
