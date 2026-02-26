@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pizza: the great equalizer.
+> We’re all homos. Homo… Sapiens.
 >
 > <p>- Michael Scott</p>
 
