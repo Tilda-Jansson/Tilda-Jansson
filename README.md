@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When I President, they see. They see.
+> I talk a lot, so I've learned to tune myself out.
 >
-> <p>- Kevin Malone</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
