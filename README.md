@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
+> As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
 >
 > <p>- Dwight Schrute</p>
 
