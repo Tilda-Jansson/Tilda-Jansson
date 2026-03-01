@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
+> I really should have a Tweeter account.
 >
 > <p>- Dwight Schrute</p>
 
