@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I misspelled, in front of the entire school, the word ‘failure.’
+> Those who can’t farm, farm celery.
 >
 > <p>- Dwight Schrute</p>
 
