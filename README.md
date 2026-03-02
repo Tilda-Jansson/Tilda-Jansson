@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+> I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
 >
 > <p>- Michael Scott</p>
 
