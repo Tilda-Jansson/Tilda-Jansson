@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
 > <p>- Dwight Schrute</p>
 
