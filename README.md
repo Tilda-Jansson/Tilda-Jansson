@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
+> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
 >
 > <p>- Dwight Schrute</p>
 
