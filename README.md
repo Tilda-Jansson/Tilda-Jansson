@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+> I’m sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans!
 >
 > <p>- Michael Scott</p>
 
