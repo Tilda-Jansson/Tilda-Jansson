@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
 > <p>- Dwight Schrute</p>
 
