@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.
+> In the wild, there is no healthcare. Healthcare is oh, I broke my leg! A lion comes and eats you, you’re dead. Well, I’m not dead, I’m the lion. You’re dead!
 >
 > <p>- Dwight Schrute</p>
 
