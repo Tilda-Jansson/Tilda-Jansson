@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> PowerPoints are the peacocks of the business world; all show, no meat.
 >
 > <p>- Dwight Schrute</p>
 
