@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
 > <p>- Michael Scott</p>
 
