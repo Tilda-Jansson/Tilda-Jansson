@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+> As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
 >
 > <p>- Dwight Schrute</p>
 
