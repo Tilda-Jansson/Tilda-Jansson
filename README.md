@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I can’t scuba, then what’s this all been about? What am I working toward?
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Creed Bratton</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
