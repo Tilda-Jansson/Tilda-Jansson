@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> We’re all homos. Homo… Sapiens.
+> Tell him to call me ASAP as possible.
 >
 > <p>- Michael Scott</p>
 
