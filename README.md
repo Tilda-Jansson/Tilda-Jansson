@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
 >
 > <p>- Michael Scott</p>
 
