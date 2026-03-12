@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
+> Any man who says he totally understands women is a fool. Because they are un-understandable.
 >
 > <p>- Michael Scott</p>
 
