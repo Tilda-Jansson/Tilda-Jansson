@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
+> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
 > <p>- Dwight Schrute</p>
 
