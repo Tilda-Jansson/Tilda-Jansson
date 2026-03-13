@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
+> Michael will be related to this baby through... delusion.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
