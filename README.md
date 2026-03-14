@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
 > <p>- Michael Scott</p>
 
