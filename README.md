@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do you think that doing alcohol is cool?
+> I’ve got to make sure that YouTube comes down to tape this.
 >
 > <p>- Michael Scott</p>
 
