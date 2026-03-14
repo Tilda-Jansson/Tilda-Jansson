@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Five minutes ahead of schedule… right on schedule.
+> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
 >
 > <p>- Dwight Schrute</p>
 
