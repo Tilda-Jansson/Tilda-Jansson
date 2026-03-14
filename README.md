@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
+> I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'
 >
-> <p>- Creed Bratton</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
