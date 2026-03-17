@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> I talk a lot, so I've learned to tune myself out.
 >
-> <p>- Pam Beesly</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
