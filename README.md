@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.
+> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
