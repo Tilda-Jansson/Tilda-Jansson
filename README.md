@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
+> The rules of shotgun are very simple and very clear. The first person to shout ‘shotgun’ when you’re within sight of the car gets the front seat. That’s how the game’s played. There are no exceptions for someone with a concussion.
 >
 > <p>- Michael Scott</p>
 
