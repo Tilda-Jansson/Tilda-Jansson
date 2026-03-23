@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
+> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
 >
 > <p>- Michael Scott</p>
 
