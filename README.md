@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I never thought I’d say this, but I think I ate too much bone marrow.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
 > <p>- Dwight Schrute</p>
 
