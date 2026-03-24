@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
+> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
 >
 > <p>- Dwight Schrute</p>
 
