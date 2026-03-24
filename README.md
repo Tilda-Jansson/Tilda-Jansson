@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
+> Yes, I am taking Andy hunting after work. Not long ago we were sexual competitors. I used to hate him, hate him, hate him, hate him. I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
 > <p>- Dwight Schrute</p>
 
