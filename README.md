@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> I never thought I’d say this, but I think I ate too much bone marrow.
 >
 > <p>- Dwight Schrute</p>
 
