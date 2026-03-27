@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
+> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
 >
 > <p>- Dwight Schrute</p>
 
