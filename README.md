@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You all took a life here today. You did. The life of the party.
+> Any man who says he totally understands women is a fool. Because they are un-understandable.
 >
 > <p>- Michael Scott</p>
 
