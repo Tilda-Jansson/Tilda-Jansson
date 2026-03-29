@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
