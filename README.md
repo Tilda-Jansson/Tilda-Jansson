@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+> Congratulations on your one cousin. I have seventy, each one better than the last!
 >
 > <p>- Dwight Schrute</p>
 
