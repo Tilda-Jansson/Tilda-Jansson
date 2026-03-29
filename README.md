@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
+> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
 >
 > <p>- Michael Scott</p>
 
