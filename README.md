@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m an early bird and a night owl. So I’m wise and have worms.
+> Do you think that doing alcohol is cool?
 >
 > <p>- Michael Scott</p>
 
