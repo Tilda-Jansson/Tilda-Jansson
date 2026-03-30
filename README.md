@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+> I’m an early bird and a night owl. So I’m wise and have worms.
 >
 > <p>- Michael Scott</p>
 
