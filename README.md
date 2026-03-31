@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I never thought I’d say this, but I think I ate too much bone marrow.
+> Nothing stresses me out. Except having to seek the approval of my inferiors.
 >
 > <p>- Dwight Schrute</p>
 
