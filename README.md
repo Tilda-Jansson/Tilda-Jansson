@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
 > <p>- Michael Scott</p>
 
