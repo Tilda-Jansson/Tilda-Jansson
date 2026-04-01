@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, happy birthday, Jesus. Sorry that your party’s so lame.
+> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
 >
 > <p>- Michael Scott</p>
 
