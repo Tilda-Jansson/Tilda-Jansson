@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, well, well, how the turntables.
+> That has sort of an oaky afterbirth.
 >
 > <p>- Michael Scott</p>
 
