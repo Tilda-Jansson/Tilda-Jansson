@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s never too early for ice cream.
+> Two queens at casino night. I am gonna drop a deuce on everybody.
 >
 > <p>- Michael Scott</p>
 
