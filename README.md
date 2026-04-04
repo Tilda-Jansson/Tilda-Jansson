@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Through concentration, I can raise and lower my cholesterol at will.
+> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
 >
 > <p>- Dwight Schrute</p>
 
