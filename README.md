@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You only live once? False. You live every day. You only die once.
+> I am one of the few people who looks hot eating a cupcake.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
