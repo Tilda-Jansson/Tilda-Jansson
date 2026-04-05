@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> You only live once? False. You live every day. You only die once.
 >
 > <p>- Dwight Schrute</p>
 
