@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
 >
 > <p>- Michael Scott</p>
 
