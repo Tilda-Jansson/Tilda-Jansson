@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
+> You miss 100 percent of the shots you don’t take. Wayne Gretzky.
 >
 > <p>- Michael Scott</p>
 
