@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
