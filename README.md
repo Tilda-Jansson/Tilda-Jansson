@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not superstitious but I am a little stitious.
+> My mind is going a mile an hour.
 >
 > <p>- Michael Scott</p>
 
