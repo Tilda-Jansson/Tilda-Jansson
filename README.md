@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Two weeks ago, I was in the worst relationship of my life. She treated me poorly, we didn’t connect, I was miserable. Now, I am in the best relationship of my life, with the same woman. Love is a mystery.
+> I bought those boat tickets the day I saw that You Tube video. I knew we'd need a back-up plan. The boat was actually Plan C. The church was Plan B and Plan A was marrying her a long, long time ago. Pretty much the day I met her.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
