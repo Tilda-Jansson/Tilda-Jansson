@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Tell him to call me ASAP as possible.
+> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
 >
 > <p>- Michael Scott</p>
 
