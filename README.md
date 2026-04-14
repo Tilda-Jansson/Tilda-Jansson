@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
