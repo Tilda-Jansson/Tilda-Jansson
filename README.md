@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Did I stutter?
+> Oh, you know that line on the top of the shrimp? That’s feces.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
