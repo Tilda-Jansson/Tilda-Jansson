@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I have a date for Valentine’s Day? Yes. February 14th.
+> You only live once? False. You live every day. You only die once.
 >
 > <p>- Dwight Schrute</p>
 
