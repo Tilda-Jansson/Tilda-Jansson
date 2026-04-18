@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Will I get over it? Mmm. No. But life goes on.
+> Those who can’t farm, farm celery.
 >
 > <p>- Dwight Schrute</p>
 
