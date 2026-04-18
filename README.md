@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
 >
 > <p>- Michael Scott</p>
 
