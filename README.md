@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
+> It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
 >
 > <p>- Michael Scott</p>
 
