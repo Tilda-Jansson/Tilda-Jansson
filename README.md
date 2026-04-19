@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> It’s never too early for ice cream.
 >
 > <p>- Michael Scott</p>
 
