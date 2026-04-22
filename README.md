@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+> Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
 >
 > <p>- Michael Scott</p>
 
