@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
+> Saw Inception. Or at least I dreamt I did.
 >
 > <p>- Michael Scott</p>
 
