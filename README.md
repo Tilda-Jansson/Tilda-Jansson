@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
