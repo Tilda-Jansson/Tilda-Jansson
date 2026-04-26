@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> I want you to rub butter on my foot… Pam, please? I have Country Crock.
 >
 > <p>- Michael Scott</p>
 
