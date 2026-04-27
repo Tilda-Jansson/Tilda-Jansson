@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am better than you have ever been or ever will be.
+> Those who can’t farm, farm celery.
 >
 > <p>- Dwight Schrute</p>
 
