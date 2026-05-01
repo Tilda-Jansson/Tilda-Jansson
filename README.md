@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
 > <p>- Michael Scott</p>
 
