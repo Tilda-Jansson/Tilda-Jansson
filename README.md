@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!
+> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
