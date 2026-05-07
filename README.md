@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
+> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
