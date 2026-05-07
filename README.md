@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hey, what has two thumbs and hates Todd Packer? This guy.
+> Bears, Beets, Battlestar Galactica.
 >
 > <p>- Jim Halpert</p>
 
