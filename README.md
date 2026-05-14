@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
+> People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
