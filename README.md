@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
 >
 > <p>- Michael Scott</p>
 
