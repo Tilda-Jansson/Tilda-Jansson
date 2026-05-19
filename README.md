@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I’m optimistic because every day I get a little more desperate.
+> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
 >
 > <p>- Michael Scott</p>
 
