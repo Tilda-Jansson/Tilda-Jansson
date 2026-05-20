@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
 > <p>- Michael Scott</p>
 
