@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Well, happy birthday, Jesus. Sorry that your party’s so lame.
+> I have cause. It’s beCAUSE I hate him.
 >
 > <p>- Michael Scott</p>
 
