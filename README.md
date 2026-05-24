@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m an early bird and a night owl. So I’m wise and have worms.
+> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
