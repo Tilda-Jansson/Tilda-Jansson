@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
 >
 > <p>- Michael Scott</p>
 
