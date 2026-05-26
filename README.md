@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim and I are great friends. We hang out a ton, mostly at work.
+> It’s never too early for ice cream.
 >
 > <p>- Michael Scott</p>
 
