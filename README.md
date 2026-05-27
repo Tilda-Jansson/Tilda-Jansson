@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the wild, there is no healthcare. Healthcare is oh, I broke my leg! A lion comes and eats you, you’re dead. Well, I’m not dead, I’m the lion. You’re dead!
+> I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
