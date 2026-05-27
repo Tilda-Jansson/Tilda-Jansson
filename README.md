@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
+> It just seems awfully mean. But sometimes, the ends justify the mean.
 >
 > <p>- Michael Scott</p>
 
