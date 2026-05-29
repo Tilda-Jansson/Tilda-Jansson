@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.
+> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
