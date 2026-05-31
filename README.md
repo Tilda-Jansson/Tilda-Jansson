@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
 >
 > <p>- Michael Scott</p>
 
