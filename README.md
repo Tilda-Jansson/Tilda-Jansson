@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wonder if king-sized sheets are called presidential-sized in England?
+> You better learn your rules. If you don’t, you’ll be eaten in your sleep.
 >
 > <p>- Dwight Schrute</p>
 
