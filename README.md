@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans!
+> Presents are the best way to show how much you care. It’s a tangible thing you can point at and say, ‘Hey man, I love you. This many dollars worth.’
 >
 > <p>- Michael Scott</p>
 
