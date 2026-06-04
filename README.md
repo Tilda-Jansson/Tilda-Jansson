@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+> Saw Inception. Or at least I dreamt I did.
 >
 > <p>- Michael Scott</p>
 
