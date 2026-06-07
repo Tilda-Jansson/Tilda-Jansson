@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hold me! Cradle my hand!
+> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
 >
 > <p>- Dwight Schrute</p>
 
