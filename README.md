@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
 >
 > <p>- Dwight Schrute</p>
 
