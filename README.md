@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
 > <p>- Creed Bratton</p>
 
