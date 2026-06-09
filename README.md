@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The only time I set the bar low is for limbo.
+> Dwight, you ignorant slut.
 >
 > <p>- Michael Scott</p>
 
