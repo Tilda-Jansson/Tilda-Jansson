@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You only live once? False. You live every day. You only die once.
+> Jim couldn’t land me in a thousand years.
 >
 > <p>- Dwight Schrute</p>
 
