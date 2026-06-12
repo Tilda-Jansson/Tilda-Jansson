@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
+> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
 >
 > <p>- Michael Scott</p>
 
