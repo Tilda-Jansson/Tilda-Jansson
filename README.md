@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s a good thing Russia doesn’t exist anymore.
+> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
 >
 > <p>- Michael Scott</p>
 
