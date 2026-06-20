@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I had a great summer. I got West Nile virus, lost a ton of weight. Then I went back to the lake. And I stepped on a piece of glass in the parking lot, which hurt. That got infected. Even though I peed on it.
+> I really like Andy these days. He’s pretend, and he does exactly as I tell him to. All that will change when real Andy comes back tomorrow. Unless he comes back as pretend Dwight. In which case, we’re in for an epic, confusing showdown.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
