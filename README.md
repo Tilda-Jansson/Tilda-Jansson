@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love inside jokes. I hope to be a part of one someday.
+> It takes an advanced sense of humor. I don’t expect everyone to understand.
 >
 > <p>- Michael Scott</p>
 
