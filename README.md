@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
 >
 > <p>- Dwight Schrute</p>
 
