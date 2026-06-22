@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+> I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
 >
 > <p>- Michael Scott</p>
 
