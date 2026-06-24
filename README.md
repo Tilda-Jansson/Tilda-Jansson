@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
