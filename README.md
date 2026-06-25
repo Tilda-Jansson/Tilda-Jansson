@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
+> We’re all homos. Homo… Sapiens.
 >
 > <p>- Michael Scott</p>
 
