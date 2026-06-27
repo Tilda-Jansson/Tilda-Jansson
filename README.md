@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jim told me you could buy gaydar online.
+> OK, see you later, Pan.
 >
 > <p>- Dwight Schrute</p>
 
