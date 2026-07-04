@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
+> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
 >
 > <p>- Dwight Schrute</p>
 
