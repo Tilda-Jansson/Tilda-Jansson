@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The only time I set the bar low is for limbo.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
