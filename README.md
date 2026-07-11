@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> All that singing got in the way of some perfectly good murders.
+> Always the Padawan, never the Jedi.
 >
 > <p>- Dwight Schrute</p>
 
