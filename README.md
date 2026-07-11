@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
+> I talk a lot, so I've learned to tune myself out.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
