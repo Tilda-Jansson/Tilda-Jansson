@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
+> The rules of shotgun are very simple and very clear. The first person to shout ‘shotgun’ when you’re within sight of the car gets the front seat. That’s how the game’s played. There are no exceptions for someone with a concussion.
 >
 > <p>- Michael Scott</p>
 
