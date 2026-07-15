@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Who is Justice Beaver?
+> Bread is the paper of the food industry. You write your sandwich on it.
 >
 > <p>- Dwight Schrute</p>
 
