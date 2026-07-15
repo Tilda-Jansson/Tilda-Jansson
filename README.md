@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You cheated on me? When I specifically asked you not to?
+> I love inside jokes. I hope to be a part of one someday.
 >
 > <p>- Michael Scott</p>
 
