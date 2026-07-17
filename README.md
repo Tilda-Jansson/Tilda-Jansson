@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+> A real man swallows his vomit when a lady is present.
 >
 > <p>- Dwight Schrute</p>
 
