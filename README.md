@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not effeminate. It’s festive.
+> You think you’re excited? You should feel my nipples. Boing!
 >
 > <p>- Dwight Schrute</p>
 
