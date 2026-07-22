@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
+> Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
 >
 > <p>- Dwight Schrute</p>
 
