@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
+> The worst thing about prison was the dementors.
 >
 > <p>- Michael Scott</p>
 
