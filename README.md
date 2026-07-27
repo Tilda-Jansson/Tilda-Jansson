@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
+> I really like Andy these days. He’s pretend, and he does exactly as I tell him to. All that will change when real Andy comes back tomorrow. Unless he comes back as pretend Dwight. In which case, we’re in for an epic, confusing showdown.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
