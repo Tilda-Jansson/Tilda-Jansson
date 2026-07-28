@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+> It just seems awfully mean. But sometimes, the ends justify the mean.
 >
 > <p>- Michael Scott</p>
 
