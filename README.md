@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the parking lot today, there was a circus! The copier did tricks on the high-wire. A lady tried to give away a baby that looked like a cat. There was a Dwight impersonator and a Jim impersonator. A strongman crushed a turtle; I laughed, and I cried. Not bad for a day in the life of a dog food company.
+> Jim is my enemy. But it turns out that Jim is also his own worst enemy. And the enemy of my enemy is my friend. So, Jim is actually my friend. But because he is his own worst enemy, the enemy of my friend is my enemy so, actually, Jim is my enemy.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
