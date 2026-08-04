@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> It’s Britney, bitch.
 >
 > <p>- Michael Scott</p>
 
