@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It’s not like booze ever killed anyone.
+> It just seems awfully mean. But sometimes, the ends justify the mean.
 >
 > <p>- Michael Scott</p>
 
