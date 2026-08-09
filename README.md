@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
 > <p>- Dwight Schrute</p>
 
