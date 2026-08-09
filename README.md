@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
+> It’s a good thing Russia doesn’t exist anymore.
 >
 > <p>- Michael Scott</p>
 
