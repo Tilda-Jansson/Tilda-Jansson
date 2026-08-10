@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
 >
 > <p>- Dwight Schrute</p>
 
