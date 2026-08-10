@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
 >
 > <p>- Michael Scott</p>
 
