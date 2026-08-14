@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+> Two queens at casino night. I am gonna drop a deuce on everybody.
 >
 > <p>- Michael Scott</p>
 
