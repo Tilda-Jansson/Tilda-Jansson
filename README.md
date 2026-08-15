@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
 >
 > <p>- Michael Scott</p>
 
