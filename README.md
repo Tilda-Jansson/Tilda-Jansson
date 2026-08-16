@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
+> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
