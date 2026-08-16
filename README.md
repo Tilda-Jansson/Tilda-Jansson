@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
+> Identity theft is not a joke, Jim! Millions of families suffer every year.
 >
 > <p>- Dwight Schrute</p>
 
