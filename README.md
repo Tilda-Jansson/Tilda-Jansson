@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I signed up for second life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same… except I could fly.
+> At first, I drove myself crazy thinking about the things I should have done differently. I never should have played that joke on Erin. I never should have hollowed out this damn pumpkin in the first place. Then I realized that I was being silly. I mean, the pumpkin should rot off of my head in a month or two. Right?
 >
 > <p>- Dwight Schrute</p>
 
