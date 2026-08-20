@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Presents are the best way to show how much you care. It’s a tangible thing you can point at and say, ‘Hey man, I love you. This many dollars worth.’
+> You all took a life here today. You did. The life of the party.
 >
 > <p>- Michael Scott</p>
 
