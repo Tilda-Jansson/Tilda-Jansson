@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> You all took a life here today. You did. The life of the party.
+> I’ve got to make sure that YouTube comes down to tape this.
 >
 > <p>- Michael Scott</p>
 
