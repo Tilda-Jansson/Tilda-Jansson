@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
 >
 > <p>- Michael Scott</p>
 
