@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Why are all these people here? There’s too many people on this earth. We need a new plague.
+> Oh, you know that line on the top of the shrimp? That’s feces.
 >
 > <p>- Dwight Schrute</p>
 
