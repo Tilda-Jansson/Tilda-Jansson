@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
+> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
 >
 > <p>- Michael Scott</p>
 
