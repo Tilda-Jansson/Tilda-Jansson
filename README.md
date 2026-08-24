@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
 >
 > <p>- Dwight Schrute</p>
 
