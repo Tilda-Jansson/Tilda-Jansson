@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I would not miss it for the world. But if something else came up, I would definitely not go.
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
 > <p>- Michael Scott</p>
 
