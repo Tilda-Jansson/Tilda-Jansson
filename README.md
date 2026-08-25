@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’ve got to make sure that YouTube comes down to tape this.
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
 > <p>- Michael Scott</p>
 
