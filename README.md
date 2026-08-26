@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
 >
 > <p>- Michael Scott</p>
 
