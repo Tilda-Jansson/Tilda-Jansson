@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
 >
 > <p>- Michael Scott</p>
 
