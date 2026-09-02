@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
+> I saved a life. My own. Am I a hero?… I really can’t say, but yes!
 >
 > <p>- Michael Scott</p>
 
