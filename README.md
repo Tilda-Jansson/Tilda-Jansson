@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
 >
 > <p>- Michael Scott</p>
 
