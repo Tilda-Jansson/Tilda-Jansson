@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When someone smiles at me, all I see is a chimpanzee begging for its life.
+> This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
