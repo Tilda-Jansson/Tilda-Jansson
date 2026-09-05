@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> That has sort of an oaky afterbirth.
+> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
 >
 > <p>- Michael Scott</p>
 
