@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not usually the butt of the joke. I’m usually the face of the joke.
+> I have cause. It’s beCAUSE I hate him.
 >
 > <p>- Michael Scott</p>
 
