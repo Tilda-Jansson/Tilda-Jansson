@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I have cause. It’s beCAUSE I hate him.
+> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
 >
 > <p>- Michael Scott</p>
 
