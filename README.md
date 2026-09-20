@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> When someone smiles at me, all I see is a chimpanzee begging for its life.
+> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
 >
 > <p>- Dwight Schrute</p>
 
