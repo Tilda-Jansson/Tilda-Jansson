@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
+> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
 >
 > <p>- Michael Scott</p>
 
