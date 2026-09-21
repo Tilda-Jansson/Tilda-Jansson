@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do.
+> There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
 >
 > <p>- Michael Scott</p>
 
