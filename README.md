@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do.
+> Two queens at casino night. I am gonna drop a deuce on everybody.
 >
 > <p>- Michael Scott</p>
 
