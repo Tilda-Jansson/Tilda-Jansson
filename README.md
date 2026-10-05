@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I love catching people in the act. That’s why I always whip open doors.
+> All you need is love? False. The four basic human necessities are air, water, food, and shelter.
 >
 > <p>- Dwight Schrute</p>
 
