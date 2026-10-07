@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+> Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked, but it’s not like this compulsive need to be liked, like my need to be praised.
 >
 > <p>- Michael Scott</p>
 
