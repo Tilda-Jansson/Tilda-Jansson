@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
+> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
