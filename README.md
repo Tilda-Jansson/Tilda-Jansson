@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I am running away from my responsibilities. And it feels good.
+> My mind is going a mile an hour.
 >
 > <p>- Michael Scott</p>
 
