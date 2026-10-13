@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Oh, you know that line on the top of the shrimp? That’s feces.
+> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
 >
 > <p>- Dwight Schrute</p>
 
