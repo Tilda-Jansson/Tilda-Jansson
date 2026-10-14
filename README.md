@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
+> How is it possible that in five years, I’ve had two engagements and only one chair?
 >
 > <p>- Pam Beesly</p>
 
