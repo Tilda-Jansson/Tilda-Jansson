@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> The only time I set the bar low is for limbo.
+> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
 >
 > <p>- Michael Scott</p>
 
