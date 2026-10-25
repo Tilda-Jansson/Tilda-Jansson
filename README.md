@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+> I’ve got to make sure that YouTube comes down to tape this.
 >
 > <p>- Michael Scott</p>
 
