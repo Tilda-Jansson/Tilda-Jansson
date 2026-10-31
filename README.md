@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
+> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
 >
 > <p>- Michael Scott</p>
 
