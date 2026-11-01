@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Those who can’t farm, farm celery.
+> All that singing got in the way of some perfectly good murders.
 >
 > <p>- Dwight Schrute</p>
 
