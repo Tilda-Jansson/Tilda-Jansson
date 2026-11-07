@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Pizza: the great equalizer.
+> That’s what she said!
 >
 > <p>- Michael Scott</p>
 
