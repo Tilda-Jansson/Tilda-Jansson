@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
+> Through concentration, I can raise and lower my cholesterol at will.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
