@@ -24,9 +24,9 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
+> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://the-office.fly.dev/)_
 
