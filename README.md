@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
+> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
 >
 > <p>- Michael Scott</p>
 
