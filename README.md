@@ -24,7 +24,7 @@ I'm Tilda, a computer engineering student and creative coder proficient in langu
 
 ## 📣 Office quote
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> The people that you work with are, when you get down to it, your very best friends.
 >
 > <p>- Michael Scott</p>
 
